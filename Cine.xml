@@ -1,11 +1,6 @@
  <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
- 
-<item>
-<title>[COLOR red][B]________________________________________________[/B][/COLOR]</title>
-<link>http://diskokosmiko.mx</link>
-<thumbnail></thumbnail>
-</item> 
+  
 <item>
 <title>[COLOR white]• [/COLOR][COLOR blue]CINE DE AVENTURAS[/COLOR]</title>
 <link>$doregex[makelist]</link>
@@ -45,11 +40,6 @@
 </item>
 <item>
 <item>
-<title>[COLOR red][B]________________________________________________[/B][/COLOR]</title>
-<link>http://diskokosmiko.mx</link>
-<thumbnail></thumbnail>
-</item>
-<item>
 <title>[COLOR white]• [/COLOR][COLOR blue]CINE DE FICCION[/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -85,11 +75,6 @@
 </regex>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
-<item>
-<title>[COLOR red][B]________________________________________________[/B][/COLOR]</title>
-<link>http://diskokosmiko.mx</link>
-<thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR white]• [/COLOR][COLOR blue]CINE DE COMEDIA[/COLOR]</title>
@@ -129,11 +114,6 @@
 <fanart></fanart>
 </item>
 <item>
-<title>[COLOR red][B]________________________________________________[/B][/COLOR]</title>
-<link>http://diskokosmiko.mx</link>
-<thumbnail></thumbnail>
-</item>
-<item>
 <title>[COLOR white]• [/COLOR][COLOR blue]CINE DE TERROR [/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -169,11 +149,6 @@
 </regex>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
-<item>
-<title>[COLOR red][B]________________________________________________[/B][/COLOR]</title>
-<link>http://diskokosmiko.mx</link>
-<thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR white]• [/COLOR][COLOR blue]CINE DE ACCION[/B][/COLOR]</title>
@@ -213,11 +188,6 @@
 <fanart></fanart>
 </item>
 <item>
-<title>[COLOR red][B]________________________________________________[/B][/COLOR]</title>
-<link>http://diskokosmiko.mx</link>
-<thumbnail></thumbnail>
-</item>
-<item>
 <title>[COLOR white]• [/COLOR][COLOR blue]CINE BELICO[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -253,11 +223,6 @@
 </regex>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
-<item>
-<title>[COLOR red][B]________________________________________________[/B][/COLOR]</title>
-<link>http://diskokosmiko.mx</link>
-<thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR white]• [/COLOR][COLOR blue]CINE RELIGIOSO[/COLOR]</title>
@@ -297,11 +262,6 @@
 <fanart></fanart>
 </item>
 <item>
-<title>[COLOR red][B]________________________________________________[/B][/COLOR]</title>
-<link>http://diskokosmiko.mx</link>
-<thumbnail></thumbnail>
-</item>
-<item>
 <title>[COLOR white]• [/COLOR][COLOR blue]CINE DEL OESTE[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -337,11 +297,6 @@
 </regex>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
-<item>
-<title>[COLOR red][B]________________________________________________[/B][/COLOR]</title>
-<link>http://diskokosmiko.mx</link>
-<thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR white]• [/COLOR][COLOR blue]CINE MEXICANO[/COLOR]</title>
@@ -381,11 +336,6 @@
 <fanart></fanart>
 </item>
 <item>
-<title>[COLOR red][B]________________________________________________[/B][/COLOR]</title>
-<link>http://diskokosmiko.mx</link>
-<thumbnail></thumbnail>
-</item>
-<item>
 <title>[COLOR white]• [/COLOR][COLOR blue]CINE DE DRAMA[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -421,11 +371,6 @@
 </regex>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
-<item>
-<title>[COLOR red][B]________________________________________________[/B][/COLOR]</title>
-<link>http://diskokosmiko.mx</link>
-<thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR white]• [/COLOR][COLOR blue]CINE VARIADO 1[/COLOR]</title>
@@ -465,11 +410,6 @@
 <fanart></fanart>
 </item>
 <item>
-<title>[COLOR red][B]________________________________________________[/B][/COLOR]</title>
-<link>http://diskokosmiko.mx</link>
-<thumbnail></thumbnail>
-</item>
-<item>
 <title>[COLOR white]• [/COLOR][COLOR blue]CINE VARIADO 2[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -505,11 +445,6 @@
 </regex>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
-<item>
-<title>[COLOR red][B]________________________________________________[/B][/COLOR]</title>
-<link>http://diskokosmiko.mx</link>
-<thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR white]• [/COLOR][COLOR blue]CINE VARIADO 3[/COLOR]</title>
@@ -549,11 +484,6 @@
 <fanart></fanart>
 </item>
 <item>
-<title>[COLOR red][B]________________________________________________[/B][/COLOR]</title>
-<link>http://diskokosmiko.mx</link>
-<thumbnail></thumbnail>
-</item>
-<item>
 <title>[COLOR white]• [/COLOR][COLOR blue]CINE VARIADO 4[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -589,11 +519,6 @@
 </regex>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
-<item>
-<title>[COLOR red][B]________________________________________________[/B][/COLOR]</title>
-<link>http://diskokosmiko.mx</link>
-<thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR white]• [/COLOR][COLOR blue]CINE VARIADO 5[/COLOR]</title>
@@ -633,11 +558,6 @@
 <fanart></fanart>
 </item>
 <item>
-<title>[COLOR red][B]________________________________________________[/B][/COLOR]</title>
-<link>http://diskokosmiko.mx</link>
-<thumbnail></thumbnail>
-</item>
-<item>
 <title>[COLOR white]• [/COLOR][COLOR blue]CINE VARIADO 6[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -673,11 +593,6 @@
 </regex>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
-<item>
-<title>[COLOR red][B]________________________________________________[/B][/COLOR]</title>
-<link>http://diskokosmiko.mx</link>
-<thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR white]• [/COLOR][COLOR blue]CINE VARIADO 7[/COLOR]</title>
