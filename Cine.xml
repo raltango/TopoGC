@@ -2,7 +2,7 @@
  
   
 <item>
-<title>[COLOR white]• [/COLOR][COLOR blue]CINE DE AVENTURAS[/COLOR]</title>
+<title>[COLOR white]• [/COLOR][COLOR blue]CINE DE [/COLOR][COLOR red]AVENTURAS[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -40,7 +40,7 @@
 </item>
 <item>
 <item>
-<title>[COLOR white]• [/COLOR][COLOR blue]CINE DE FICCION[/COLOR] </title>
+<title>[COLOR white]• [/COLOR][COLOR blue]CINE DE [/COLOR][COLOR red]FICCION[/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -77,7 +77,7 @@
 <fanart></fanart>
 </item>
 <item>
-<title>[COLOR white]• [/COLOR][COLOR blue]CINE DE COMEDIA[/COLOR]</title>
+<title>[COLOR white]• [/COLOR][COLOR blue]CINE DE [/COLOR][COLOR red]COMEDIA[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -114,7 +114,7 @@
 <fanart></fanart>
 </item>
 <item>
-<title>[COLOR white]• [/COLOR][COLOR blue]CINE DE TERROR [/COLOR] </title>
+<title>[COLOR white]• [/COLOR][COLOR blue]CINE DE [/COLOR][COLOR red]TERROR [/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -151,7 +151,7 @@
 <fanart></fanart>
 </item>
 <item>
-<title>[COLOR white]• [/COLOR][COLOR blue]CINE DE ACCION[/B][/COLOR]</title>
+<title>[COLOR white]• [/COLOR][COLOR blue]CINE DE [/COLOR][COLOR red]ACCION[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -188,7 +188,7 @@
 <fanart></fanart>
 </item>
 <item>
-<title>[COLOR white]• [/COLOR][COLOR blue]CINE BELICO[/COLOR]</title>
+<title>[COLOR white]• [/COLOR][COLOR blue]CINE [/COLOR][COLOR red]BELICO[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -225,7 +225,7 @@
 <fanart></fanart>
 </item>
 <item>
-<title>[COLOR white]• [/COLOR][COLOR blue]CINE RELIGIOSO[/COLOR]</title>
+<title>[COLOR white]• [/COLOR][COLOR blue]CINE [/COLOR][COLOR red]RELIGIOSO[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -262,7 +262,7 @@
 <fanart></fanart>
 </item>
 <item>
-<title>[COLOR white]• [/COLOR][COLOR blue]CINE DEL OESTE[/COLOR]</title>
+<title>[COLOR white]• [/COLOR][COLOR blue]CINE DEL [/COLOR][COLOR red]OESTE[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -299,7 +299,7 @@
 <fanart></fanart>
 </item>
 <item>
-<title>[COLOR white]• [/COLOR][COLOR blue]CINE MEXICANO[/COLOR]</title>
+<title>[COLOR white]• [/COLOR][COLOR blue]CINE [/COLOR][COLOR red]MEXICANO[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -336,7 +336,7 @@
 <fanart></fanart>
 </item>
 <item>
-<title>[COLOR white]• [/COLOR][COLOR blue]CINE DE DRAMA[/COLOR]</title>
+<title>[COLOR white]• [/COLOR][COLOR blue]CINE DE [/COLOR][COLOR red]DRAMA[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -373,7 +373,7 @@
 <fanart></fanart>
 </item>
 <item>
-<title>[COLOR white]• [/COLOR][COLOR blue]CINE VARIADO 1[/COLOR]</title>
+<title>[COLOR white]• [/COLOR][COLOR blue]CINE [/COLOR][COLOR red]VARIADO 1[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -410,7 +410,7 @@
 <fanart></fanart>
 </item>
 <item>
-<title>[COLOR white]• [/COLOR][COLOR blue]CINE VARIADO 2[/COLOR]</title>
+<title>[COLOR white]• [/COLOR][COLOR blue]CINE [/COLOR][COLOR red]VARIADO 2[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -447,7 +447,7 @@
 <fanart></fanart>
 </item>
 <item>
-<title>[COLOR white]• [/COLOR][COLOR blue]CINE VARIADO 3[/COLOR]</title>
+<title>[COLOR white]• [/COLOR][COLOR blue]CINE [/COLOR][COLOR red]VARIADO 3[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -484,7 +484,7 @@
 <fanart></fanart>
 </item>
 <item>
-<title>[COLOR white]• [/COLOR][COLOR blue]CINE VARIADO 4[/COLOR]</title>
+<title>[COLOR white]• [/COLOR][COLOR blue]CINE [/COLOR][COLOR red]VARIADO 4[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -521,7 +521,7 @@
 <fanart></fanart>
 </item>
 <item>
-<title>[COLOR white]• [/COLOR][COLOR blue]CINE VARIADO 5[/COLOR]</title>
+<title>[COLOR white]• [/COLOR][COLOR blue]CINE [/COLOR][COLOR red]VARIADO 5[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -558,7 +558,7 @@
 <fanart></fanart>
 </item>
 <item>
-<title>[COLOR white]• [/COLOR][COLOR blue]CINE VARIADO 6[/COLOR]</title>
+<title>[COLOR white]• [/COLOR][COLOR blue]CINE [/COLOR][COLOR red]VARIADO 6[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -595,7 +595,7 @@
 <fanart></fanart>
 </item>
 <item>
-<title>[COLOR white]• [/COLOR][COLOR blue]CINE VARIADO 7[/COLOR]</title>
+<title>[COLOR white]• [/COLOR][COLOR blue]CINE [/COLOR][COLOR red]VARIADO 7[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>

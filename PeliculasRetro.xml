@@ -2,7 +2,7 @@
  
 
 <item>
-<title>13 fantasmas</title>
+<title>Peliculas 2014</title>
 <link>$doregex[makelist0]</link>
 
 
@@ -13,7 +13,7 @@
 <link>http://dl2.mihanpix.com/Film/2016/[makelist0.param1]</link>
 ]]></listrepeat>
 <expres><![CDATA[href="(.*?)">(.*?)<]]></expres>
-<page>http://kbagi.com/juanleiva/cine-terror-557581</page>
+<page>http://diskokosmiko.mx/xadracasino/peliculas-2014-50113</page>
 <referer></referer>
 <cookieJar></cookieJar>
 </regex>
