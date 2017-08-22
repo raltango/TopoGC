@@ -4,11 +4,11 @@
 <channels>
  
 <channel>
-      <name>[COLOR cyan][COLOR  lime]•   [/COLOR] Puebas 1 Cine2 [/COLOR]</name>
+      <name>[COLOR cyan][COLOR  lime]•   [/COLOR] Puebas 1[/COLOR]</name>
   <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/topogc/TopoGC/master/Cine2.xml</externallink>
+   <externallink>https://pastebin.com/raw/bCMdmei9</externallink>
 </channel>
   </channels>
  
@@ -17,7 +17,19 @@
 <channels>
  
 <channel>
-      <name>[COLOR cyan][COLOR  lime]•   [/COLOR] Pruebas 2 Peliculas jhg[/COLOR]</name>
+      <name>[COLOR cyan][COLOR  lime]•   [/COLOR] Pruebas 2[/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/b3mGH1xX</externallink>
+</channel>
+  </channels>
+ 
+ 
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  lime]•   [/COLOR] Pruebas 3[/COLOR]</name>
   <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -29,23 +41,11 @@
 <channels>
  
 <channel>
-      <name>[COLOR cyan][COLOR  lime]•   [/COLOR] Pruebas 3 Servidores[/COLOR]</name>
-  <thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/fgChsP4E</externallink>
-</channel>
-  </channels>
- 
- 
-<channels>
- 
-<channel>
       <name>[COLOR cyan][COLOR  red]•   [/COLOR] Pruebas 4[/COLOR]</name>
   <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/GQZG2pW3</externallink>
+   <externallink>https://pastebin.com/raw/0L9bRTfa</externallink>
 </channel>
   </channels>
  
@@ -57,7 +57,7 @@
   <thumbnail>Proximamente</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/dnbYSCc0</externallink>
+   <externallink>https://pastebin.com/raw/bMM1tytj</externallink>
 </channel>
   </channels>
  
@@ -69,7 +69,7 @@
   <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/heh2L10x</externallink>
+   <externallink>https://pastebin.com/raw/ZaWUN4U0</externallink>
 </channel>
   </channels>
  
@@ -81,7 +81,7 @@
   <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/9347Za2g</externallink>
+   <externallink>https://pastebin.com/raw/Qm6kPGSH</externallink>
 </channel>
   </channels>
 
@@ -94,7 +94,7 @@
   <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/yKQNsRGi</externallink>
+   <externallink>https://pastebin.com/raw/W2naMU8i</externallink>
 </channel>
   </channels>
 
@@ -106,7 +106,7 @@
   <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/L6dixnN4</externallink>
+   <externallink>https://pastebin.com/raw/vb7CgqFn</externallink>
 </channel>
   </channels>
   
