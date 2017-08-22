@@ -11,7 +11,7 @@
 <fanart>[makelist2.param3]</fanart>
 ]]></listrepeat>
 <expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"</expres>
-<page>https://pastebin.com/raw/L6dixnN4</page>
+<page>https://raw.githubusercontent.com/topogc/TopoGC/master/Series%2BSeries.xml</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -63,7 +63,7 @@
 <fanart>[makelist2.param3]</fanart>
 ]]></listrepeat>
 <expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"</expres>
-<page>https://pastebin.com/raw/heh2L10x</page>
+<page>https://raw.githubusercontent.com/topogc/TopoGC/master/Series%2BSeriesInfantiles.xml</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -116,7 +116,7 @@
 <fanart>[makelist2.param3]</fanart>
 ]]></listrepeat>
 <expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"</expres>
-<page>https://pastebin.com/raw/0L9bRTfa</page>
+<page>https://raw.githubusercontent.com/topogc/TopoGC/master/Series%2BSeriesRetro.xml</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -168,7 +168,7 @@
 <fanart>[makelist2.param3]</fanart>
 ]]></listrepeat>
 <expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"</expres>
-<page>https://pastebin.com/raw/0z8uwALW</page>
+<page>https://raw.githubusercontent.com/topogc/TopoGC/b60d801b70d9e984f1f320f937eaad097cc462d2/Series%2BSeriesEstrenos.xml</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
