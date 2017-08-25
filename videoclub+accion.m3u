@@ -8,9 +8,9 @@ http://youtube.com
 
 
 #EXTINF:0,"pepe" img:"https://upload.wikimedia.org/wikipedia/en/0/05/Jack_Reacher_Never_Go_Back_poster.jpg"
-
+http://youtube.com
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ...Y Si No, Nos Enfadamos [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4447&peli=pszasKfMrYrdlpjrk7_cr7HPu7baoI_pow==&id=15023&tit=Li4ueSBzaSBubywgbm9zIGVuZmFkYW1vcw==
-
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow]...Y Si No, Nos Enfadamos [/COLOR][COLOR blue] HD [/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2mbWyfeg==&id=30675&tit=Li4ueSBzaSBubywgbm9zIGVuZmFkYW1vcw==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] 007 Al Servicio Secreto De Su Majestad [/COLOR]
