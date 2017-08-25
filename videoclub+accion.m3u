@@ -7,7 +7,8 @@
 
 
 
-
+#EXTINF:-0 tvg-logo="http://rockypoint360.com/rocky-point-business-directory/wp-content/uploads/2015/10/logo-megacable_1.jpg" group-title="España",MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4447&peli=pszasKfMrYrdlpjrk7_cr7HPu7baoI_pow==&id=15023&tit=Li4ueSBzaSBubywgbm9zIGVuZmFkYW1vcw==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow]...Y Si No, Nos Enfadamos [/COLOR][COLOR blue] HD [/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2mbWyfeg==&id=30675&tit=Li4ueSBzaSBubywgbm9zIGVuZmFkYW1vcw==
