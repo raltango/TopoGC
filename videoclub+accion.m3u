@@ -6,13 +6,11 @@
 #EXTINF:0,[COLOR yellow]            VideoClub[/COLOR][COLOR blue] Accion[/COLOR][COLOR white] Topo[/COLOR][COLOR red]GC[/COLOR] 
 http://youtube.com
 
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Desnudo [/COLOR][COLOR blue] HD [/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8309&peli=59Lma5zetsStncvek4rebrGXtMbpo8Cv1HnXoKGgp4jkkcqr68KUpaDVu7vkl5bo5tLd&id=37115&tit=S2lsbCdlbSBBbGw=
 
-#EXTINF:0,"pepe" img:"https://upload.wikimedia.org/wikipedia/en/0/05/Jack_Reacher_Never_Go_Back_poster.jpg"
-http://youtube.com
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ...Y Si No, Nos Enfadamos [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ...Y Si No, Nos Enfadamos [/COLOR][COLOR blue] HD [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4447&peli=pszasKfMrYrdlpjrk7_cr7HPu7baoI_pow==&id=15023&tit=Li4ueSBzaSBubywgbm9zIGVuZmFkYW1vcw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow]...Y Si No, Nos Enfadamos [/COLOR][COLOR blue] HD [/COLOR]
-plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2mbWyfeg==&id=30675&tit=Li4ueSBzaSBubywgbm9zIGVuZmFkYW1vcw==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] 007 Al Servicio Secreto De Su Majestad [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6545&peli=587Wpqveeofioo_nk8rjpaDPdL_daMnp7Hntpq3cc73Vnczc5dE=&id=14831&tit=MDA3IGFsIHNlcnZpY2lvIHNlY3JldG8gZGUgc3UgTWFqZXN0YWQ=
 #EXTINF:0,[COLOR tomato]007 al servicio secreto de su Majestad [/COLOR][COLOR cyan](HD)[/COLOR]
