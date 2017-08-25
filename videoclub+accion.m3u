@@ -7,7 +7,7 @@
 http://youtube.com
 
 
-#EXTINF:0,"pepe" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/05/Jack_Reacher_Never_Go_Back_poster.jpg"
+#EXTINF:0,"pepe" img:"https://upload.wikimedia.org/wikipedia/en/0/05/Jack_Reacher_Never_Go_Back_poster.jpg"
 
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4447&peli=pszasKfMrYrdlpjrk7_cr7HPu7baoI_pow==&id=15023&tit=Li4ueSBzaSBubywgbm9zIGVuZmFkYW1vcw==
 
