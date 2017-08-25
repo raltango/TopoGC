@@ -8,7 +8,7 @@
  
  
  
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] 11:11 El Mal Tiene Un Nuevo Numero [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] 11:11 El Mal Tiene Un Nuevo Numero [/COLOR] img:"http://mundoflv.com/wp-content/uploads/2014/05/Castle.jpg"
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6037&peli=1M_ebq2Xps_WZJLm&id=27661&tit=MTE6MTEgZWwgbWFsIHRpZW5lIHVuIG51ZXZvIG7Dum1lcm8=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] 13 Asesinatos Y Medio [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25593&peli=pI-ta2qZ&id=3196&tit=MTMgQXNlc2luYXRvcyB5IG1lZGlv
