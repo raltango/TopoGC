@@ -3,7 +3,7 @@
  
  
 <item>
-<title>[COLOR white]• [/COLOR][COLOR blue] Solo Adultos[/COLOR]  [COLOR red] [B]+ 1 8[/B]  [/COLOR]  </title>
+<title>[COLOR white]• [/COLOR][COLOR blue] Porno Por Categoria [/COLOR][COLOR red] [B]+ 1 8[/B]  [/COLOR]  </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -35,7 +35,7 @@
 </item>
 
 <item>
-<title>[COLOR purple] • [/COLOR][COLOR white] CINE PARA ADULTOS S y X[/COLOR]</title>
+<title>[COLOR white]• [/COLOR][COLOR blue] Pelis Porno S Y X [/COLOR][COLOR red] [B]+ 1 8[/B]  [/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -76,7 +76,7 @@
 
 
 <item>
-<title>[COLOR purple] • [/COLOR][COLOR white]Videos xxx[/COLOR]</title>
+<title>[COLOR white]• [/COLOR][COLOR blue] Pelis Porno XXX [/COLOR][COLOR red] [B]+ 1 8[/B]  [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -119,7 +119,7 @@
 
 
 <item>
-<title>[COLOR purple] • [/COLOR][COLOR white] XXX ANIME-HENTAI[/COLOR]</title>
+<title>[COLOR white]• [/COLOR][COLOR blue] Anime - Hentai XXX [/COLOR][COLOR red] [B]+ 1 8[/B]  [/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -160,7 +160,7 @@
 
 
 <item>
-<title>[COLOR purple] • [/COLOR][COLOR white]VIDEOS XXX 3D ANAGLIFO[/COLOR]</title>
+<title>[COLOR white]• [/COLOR][COLOR blue] Videos XXX Anaglifo [/COLOR][COLOR red] [B]+ 1 8[/B]  [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -201,7 +201,7 @@
 
 
 <item>
-<title>[COLOR purple] • [/COLOR][COLOR white]PELICULAS HENTAI+18[/COLOR]</title>
+<title>[COLOR white]• [/COLOR][COLOR blue] Pelis Hentai [/COLOR][COLOR red] [B]+ 1 8[/B]  [/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
