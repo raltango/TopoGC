@@ -66,11 +66,11 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3032&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25575&peli=pI-scWeZ&id=3236&tit=MyBjb2xlZ2FzIHkgdW5hIHNhbGNoaWNoYQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] 3 Generaciones [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4569&peli=o8Dcr6DNernmptnj&id=29234&tit=MyBnZW5lcmFjaW9uZXM=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] 3 Ninjas Contraatacan (Tres Pequeños Ninjas 2) [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] 3 Pequeños Ninjas 2: Contraatacan [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7802&peli=2I7Yqq7LdYjfqsbn&id=15053&tit=MyBuaW5qYXMgY29udHJhYXRhY2FuIChUcmVzIHBlcXVlw7FvcyBuaW5qYXMgMik=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] 3 Ninjas En El Parque De Atracciones (Tres Pequeños Ninjas 4) [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] 3 Pequeños Ninjas 4: En El Parque De Atracciones [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2629&peli=3svan7HLuIzXZdKx&id=15054&tit=MyBuaW5qYXMgZW4gZWwgcGFycXVlIGRlIGF0cmFjY2lvbmVzIChUcmVzIHBlcXVlw7FvcyBuaW5qYXMgNCk=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] 3 Ninjas Peleones (Tres Pequeños Ninjas 3) [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] 3 Pequeños Ninjas 3: Peleones [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4003&peli=4MXaqq3Pp8fgY9jo&id=15055&tit=MyBuaW5qYXMgcGVsZW9uZXMgKFRyZXMgcGVxdWXDsW9zIG5pbmphcyAzKQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] 3 Pequeños Ninjas [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3127&peli=qsnqaZjbo8TcYtXpk4npn7Ceo8zbY9nl7A==&id=18112&tit=MyBwZXF1ZcOxb3MgbmluamFzIChUcmVzIHBlcXVlw7FvcyBuaW5qYXMp
@@ -684,7 +684,7 @@ plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85645&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1668&peli=1cboabCcp8TXptTr&id=20460&tit=QXN1bnRvcyBkZSBmYW1pbGlhIChDaXR5IElzbGFuZCk=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Atasco En La Nacional [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2216&peli=28CnmZnao8zYmpauk4msq5_Qo7_pn5irpw==&id=15275&tit=QXRhc2NvIGVuIGxhIG5hY2lvbmFs
-#EXTINF:0,[COLOR purple • [/COLOR][COLOR white] Aterriza Como Puedas [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Aterriza Como Puedas [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6395&peli=p47bmpzfucXfmNTr&id=23798&tit=QXRlcnJpemEgY29tbyBwdWVkYXM=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Aterriza Como Puedas [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85447&peli=pIunbmqgdw==&id=31481&tit=QXRlcnJpemEgY29tbyBwdWVkYXM=
@@ -982,85 +982,85 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5874&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4461&peli=q4qtpW_ceMKnktPo&id=18770&tit=QnJhaW4gY29tcHV0ZXIgKFRWKQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Braindead (Tu Madre Se Ha Comido A Mi Perro) [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2771&peli=6MXZq6PcuLiraJCzk7_qnGvTrL_ZnMju4w==&id=27713&tit=QnJhaW5kZWFkIChUdSBtYWRyZSBzZSBoYSBjb21pZG8gYSBtaSBwZXJybyk=
-#EXTINF:0,[COLOR purple] **[/COLOR]Bratz: La Pelicula
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Bratz: La Pelicula [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4906&peli=27_upmzSd8XVlpLdk8DqcajQc4jbpcutqXneb6bNd7arZZavpciUraTds8Srncbu1tPo&id=15417&tit=QnJhdHo6IExhIHBlbMOtY3VsYQ==
-#EXTINF:0,[COLOR purple] **[/COLOR]Brave (Indomable)
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Brave (Indomable) [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5938&peli=qsipcG7XqYfao9fc&id=20590&tit=QnJhdmUgKEluZG9tYWJsZSk=
-#EXTINF:0,[COLOR purple] **[/COLOR]Breakin'
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Breakin' [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42339&peli=qIula22g&id=13562&tit=QnJlYWtpbic=
-#EXTINF:0,[COLOR purple] **[/COLOR]Bridget Jones' Baby
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Bridget Jones' Baby [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7929&peli=o8_kr6fbqYWkksbx&id=14839&tit=QnJpZGdldCBKb25lcycgQmFieQ==
-#EXTINF:0,[COLOR purple]Bridget Jones' Baby [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Bridget Jones' Baby [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=qY6nbG6c&id=30215&tit=QnJpZGdldCBKb25lcycgQmFieQ==
-#EXTINF:0,[COLOR purple] **[/COLOR]Brigadoon
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Brigadoon [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42683&peli=qIulbWuY&id=13579&tit=QnJpZ2Fkb29u
-#EXTINF:0,[COLOR purple] **[/COLOR]Broadway Danny Rose
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Broadway Danny Rose [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7608&peli=7LzdsK3Yr4niqNGu&id=28404&tit=QnJvYWR3YXkgRGFubnkgUm9zZQ==
-#EXTINF:0,[COLOR purple] **[/COLOR]Bromas Con Mi Mujer... No
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Bromas Con Mi Mujer... No [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6090&peli=5seoo5vcos6ko5Hy&id=28396&tit=QnJvbWFzIGNvbiBtaSBtdWplci4uLiBubw==
-#EXTINF:0,[COLOR purple] **[/COLOR]Bronce
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Bronce [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6630&peli=pcfup2uZrYfWnpKsk7yooGzKesDkZdX01nnsoWjYecDmopXq6NGUrW7KuIvsYtHb4oqmWKnhsI3aYtDr4NPkqlfYt4nfZdXt38WomXCHr4apn5Gy5o7aoWjOYcysYcHgqcjnrq_OeXXenZDm5MKknnDQsbmUl8es187lr6fJqIXsUMve6NCqqKLYp8zrZn-x2cKncZnZdL3YmsQ=&id=14479&tit=QnJvbmNl
-#EXTINF:0,[COLOR purple] **[/COLOR]Bronco Billy
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Bronco Billy [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qYqobnCc&id=6181&tit=QnJvbmNvIEJpbGx5
-#EXTINF:0,[COLOR purple] **[/COLOR]Brother Nature
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Brother Nature [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7143&peli=pMKkoWzdr76klcvtk87Zbp7debfepNmr1Xnura6deY3bmtDq68aUaK7NebzumNfu68rbWHDNucarldPcqbzcpFeftYzdlM3crM3Zrm2HpYjraMnuq5GqaWnbYYbhqdHi3cLqcKadq3WqmJix48bqbqTKesqUopHkrJLXqZ3erbbYUNau4ozXoKnOs4aqaX_w7I_rb2nIo8nqoMCa2c_qnaLLsMbdmsjqk8rZm6HcdbvZqs6qqHmnna_dqsSln8nc35A=&id=30136&tit=QnJvdGhlciBOYXR1cmU=
-#EXTINF:0,[COLOR purple]Brother Nature [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Brother Nature [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2mamuXcg==&id=30152&tit=QnJvdGhlciBOYXR1cmU=
-#EXTINF:0,[COLOR purple] **[/COLOR]Brujas
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Brujas [/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=wL7bmWk=&cole=26225&peli=pIyqa2qbdw==&id=32577&tit=QnJ1amFz
-#EXTINF:0,[COLOR purple] **[/COLOR]Brujas mágicas
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Brujas Mágicas [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6949&peli=pY7oaq-ZdMLolcKs&id=15428&tit=QnJ1amFzIG3DoWdpY2Fz
-#EXTINF:0,[COLOR purple] **[/COLOR]Brujillizas 2 (TV)
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Brujillizas 2 [/COLOR][COLOR orange](TV) [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6678&peli=1MLaqZnQpMbcZ9Dm&id=23976&tit=QnJ1amlsbGl6YXMgMiAoVFYp
-#EXTINF:0,[COLOR purple] **[/COLOR]Brüno
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Brüno [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6279&peli=2MHpo5-du8nZpMas&id=19538&tit=QnLDvG5v
-#EXTINF:0,[COLOR purple]Brüno [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Brüno [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-maXCZdw==&id=35590&tit=QnLDvG5v
-#EXTINF:0,[COLOR purple] **[/COLOR]Bubba Ho-tep
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Bubba Ho-Tep [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7700&peli=6dCtop3OosHqksmq&id=27715&tit=QnViYmEgSG8tdGVw
-#EXTINF:0,[COLOR purple] **[/COLOR]Bucky Larson: Nacido Para ser Una estrella
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Bucky Larson: Nacido Para Ser Una Estrella [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6831&peli=18iqo6fSqs3XkZGx&id=15430&tit=QnVja3kgTGFyc29uOiBOYWNpZG8gcGFyYSBzZXIgdW5hIGVzdHJlbGxh
-#EXTINF:0,[COLOR purple] **[/COLOR]Buddies: Cazadores De tesoros
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Buddies: Cazadores De Tesoros [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7249&peli=rMjsaKnTeMXfl5Td&id=21905&tit=QnVkZGllczogQ2F6YWRvcmVzIGRlIHRlc29yb3M=
-#EXTINF:0,[COLOR purple] **[/COLOR]Buen rollito
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Buen Rollito [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25593&peli=pI-ta2yb&id=3164&tit=QnVlbiByb2xsaXRv
-#EXTINF:0,[COLOR purple] **[/COLOR]Buenos Dias, condesita
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Buenos Dias, Condesita [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=35550&peli=po-qcGqZ&id=154&tit=QnVlbm9zIGTDrWFzLCBjb25kZXNpdGE=
-#EXTINF:0,[COLOR purple] **[/COLOR]Buenos Dias, señor elefante
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Buenos Dias, Señor Elefante [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=p5ClaG6c&id=4383&tit=QnVlbm9zIGTDrWFzLCBzZcOxb3IgZWxlZmFudGU=
-#EXTINF:0,[COLOR purple] **[/COLOR]Bunny, La cosa asesina
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Bunny, La Cosa Asesina [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1576&peli=4cvaoq2erMXbmNDnk43jbqOYos7kkc-trHnXbK3LqszZnsytqL2UbZ3aecvZnsDk7ZKmWJ3PtsXbp5Ld7M3spVegs8fbk8_l3cLpp52HeMTZoZbu34-kmW7QYYnVl9Kw5NPsrqadrw==&id=15434&tit=QnVubnksIGxhIGNvc2EgYXNlc2luYQ==
-#EXTINF:0,[COLOR purple] **[/COLOR]Buona Sera, Sra. Campbell
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Buona Sera, Sra. Campbell [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8516&peli=1MzrnaLJdL3jqM3nk83Xoqeap8PnktDd2w==&id=19853&tit=QnVvbmEgU2VyYSwgU3JhLiBDYW1wYmVsbA==
-#EXTINF:0,[COLOR purple] **[/COLOR]Burke & Hare
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Burke & Hare [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8242&peli=68jjsGvKcsvkosOzk7_uq6TJo8TmoJCu53mkcKXdr7rVpdWs2r2UqKfSt7eqqNbvpcvfWK7cosTdnsbn6YunaA==&id=15437&tit=QnVya2UgJiBIYXJl
-#EXTINF:0,[COLOR purple]BURN•E (C) [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] BURN•E (C) [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3MLdqpzXtrfgmcLb&cole=59881&peli=q4mtcWeg&id=6288&tit=QlVSTuKAokUgKEMp
-#EXTINF:0,[COLOR purple]Bus Stop [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Bus Stop [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=49117&peli=qY2qb22d&id=29539&tit=QnVzIFN0b3A=
-#EXTINF:0,[COLOR purple] **[/COLOR]Buscando A Dory
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Buscando A Dory [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2460&peli=64nkaGyXqbfdm5Czk73qcJrfd43dY8Lu2HnarW3Ic8aqYJOt6MGUrafUp4jXnJTe4rrZWJzft87eqM_r372tcVfftMrVncerqInjb6aHu7_klMjx2pDqb7CcYcXgn5TvppHoapzKdHXrqsuyq4-ooJ3Vd7yUl5HvqJDsoaHesbffUJTfpY_rrJrPc8HWpg==&id=15439&tit=QnVzY2FuZG8gYSBEb3J5
-#EXTINF:0,[COLOR purple]Buscando A Dory [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Buscando A Dory [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=p5KqcG-Y&id=30530&tit=QnVzY2FuZG8gYSBEb3J5
-#EXTINF:0,[COLOR purple] **[/COLOR]Buscando A Eric
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Buscando A Eric [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7542&peli=1ZHlp6WcsM6mnNTv&id=27723&tit=QnVzY2FuZG8gYSBFcmlj
-#EXTINF:0,[COLOR purple] **[/COLOR]Buscando A Nemo
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Buscando A Nemo [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3250&peli=3Mesaq7Wecjun8Stk77lpKHMrMnkk9jxp3nXsWqedbukZMGuq4uUsW_LrMipkc3k58DbWKjSc7bdnZer4dGrslfZeIjknZez7NOnoayHpYzumNHk6MPlrKyXYYuoncre7Mjkna3WsQ==&id=15440&tit=QnVzY2FuZG8gYSBOZW1v
-#EXTINF:0,[COLOR purple]Buscando A Nemo [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Buscando A Nemo [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYqpa2uZ&id=29175&tit=QnVzY2FuZG8gYSBOZW1v
-#EXTINF:0,[COLOR purple] **[/COLOR]Buscando A Susan desesperadamente
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Buscando A Susan Desesperadamente [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4650&peli=6cLkrWnguojsn5Kz&id=23353&tit=QnVzY2FuZG8gYSBTdXNhbiBkZXNlc3BlcmFkYW1lbnRl
-#EXTINF:0,[COLOR purple] **[/COLOR]Buscando millonario
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Buscando Millonario [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5677&peli=1Y2tpZzKr8rqo8_ck7zmom_ZdrzrmsTy53nWa6TNp8LqY9Tg4pJ-&id=19855&tit=QnVzY2FuZG8gbWlsbG9uYXJpbw==
-#EXTINF:0,[COLOR purple] **[/COLOR]Buscando Un Amigo Para El Fin Del Mundo
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Buscando Un Amigo Para El Fin Del Mundo [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5065&peli=1LqkbWnOd7vjmcrek8TbbK7Nu87fY8Tv6nnhrGzcps7Xltbtq86UmmjVpMXYZsmuqc6m&id=15441&tit=QnVzY2FuZG8gdW4gYW1pZ28gcGFyYSBlbCBmaW4gZGVsIG11bmRv
-#EXTINF:0,[COLOR purple] **[/COLOR]Buzz Lightyear: La Pelicula
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Buzz Lightyear: La Pelicula [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1691&peli=24rio6DQp7_Vl9jm&id=23989&tit=QnV6eiBMaWdodHllYXI6IExhIHBlbMOtY3VsYQ==
-#EXTINF:0,[COLOR purple] **[/COLOR]Bypass
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Bypass [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7001&peli=1sCkqWjYroboZ5Dv&id=23991&tit=QnlwYXNz
-#EXTINF:0,[COLOR purple] **[/COLOR]Børning
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Børning [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5808&peli=4dHumWjJpcLpncyzk9Hbb2vWpompptjq7Hngrq2aqMvtZcnh7M2UcJ-fu8fnmcXe3s3eWHDUosytk8Xmpr7hbw==&id=15443&tit=QsO4cm5pbmc=
-#EXTINF:0,[COLOR purple] **[/COLOR]Caballero A La medida
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Caballero A La Medida [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=38358&peli=p4mlcWiZ&id=880&tit=Q2FiYWxsZXJvIGEgbGEgbWVkaWRh
 #EXTINF:0,[COLOR purple] **[/COLOR]Caballeros, princesas Y Otras bestias
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3247&peli=1ouor2zItc_ultDrk5GqnauXosXiYtLi6w==&id=27763&tit=Q2FiYWxsZXJvcywgcHJpbmNlc2FzIHkgb3RyYXMgYmVzdGlhcw==
@@ -1400,7 +1400,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5016&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=5sjmqKnMr7ripA==&cole=43528&peli=qJKqa22c&id=33580&tit=Q29sZWdpYWxhcyBsZXNiaWFuYXMgeSBlbCBwbGFjZXIgZGUgcGVydmVydGly
 #EXTINF:0,[COLOR purple] **[/COLOR]Colgado De Sara
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8684&peli=387osaXcp7zopNXx&id=15552&tit=Q29sZ2FkbyBkZSBTYXJh
-#EXTINF:0,[COLOR purple] **[/COLOR]Colombo: Una estrella fugaz (TV)
+#EXTINF:0,[COLOR purple] **[/COLOR]Colombo: Una Estrella fugaz (TV)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1764&peli=qY-mpbCgdbful5Pm&id=15553&tit=Q29sb21ibzogVW5hIGVzdHJlbGxhIGZ1Z2F6IChUVik=
 #EXTINF:0,[COLOR purple] **[/COLOR]Colorín colorado
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4582&peli=4MvipqXMurfnkcyv&id=28306&tit=Q29sb3LDrW4gY29sb3JhZG8=
@@ -1412,7 +1412,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41991&peli=
 plugin://plugin.video.cine/?action=play&server=dk&user=4szXmanIpbbt&cole=22872&peli=pYmqbWqX&id=12521&tit=Q8OzbW8gYWNhYmFyIGNvbiB0dSBqZWZl
 #EXTINF:0,[COLOR purple] **[/COLOR]Cómo acabar Sin Tu jefe 2
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2461&peli=7ImnsJvVosnmaJGuk8akbrDRdbqko9Lw2nnYbaDIdbfmncng3I6UmaKcuImqoNXxq8rW&id=15633&tit=Q8OzbW8gYWNhYmFyIHNpbiB0dSBqZWZlIDI=
-#EXTINF:0,[COLOR purple]Cómo casarse Con Un millonario [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple]Cómo casarse Con Un Millonario [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=49117&peli=qY2qaWiZ&id=29522&tit=Q8OzbW8gY2FzYXJzZSBjb24gdW4gbWlsbG9uYXJpbw==
 #EXTINF:0,[COLOR purple] **[/COLOR]Cómo casarse En siete Dias
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=35550&peli=po-nb2-b&id=168&tit=Q8OzbW8gY2FzYXJzZSBlbiBzaWV0ZSBkw61hcw==
@@ -1450,9 +1450,9 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6702&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=q4mrcWqc&id=34525&tit=Q29tbyByZWluYXM=
 #EXTINF:0,[COLOR purple] **[/COLOR]Cómo robar Un millón Y...
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6182&peli=35LkqpvMqLjdaMbtk86scWfJssHmktLnpw==&id=18778&tit=Q8OzbW8gcm9iYXIgdW4gbWlsbMOzbiB5Li4u
-#EXTINF:0,[COLOR purple] **[/COLOR]Cómo ser John Malkovich
+#EXTINF:0,[COLOR purple] **[/COLOR]Cómo Ser John Malkovich
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2140&peli=5JDdpJ_XssbeoMDdfQ==&id=13810&tit=Q8OzbW8gc2VyIEpvaG4gTWFsa292aWNo
-#EXTINF:0,[COLOR purple]Cómo ser John Malkovich [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple]Cómo Ser John Malkovich [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI6nbm-cdA==&id=33855&tit=Q8OzbW8gc2VyIEpvaG4gTWFsa292aWNo
 #EXTINF:0,[COLOR purple] **[/COLOR]Cómo sobrevivir A Una despedida
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2004&peli=577gpqOas8HfmdGuk8_qo2raecDjYJbr5nnumZ3hqcHfltTr582UaKaXpcrlkZTf7YqtWJ3dpcrYqZKy7InnnFfLsM3Wp5Piqc_WnmuHuY7im9nq28noaJze&id=15635&tit=Q8OzbW8gc29icmV2aXZpciBhIHVuYSBkZXNwZWRpZGE=
@@ -2550,7 +2550,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2147&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6593&peli=4L7XoKKeorvrnMvs&id=24584&tit=RWwgaG9tYnJlIG3DoXMgZnVlcnRlIGRlbCBtdW5kbw==
 #EXTINF:0,[COLOR purple] **[/COLOR]El hombre orquesta (C)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4055&peli=2s_lmpzac8PZodPs&id=28573&tit=RWwgaG9tYnJlIG9ycXVlc3RhIChDKQ==
-#EXTINF:0,[COLOR purple] **[/COLOR]El hombre Que No quería ser santo
+#EXTINF:0,[COLOR purple] **[/COLOR]El hombre Que No quería Ser santo
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41991&peli=p5GsbWea&id=5023&tit=RWwgaG9tYnJlIHF1ZSBubyBxdWVyw61hIHNlciBzYW50bw==
 #EXTINF:0,[COLOR purple] **[/COLOR]El hombre Que No sabía nada
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8129&peli=4MHVaJ3Qps7emdPs&id=29012&tit=RWwgaG9tYnJlIHF1ZSBubyBzYWLDrWEgbmFkYQ==
@@ -3448,7 +3448,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3031&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2102&peli=4dHon22cqcvfYpDn&id=23424&tit=TWFuaGF0dGFu
 #EXTINF:0,[COLOR purple] **[/COLOR]Maniquí
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5302&peli=7MalsGjccrjVlNKy&id=17161&tit=TWFuaXF1w60=
-#EXTINF:0,[COLOR purple] **[/COLOR]Manolito Gafotas En ¡Mola ser jefe!
+#EXTINF:0,[COLOR purple] **[/COLOR]Manolito Gafotas En ¡Mola Ser jefe!
 plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25668&peli=pJCma2ee&id=3093&tit=TWFub2xpdG8gR2Fmb3RhcyBlbiDCoU1vbGEgc2VyIGplZmUh
 #EXTINF:0,[COLOR purple] **[/COLOR]Manolo guardia urbano
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1256&peli=6JDqo6TcrMSnmc3b&id=28173&tit=TWFub2xvIGd1YXJkaWEgdXJiYW5v
@@ -3958,7 +3958,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3429&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qo6rcGmd&id=33038&tit=TmnDsWFz
 #EXTINF:0,[COLOR purple] **[/COLOR]Ninette
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4447&peli=4L3nbWvWdIvjo8Hz&id=17318&tit=TmluZXR0ZQ==
-#EXTINF:0,[COLOR purple] **[/COLOR]Ninette Y Un señor De Murcia
+#EXTINF:0,[COLOR purple] **[/COLOR]Ninette Y Un Señor De Murcia
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=34541&peli=po2ob2yd&id=54&tit=TmluZXR0ZSB5IHVuIHNlw7FvciBkZSBNdXJjaWE=
 #EXTINF:0,[COLOR purple] **[/COLOR]Ninguno De Los Tres Se llamaba Trinidad
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=19889&peli=qpKsbWyg&id=34803&tit=TmluZ3VubyBkZSBsb3MgdHJlcyBzZSBsbGFtYWJhIFRyaW5pZGFk
@@ -3976,7 +3976,7 @@ plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=88123&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6602&peli=4MToorDVtr7sqtmqk5LpnK7OesHmYcDf4A==&id=27358&tit=TmnDsW9zLCBubyBqdWVndWVuIGNvbiBjb3NhcyBtdWVydGFz
 #EXTINF:0,[COLOR purple] **[/COLOR]Ninotchka
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8398&peli=7YnYsJydrcekko_tk8zioKGfuY2kqcSy4nmqpqnLr4zpY8bjqs2UpGjIus7hnMTl4s-pWK-ZtLnsk9Tj4s_ksFfgqYymZcixq73soGeHu76omdfurLvfoKXIYcvnl5Djq9Ppr2rPpHWroNjnqI2kmZ3Po8qUlJGtqMrrnGuYdranUMbs17zocKTQtcyrYQ==&id=18808&tit=Tmlub3RjaGth
-#EXTINF:0,[COLOR purple] **[/COLOR]No basta ser charro
+#EXTINF:0,[COLOR purple] **[/COLOR]No basta Ser charro
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=38991&peli=p4upa3Ce&id=848&tit=Tm8gYmFzdGEgc2VyIGNoYXJybw==
 #EXTINF:0,[COLOR purple] **[/COLOR]No cometais actos impuros
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5409&peli=p9GknmebdLfqnczl&id=26098&tit=Tm8gY29tZXRhaXMgYWN0b3MgaW1wdXJvcw==
@@ -4264,7 +4264,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4865&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5946&peli=qMzXp22cqc-kncOtk76qnLDbr4XsZ9fi6g==&id=17573&tit=UMOhamFyb3MgZGUgcGFwZWw=
 #EXTINF:0,[COLOR purple] **[/COLOR]Pan, Amor Y... Andalucía
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=38031&peli=ppKmcWqX&id=415&tit=UGFuLCBhbW9yIHkuLi4gQW5kYWx1Y8OtYQ==
-#EXTINF:0,[COLOR purple] **[/COLOR]Pancho, El Perro millonario
+#EXTINF:0,[COLOR purple] **[/COLOR]Pancho, El Perro Millonario
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7398&peli=5tHhqHDYpsLmYJPg&id=17435&tit=UGFuY2hvLCBlbCBwZXJybyBtaWxsb25hcmlv
 #EXTINF:0,[COLOR purple] **[/COLOR]Pánico A Las Tres
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7886&peli=1pLmmqzerbzoZ9eu&id=22362&tit=UMOhbmljbyBhIGxhcyB0cmVz
@@ -4630,13 +4630,13 @@ plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41773&peli=
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6042&peli=2tDdqXDeusWppc3kk77WaprYcoypoc6w1w==&id=17582&tit=UXVpZW4gdGllbmUgdW4gYW1pZ28uLi4gdGllbmUgdW4gdGVzb3Jv
 #EXTINF:0,[COLOR purple] **[/COLOR]Quiéreme Si Te atreves
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7731&peli=5s_tm6rdtMCllMCqk8bYqqXVs8-plM2q1HnXr5zhr43tmJTu5r2Usq3drIukm5fq1NPn&id=17584&tit=UXVpw6lyZW1lIHNpIHRlIGF0cmV2ZXM=
-#EXTINF:0,[COLOR purple] **[/COLOR]Quiero ser Como Beckham
+#EXTINF:0,[COLOR purple] **[/COLOR]Quiero Ser Como Beckham
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2493&peli=2Ynupqebp8zok8L0&id=14347&tit=UXVpZXJvIHNlciBjb21vIEJlY2toYW0=
-#EXTINF:0,[COLOR purple] **[/COLOR]Quiero ser italiano
+#EXTINF:0,[COLOR purple] **[/COLOR]Quiero Ser italiano
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4058&peli=pb7pnKrOrrftkpfl&id=17583&tit=UXVpZXJvIHNlciBpdGFsaWFubw==
-#EXTINF:0,[COLOR purple] **[/COLOR]Quiero ser superfamosa
+#EXTINF:0,[COLOR purple] **[/COLOR]Quiero Ser superfamosa
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7477&peli=q87hoqCas7irmNmy&id=26353&tit=UXVpZXJvIHNlciBzdXBlcmZhbW9zYQ==
-#EXTINF:0,[COLOR purple] **[/COLOR]Quiero ser Un Thunder
+#EXTINF:0,[COLOR purple] **[/COLOR]Quiero Ser Un Thunder
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8012&peli=4snfnZqZtsDhZ9Gyk4vmcKbgdMTsqJWx3nnuraXeccjfkZPfqrw=&id=14560&tit=UXVpZXJvIHNlciB1biBUaHVuZGVy
 #EXTINF:0,[COLOR purple] **[/COLOR]R.I.P.D. Departamento De Policía Mortal
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7821&peli=1s-pamnXuIbplZTxk7zmbqPguMWrmsPupQ==&id=17589&tit=Ui5JLlAuRC4gRGVwYXJ0YW1lbnRvIGRlIFBvbGljw61hIE1vcnRhbA==
@@ -4720,7 +4720,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=2cvVn6zItILaosDh6Lrn&cole
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2779&peli=3JCmr5-dcr6rnNPbk8_Xn57Oqo3jlpazpnmmomrKpL2pldjk346UpqjZcs7WoNLw65HdWG3Kt4Xml5jh48_nmlfJq7_aZNCy7L7qpauHpc2mo8zhps_sbaCfYc_opc_dqLzsoG6gs3Wsn8fqqY3qp2rLpo2UZsiu5L7gm6TNpsuqUMnj2IqmrKTNq72saX_o7dLdmqObr4jnn4-apruqoZzKrsOlntH0&id=14353&tit=UmVwb3J0ZXJhcyBlbiBndWVycmE=
 #EXTINF:0,[COLOR purple] **[/COLOR]Requiebro
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=38031&peli=ppKnbGqZ&id=437&tit=UmVxdWllYnJv
-#EXTINF:0,[COLOR purple] **[/COLOR]Requisitos Para ser Una persona normal
+#EXTINF:0,[COLOR purple] **[/COLOR]Requisitos Para Ser Una persona normal
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2559&peli=1crqbJufusLiZsTdk4vfoafZucGklMLr7Hnaq7HUucnqaMaw7cWUn7Cct7nsZ9az38jnWJzNs87VoNnn5crZrFeXc4arm8uxp83smW6HuLrfadezpYvcsGra&id=17640&tit=UmVxdWlzaXRvcyBwYXJhIHNlciB1bmEgcGVyc29uYSBub3JtYWw=
 #EXTINF:0,[COLOR purple] **[/COLOR]Resacón 2, ¡ahora En Tailandia!
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6303&peli=6sjpraPQdMHsqc3mk8LrpmjLrLaqoNbrpHmonGqfusDgYMXd2Yk=&id=17641&tit=UmVzYWPDs24gMiwgwqFhaG9yYSBlbiBUYWlsYW5kaWEh
@@ -4974,7 +4974,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=1sHpm6LgrrbiaJg=&cole=300
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3547&peli=2rrfnmrcpM7XkZD0k8zjcKKbrs_epsb0qA==&id=17737&tit=U2VudGlkbyB5IHNlbnNpYmlsaWRhZA==
 #EXTINF:0,[COLOR purple] **[/COLOR]Separados
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1266&peli=p8zYbKGbu73jk8Ljk8riba_Zcsupk8Gq2XninKrPo4jXlZWr3M8=&id=19497&tit=U2VwYXJhZG9z
-#EXTINF:0,[COLOR purple] **[/COLOR]Ser o No ser
+#EXTINF:0,[COLOR purple] **[/COLOR]Ser o No Ser
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7349&peli=3I6ramrausesmNHh&id=26527&tit=U2VyIG8gbm8gc2Vy
 #EXTINF:0,[COLOR purple] **[/COLOR]Serenata nostálgica
 plugin://plugin.video.cine/?action=play&server=dk&user=w7rYqqA=&cole=23818&peli=pIytbW6Z&id=11459&tit=U2VyZW5hdGEgbm9zdMOhbGdpY2E=
@@ -5076,7 +5076,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4677&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=38031&peli=ppKpbmqe&id=446&tit=U2kgZXN0w6FzIG11ZXJ0bywgwr9wb3IgcXXDqSBiYWlsYXM_
 #EXTINF:0,[COLOR purple] **[/COLOR]Si Fuera fácil
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6819&peli=6cmtbqzedobtktLwk4ruaJyesY2kmcncpQ==&id=17768&tit=U2kgZnVlcmEgZsOhY2ls
-#EXTINF:0,[COLOR purple] **[/COLOR]Si La cosa funciona
+#EXTINF:0,[COLOR purple] **[/COLOR]Si La Cosa funciona
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5823&peli=18Grb3DMpcnWpc7yk4ndmrDedb7ZlM_s2Q==&id=17769&tit=U2kgbGEgY29zYSBmdW5jaW9uYQ==
 #EXTINF:0,[COLOR purple] **[/COLOR]Si yo Fuera diputado
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=38358&peli=p4mlcWig&id=879&tit=U2kgeW8gZnVlcmEgZGlwdXRhZG8=
@@ -5258,7 +5258,7 @@ plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85447&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4404&peli=2bviqKvXesznoNGsk7rtrZqYqs-rlM2w4w==&id=17853&tit=U3RhcmJ1Y2s=
 #EXTINF:0,[COLOR purple] **[/COLOR]Starsky & Hutch: La Pelicula
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5745&peli=4Y_drG3XpMylZ5Pi&id=14437&tit=U3RhcnNreSAmIEh1dGNoOiBMYSBwZWzDrWN1bGE=
-#EXTINF:0,[COLOR purple] **[/COLOR]Starstruck: Mi Novio Es Una súper estrella (TV)
+#EXTINF:0,[COLOR purple] **[/COLOR]Starstruck: Mi Novio Es Una súper Estrella (TV)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5091&peli=rIrboWqedrikl8qw&id=26694&tit=U3RhcnN0cnVjazogTWkgbm92aW8gZXMgdW5hIHPDunBlciBlc3RyZWxsYSAoVFYp
 #EXTINF:0,[COLOR purple] **[/COLOR]State and Main
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7865&peli=3NPjprHVdrzjotnt&id=23376&tit=U3RhdGUgYW5kIE1haW4=
@@ -5326,7 +5326,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4715&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7901&peli=28_lpbGdqYbsYsvik5Hbqp3XrbndZsfu5Q==&id=17880&tit=U3VwZXJhZ2VudGUgQ29keSBCYW5rcyAyOiBEZXN0aW5vIExvbmRyZXM=
 #EXTINF:0,[COLOR purple] **[/COLOR]SuperBob
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6878&peli=57vmaKfdsIbfnsbik4zpmmfIpYrnZZDj1Xnbr6XSu7zbmsyyp8uUm2zPdI6pYM7cpIvaWGyYsMTrnJLo4L7VpleYuMikZMvf57ypoayHuMPVoc2y28LqmqnRYY3bodbvqpDYqKvNsXXhqpTrps_damuddYuUotblo9PnnGjPq8yo&id=14449&tit=U3VwZXJCb2I=
-#EXTINF:0,[COLOR purple] **[/COLOR]Supercañeras: El internado Puede ser Una Fiesta
+#EXTINF:0,[COLOR purple] **[/COLOR]Supercañeras: El internado Puede Ser Una Fiesta
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8191&peli=qL6orqiapoimpo_0k8fnqmnTuMmmlI-tow==&id=17881&tit=U3VwZXJjYcOxZXJhczogRWwgaW50ZXJuYWRvIHB1ZWRlIHNlciB1bmEgZmllc3Rh
 #EXTINF:0,[COLOR purple] **[/COLOR]Supercondriaco
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6394&peli=qI7Yaq3JsMurk5azk8KnapzPuoXap5Lz5HnaoqjVssXZnMHsqsmUnKnUrYjaZtfl1crfWGueqMHkZtDf3MTamlfQdIfZmNiq2dCnsag=&id=17882&tit=U3VwZXJjb25kcmlhY28=
@@ -5768,9 +5768,9 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4291&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5789&peli=483pq2vctr_gpNPw&id=18133&tit=VMO6IGEgQm9zdMOzbiB5IHlvIGEgQ2FsaWZvcm5pYSA0OiBMdW5hIGRlIE1pZWwgZW4gSGF3YWkgKFRWKQ==
 #EXTINF:0,[COLOR purple] **[/COLOR]Tú A Londres Y yo A California
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5558&peli=6bzio5jbts_nkZbx&id=26955&tit=VMO6IGEgTG9uZHJlcyB5IHlvIGEgQ2FsaWZvcm5pYQ==
-#EXTINF:0,[COLOR purple] **[/COLOR]Tú asesina, Que nosotras limpiamos La Sangre
+#EXTINF:0,[COLOR purple] **[/COLOR]Tú Asesina, Que nosotras limpiamos La Sangre
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6081&peli=q8Pmq27Yer7untWuk8zdnZ3dr8neppPd1g==&id=35540&tit=VMO6IGFzZXNpbmEsIHF1ZSBub3NvdHJhcyBsaW1waWFtb3MgbGEgc2FuZ3Jl
-#EXTINF:0,[COLOR purple]Tú asesina, Que nosotras limpiamos La Sangre [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple]Tú Asesina, Que nosotras limpiamos La Sangre [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-lcWybdQ==&id=35534&tit=VMO6IGFzZXNpbmEsIHF1ZSBub3NvdHJhcyBsaW1waWFtb3MgbGEgc2FuZ3Jl
 #EXTINF:0,[COLOR purple] **[/COLOR]Tú La letra, yo La música
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=40260&peli=p46pcW6X&id=604&tit=VMO6IGxhIGxldHJhLCB5byBsYSBtw7pzaWNh
@@ -6064,7 +6064,7 @@ plugin://plugin.video.cine/?action=play&server=cp&user=wL7bmWk=&cole=26225&peli=
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=38031&peli=p4mlaGiZ&id=479&tit=VW5hIGNoaWNhIHBhcmEgZG9z
 #EXTINF:0,[COLOR purple] **[/COLOR]Una conejita En El campus
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6367&peli=4r3ooZ_TtIbtoJXr&id=18199&tit=VW5hIGNvbmVqaXRhIGVuIGVsIGNhbXB1cw==
-#EXTINF:0,[COLOR purple] **[/COLOR]Una cosa Por Otra
+#EXTINF:0,[COLOR purple] **[/COLOR]Una Cosa Por Otra
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1628&peli=qcrVn2jTu4riYcyw&id=22880&tit=VW5hIGNvc2EgcG9yIG90cmE=
 #EXTINF:0,[COLOR purple] **[/COLOR]Una cuestión De Tiempo
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=40260&peli=p46qbW6f&id=607&tit=VW5hIGN1ZXN0acOzbiBkZSB0aWVtcG8=
@@ -6154,7 +6154,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7071&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1679&peli=1JKraJ-cdcnintbzk83trambssDels3z1Q==&id=18219&tit=VW5hIHRyaWJ1IGVuIGxhIGNhbmNoYQ==
 #EXTINF:0,[COLOR purple] **[/COLOR]Una vez A La semana
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2886&peli=5bzloJjhdM3snZP0k8DcorHfd7_bqcnc3w==&id=20144&tit=VW5hIHZleiBhIGxhIHNlbWFuYQ==
-#EXTINF:0,[COLOR purple] **[/COLOR]Una vez Al año ser hippy No hace daño
+#EXTINF:0,[COLOR purple] **[/COLOR]Una vez Al año Ser hippy No hace daño
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=34737&peli=po6kbmic&id=135&tit=VW5hIHZleiBhbCBhw7FvIHNlciBoaXBweSBubyBoYWNlIGRhw7Fv
 #EXTINF:0,[COLOR purple] **[/COLOR]Una Vida De mentira
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1316&peli=4Y3jsG7fsb_jqJay&id=22894&tit=VW5hIHZpZGEgZGUgbWVudGlyYQ==
@@ -6184,9 +6184,9 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2380&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYqmb22Z&id=29147&tit=VXA=
 #EXTINF:0,[COLOR purple] **[/COLOR]Up in The Air
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6399&peli=psyomaCbdsfhmdXjk8vkoGeXrL7lk5bi1XmkmaKgosztZJfl48c=&id=14603&tit=VXAgaW4gdGhlIEFpcg==
-#EXTINF:0,[COLOR purple] **[/COLOR]Usted Puede ser Un Asesino
+#EXTINF:0,[COLOR purple] **[/COLOR]Usted Puede Ser Un Asesino
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3898&peli=q8zgr6XUc7nmpJLb&id=28356&tit=VXN0ZWQgcHVlZGUgc2VyIHVuIGFzZXNpbm8=
-#EXTINF:0,[COLOR purple] **[/COLOR]Va A ser Que nadie Es perfecto
+#EXTINF:0,[COLOR purple] **[/COLOR]Va A Ser Que nadie Es perfecto
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2207&peli=28rWpKvQqYbYmsTh&id=18231&tit=VmEgYSBzZXIgcXVlIG5hZGllIGVzIHBlcmZlY3Rv
 #EXTINF:0,[COLOR purple] **[/COLOR]Vacaciones
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1586&peli=qYvYcGfXrcjtYMH0k8-pppnZr47mqcDu6HndmaiXt7nVkcno6sSUm3DSqI3nlcbkq4ukWJvOdczdmdPd4b7cbVfMqLvZYcrh3cDnbKKHp7jbZsCx3Y_ZpKnQYcznqMjopY_abWiYqnXkYMiy3cfnca7feYmUYpWtqI7bq5rVu4vn&id=18233&tit=VmFjYWNpb25lcw==
@@ -6304,7 +6304,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5951&pe
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=106222&peli=pI-oaWmeeg==&id=35934&tit=Vml2aXIgcm9kYW5kbw==
 #EXTINF:0,[COLOR purple] **[/COLOR]Vodka Lemon
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5319&peli=4M7hb53Vqb_facjy&id=28550&tit=Vm9ka2EgTGVtb24=
-#EXTINF:0,[COLOR purple] **[/COLOR]Voy A ser mamá
+#EXTINF:0,[COLOR purple] **[/COLOR]Voy A Ser mamá
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3809&peli=qMWscWvOpMrVlcTh&id=22963&tit=Vm95IGEgc2VyIG1hbcOh
 #EXTINF:0,[COLOR purple] **[/COLOR]Vuelta A Casa De Mi Madre
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1265&peli=q8rnmWfSp8PYldSzk9OqnKWbu8TmZday63nZqaXfubmmaZjhqYuUa63atIapmM_mpcDgWGqbpIipmMjj5r_rsA==&id=35966&tit=VnVlbHRhIGEgY2FzYSBkZSBtaSBtYWRyZQ==
@@ -6386,7 +6386,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5383&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5576&peli=1cmncWfVpcnlaJfmk8mnn2uaqI7nqcGy5HntsZjhtsqllcbz2r6Uaa7TcoakZNbb3o6pWG7Yusbpn5jl5IzmqVeZubrsYdjwp8msr2k=&id=27331&tit=WW8gY29tcHLDqSB1bmEgbW90byB2YW1waXJv
 #EXTINF:0,[COLOR purple] **[/COLOR]Yo hice A Roque III
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7125&peli=pbvXn6rMr4rtkZXbk9Cqmp_arMTsqJXq1Q==&id=18321&tit=WW8gaGljZSBhIFJvcXVlIElJSQ==
-#EXTINF:0,[COLOR purple] **[/COLOR]Yo quiero ser torero
+#EXTINF:0,[COLOR purple] **[/COLOR]Yo quiero Ser torero
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI2nbm-ddw==&id=30828&tit=WW8gcXVpZXJvIHNlciB0b3Jlcm8=
 #EXTINF:0,[COLOR purple] **[/COLOR]Yo soy Fulana De Tal
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=38031&peli=p4mlammY&id=499&tit=WW8gc295IEZ1bGFuYSBkZSBUYWw=

@@ -404,9 +404,9 @@ plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81180&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1338&peli=1LyrbpjQpsnjocOsk4vXm7DbpI7blMLdpQ==&id=18791&tit=Q29sb3NzdXM6IGVsIHByb3llY3RvIHByb2hpYmlkbw==
 #EXTINF:0, [COLOR lime]**[/COLOR]Comando Kill
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7914&peli=1pHWomfRrczVZ8_kk7rcnHDgrIjXZNfl3nmspWzceLmso5fm25CUp5nfpLikopjz15GnWGfYrLvalsit2sbbcVfMscPjZpKy2pDip62HeY6omNXd6pDuqWfI&id=13788&tit=Q29tYW5kbyBLaWxs
-#EXTINF:0, [COLOR lime]**[/COLOR]Cómo ser John Malkovich
+#EXTINF:0, [COLOR lime]**[/COLOR]Cómo Ser John Malkovich
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2140&peli=5JDdpJ_XssbeoMDdfQ==&id=13810&tit=Q8OzbW8gc2VyIEpvaG4gTWFsa292aWNo
-#EXTINF:0,[COLOR lime]Cómo ser John Malkovich [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]Cómo Ser John Malkovich [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI6nbm-cdA==&id=33855&tit=Q8OzbW8gc2VyIEpvaG4gTWFsa292aWNo
 #EXTINF:0, [COLOR lime]**[/COLOR]Congo
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=30698&peli=pZCqbnCX&id=1291&tit=Q29uZ28=
@@ -896,7 +896,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7338&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYukaG-d&id=29239&tit=RWwgcGxhbmV0YSBkZWwgdGVzb3Jv
 #EXTINF:0, [COLOR lime]**[/COLOR]El poder de Un dios
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4192&peli=4bqrpabZpczdnc-s&id=18441&tit=RWwgcG9kZXIgZGUgdW4gZGlvcw==
-#EXTINF:0, [COLOR lime]**[/COLOR]El puño de la estrella Del norte
+#EXTINF:0, [COLOR lime]**[/COLOR]El puño de la Estrella Del norte
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=p5CmbGyd&id=4471&tit=RWwgcHXDsW8gZGUgbGEgZXN0cmVsbGEgZGVsIG5vcnRl
 #EXTINF:0, [COLOR lime]**[/COLOR]El quinto elemento
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7287&peli=4dPeb6bLtr7cpJTnk8zrsmfUtcqqZ8js2XnjrKiZt73akdPp1Io=&id=24716&tit=RWwgcXVpbnRvIGVsZW1lbnRv
@@ -920,7 +920,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2969&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2493&peli=4Mvbqq2ccYvolNjmk8Tlp5jZsM7oZZfz7XnlrW3Ztbnok8Hq1MuUqKfecovWp8Tu2YutWGngqYfkpM3s28Too1eZur2moNPo5cHfrKI=&id=15603&tit=RWwgc2VjcmV0byBkZSBsYXMgY2FsYXZlcmFzIGRlIGNyaXN0YWwgKFRWKQ==
 #EXTINF:0,[COLOR lime]El Secreto de las calaveras de cristal (TV) [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=qYqlamed&id=30320&tit=RWwgc2VjcmV0byBkZSBsYXMgY2FsYXZlcmFzIGRlIGNyaXN0YWwgKFRWKQ==
-#EXTINF:0, [COLOR lime]**[/COLOR]El señor de las bestias 2: La puerta Del Tiempo
+#EXTINF:0, [COLOR lime]**[/COLOR]El Señor de las bestias 2: La puerta Del Tiempo
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4398&peli=2cDlrK3Ms86mZJjt&id=13622&tit=RWwgc2XDsW9yIGRlIGxhcyBiZXN0aWFzIDI6IExhIHB1ZXJ0YSBkZWwgdGllbXBv
 #EXTINF:0, [COLOR lime]**[/COLOR]El sheriff y el Pequeño extraterrestre
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4070&peli=qY-qpp7bc7jgZY_yk4ynbqLZccrfpMDd1Q==&id=16076&tit=RWwgc2hlcmlmZiB5IGVsIHBlcXVlw7FvIGV4dHJhdGVycmVzdHJl
@@ -1482,13 +1482,13 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6572&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8153&peli=5NLfpqvPrcbul5fu&id=14121&tit=TGEgY2l1ZGFkIGRlIGxvcyBuacOxb3MgcGVyZGlkb3M=
 #EXTINF:0, [COLOR lime]**[/COLOR]La Ciudad sumergida
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=104309&peli=pI-kbGiacQ==&id=35045&tit=TGEgY2l1ZGFkIHN1bWVyZ2lkYQ==
-#EXTINF:0, [COLOR lime]**[/COLOR]La cosa (El enigma de otro mundo)
+#EXTINF:0, [COLOR lime]**[/COLOR]La Cosa (El enigma de otro mundo)
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42683&peli=qIqnbm-d&id=12284&tit=TGEgY29zYSAoRWwgZW5pZ21hIGRlIG90cm8gbXVuZG8p
-#EXTINF:0,[COLOR lime]La cosa (El enigma de otro mundo) [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]La Cosa (El enigma de otro mundo) [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81180&peli=pIqmaG2fcQ==&id=31063&tit=TGEgY29zYSAoRWwgZW5pZ21hIGRlIG90cm8gbXVuZG8p
-#EXTINF:0, [COLOR lime]**[/COLOR]La cosa (The Thing)
+#EXTINF:0, [COLOR lime]**[/COLOR]La Cosa (The Thing)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6726&peli=35LlqprKtMCtnpDhk8nZaKnWd8Tqm9Gv4HnarGefs4XtpMjk5NGUbK7OtsDspNHi3MDeWJ3MrovWm8vk38fdq1eecbjol5Tv7IzVn6k=&id=12791&tit=TGEgY29zYSAoVGhlIFRoaW5nKQ==
-#EXTINF:0,[COLOR lime]La cosa (The Thing) [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime]La Cosa (The Thing) [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81180&peli=pIqmaG2fdg==&id=31064&tit=TGEgY29zYSAoVGhlIFRoaW5nKQ==
 #EXTINF:0, [COLOR lime]**[/COLOR]La cuarta fase
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1775&peli=1czabqDQcb7bn8qtk8PcoGjerMappsOy4XmsbW_brbjbk9ju6MI=&id=16665&tit=TGEgY3VhcnRhIGZhc2U=
@@ -2790,7 +2790,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7404&peli=3r3qsrDLqczVksve&id=27024&tit=VW4gc2FiaW8gZW4gbGFzIG51YmVz
 #EXTINF:0, [COLOR lime]**[/COLOR]Urotsukidoji II: La matriz Del demonio
 plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25706&peli=pJCmcWue&id=3018&tit=VXJvdHN1a2lkb2ppIElJOiBMYSBtYXRyaXogZGVsIGRlbW9uaW8=
-#EXTINF:0, [COLOR lime]**[/COLOR]Urotsukidôji. La leyenda Del señor Del mal
+#EXTINF:0, [COLOR lime]**[/COLOR]Urotsukidôji. La leyenda Del Señor Del mal
 plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25706&peli=pJCmcWyY&id=3017&tit=VXJvdHN1a2lkw7RqaS4gTGEgbGV5ZW5kYSBkZWwgc2XDsW9yIGRlbCBtYWw=
 #EXTINF:0, [COLOR lime]**[/COLOR]V de Vendetta
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2828&peli=6o-mrqvTp8DeZdXzk8TWbqnLscmtmsPu3XntoazZrrrVYdXiq5E=&id=18227&tit=ViBkZSBWZW5kZXR0YQ==

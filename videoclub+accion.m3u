@@ -592,9 +592,9 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4367&pe
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87926&peli=pIurcG-YdA==&id=31189&tit=QmF0bWFuOiBFbCByZWdyZXNvIGRlbCBDYWJhbGxlcm8gT3NjdXJvLCBQYXJ0ZSAy
 #EXTINF:0,Batman: Guardián De Gotham
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3270&peli=6NKpsGvIeoeplMj0&id=15332&tit=QmF0bWFuOiBHdWFyZGnDoW4gZGUgR290aGFt
-#EXTINF:0,Batman: La broma asesina
+#EXTINF:0,Batman: La broma Asesina
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1463&peli=qo3bo5ufpcHek8Xzk7zicWzNp4jXZJfh3nnfqpycsIbgp8Lr3MaUrbDheM_Xk8vyrMvcWK_UuczjZ8-qqNDdsFfTr8vtZsTpp83goKeHqs_mnM3mpszgnpmbYbbXaMOr5dOobqTds3Xep8nn2cLirKGatcyUo8ur2sbgoWeddY3a&id=13723&tit=QmF0bWFuOiBMYSBicm9tYSBhc2VzaW5h
-#EXTINF:0,[COLOR tomato]Batman: La broma asesina [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR tomato]Batman: La broma Asesina [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53574&peli=q5ClamuY&id=7966&tit=QmF0bWFuOiBMYSBicm9tYSBhc2VzaW5h
 #EXTINF:0,Batman: La máscara Del fantasma
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1490&peli=qdHfsJ2dsIjuY9Cs&id=15333&tit=QmF0bWFuOiBMYSBtw6FzY2FyYSBkZWwgZmFudGFzbWE=
@@ -1884,7 +1884,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5425&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42683&peli=qIqsa2ef&id=13266&tit=RWwgcHVlbnRlIGRlIENhc3NhbmRyYQ==
 #EXTINF:0,[COLOR tomato]El puente De Cassandra [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6tb26edg==&id=34666&tit=RWwgcHVlbnRlIGRlIENhc3NhbmRyYQ==
-#EXTINF:0,El puño De La estrella Del norte
+#EXTINF:0,El puño De La Estrella Del norte
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=p5CmbGyd&id=4471&tit=RWwgcHXDsW8gZGUgbGEgZXN0cmVsbGEgZGVsIG5vcnRl
 #EXTINF:0,El quinto elemento
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7287&peli=4dPeb6bLtr7cpJTnk8zrsmfUtcqqZ8js2XnjrKiZt73akdPp1Io=&id=24716&tit=RWwgcXVpbnRvIGVsZW1lbnRv
@@ -1928,27 +1928,27 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2881&pe
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85445&peli=pIypbmmadA==&id=31515&tit=RWwgc2FyZ2VudG8gZGUgaGllcnJv
 #EXTINF:0,El Secreto De los incas
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3418&peli=5tPVbpzhuMzWZNXx&id=8083&tit=RWwgc2VjcmV0byBkZSBsb3MgaW5jYXM=
-#EXTINF:0,El señor De Ballantry
+#EXTINF:0,El Señor De Ballantry
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1529&peli=6MaqqLGYpcWplcnb&id=27827&tit=RWwgc2XDsW9yIGRlIEJhbGxhbnRyeQ==
-#EXTINF:0,El señor De La Guerra
+#EXTINF:0,El Señor De La Guerra
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5077&peli=1NHVpGnbtsLpm8-yk8HmpZrQtM7VodDm33mkoqyZd7ndosyq18yUsWrgtoeol9iqqdPWWJzPu8fZYtLg6sKkoA==&id=19362&tit=RWwgc2XDsW9yIGRlIGxhIGd1ZXJyYQ==
-#EXTINF:0,El señor De las bestias
+#EXTINF:0,El Señor De las bestias
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2815&peli=1r_tnazXrY2kptXm&id=24747&tit=RWwgc2XDsW9yIGRlIGxhcyBiZXN0aWFz
-#EXTINF:0,El señor De las bestias 2: La puerta Del Tiempo
+#EXTINF:0,El Señor De las bestias 2: La puerta Del Tiempo
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4398&peli=2cDlrK3Ms86mZJjt&id=13622&tit=RWwgc2XDsW9yIGRlIGxhcyBiZXN0aWFzIDI6IExhIHB1ZXJ0YSBkZWwgdGllbXBv
-#EXTINF:0,El señor De las bestias 3: El ojo De Braxus
+#EXTINF:0,El Señor De las bestias 3: El ojo De Braxus
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=30433&peli=pY-ta2ee&id=1483&tit=RWwgc2XDsW9yIGRlIGxhcyBiZXN0aWFzIDM6IEVsIG9qbyBkZSBCcmF4dXM=
-#EXTINF:0,El señor De los anillos: El retorno Del rey
+#EXTINF:0,El Señor De los anillos: El retorno Del rey
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2140&peli=29OmnnDfpIzXqMTkk8aqqqCgss-nY8Gu3A==&id=15822&tit=RWwgc2XDsW9yIGRlIGxvcyBhbmlsbG9zOiBFbCByZXRvcm5vIGRlbCByZXk=
-#EXTINF:0,[COLOR tomato]El señor De los anillos: El retorno Del rey [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR tomato]El Señor De los anillos: El retorno Del rey [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87804&peli=pIura2ufeA==&id=31218&tit=RWwgc2XDsW9yIGRlIGxvcyBhbmlsbG9zOiBFbCByZXRvcm5vIGRlbCByZXk=
-#EXTINF:0,El señor De los anillos: La comunidad Del anillo
+#EXTINF:0,El Señor De los anillos: La comunidad Del anillo
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6793&peli=1MncqK-aes_qn8Hn&id=15823&tit=RWwgc2XDsW9yIGRlIGxvcyBhbmlsbG9zOiBMYSBjb211bmlkYWQgZGVsIGFuaWxsbw==
-#EXTINF:0,[COLOR tomato]El señor De los anillos: La comunidad Del anillo [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR tomato]El Señor De los anillos: La comunidad Del anillo [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87804&peli=pIura2yXdQ==&id=31216&tit=RWwgc2XDsW9yIGRlIGxvcyBhbmlsbG9zOiBMYSBjb211bmlkYWQgZGVsIGFuaWxsbw==
-#EXTINF:0,El señor De los anillos: Las dos torres
+#EXTINF:0,El Señor De los anillos: Las dos torres
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6102&peli=6sngpKOctc2npcfnk83tpZ_hpIunZdHurHnmr6fdu8fmk9DtrMU=&id=15824&tit=RWwgc2XDsW9yIGRlIGxvcyBhbmlsbG9zOiBMYXMgZG9zIHRvcnJlcw==
-#EXTINF:0,[COLOR tomato]El señor De los anillos: Las dos torres [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR tomato]El Señor De los anillos: Las dos torres [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87804&peli=pIura2udcw==&id=31217&tit=RWwgc2XDsW9yIGRlIGxvcyBhbmlsbG9zOiBMYXMgZG9zIHRvcnJlcw==
 #EXTINF:0,El sheriff y El Pequeño extraterrestre
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4070&peli=qY-qpp7bc7jgZY_yk4ynbqLZccrfpMDd1Q==&id=16076&tit=RWwgc2hlcmlmZiB5IGVsIHBlcXVlw7FvIGV4dHJhdGVycmVzdHJl
@@ -2978,7 +2978,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4119&pe
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI6lcWqZdA==&id=33100&tit=S3VuZyBGdXJ5
 #EXTINF:0,[COLOR tomato]La armadura De Dios [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=pY-qbWua&id=5650&tit=TGEgYXJtYWR1cmEgZGUgRGlvcw==
-#EXTINF:0,La asesina
+#EXTINF:0,La Asesina
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8466&peli=2srpqJrYd8zuo8mr&id=16621&tit=TGEgYXNlc2luYQ==
 #EXTINF:0,La Aventura Del Intrépido
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6135&peli=1Y3rbmrKccjeZcSw&id=16495&tit=TGEgYXZlbnR1cmEgZGVsIEludHLDqXBpZG8=
@@ -4122,9 +4122,9 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4233&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5690&peli=qcPtpJnVccrnm8uzk9PYm6jfqbrmpdbp3nmnm26dsrvZZ8bwpLqUmqqfcrrelcPg4s7h&id=17619&tit=UmVkIFNreQ==
 #EXTINF:0,Red State
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6574&peli=7bvZqa_VrLfopJLi&id=22401&tit=UmVkIFN0YXRl
-#EXTINF:0,Redada asesina (The Raid)
+#EXTINF:0,Redada Asesina (The Raid)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8065&peli=6dLfnpzKtsjfn5Cq&id=26387&tit=UmVkYWRhIGFzZXNpbmEgKFRoZSBSYWlkKQ==
-#EXTINF:0,Redada asesina 2 (The Raid 2)
+#EXTINF:0,Redada Asesina 2 (The Raid 2)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5288&peli=5Messa-ZtIvuZ9Cz&id=26389&tit=UmVkYWRhIGFzZXNpbmEgMiAoVGhlIFJhaWQgMik=
 #EXTINF:0,Redirected
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8020&peli=pMikpZmfq8zjptWyk8Lraprbt8PcpdXuqnmrpKbKdLrbn8Gv272UaZnJdYrZkpfi1c6rWJvXrsOloZbjpYuorlfYsM_jpdbdrMzZsWmHeLrhpdbs2LuopqDJYYbtY5TqpszXaLHXr3WslNLd5NKloK2aqs-UnpXp3bqpbbHfcYirUNKz5LqmaHDOrIbcoX_e2NHom6nZqIvim4-a3IzsoW_dtbbrpZXck7vcaW7KuYfVnMr06Q==&id=17623&tit=UmVkaXJlY3RlZA==
