@@ -18,7 +18,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2710&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4310&peli=6dLZq6HTs8esaNXuk8nfn6XLcc_mntHw6XnXrmzadsfbo5at48g=&id=23401&tit=MTAxIGTDoWxtYXRhcw==
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]101 dálmatas [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=44636&peli=qI6mbG2X&id=23398&tit=MTAxIGTDoWxtYXRhcw==
-#EXTINF:0,[COLOR lime] **[/COLOR]127 horas
+#EXTINF:0,[COLOR lime] **[/COLOR]127 Horas
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2655&peli=58zhomfOuczfoc3r&id=15032&tit=MTI3IGhvcmFz
 #EXTINF:0,[COLOR lime] **[/COLOR]13 Asesinos
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8468&peli=rI-rpZvTeLytm5bhk8boq6zUtLbrk5D05A==&id=15034&tit=MTMgYXNlc2lub3M=
@@ -30,13 +30,13 @@ plugin://plugin.video.cine/?action=play&server=dk&user=w7rYqqA=&cole=23818&peli=
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6138&peli=68_frqeXpsCrlcTsk7-lq57UusDuZtXl2XmpnGqZtsGoZMGq48-UbW-cqsLgY8Ou6dLjWJzboorgoJjcp8DdcFfPt8TYnJetppDZrKQ=&id=34637&tit=MTg5OC4gTG9zIMO6bHRpbW9zIGRlIEZpbGlwaW5hcw==
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]1898. Los últimos de Filipinas [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6tbW6cdQ==&id=34642&tit=MTg5OC4gTG9zIMO6bHRpbW9zIGRlIEZpbGlwaW5hcw==
-#EXTINF:0,[COLOR lime] **[/COLOR]20.000 leguas de viaje submarino
+#EXTINF:0,[COLOR lime] **[/COLOR]20.000 leguas de Viaje submarino
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5441&peli=6celmqbOpoWon8jgk8_ham7WpM6tm5Hn2Q==&id=18449&tit=MjAuMDAwIGxlZ3VhcyBkZSB2aWFqZSBzdWJtYXJpbm8=
-#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]20.000 leguas de viaje submarino [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]20.000 leguas de Viaje submarino [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=p5Cob2-a&id=4320&tit=MjAuMDAwIGxlZ3VhcyBkZSB2aWFqZSBzdWJtYXJpbm8=
-#EXTINF:0,[COLOR lime] **[/COLOR]20.000 leguas de viaje submarino (TV)
+#EXTINF:0,[COLOR lime] **[/COLOR]20.000 leguas de Viaje submarino (TV)
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=p5CobnCa&id=4321&tit=MjAuMDAwIGxlZ3VhcyBkZSB2aWFqZSBzdWJtYXJpbm8gKFRWKQ==
-#EXTINF:0,[COLOR lime] **[/COLOR]20.000 leguas de viaje submarino (TV)
+#EXTINF:0,[COLOR lime] **[/COLOR]20.000 leguas de Viaje submarino (TV)
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=p5CobnCc&id=4322&tit=MjAuMDAwIGxlZ3VhcyBkZSB2aWFqZSBzdWJtYXJpbm8gKFRWKQ==
 #EXTINF:0,[COLOR lime] **[/COLOR]2012
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2348&peli=28ypo63feonjn9Hsk8nasJ7PpoWkYI_j3w==&id=13634&tit=MjAxMg==
@@ -260,7 +260,7 @@ plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87625&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2837&peli=7b_ZbqPduLvkpMrtk8Dpmmyausuqn8-yrHnYpGydpIbcZ8Hdq8-Ua53Xr4vso5Lk4IzoWKbXcs3nmMrp7MiqrQ==&id=30130&tit=QXRpbGEsIHJleSBkZSBsb3MgaHVub3M=
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Atila, rey de los hunos [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2mamuXeQ==&id=30149&tit=QXRpbGEsIHJleSBkZSBsb3MgaHVub3M=
-#EXTINF:0,[COLOR lime] **[/COLOR]Atlantis: El imperio perdido
+#EXTINF:0,[COLOR lime] **[/COLOR]Atlantis: El imperio Perdido
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5489&peli=7NLempubco3rp9ix&id=18921&tit=QXRsYW50aXM6IEVsIGltcGVyaW8gcGVyZGlkbw==
 #EXTINF:0,[COLOR lime] **[/COLOR]Atlantis: El Regreso de Milo
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8709&peli=7YvmbWygdMfbl9nok77fnajReLqpqJDi2g==&id=19062&tit=QXRsYW50aXM6IEVsIHJlZ3Jlc28gZGUgTWlsbw==
@@ -302,7 +302,7 @@ plugin://plugin.video.cine/?action=play&server=cp&user=3MLdqpzXtrfgmcLb&cole=598
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2366&peli=q5Lcb6XadIbXZcTyk7_mnmnJqbrclNbbrHmsp2vdro7glNjbpIyUb63ZrYvemMXv673Z&id=19068&tit=QXp1bWk=
 #EXTINF:0,[COLOR lime] **[/COLOR]Azumi 2: Death or Love
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7693&peli=2b7ibKzSr8bWZZjy&id=19227&tit=QXp1bWkgMjogRGVhdGggb3IgTG92ZQ==
-#EXTINF:0,[COLOR lime] **[/COLOR]Baby, el Secreto de Una leyenda perdida
+#EXTINF:0,[COLOR lime] **[/COLOR]Baby, el Secreto de Una Leyenda perdida
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7805&peli=6YukoarMsczcpNHik9CpaJnJsb3Wl9TbqA==&id=20488&tit=QmFieSwgZWwgc2VjcmV0byBkZSB1bmEgbGV5ZW5kYSBwZXJkaWRh
 #EXTINF:0,[COLOR lime] **[/COLOR]Bagdad
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=p5Clamig&id=4376&tit=QmFnZGFk
@@ -318,9 +318,9 @@ plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=84649&p
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41773&peli=p5Gpb2qd&id=4695&tit=QmFqbyBjdWFscXVpZXIgYmFuZGVyYQ==
 #EXTINF:0,[COLOR lime] **[/COLOR]Balto 2: Aventura en la tierra de hielo
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8563&peli=2s6smmjOpsLeqsDkk7umrKOdt7-oZsWz6nnknmqeeY3XqdPn5NCUq6Thus6lqsPe2MLlWLHgqI2qZMvs58_ZpA==&id=15311&tit=QmFsdG8gMjogQXZlbnR1cmEgZW4gbGEgdGllcnJhIGRlIGhpZWxv
-#EXTINF:0,[COLOR lime] **[/COLOR]Balto 3: Rescate Del avión perdido
+#EXTINF:0,[COLOR lime] **[/COLOR]Balto 3: Rescate Del avión Perdido
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4640&peli=6tKkcZ3hesvtmMCuk7usp63MsbzantLtpHnWqaTepMyrkpXzqr4=&id=15312&tit=QmFsdG8gMzogUmVzY2F0ZSBkZWwgYXZpw7NuIHBlcmRpZG8=
-#EXTINF:0,[COLOR lime] **[/COLOR]Balto: la leyenda Del Perro esquimal
+#EXTINF:0,[COLOR lime] **[/COLOR]Balto: la Leyenda Del Perro esquimal
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2911&peli=3dPYa6XZdc3ukZXy&id=15313&tit=QmFsdG86IGxhIGxleWVuZGEgZGVsIHBlcnJvIGVzcXVpbWFs
 #EXTINF:0,[COLOR lime] **[/COLOR]Bandido
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=p5ClaG6d&id=4377&tit=QmFuZGlkbw==
@@ -328,13 +328,13 @@ plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=19889&peli=qoqsbG0=&id=2432&tit=QmFuZyBCYW5nIEtpZA==
 #EXTINF:0,[COLOR lime] **[/COLOR]Barbarella
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5387&peli=7MupqG3KrsHrqMCt&id=27491&tit=QmFyYmFyZWxsYQ==
-#EXTINF:0,[COLOR lime] **[/COLOR]Barbie y hermanas en busca de los perritos
+#EXTINF:0,[COLOR lime] **[/COLOR]Barbie y Hermanas en busca de los perritos
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6728&peli=6Lqlbqffd7ztYpDzk83Zmq_goo7rYM7k1XnXaLDLqsimYcTn4r6UqK7bc8HioI-vrMbtWJmgtMTck5fm1c3nqVfMq8fsY5XzqIyppJ2Hes7uqJGwo8_mqaLR&id=14838&tit=QmFyYmllIHkgaGVybWFuYXMgZW4gYnVzY2EgZGUgbG9zIHBlcnJpdG9z
 #EXTINF:0,[COLOR lime] **[/COLOR]Barbie y las 12 Princesas bailarinas
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7175&peli=15GkaajIr8PWZpXq&id=23856&tit=QmFyYmllIHkgbGFzIDEyIHByaW5jZXNhcyBiYWlsYXJpbmFz
-#EXTINF:0,[COLOR lime] **[/COLOR]Barbie y Sus hermanas: Perritos en busca Del Tesoro
+#EXTINF:0,[COLOR lime] **[/COLOR]Barbie y Sus Hermanas: Perritos en busca Del Tesoro
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1996&peli=rMnkaKPPqsnim8Wwk4vXsLCfervllpLfqHnrpJvfq83sls7e4L-Ump7JtsHmnsSv15CpWGufrsDpmtHwo5LVr1fTeIzfp5Tc5I3Wr6uHeMusmpLe5MPhn57OYcrcqsru3MDmpKvcq3WonMzxqo3srnDcdcc=&id=15320&tit=QmFyYmllIHkgc3VzIGhlcm1hbmFzOiBQZXJyaXRvcyBlbiBidXNjYSBkZWwgdGVzb3Jv
-#EXTINF:0,[COLOR lime] **[/COLOR]Barbie: Aventura en el espacio
+#EXTINF:0,[COLOR lime] **[/COLOR]Barbie: Aventura en el Espacio
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7521&peli=3LzdnaXarszjZ5Xbk5HhbJ2ft7zZndLo1XnXnqfOpsHeoc3p6tGUbW7MeobjnpDvrMbeWKfbc8zmaNPh64_esFeaeMWkacbj1YnjoXCHdrvkkpjwqtHgqmicYYaqZNLcp8vWpmnPeA==&id=15321&tit=QmFyYmllOiBBdmVudHVyYSBlbiBlbCBlc3BhY2lv
 #EXTINF:0,[COLOR lime] **[/COLOR]Barrabás
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7333&peli=p8HmnKqZrb2lmZGr&id=20510&tit=QmFycmFiw6Fz
@@ -412,9 +412,9 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5335&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=30388&peli=pY-sa2yZ&id=1508&tit=QmxhY2sgV2F0ZXI=
 #EXTINF:0,[COLOR lime] **[/COLOR]Blackthorn. Sin destino
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4517&peli=rJHmo2ndpMalYdXp&id=15389&tit=QmxhY2t0aG9ybi4gU2luIGRlc3Rpbm8=
-#EXTINF:0,[COLOR lime] **[/COLOR]Blancanieves y la leyenda Del cazador
+#EXTINF:0,[COLOR lime] **[/COLOR]Blancanieves y la Leyenda Del cazador
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2459&peli=2rutam7JdYjYqM3ok9PkbaDPr83toMbc2nnbrKbJdMKlpsrjp7uUpKLccYemZ9bwpsXhWJrRtIrelsis4Y_ZrQ==&id=20575&tit=QmxhbmNhbmlldmVzIHkgbGEgbGV5ZW5kYSBkZWwgY2F6YWRvcg==
-#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Blancanieves y la leyenda Del cazador [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Blancanieves y la Leyenda Del cazador [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87294&peli=pIupbmuYcg==&id=31339&tit=QmxhbmNhbmlldmVzIHkgbGEgbGV5ZW5kYSBkZWwgY2F6YWRvcg==
 #EXTINF:0,[COLOR lime] **[/COLOR]BloodRayne
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=29960&peli=pY-kbW-g&id=1765&tit=Qmxvb2RSYXluZQ==
@@ -446,7 +446,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7306&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=44636&peli=qI6tcW6Z&id=27322&tit=QnJhdmVoZWFydA==
 #EXTINF:0,[COLOR lime] **[/COLOR]Buddies: Cazadores de Tesoros
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7249&peli=rMjsaKnTeMXfl5Td&id=21905&tit=QnVkZGllczogQ2F6YWRvcmVzIGRlIHRlc29yb3M=
-#EXTINF:0,[COLOR lime] **[/COLOR]Burt Munro: Un Sueño, Una leyenda
+#EXTINF:0,[COLOR lime] **[/COLOR]Burt Munro: Un Sueño, Una Leyenda
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42683&peli=qIqsamyg&id=13251&tit=QnVydCBNdW5ybzogdW4gc3Vlw7FvLCB1bmEgbGV5ZW5kYQ==
 #EXTINF:0,[COLOR lime] **[/COLOR]Buscando a Dory
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2460&peli=64nkaGyXqbfdm5Czk73qcJrfd43dY8Lu2HnarW3Ic8aqYJOt6MGUrafUp4jXnJTe4rrZWJzft87eqM_r372tcVfftMrVncerqInjb6aHu7_klMjx2pDqb7CcYcXgn5TvppHoapzKdHXrqsuyq4-ooJ3Vd7yUl5HvqJDsoaHesbffUJTfpY_rrJrPc8HWpg==&id=15439&tit=QnVzY2FuZG8gYSBEb3J5
@@ -474,7 +474,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2891&peli=7L-rq7DLqcmonc3lk4uooXDapM7sppP04A==&id=15457&tit=Q2FtaW5vIGEgbGEgbGliZXJ0YWQ=
 #EXTINF:0,[COLOR lime] **[/COLOR]Camino de Oregón
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=19889&peli=qoqsaGs=&id=2450&tit=Q2FtaW5vIGRlIE9yZWfDs24=
-#EXTINF:0,[COLOR lime] **[/COLOR]Campanilla y el Tesoro perdido
+#EXTINF:0,[COLOR lime] **[/COLOR]Campanilla y el Tesoro Perdido
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5277&peli=qsfhsqvVur-poNfek5LspJicdYnjmJDl3XncnaPgp4ikqtHoo72UrKDepMTnYtOz5cXo&id=15467&tit=Q2FtcGFuaWxsYSB5IGVsIHRlc29ybyBwZXJkaWRv
 #EXTINF:0,[COLOR lime] **[/COLOR]Campanilla y los Juegos de Pixie Hollow (TV)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2371&peli=5ZDVqpraebfjm4_lk8Slb6mZsImto9Xo2g==&id=13764&tit=Q2FtcGFuaWxsYSB5IGxvcyBKdWVnb3MgZGUgUGl4aWUgSG9sbG93IChUVik=
@@ -514,7 +514,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5461&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=31004&peli=pZGna2ub&id=1069&tit=Q2F6YSBzYWx2YWpl
 #EXTINF:0,[COLOR lime] **[/COLOR]Cazador Blanco, corazón negro
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qYqob2ie&id=6184&tit=Q2F6YWRvciBibGFuY28sIGNvcmF6w7NuIG5lZ3Jv
-#EXTINF:0,[COLOR lime] **[/COLOR]Cazador Del espacio: Aventuras en la zona prohibida
+#EXTINF:0,[COLOR lime] **[/COLOR]Cazador Del Espacio: Aventuras en la zona prohibida
 plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=34332&peli=po2maG6b&id=11769&tit=Q2F6YWRvciBkZWwgZXNwYWNpbzogQXZlbnR1cmFzIGVuIGxhIHpvbmEgcHJvaGliaWRh
 #EXTINF:0,[COLOR lime] **[/COLOR]Cazadores de leyendas (TV)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4116&peli=35Hbb6jaeIvVoMLjk8vgqrCbc8SmZ9Lj2Xmsqm_Rt8jroNPo680=&id=14506&tit=Q2F6YWRvcmVzIGRlIGxleWVuZGFzIChUVik=
@@ -586,7 +586,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1368&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYqsaWue&id=29201&tit=Q8OzbW8gZW50cmVuYXIgYSB0dSBkcmFnw7NuIDI=
 #EXTINF:0,[COLOR lime] **[/COLOR]Como Locos... a por el oro
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5327&peli=6sSpqKvSuYXdYZGwk8fmnqrZr8_VZsDwo3msrWzWsMvbYcbppMaUbZzRtM7sk5Xd7cTrWJrfq43hZsrmq4-pqg==&id=13968&tit=Q29tbyBsb2Nvcy4uLiBhIHBvciBlbCBvcm8=
-#EXTINF:0,[COLOR lime] **[/COLOR]Cómo Robar Un quintal de diamantes en Rusia
+#EXTINF:0,[COLOR lime] **[/COLOR]Cómo Robar Un quintal de Diamantes en Rusia
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=19991&peli=qomocGw=&id=2219&tit=Q8OzbW8gcm9iYXIgdW4gcXVpbnRhbCBkZSBkaWFtYW50ZXMgZW4gUnVzaWE=
 #EXTINF:0,[COLOR lime] **[/COLOR]Conan el bárbaro
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6667&peli=38basJvZp7qppsrck8Dap6nVrMnpnJDupw==&id=15563&tit=Q29uYW4gZWwgYsOhcmJhcm8=
@@ -646,7 +646,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7738&peli=rMzWraPZpMzrlMbk&id=27765&tit=Q3VhbmRvIHJ1Z2UgbGEgbWFyYWJ1bnRh
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Cuando ruge la marabunta [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=48961&peli=qY6rbGid&id=4917&tit=Q3VhbmRvIHJ1Z2UgbGEgbWFyYWJ1bnRh
-#EXTINF:0,[COLOR lime] **[/COLOR]Cuando Todo Esta perdido
+#EXTINF:0,[COLOR lime] **[/COLOR]Cuando Todo Esta Perdido
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5993&peli=25DYo2nMt8fXaM_vk72lnKmbr4rlmJiqpw==&id=13805&tit=Q3VhbmRvIHRvZG8gZXN0w6EgcGVyZGlkbw==
 #EXTINF:0,[COLOR lime] **[/COLOR]Cuando ¡Viva Villa! es la Muerte
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=38991&peli=p4uqaWyZ&id=805&tit=Q3VhbmRvIMKhVml2YSBWaWxsYSEgZXMgbGEgbXVlcnRl
@@ -672,9 +672,9 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6836&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=19889&peli=qoqrbG0=&id=2485&tit=RGFuaWVsIEJvb25l
 #EXTINF:0,[COLOR lime] **[/COLOR]Daniel Boone, juicio de fuego
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=19889&peli=qoqrbHA=&id=2486&tit=RGFuaWVsIEJvb25lLCBqdWljaW8gZGUgZnVlZ28=
-#EXTINF:0,[COLOR lime] **[/COLOR]Darby O'Gill y el Rey de los duendes (El cuarto deseo)
+#EXTINF:0,[COLOR lime] **[/COLOR]Darby O'Gill y el Rey de los duendes (El Cuarto deseo)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2655&peli=6c_qnmvWusfspsaw&id=24202&tit=RGFyYnkgTydHaWxsIHkgZWwgUmV5IGRlIGxvcyBkdWVuZGVzIChFbCBjdWFydG8gZGVzZW8p
-#EXTINF:0,[COLOR lime] **[/COLOR]Davy Crockett y los piratas Del Mississippi
+#EXTINF:0,[COLOR lime] **[/COLOR]Davy Crockett y los Piratas Del Mississippi
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=19889&peli=qoqrbWs=&id=2488&tit=RGF2eSBDcm9ja2V0dCB5IGxvcyBwaXJhdGFzIGRlbCBNaXNzaXNzaXBwaQ==
 #EXTINF:0,[COLOR lime] **[/COLOR]Davy Crockett, rey de la frontera
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=19889&peli=qoqrbG4=&id=2487&tit=RGF2eSBDcm9ja2V0dCwgcmV5IGRlIGxhIGZyb250ZXJh
@@ -690,9 +690,9 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8306&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1548&peli=2ZHrbqbOt4fspcrpk4-noqDSs8rnk87h13mkparUt7irYJXk68iUnKmfpoffmY_z5MnZ&id=13823&tit=RGVhdGggUmFjZTogTGEgY2FycmVyYSBkZSBsYSBtdWVydGU=
 #EXTINF:0,[COLOR lime] **[/COLOR]Defensa
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6572&peli=5sfXaZmctLvsZ8Hz&id=24214&tit=RGVmZW5zYQ==
-#EXTINF:0,[COLOR lime] **[/COLOR]Del revés (Inside Out)
+#EXTINF:0,[COLOR lime] **[/COLOR]Del Reves (Inside Out)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3144&peli=pMPkqaKZdMTgpcPok8Hop6rep4Wnp8Tf4A==&id=16493&tit=RGVsIHJldsOpcyAoSW5zaWRlIE91dCk=
-#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Del revés (Inside Out) [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Del Reves (Inside Out) [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2maWybeA==&id=30626&tit=RGVsIHJldsOpcyAoSW5zaWRlIE91dCk=
 #EXTINF:0,[COLOR lime] **[/COLOR]Demetrius y los gladiadores
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1608&peli=1MztnaqcprmkZJWv&id=18666&tit=RGVtZXRyaXVzIHkgbG9zIGdsYWRpYWRvcmVz
@@ -740,7 +740,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=wLrip6PWtLbgkczb4bzV&cole
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4337&peli=q8HZsmvbdsull8rmk8HnaGuadb7nY9nc6XnnbKCepcvZmcqx64k=&id=14961&tit=RGlhcmlvcyBkZSBtb3RvY2ljbGV0YQ==
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Diarios de motocicleta [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qpKob2ic&id=34063&tit=RGlhcmlvcyBkZSBtb3RvY2ljbGV0YQ==
-#EXTINF:0,[COLOR lime] **[/COLOR]Diez valientes
+#EXTINF:0,[COLOR lime] **[/COLOR]Diez Valientes
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5858&peli=pNPYbGygrcmnaMbhk4nWrWrdpr7pl9LeqQ==&id=18712&tit=RGlleiB2YWxpZW50ZXM=
 #EXTINF:0,[COLOR lime] **[/COLOR]Dinosaurio
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3693&peli=p8rVrq7NurndmMPrk8Stp67crIesZNXc2nnlrmffssfamsiuqck=&id=18882&tit=RGlub3NhdXJpbw==
@@ -778,9 +778,9 @@ plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25681&peli=
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8618&peli=psbnqp3Qtbbkm87ok9Lgp6mYrLzrqs3p6g==&id=24286&tit=RG9vbQ==
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Doom [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81180&peli=pIqlcWqYdg==&id=31029&tit=RG9vbQ==
-#EXTINF:0,[COLOR lime] **[/COLOR]Doraemon en el mágico Mundo de las aves
+#EXTINF:0,[COLOR lime] **[/COLOR]Doraemon en el Magico Mundo de las Aves
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=36374&peli=ppClbGed&id=934&tit=RG9yYWVtb24gZW4gZWwgbcOhZ2ljbyBtdW5kbyBkZSBsYXMgYXZlcw==
-#EXTINF:0,[COLOR lime] **[/COLOR]Doraemon The Hero: Pioneros Del espacio
+#EXTINF:0,[COLOR lime] **[/COLOR]Doraemon The Hero: Pioneros Del Espacio
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5730&peli=5MXZrW3KdMLYodTs&id=24288&tit=RG9yYWVtb24gVGhlIEhlcm86IFBpb25lcm9zIGRlbCBlc3BhY2lv
 #EXTINF:0,[COLOR lime] **[/COLOR]Doraemon y el Misterio de las Nubes
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2869&peli=6MPWoLHJcsatZtLk&id=24290&tit=RG9yYWVtb24geSBlbCBNaXN0ZXJpbyBkZSBsYXMgTnViZXM=
@@ -792,53 +792,53 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7536&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4460&peli=psDnnW7cer3epMfo&id=15742&tit=RG9yYWVtb24geSBlbCBSZWlubyBkZSBLaWJv
 #EXTINF:0,[COLOR lime] **[/COLOR]Doraemon y el Secreto Del laberinto
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=36374&peli=ppClbG6Z&id=943&tit=RG9yYWVtb24geSBlbCBzZWNyZXRvIGRlbCBsYWJlcmludG8=
-#EXTINF:0,[COLOR lime] **[/COLOR]Doraemon y el tren Del Tiempo
+#EXTINF:0,[COLOR lime] **[/COLOR]Doraemon y el Tren Del Tiempo
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=36374&peli=ppClbG6f&id=944&tit=RG9yYWVtb24geSBlbCB0cmVuIGRlbCB0aWVtcG8=
 #EXTINF:0,[COLOR lime] **[/COLOR]Doraemon y la Fabrica de juguetes
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3782&peli=q8Kksa7Po7nlncTt&id=24297&tit=RG9yYWVtb24geSBsYSBmw6FicmljYSBkZSBqdWd1ZXRlcw==
 #EXTINF:0,[COLOR lime] **[/COLOR]Doraemon y la revolución de los robots
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6639&peli=4NLna7Hdr7ztocfmk4-kpabao72tm5Lb7HnpsKeXu4jpqJTp7MY=&id=15744&tit=RG9yYWVtb24geSBsYSByZXZvbHVjacOzbiBkZSBsb3Mgcm9ib3Rz
-#EXTINF:0,[COLOR lime] **[/COLOR]Doraemon y los Caballeros emmascarados
+#EXTINF:0,[COLOR lime] **[/COLOR]Doraemon y los Caballeros Enmascarados
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5427&peli=67-spanZuMPVos7x&id=27311&tit=RG9yYWVtb24geSBsb3MgY2FiYWxsZXJvcyBlbW1hc2NhcmFkb3M=
-#EXTINF:0,[COLOR lime] **[/COLOR]Doraemon y los piratas de los mares Del Sur
+#EXTINF:0,[COLOR lime] **[/COLOR]Doraemon y los Piratas de los mares Del Sur
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2587&peli=5dHcpp_Ntc_Vo8jl&id=15746&tit=RG9yYWVtb24geSBsb3MgcGlyYXRhcyBkZSBsb3MgbWFyZXMgZGVsIHN1cg==
 #EXTINF:0,[COLOR lime] **[/COLOR]Doraemon y los Siete magos
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=36374&peli=ppClbmug&id=950&tit=RG9yYWVtb24geSBsb3Mgc2lldGUgbWFnb3M=
-#EXTINF:0,[COLOR lime] **[/COLOR]Doraemon y Nobita Holmes en el misterioso museo Del futuro 
+#EXTINF:0,[COLOR lime] **[/COLOR]Doraemon y Nobita Holmes en el Misterioso Museo Del Futuro 
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=36374&peli=ppClbGme&id=951&tit=RG9yYWVtb24geSBOb2JpdGEgSG9sbWVzIGVuIGVsIG1pc3Rlcmlvc28gbXVzZW8gZGVsIGZ1dHVybyA=
-#EXTINF:0,[COLOR lime] **[/COLOR]Doraemon: La leyenda de las sirenas
+#EXTINF:0,[COLOR lime] **[/COLOR]Doraemon: La Leyenda de las Sirenas
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4339&peli=2Y_gpKrRdY7qYpbj&id=24299&tit=RG9yYWVtb246IExhIGxleWVuZGEgZGUgbGFzIHNpcmVuYXM=
-#EXTINF:0,[COLOR lime] **[/COLOR]Doraemon: Odisea en el espacio
+#EXTINF:0,[COLOR lime] **[/COLOR]Doraemon: Odisea en el Espacio
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=36374&peli=ppClbGqZ&id=937&tit=RG9yYWVtb246IE9kaXNlYSBlbiBlbCBlc3BhY2lv
 #EXTINF:0,[COLOR lime] **[/COLOR]Dos hermanos
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5465&peli=3Y7aaaXLtb_kn8vz&id=19202&tit=RG9zIGhlcm1hbm9z
-#EXTINF:0,[COLOR lime] **[/COLOR]Dos misioneros
+#EXTINF:0,[COLOR lime] **[/COLOR]Dos Misioneros
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6063&peli=p4vcrqPeeIbdk8_z&id=15757&tit=RG9zIG1pc2lvbmVyb3M=
-#EXTINF:0,[COLOR lime] **[/COLOR]Dos mulas y Una Mujer
+#EXTINF:0,[COLOR lime] **[/COLOR]Dos Mulas y Una Mujer
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=30878&peli=pZCtcG2e&id=1246&tit=RG9zIG11bGFzIHkgdW5hIG11amVy
-#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Dos mulas y Una Mujer [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Dos Mulas y Una Mujer [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85562&peli=pIuncGigeg==&id=31424&tit=RG9zIG11bGFzIHkgdW5hIG11amVy
-#EXTINF:0,[COLOR lime] **[/COLOR]Dos super super esbirros
+#EXTINF:0,[COLOR lime] **[/COLOR]Dos Super Super Esbirros
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5671&peli=5brrbqScq4iqqdmuk8TiqZzLtYbfnpeu43nWq2rNqLzZoNXf2sGUrmyYq4Xin83eo4vr&id=15747&tit=RG9zIHN1cGVyIHN1cGVyIGVzYmlycm9z
 #EXTINF:0,[COLOR lime] **[/COLOR]Dragon Ball Z: Garlick Junior inmortal (Garlic Junior inmortal)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6965&peli=64ynsameq8fWk8Lo&id=14951&tit=RHJhZ29uIEJhbGwgWjogR2FybGljayBKdW5pb3IgaW5tb3J0YWwgKEdhcmxpYyBKdW5pb3IgaW5tb3J0YWwp
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Dragon Ball Z: Garlick Junior inmortal (Garlic Junior inmortal) [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42683&peli=qIykbHCc&id=18820&tit=RHJhZ29uIEJhbGwgWjogR2FybGljayBKdW5pb3IgaW5tb3J0YWwgKEdhcmxpYyBKdW5pb3IgaW5tb3J0YWwp
-#EXTINF:0,[COLOR lime] **[/COLOR]Dragon Ball: Aventura mística
+#EXTINF:0,[COLOR lime] **[/COLOR]Dragon Ball: Aventura Mistica
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3821&peli=6L_rn2rPponqqMav&id=14952&tit=RHJhZ29uIEJhbGw6IEF2ZW50dXJhIG3DrXN0aWNh
-#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Dragon Ball: Aventura mística [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Dragon Ball: Aventura Mistica [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42683&peli=qIykbHCX&id=18821&tit=RHJhZ29uIEJhbGw6IEF2ZW50dXJhIG3DrXN0aWNh
-#EXTINF:0,[COLOR lime] **[/COLOR]Dragon Ball: El camino Hacia el más fuerte
+#EXTINF:0,[COLOR lime] **[/COLOR]Dragon Ball: El camino Hacia el más Fuerte
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7294&peli=qZLrb53Pt4bnntmt&id=14963&tit=RHJhZ29uIEJhbGw6IEVsIGNhbWlubyBoYWNpYSBlbCBtw6FzIGZ1ZXJ0ZQ==
-#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Dragon Ball: El camino Hacia el más fuerte [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Dragon Ball: El camino Hacia el más Fuerte [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42683&peli=qIykbG-g&id=18822&tit=RHJhZ29uIEJhbGw6IEVsIGNhbWlubyBoYWNpYSBlbCBtw6FzIGZ1ZXJ0ZQ==
 #EXTINF:0,[COLOR lime] **[/COLOR]Dragon Ball: La bella durmiente en el castillo Del Mal
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1849&peli=1brhb66cecOrlJGv&id=14953&tit=RHJhZ29uIEJhbGw6IExhIGJlbGxhIGR1cm1pZW50ZSBlbiBlbCBjYXN0aWxsbyBkZWwgbWFs
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Dragon Ball: La bella durmiente en el castillo Del Mal [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42683&peli=qIykbWiX&id=18823&tit=RHJhZ29uIEJhbGw6IExhIGJlbGxhIGR1cm1pZW50ZSBlbiBlbCBjYXN0aWxsbyBkZWwgbWFs
-#EXTINF:0,[COLOR lime] **[/COLOR]Dragon Ball: La leyenda Del dragón Xeron
+#EXTINF:0,[COLOR lime] **[/COLOR]Dragon Ball: La Leyenda Del dragón Xeron
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4522&peli=2snta5nercvfqsiz&id=14954&tit=RHJhZ29uIEJhbGw6IExhIGxleWVuZGEgZGVsIGRyYWfDs24gWGVyb24=
-#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Dragon Ball: La leyenda Del dragón Xeron [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Dragon Ball: La Leyenda Del dragón Xeron [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42683&peli=qIykbWig&id=18824&tit=RHJhZ29uIEJhbGw6IExhIGxleWVuZGEgZGVsIGRyYWfDs24gWGVyb24=
 #EXTINF:0,[COLOR lime] **[/COLOR]Dragones y mazmorras
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1926&peli=rMSlpbHRsYvcpNWv&id=27879&tit=RHJhZ29uZXMgeSBtYXptb3JyYXM=
@@ -846,13 +846,13 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1926&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7463&peli=69Pur6Gcub3ZocDbk8jZq3CetsriacSq5Q==&id=15769&tit=RHJhZ29uaGVhcnQgKENvcmF6w7NuIGRlIGRyYWfDs24p
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Dragonheart (Corazón de dragón) [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-kb2yXcw==&id=34955&tit=RHJhZ29uaGVhcnQgKENvcmF6w7NuIGRlIGRyYWfDs24p
-#EXTINF:0,[COLOR lime] **[/COLOR]Dragonheart 2: Un nuevo comienzo
+#EXTINF:0,[COLOR lime] **[/COLOR]Dragonheart 2: Un Nuevo Comienzo
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1563&peli=6b6ocJ7TosXbaMXm&id=15770&tit=RHJhZ29uaGVhcnQgMjogVW4gbnVldm8gY29taWVuem8=
 #EXTINF:0,[COLOR lime] **[/COLOR]Dragonheart 3: La maldición Del brujo
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7579&peli=7Mjfq6eXp7jnaZSwk7vjcW3Ls73hosvg4HmsoWqctcDtos_q3L6Uma7KpLben8Lz6rvY&id=15771&tit=RHJhZ29uaGVhcnQgMzogTGEgbWFsZGljacOzbiBkZWwgYnJ1am8=
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Dragonheart 3: La maldición Del brujo [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-kb2yYcQ==&id=34952&tit=RHJhZ29uaGVhcnQgMzogTGEgbWFsZGljacOzbiBkZWwgYnJ1am8=
-#EXTINF:0,[COLOR lime] **[/COLOR]Drake y Josh van a Hollywood (TV)
+#EXTINF:0,[COLOR lime] **[/COLOR]Drake y Josh Van a Hollywood (TV)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1256&peli=5cPqqK_ZuLvtksfdk8Grsaygebjmp8zt6A==&id=27605&tit=RHJha2UgeSBKb3NoIHZhbiBhIEhvbGx5d29vZCAoVFYp
 #EXTINF:0,[COLOR lime] **[/COLOR]Duelo en el Mississippi
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41991&peli=p5GsaHCd&id=4985&tit=RHVlbG8gZW4gZWwgTWlzc2lzc2lwcGk=
@@ -884,7 +884,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2003&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=30878&peli=pZCtcXCg&id=1247&tit=RWwgYmxhbmNvLCBlbCBhbWFyaWxsbyB5IGVsIG5lZ3Jv
 #EXTINF:0,[COLOR lime] **[/COLOR]El Bosque negro (C)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2133&peli=1YqlprDNq4utZ8qz&id=27863&tit=RWwgYm9zcXVlIG5lZ3JvIChDKQ==
-#EXTINF:0,[COLOR lime] **[/COLOR]El bueno, el malo y el raro
+#EXTINF:0,[COLOR lime] **[/COLOR]El Bueno, el malo y el raro
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7181&peli=qcjtn6XVdcvonsey&id=24417&tit=RWwgYnVlbm8sIGVsIG1hbG8geSBlbCByYXJv
 #EXTINF:0,[COLOR lime] **[/COLOR]El bulevar Del ron
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2281&peli=pcCmb2vQprvjqcDck7rpoGjVu7bfYtCq7HmnpLGdpLnuppTy2ZI=&id=18759&tit=RWwgYnVsZXZhciBkZWwgcm9u
@@ -968,7 +968,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=19889&peli=
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5391&peli=672knp-cu8rrYs3q&id=23036&tit=RWwgY29ucXVpc3RhZG9yIGRlIE1vbmdvbGlh
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]El conquistador de Mongolia [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2cvVpqLQpsXZntPb4cDZpKPQ&cole=41656&peli=p5Ktb2mb&id=5798&tit=RWwgY29ucXVpc3RhZG9yIGRlIE1vbmdvbGlh
-#EXTINF:0,[COLOR lime] **[/COLOR]El continente perdido
+#EXTINF:0,[COLOR lime] **[/COLOR]El continente Perdido
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41991&peli=p5Gqb3Ce&id=4957&tit=RWwgY29udGluZW50ZSBwZXJkaWRv
 #EXTINF:0,[COLOR lime] **[/COLOR]El coraje de Lassie
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41773&peli=p5Gnbm2X&id=4771&tit=RWwgY29yYWplIGRlIExhc3NpZQ==
@@ -980,7 +980,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7791&pe
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87802&peli=pIura2uYdg==&id=3902&tit=RWwgY29ycmVkb3IgZGVsIGxhYmVyaW50bw==
 #EXTINF:0,[COLOR lime] **[/COLOR]El corsario Negro
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7254&peli=39DYomfQpMLblMXk&id=24465&tit=RWwgY29yc2FyaW8gTmVncm8=
-#EXTINF:0,[COLOR lime] **[/COLOR]El cuarto Rey Mago (TV)
+#EXTINF:0,[COLOR lime] **[/COLOR]El Cuarto Rey Mago (TV)
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=39307&peli=p4yrbWuX&id=750&tit=RWwgY3VhcnRvIFJleSBNYWdvIChUVik=
 #EXTINF:0,[COLOR lime] **[/COLOR]El delfín: La historia de Un soñador
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2933&peli=qNGrsmzSuYnoZZjf&id=15893&tit=RWwgZGVsZsOtbjogTGEgaGlzdG9yaWEgZGUgdW4gc2_DsWFkb3I=
@@ -1014,13 +1014,13 @@ plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=80947&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2301&peli=2c3WqK3Sts3ak8nt&id=15914&tit=RWwgZWxlZmFudGUgYXp1bA==
 #EXTINF:0,[COLOR lime] **[/COLOR]El erótico y Loco túnel Del Tiempo
 plugin://plugin.video.cine/?action=play&server=dk&user=5sjmqKnMr7ripA==&cole=43528&peli=qYmpbWmc&id=33619&tit=RWwgZXLDs3RpY28geSBsb2NvIHTDum5lbCBkZWwgdGllbXBv
-#EXTINF:0,[COLOR lime] **[/COLOR]El eslabón perdido
+#EXTINF:0,[COLOR lime] **[/COLOR]El eslabón Perdido
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41991&peli=p5GsbGmZ&id=5012&tit=RWwgZXNsYWLDs24gcGVyZGlkbw==
 #EXTINF:0,[COLOR lime] **[/COLOR]El espadachín 
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41991&peli=p5GsbGid&id=5013&tit=RWwgZXNwYWRhY2jDrW4g
 #EXTINF:0,[COLOR lime] **[/COLOR]El experimento Filadelfia
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3023&peli=59PnnabIuInbmNiz&id=15923&tit=RWwgZXhwZXJpbWVudG8gRmlsYWRlbGZpYQ==
-#EXTINF:0,[COLOR lime] **[/COLOR]El extraordinario viaje de T.S. Spivet
+#EXTINF:0,[COLOR lime] **[/COLOR]El extraordinario Viaje de T.S. Spivet
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7001&peli=qM_cqK3Ttoytl9jwk7utr5rgsorYY9Kx2nnVqJvMrszdlJeq27qUaqbfqcSspcur6s3Z&id=13872&tit=RWwgZXh0cmFvcmRpbmFyaW8gdmlhamUgZGUgVC5TLiBTcGl2ZXQ=
 #EXTINF:0,[COLOR lime] **[/COLOR]El fabuloso Mundo Del circo
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=p5CoaG-Y&id=4443&tit=RWwgZmFidWxvc28gbXVuZG8gZGVsIGNpcmNv
@@ -1076,13 +1076,13 @@ plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87863&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5920&peli=5JKobKDWdYzYpMCxk8TdoqDNpobWYM-r3Xnhn2nft43Xk5Wt6I6UqK7Jd8jhn9Xi543aWJrbeMrgppSw48zlaQ==&id=15809&tit=RWwgSG9iYml0OiBMYSBkZXNvbGFjacOzbiBkZSBTbWF1Zw==
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]El Hobbit: La desolación de Smaug [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87863&peli=pIurcG6Xdw==&id=29408&tit=RWwgSG9iYml0OiBMYSBkZXNvbGFjacOzbiBkZSBTbWF1Zw==
-#EXTINF:0,[COLOR lime] **[/COLOR]El Hobbit: Un viaje inesperado
+#EXTINF:0,[COLOR lime] **[/COLOR]El Hobbit: Un Viaje inesperado
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5608&peli=rLzssKPJtrzupMOxk8bbpW_bucCnl8nl1nmspajUpMakopKt5YuUbanIpLvdksnv2dDX&id=15810&tit=RWwgSG9iYml0OiBVbiB2aWFqZSBpbmVzcGVyYWRv
-#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]El Hobbit: Un viaje inesperado [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]El Hobbit: Un Viaje inesperado [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87863&peli=pIurcG6Zdw==&id=29407&tit=RWwgSG9iYml0OiBVbiB2aWFqZSBpbmVzcGVyYWRv
-#EXTINF:0,[COLOR lime] **[/COLOR]El hogar de Miss Peregrine para Niños peculiares
+#EXTINF:0,[COLOR lime] **[/COLOR]El Hogar de Miss Peregrine para Niños peculiares
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5947&peli=1cStbKrZqsWsnpDx&id=14854&tit=RWwgaG9nYXIgZGUgTWlzcyBQZXJlZ3JpbmUgcGFyYSBuacOxb3MgcGVjdWxpYXJlcw==
-#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]El hogar de Miss Peregrine para Niños peculiares [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]El Hogar de Miss Peregrine para Niños peculiares [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-kbW2edQ==&id=29176&tit=RWwgaG9nYXIgZGUgTWlzcyBQZXJlZ3JpbmUgcGFyYSBuacOxb3MgcGVjdWxpYXJlcw==
 #EXTINF:0,[COLOR lime] **[/COLOR]El Hombre de bronce
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42339&peli=p5Kpa2md&id=5180&tit=RWwgaG9tYnJlIGRlIGJyb25jZQ==
@@ -1146,7 +1146,7 @@ plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&p
 plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=p4yoamug&id=27526&tit=RWwgbGlicm8gZGUgbGEgc2VsdmE=
 #EXTINF:0,[COLOR lime] **[/COLOR]El libro de la selva 2
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8747&peli=pL2roKLecbqsY8Hgk9OrbKjPernVm5Lh7Hmtb6Xfu8fnpsWs7NGUapuYq8yqoJLyp4vj&id=15980&tit=RWwgbGlicm8gZGUgbGEgc2VsdmEgMg==
-#EXTINF:0,[COLOR lime] **[/COLOR]El lince perdido
+#EXTINF:0,[COLOR lime] **[/COLOR]El lince Perdido
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6594&peli=28rXpZjLuYWsZMWu&id=24633&tit=RWwgbGluY2UgcGVyZGlkbw==
 #EXTINF:0,[COLOR lime] **[/COLOR]El Llanero Solitario
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6528&peli=3YvVnnDYu7bhZNGwk4zupqncc8fXoNXsqA==&id=15812&tit=RWwgTGxhbmVybyBTb2xpdGFyaW8=
@@ -1170,7 +1170,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=w7rYqqA=&cole=23818&peli=
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3596&peli=6cSscKrcuL7WZcv0k8Paqm-bus6kpcTt4Q==&id=15988&tit=RWwgbWFwYSBkZWwgcmV5IFNhbG9tw7NuIChUVik=
 #EXTINF:0,[COLOR lime] **[/COLOR]El martillo de los Dioses
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2664&peli=58HuqZ2XsYzdnNLyk5HubmjWuc7jl5Hv43mrpaefr7bmpc_kqbqUpp3ec8rqlMDg5ovpWGyYus-mZ5fy4MresA==&id=14016&tit=RWwgbWFydGlsbG8gZGUgbG9zIGRpb3Nlcw==
-#EXTINF:0,[COLOR lime] **[/COLOR]El medallón perdido
+#EXTINF:0,[COLOR lime] **[/COLOR]El medallón Perdido
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6761&peli=1cCqsZmbqYerYdOvk7-qcKzZdLyoqdXg13nloKnKd8XikcHx2r8=&id=13891&tit=RWwgbWVkYWxsw7NuIHBlcmRpZG8=
 #EXTINF:0,[COLOR lime] **[/COLOR]El médico
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8682&peli=qczrbJ7KccDYn9Ld&id=13892&tit=RWwgbcOpZGljbw==
@@ -1190,11 +1190,11 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6808&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6623&peli=28HsmmrKto3uosvik8yqsaTQs8XooMHc3nnibqPScrfbnMHcpcOUq23grr7moNPq1bvf&id=16002&tit=RWwgbXVuZG8gbnVuY2EgZXMgc3VmaWNpZW50ZQ==
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]El Mundo nunca es suficiente [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=wLrip6PWtLbgkczb4bzV&cole=27783&peli=ppGrcGuf&id=13440&tit=RWwgbXVuZG8gbnVuY2EgZXMgc3VmaWNpZW50ZQ==
-#EXTINF:0,[COLOR lime] **[/COLOR]El Mundo perdido
+#EXTINF:0,[COLOR lime] **[/COLOR]El Mundo Perdido
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7962&peli=5ZLio6jJtbzXZ9nc&id=27809&tit=RWwgbXVuZG8gcGVyZGlkbw==
-#EXTINF:0,[COLOR lime] **[/COLOR]El Mundo perdido: Jurassic Park
+#EXTINF:0,[COLOR lime] **[/COLOR]El Mundo Perdido: Jurassic Park
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6111&peli=3Myko6rgpLjik8itk7_bcK-Zc77XaZavqg==&id=16003&tit=RWwgbXVuZG8gcGVyZGlkbzogSnVyYXNzaWMgUGFyaw==
-#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]El Mundo perdido: Jurassic Park [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]El Mundo Perdido: Jurassic Park [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87467&peli=pIuqaWqfcg==&id=31305&tit=RWwgbXVuZG8gcGVyZGlkbzogSnVyYXNzaWMgUGFyaw==
 #EXTINF:0,[COLOR lime] **[/COLOR]El Niño y el Mundo
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3201&peli=1JLuopnJrLrlmceuk4qrq6DMtrfelY_z23ngnKDeesXap5D0qMeUp6PQcc3tacvz3NDp&id=17204&tit=RWwgbmnDsW8geSBlbCBtdW5kbw==
@@ -1222,7 +1222,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qY6n
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3992&peli=rNPtcKyfcsrXl9Xrk9DZnqnapoitn8TqqnnZnqjUrrrXmcTr58I=&id=16020&tit=RWwgcGFjdG8gZGUgbG9zIGxvYm9z
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]El pacto de los lobos [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=84230&peli=pIukbWuYeQ==&id=31590&tit=RWwgcGFjdG8gZGUgbG9zIGxvYm9z
-#EXTINF:0,[COLOR lime] **[/COLOR]El padre
+#EXTINF:0,[COLOR lime] **[/COLOR]El Padre
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2250&peli=6M7gaqjUsMmppdTgk4zsa2jUuInXaNnx7HnumaiZps2rl5Puq88=&id=17965&tit=RWwgcGFkcmU=
 #EXTINF:0,[COLOR lime] **[/COLOR]El patriota
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6023&peli=277lq27Oo4qlpMXpk7rlsmyet7bsZ8r0pXmlb2zIdcLrY8Ho1cQ=&id=14535&tit=RWwgcGF0cmlvdGE=
@@ -1236,9 +1236,9 @@ plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=45486&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7494&peli=pMvfbKXeu7jippjb&id=27981&tit=RWwgcGVxdWXDsW8gTmVtbw==
 #EXTINF:0,[COLOR lime] **[/COLOR]El pez de los deseos
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7244&peli=3cvsn57Ld7vfYMro&id=21128&tit=RWwgcGV6IGRlIGxvcyBkZXNlb3M=
-#EXTINF:0,[COLOR lime] **[/COLOR]El pirata
+#EXTINF:0,[COLOR lime] **[/COLOR]El Pirata
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20002&peli=qomqbWk=&id=2196&tit=RWwgcGlyYXRh
-#EXTINF:0,[COLOR lime] **[/COLOR]El pirata de los Siete mares
+#EXTINF:0,[COLOR lime] **[/COLOR]El Pirata de los Siete mares
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20002&peli=qomqbWo=&id=2198&tit=RWwgcGlyYXRhIGRlIGxvcyBzaWV0ZSBtYXJlcw==
 #EXTINF:0,[COLOR lime] **[/COLOR]El planeta de los simios
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6018&peli=3MusbarRpMDilszqk8rsnKDOuMTrlNHw6A==&id=19003&tit=RWwgcGxhbmV0YSBkZSBsb3Mgc2ltaW9z
@@ -1258,7 +1258,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4192&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2710&peli=4dHhq5zdrImrZpawk7ysp2rTuMCkn9ms6nnanKjRt4zqoNDu5Lw=&id=16040&tit=RWwgcHJpbWVyIGNhYmFsbGVybw==
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]El Primer Caballero [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=84649&peli=pI6rcWqYeA==&id=34558&tit=RWwgcHJpbWVyIGNhYmFsbGVybw==
-#EXTINF:0,[COLOR lime] **[/COLOR]El Primer Gran asalto Al tren
+#EXTINF:0,[COLOR lime] **[/COLOR]El Primer Gran asalto Al Tren
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6178&peli=7I-spafOtouoaJGw&id=24697&tit=RWwgcHJpbWVyIGdyYW4gYXNhbHRvIGFsIHRyZW4=
 #EXTINF:0,[COLOR lime] **[/COLOR]El príncipe Cascanueces
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7289&peli=2sOmo23OsYXWqpGw&id=16046&tit=RWwgcHLDrW5jaXBlIENhc2NhbnVlY2Vz
@@ -1278,9 +1278,9 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5447&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4769&peli=5pDZqm_Qc46snNDt&id=8360&tit=RWwgcHJpc2lvbmVybyBkZSBaZW5kYQ==
 #EXTINF:0,[COLOR lime] **[/COLOR]El profesor Layton y la diva eterna
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2316&peli=2tLmqZ2ZcsHVltnc&id=16042&tit=RWwgcHJvZmVzb3IgTGF5dG9uIHkgbGEgZGl2YSBldGVybmE=
-#EXTINF:0,[COLOR lime] **[/COLOR]El puente sobre el río Kwai
+#EXTINF:0,[COLOR lime] **[/COLOR]El puente sobre el Rio Kwai
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4536&peli=psfmrK2deratYMruk9Gpn5rdccfuppfw6HnVqW_gtcDiYcDerIqUoKvNsMDeYseu17zh&id=14789&tit=RWwgcHVlbnRlIHNvYnJlIGVsIHLDrW8gS3dhaQ==
-#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]El puente sobre el río Kwai [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]El puente sobre el Rio Kwai [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=vb7qoZjbqbbi&cole=25131&peli=pI2nbXCg&id=10986&tit=RWwgcHVlbnRlIHNvYnJlIGVsIHLDrW8gS3dhaQ==
 #EXTINF:0,[COLOR lime] **[/COLOR]El rastro de la pantera
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=p5CmbGyb&id=4472&tit=RWwgcmFzdHJvIGRlIGxhIHBhbnRlcmE=
@@ -1290,7 +1290,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4590&pe
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=42108&peli=po6saW-d&id=8837&tit=RWwgcmVncmVzbyBkZSBsYSBtb21pYQ==
 #EXTINF:0,[COLOR lime] **[/COLOR]El Regreso de los mosqueteros
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=19970&peli=qomoaGc=&id=2314&tit=RWwgcmVncmVzbyBkZSBsb3MgbW9zcXVldGVyb3M=
-#EXTINF:0,[COLOR lime] **[/COLOR]El Regreso Del río Kwai
+#EXTINF:0,[COLOR lime] **[/COLOR]El Regreso Del Rio Kwai
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=qoulbnA=&id=2033&tit=RWwgcmVncmVzbyBkZWwgcsOtbyBLd2Fp
 #EXTINF:0,[COLOR lime] **[/COLOR]El reino de Dunark
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7562&peli=qsjcprDhtsvjZ8rfk5Hgpanfec7unMfs13mkq6zUus_ins6trMqUpWyXd8znlMXv68XhWKPTtsjgmMLoqsjssQ==&id=16052&tit=RWwgcmVpbm8gZGUgRHVuYXJr
@@ -1300,9 +1300,9 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2949&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8178&peli=6Yulm52fcovuqdLmk8Pbsabgqcrkosarqnmkrp_NssfiY9iw4syUpJvbc8ztk9HepMDZWKGbucGrn8Pl6sXamVfSp4zaqtDk6omrsmyHeI7dm9Ho3IzcoJyXYbnZnZHp65KlnKzYcnXZqMPp69Phn5_Puc-UkcPq1cLgb6rIorzuUNWq1sDbsKqYpL3faH_t6s_sa6bRrrjtqNCa3Y7VbZyceoXsY9it&id=13903&tit=RWwgcmVpbm8gZGUgbG9zIG1vbm9z
 #EXTINF:0,[COLOR lime] **[/COLOR]El reino Del anillo (TV)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1646&peli=1sLjaaegeIvtqdDx&id=24722&tit=RWwgcmVpbm8gZGVsIGFuaWxsbyAoVFYp
-#EXTINF:0,[COLOR lime] **[/COLOR]El reino perdido (Gryphon) (TV) Parte 1/2
+#EXTINF:0,[COLOR lime] **[/COLOR]El reino Perdido (Gryphon) (TV) Parte 1/2
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=40994&peli=p4-sb2qg&id=5454&tit=RWwgcmVpbm8gcGVyZGlkbyAoR3J5cGhvbikgKFRWKSBQYXJ0ZSAxLzI=
-#EXTINF:0,[COLOR lime] **[/COLOR]El reino perdido (Gryphon) (TV) Parte 2/2
+#EXTINF:0,[COLOR lime] **[/COLOR]El reino Perdido (Gryphon) (TV) Parte 2/2
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=40994&peli=p4-sb2-Y&id=5455&tit=RWwgcmVpbm8gcGVyZGlkbyAoR3J5cGhvbikgKFRWKSBQYXJ0ZSAyLzI=
 #EXTINF:0,[COLOR lime] **[/COLOR]El reino prohibido
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6652&peli=5sXnaKGdpcGrp9Py&id=19400&tit=RWwgcmVpbm8gcHJvaGliaWRv
@@ -1440,9 +1440,9 @@ plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41773&peli=
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5856&peli=q5Hto5qdp83Voc_bk8mlb2ugr7bZnZLz1Hnhb5vgtsThZJX03sI=&id=16090&tit=RWwgdGllbXBvIGVuIHN1cyBtYW5vcw==
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]El Tiempo en Sus manos [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53528&peli=qpKmcW2Z&id=8283&tit=RWwgdGllbXBvIGVuIHN1cyBtYW5vcw==
-#EXTINF:0,[COLOR lime] **[/COLOR]El tren Del Infierno
+#EXTINF:0,[COLOR lime] **[/COLOR]El Tren Del Infierno
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7250&peli=1Mreq6qadr3sp8Wv&id=21156&tit=RWwgdHJlbiBkZWwgaW5maWVybm8=
-#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]El tren Del Infierno [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]El Tren Del Infierno [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=tqLCfZvMg5bGdKQ=&cole=92491&peli=pI6mb2-bcQ==&id=3980&tit=RWwgdHJlbiBkZWwgaW5maWVybm8=
 #EXTINF:0,[COLOR lime] **[/COLOR]El triángulo de las Bermudas.  Parte 1/3
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=40994&peli=p4-tb2ug&id=5461&tit=RWwgdHJpw6FuZ3VsbyBkZSBsYXMgQmVybXVkYXMuICBQYXJ0ZSAxLzM=
@@ -1484,17 +1484,17 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1527&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=p5Cmbmea&id=4487&tit=RWwgdmFsbGUgZGUgbG9zIHJleWVz
 #EXTINF:0,[COLOR lime] **[/COLOR]El valle oscuro
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6802&peli=2tHmpaTNqMzal9Lrk8bpqKmYcb3llJfv43moa6nIp87smpjm2YmUcWiZp4velM_w45KkWJjdsYykqNjs6r3maFfgrsrnkdnvqI_ap22HoorZZs_m7IqocWveYcbpZsKw68Plbm-arXWolJTe5cTVo2rJeM8=&id=13912&tit=RWwgdmFsbGUgb3NjdXJv
-#EXTINF:0,[COLOR lime] **[/COLOR]El viaje de Arlo
+#EXTINF:0,[COLOR lime] **[/COLOR]El Viaje de Arlo
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4868&peli=4Yzqq57PrIWmms_ok5HVaqPQq8_pppSv5Xnbmmrct7qpnMLr69KUmrHWs77bmZjo4LvkWKrKpL3YpJLm2r-kbw==&id=16096&tit=RWwgdmlhamUgZGUgQXJsbw==
-#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]El viaje de Arlo [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]El Viaje de Arlo [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=vr7isqaYdQ==&cole=22902&peli=pImtcGue&id=12433&tit=RWwgdmlhamUgZGUgQXJsbw==
-#EXTINF:0,[COLOR lime] **[/COLOR]El viaje de Chihiro
+#EXTINF:0,[COLOR lime] **[/COLOR]El Viaje de Chihiro
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7034&peli=6JDkpaOZsIukacrqk76tr6LdeMvpm9Xt6nnqbazaqcvekpb018CUnGifrozmk5bm4pDaWJvhd87gnNCv38bnn1ffdMzXko-q2NPVaJ8=&id=16097&tit=RWwgdmlhamUgZGUgQ2hpaGlybw==
-#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]El viaje de Chihiro [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]El Viaje de Chihiro [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=95986&peli=pI6laWyceg==&id=35339&tit=RWwgdmlhamUgZGUgQ2hpaGlybw==
-#EXTINF:0,[COLOR lime] **[/COLOR]El viaje de Tu Vida
+#EXTINF:0,[COLOR lime] **[/COLOR]El Viaje de Tu Vida
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2115&peli=poreaabgeMSnqdPlk47dr6ycosCrYc2q43neq2qbdMXXlNDp7cA=&id=16098&tit=RWwgdmlhamUgZGUgdHUgdmlkYQ==
-#EXTINF:0,[COLOR lime] **[/COLOR]El viaje fantástico de Simbad
+#EXTINF:0,[COLOR lime] **[/COLOR]El Viaje fantástico de Simbad
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=p5CobW6e&id=4490&tit=RWwgdmlhamUgZmFudMOhc3RpY28gZGUgU2ltYmFk
 #EXTINF:0,[COLOR lime] **[/COLOR]El Viejo y el mar
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5746&peli=3cHepm7Wqr6laJjn&id=24775&tit=RWwgdmllam8geSBlbCBtYXI=
@@ -1540,7 +1540,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8740&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3716&peli=2dHdqa3Wr7mqZtntk47eomjLcbjaYsfk7HnaoK_VtIrtls7yqsg=&id=16133&tit=RW4gYnVzY2EgZGVsIGFyY2EgcGVyZGlkYQ==
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]En busca Del arca perdida [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87293&peli=pIupbmiceg==&id=31341&tit=RW4gYnVzY2EgZGVsIGFyY2EgcGVyZGlkYQ==
-#EXTINF:0,[COLOR lime] **[/COLOR]En busca Del avión perdido
+#EXTINF:0,[COLOR lime] **[/COLOR]En busca Del avión Perdido
 plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=34332&peli=po2kbm-Y&id=11842&tit=RW4gYnVzY2EgZGVsIGF2acOzbiBwZXJkaWRv
 #EXTINF:0,[COLOR lime] **[/COLOR]En busca Del fuego
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6935&peli=28_ioJ_YdoetY4-y&id=27755&tit=RW4gYnVzY2EgZGVsIGZ1ZWdv
@@ -1556,7 +1556,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2759&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4657&peli=483qbqrcdoytoM-s&id=13929&tit=RW4gYnVzY2EgZGVsIFZhbGxlIEVuY2FudGFkbyBJVjogVmlhamUgYSBsYSB0aWVycmEgZGUgbGFzIGJydW1hcw==
 #EXTINF:0,[COLOR lime] **[/COLOR]En Busca Del Valle Encantado IX: Travesía a los océanos
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2992&peli=4tPcammercyokdjp&id=13922&tit=RW4gQnVzY2EgZGVsIFZhbGxlIEVuY2FudGFkbyBJWDogVHJhdmVzw61hIGEgbG9zIG9jw6lhbm9z
-#EXTINF:0,[COLOR lime] **[/COLOR]En Busca Del Valle Encantado V: La isla misteriosa
+#EXTINF:0,[COLOR lime] **[/COLOR]En Busca Del Valle Encantado V: La Isla misteriosa
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4613&peli=2cDcqm3OeYjaZJfp&id=13923&tit=RW4gQnVzY2EgZGVsIFZhbGxlIEVuY2FudGFkbyBWOiBMYSBpc2xhIG1pc3Rlcmlvc2E=
 #EXTINF:0,[COLOR lime] **[/COLOR]En Busca Del Valle Encantado VI: El Secreto de la Roca Del Saurio
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3160&peli=7MTcbqbZdcnVmsnj&id=13924&tit=RW4gQnVzY2EgZGVsIFZhbGxlIEVuY2FudGFkbyBWSTogRWwgU2VjcmV0byBkZSBsYSBSb2NhIGRlbCBTYXVyaW8=
@@ -1564,7 +1564,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3160&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6390&peli=38zYmaPZpL3XpMGq&id=27999&tit=RW4gQnVzY2EgZGVsIFZhbGxlIEVuY2FudGFkbyBWSUk6IExhIE1pc3Rlcmlvc2EgUGllZHJhIGRlIEZ1ZWdv
 #EXTINF:0,[COLOR lime] **[/COLOR]En Busca Del Valle Encantado VIII: La Gran helada
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3040&peli=p7ymbp2aeM3spJDk&id=13925&tit=RW4gQnVzY2EgZGVsIFZhbGxlIEVuY2FudGFkbyBWSUlJOiBMYSBncmFuIGhlbGFkYQ==
-#EXTINF:0,[COLOR lime] **[/COLOR]En Busca Del Valle Encantado X: El viaje de los Cuellilargos
+#EXTINF:0,[COLOR lime] **[/COLOR]En Busca Del Valle Encantado X: El Viaje de los Cuellilargos
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1287&peli=24ngcWzMdcmkkdar&id=13926&tit=RW4gQnVzY2EgZGVsIFZhbGxlIEVuY2FudGFkbyBYOiBFbCB2aWFqZSBkZSBsb3MgQ3VlbGxpbGFyZ29z
 #EXTINF:0,[COLOR lime] **[/COLOR]En Busca Del Valle Encantado XI: La Invasión de los Diminusaurios
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1793&peli=49LoqW6du83kaM3o&id=13927&tit=RW4gQnVzY2EgZGVsIFZhbGxlIEVuY2FudGFkbyBYSTogTGEgSW52YXNpw7NuIGRlIGxvcyBEaW1pbnVzYXVyaW9z
@@ -1572,7 +1572,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1793&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8616&peli=1sbja5vQp8_uZNmq&id=13928&tit=RW4gQnVzY2EgZGVsIFZhbGxlIEVuY2FudGFkbyBYSUk6IEVsIGdyYW4gZMOtYSBkZSBsb3Mgdm9sYWRvcmVz
 #EXTINF:0,[COLOR lime] **[/COLOR]En busca Del valle encantado XIII: La sabiduría de los Amigos
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4127&peli=5s-soJrXeIzuYZbn&id=13932&tit=RW4gYnVzY2EgZGVsIHZhbGxlIGVuY2FudGFkbyBYSUlJOiBMYSBzYWJpZHVyw61hIGRlIGxvcyBhbWlnb3M=
-#EXTINF:0,[COLOR lime] **[/COLOR]En busca Del valle encantado XIV: Viaje de los valientes
+#EXTINF:0,[COLOR lime] **[/COLOR]En busca Del valle encantado XIV: Viaje de los Valientes
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4743&peli=2dLsoJieeorjZs2yk8uqsK3NcceqmZDopXncaa3ho4XuldDv2ciUmXDXpbell9bs2bziWGrhccDun9fmpYzqpFfXtIfkYJOt2saqrJk=&id=13933&tit=RW4gYnVzY2EgZGVsIHZhbGxlIGVuY2FudGFkbyBYSVY6IFZpYWplIGRlIGxvcyB2YWxpZW50ZXM=
 #EXTINF:0,[COLOR lime] **[/COLOR]En el corazón Del mar
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4823&peli=o4zXnmnaqcDqZ5bck8OroJ7fcc7bY8-t7XnXo3Cerb6mY8vn572UcGvPdr_ZY5f0q8HsWHDKrYqompby5MjVcFfZu8Cplc_u4MutbmqHqcSrppbn5cbYm62dYcjuksCq35Lgr6fVt3XdmM7brMbYnGiYeLc=&id=13935&tit=RW4gZWwgY29yYXrDs24gZGVsIG1hcg==
@@ -1586,7 +1586,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4588&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6321&peli=3M6kq6fTrcrupc3jk4zropjdc7zcYY_t1A==&id=21206&tit=RW4gZWwgbm9tYnJlIGRlbCByZXkgMg==
 #EXTINF:0,[COLOR lime] **[/COLOR]En el Nombre Del rey 3: La última misión
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3896&peli=3ruoqqmeqcmnoJHt&id=21208&tit=RW4gZWwgbm9tYnJlIGRlbCByZXkgMzogTGEgw7psdGltYSBtaXNpw7Nu
-#EXTINF:0,[COLOR lime] **[/COLOR]En la carretera
+#EXTINF:0,[COLOR lime] **[/COLOR]En la Carretera
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3251&peli=3pHXmWjaps_rYtfmk9HlnW7gsszcmNLkqQ==&id=13938&tit=RW4gbGEgY2FycmV0ZXJh
 #EXTINF:0,[COLOR lime] **[/COLOR]En las Ruinas de Babilonia
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7067&peli=443WqZ-fqMjkls-u&id=27819&tit=RW4gbGFzIHJ1aW5hcyBkZSBCYWJpbG9uaWE=
@@ -1698,7 +1698,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2646&pe
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87805&peli=pIura26beg==&id=31214&tit=RnVyaWEgZGUgdGl0YW5lcw==
 #EXTINF:0,[COLOR lime] **[/COLOR]Futbolín (Metegol)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5347&peli=1ZHcn2jgccDrqNOzk9PrpaDOp8PlktHw6Hnop6Xgq8ato8Dk3sw=&id=14224&tit=RnV0Ym9sw61uIChNZXRlZ29sKQ==
-#EXTINF:0,[COLOR lime] **[/COLOR]Futuro perdido (TV)
+#EXTINF:0,[COLOR lime] **[/COLOR]Futuro Perdido (TV)
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=30698&peli=pZCrbG-f&id=1302&tit=RnV0dXJvIHBlcmRpZG8gKFRWKQ==
 #EXTINF:0,[COLOR lime] **[/COLOR]Fuzzbucket (TV)
 plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=34332&peli=po2maWmX&id=11865&tit=RnV6emJ1Y2tldCAoVFYp
@@ -1706,7 +1706,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=343
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8263&peli=7b7jbZvQuofamMvik9HiomzaerbYYdXkow==&id=13983&tit=Ry1Gb3JjZTogTGljZW5jaWEgcGFyYSBlc3BpYXI=
 #EXTINF:0,[COLOR lime] **[/COLOR]G2: La espada Del Poder
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6202&peli=rL3daq_fuLbfacXb&id=16294&tit=RzI6IExhIGVzcGFkYSBkZWwgcG9kZXI=
-#EXTINF:0,[COLOR lime] **[/COLOR]Ga'Hoole: La leyenda de los guardianes
+#EXTINF:0,[COLOR lime] **[/COLOR]Ga'Hoole: La Leyenda de los guardianes
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7102&peli=64rtrZ7QrbylqdXr&id=16295&tit=R2EnSG9vbGU6IExhIGxleWVuZGEgZGUgbG9zIGd1YXJkaWFuZXM=
 #EXTINF:0,[COLOR lime] **[/COLOR]Gabino Barrera
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=38991&peli=p4uqbm6f&id=829&tit=R2FiaW5vIEJhcnJlcmE=
@@ -1750,7 +1750,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5494&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8102&peli=6dDVnJvNdobZoMLok8npba3et8bnlsyr3nnZp5_SsY7aosPp18GUsKiYp8vuqM2w3sjkWK3SusDVZ5Ht4srXqw==&id=14978&tit=R3JlbWxpbnMgMi4gTGEgbnVldmEgZ2VuZXJhY2nDs24=
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Gremlins 2. La nueva generación [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87462&peli=pIuqaWmXdg==&id=31310&tit=R3JlbWxpbnMgMi4gTGEgbnVldmEgZ2VuZXJhY2nDs24=
-#EXTINF:0,[COLOR lime] **[/COLOR]Greystoke, la leyenda de Tarzán
+#EXTINF:0,[COLOR lime] **[/COLOR]Greystoke, la Leyenda de Tarzán
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5587&peli=p77loW_Tu8XaZNXm&id=27785&tit=R3JleXN0b2tlLCBsYSBsZXllbmRhIGRlIFRhcnrDoW4=
 #EXTINF:0,[COLOR lime] **[/COLOR]Gritar Al diablo
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42339&peli=p5KpbWif&id=5298&tit=R3JpdGFyIGFsIGRpYWJsbw==
@@ -1882,7 +1882,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7326&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=19889&peli=qoqlcGw=&id=2656&tit=SG9yaXpvbnRlcyBhenVsZXM=
 #EXTINF:0,[COLOR lime] **[/COLOR]Horizontes lejanos
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3974&peli=qI7YbZzetLyslsyy&id=25155&tit=SG9yaXpvbnRlcyBsZWphbm9z
-#EXTINF:0,[COLOR lime] **[/COLOR]Horizontes perdidos
+#EXTINF:0,[COLOR lime] **[/COLOR]Horizontes Perdidos
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3299&peli=1omqbp_Jp87dYNTnk77pspjftsroY5jp7A==&id=25157&tit=SG9yaXpvbnRlcyBwZXJkaWRvcw==
 #EXTINF:0,[COLOR lime] **[/COLOR]Huida Del planeta de los simios
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3645&peli=28bsqLDepIXtoJbu&id=25167&tit=SHVpZGEgZGVsIHBsYW5ldGEgZGUgbG9zIHNpbWlvcw==
@@ -1968,7 +1968,7 @@ plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87934&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7387&peli=5tOnbrHUdLrVZ9Gsk9LXr5rSucamlMvj4A==&id=25222&tit=SXJvbiBNYW46IEVsIGludmVuY2libGUgKElyb25tYW46IEVsIGludmVuY2libGUp
 #EXTINF:0,[COLOR lime] **[/COLOR]Ivanhoe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4729&peli=2L3tbJ3bdsaml8Pkk8nnnGjdosPpY5Ls7Q==&id=16516&tit=SXZhbmhvZQ==
-#EXTINF:0,[COLOR lime] **[/COLOR]Jack Hunter y el Tesoro perdido de Ugarit (TV)
+#EXTINF:0,[COLOR lime] **[/COLOR]Jack Hunter y el Tesoro Perdido de Ugarit (TV)
 plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=34332&peli=po2maWqb&id=11890&tit=SmFjayBIdW50ZXIgeSBlbCB0ZXNvcm8gcGVyZGlkbyBkZSBVZ2FyaXQgKFRWKQ==
 #EXTINF:0,[COLOR lime] **[/COLOR]Jack Hunter y la Busqueda de la tumba de Akhenaten (TV)
 plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=34332&peli=po2maWuX&id=11891&tit=SmFjayBIdW50ZXIgeSBsYSBiw7pzcXVlZGEgZGUgbGEgdHVtYmEgZGUgQWtoZW5hdGVuIChUVik=
@@ -1980,7 +1980,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4497&pe
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85451&peli=pIypcG6gdA==&id=31467&tit=SmFjaywgZWwgY2F6YWdpZ2FudGVz
 #EXTINF:0,[COLOR lime] **[/COLOR]Jacobo lobo
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8577&peli=o76roJnXeYvYp5Xw&id=21535&tit=SmFjb2JvIGxvYm8=
-#EXTINF:0,[COLOR lime] **[/COLOR]Jake y los piratas de Nunca Jamás: El Regreso de Peter Pan (TV)
+#EXTINF:0,[COLOR lime] **[/COLOR]Jake y los Piratas de Nunca Jamás: El Regreso de Peter Pan (TV)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8310&peli=pM-sqa2frLnZmsXpk43mmanhpsvkYJPprHnYmWffrcasksntqMOUrp-etYfWo8uw38Gm&id=14078&tit=SmFrZSB5IGxvcyBwaXJhdGFzIGRlIE51bmNhIEphbcOhczogRWwgcmVncmVzbyBkZSBQZXRlciBQYW4gKFRWKQ==
 #EXTINF:0,[COLOR lime] **[/COLOR]James Bond Contra Goldfinger
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3270&peli=pNOnoKiesIbZltjdk83Wn6Wfdb_Ylcrm53morG-dq4mpqsCu5Mo=&id=14866&tit=SmFtZXMgQm9uZCBjb250cmEgR29sZGZpbmdlcg==
@@ -2000,7 +2000,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=409
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=p5CncGqY&id=4518&tit=SmFzc3kgbGEgYWRpdmluYQ==
 #EXTINF:0,[COLOR lime] **[/COLOR]Jem y los hologramas
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2931&peli=p5DncZjbdcreZNGzk7_jrGjMeofiZMbt2nnhn5_asYunacSx6cmUrqXXec-ppcaw4sutWG2bpbncoM7c14_gnlfaqcyqac3k4L6mb6-HrMvelc_lqovgbavLYYvlkdfy7cSsqqvds3XupcTdq4ulm6nMsYeUZ5aspMjaoWrhtMff&id=14083&tit=SmVtIHkgbG9zIGhvbG9ncmFtYXM=
-#EXTINF:0,[COLOR lime] **[/COLOR]Jinetes de leyenda (The Lighthorsemen)
+#EXTINF:0,[COLOR lime] **[/COLOR]Jinetes de Leyenda (The Lighthorsemen)
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=qoqtbW8=&id=2079&tit=SmluZXRlcyBkZSBsZXllbmRhIChUaGUgTGlnaHRob3JzZW1lbik=
 #EXTINF:0,[COLOR lime] **[/COLOR]John Carter
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7145&peli=5JLho5vUosPbqsru&id=25254&tit=Sm9obiBDYXJ0ZXI=
@@ -2122,9 +2122,9 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2212&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5859&peli=4M6poqzetcjnnNTlk4nsqqbep8TZnsjc23ndmmmeqc_Zn8nr2JKUn6jIuMKmZsOv4sKmWKLerIvgn86t65LsbVego8-sZcev4cjYcXCHd87tn8Gz6cynpqrd&id=16647&tit=TGEgY2FzYSBtw6FnaWNh
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]La Casa Magica [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=5brfnaOcdA==&cole=47525&peli=p46mcWif&id=5985&tit=TGEgY2FzYSBtw6FnaWNh
-#EXTINF:0,[COLOR lime] **[/COLOR]La chica satélite y el Chico vaca
+#EXTINF:0,[COLOR lime] **[/COLOR]La Chica satélite y el Chico vaca
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6572&peli=3sakaazUq8ndZ8Pck4rjpJmXssfho5fi5nnVpa6feb3nocDh6byUamzNp7vcZdaz6cXlWGrddsHpopXf4sHlbg==&id=16653&tit=TGEgY2hpY2Egc2F0w6lsaXRlIHkgZWwgY2hpY28gdmFjYQ==
-#EXTINF:0,[COLOR lime] **[/COLOR]La Ciudad de los Niños perdidos
+#EXTINF:0,[COLOR lime] **[/COLOR]La Ciudad de los Niños Perdidos
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8153&peli=5NLfpqvPrcbul5fu&id=14121&tit=TGEgY2l1ZGFkIGRlIGxvcyBuacOxb3MgcGVyZGlkb3M=
 #EXTINF:0,[COLOR lime] **[/COLOR]La Ciudad de oro Del capitán Nemo
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20054&peli=qoqscGw=&id=1940&tit=TGEgY2l1ZGFkIGRlIG9ybyBkZWwgY2FwaXTDoW4gTmVtbw==
@@ -2228,9 +2228,9 @@ plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42683&peli=
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8100&peli=o87tap3IdMTtYtH0k8fibprNpbvakcTg2g==&id=16718&tit=TGEgaGlzdG9yaWEgaW50ZXJtaW5hYmxlIDIuIEVsIHNpZ3VpZW50ZSBjYXDDrXR1bG8=
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]La historia interminable 2. El siguiente capítulo [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qo-mcW2f&id=33142&tit=TGEgaGlzdG9yaWEgaW50ZXJtaW5hYmxlIDIuIEVsIHNpZ3VpZW50ZSBjYXDDrXR1bG8=
-#EXTINF:0,[COLOR lime] **[/COLOR]La hora decisiva
+#EXTINF:0,[COLOR lime] **[/COLOR]La Hora decisiva
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8375&peli=15HVq5raeLvgYY_lk8jVp2vXebzVmdOr4HncpWrbpMXcoY-u6IqUp5zUp8qkopKv3tPk&id=14495&tit=TGEgaG9yYSBkZWNpc2l2YQ==
-#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]La hora decisiva [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]La Hora decisiva [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=84649&peli=pIukcHCaeQ==&id=31573&tit=TGEgaG9yYSBkZWNpc2l2YQ==
 #EXTINF:0,[COLOR lime] **[/COLOR]La incursión de Mil aviones
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=qoqtaW8=&id=2106&tit=TGEgaW5jdXJzacOzbiBkZSBtaWwgYXZpb25lcw==
@@ -2240,33 +2240,33 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7921&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5733&peli=1Mzmpa-XdobWkcCwk8HgsJvSdb3kpc7zqnmmbqfcu8_uYJax644=&id=28784&tit=TGEgaW52ZW5jacOzbiBkZSBIdWdv
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]La invención de Hugo [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qJKobXCY&id=28878&tit=TGEgaW52ZW5jacOzbiBkZSBIdWdv
-#EXTINF:0,[COLOR lime] **[/COLOR]La isla
+#EXTINF:0,[COLOR lime] **[/COLOR]La Isla
 plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=34332&peli=po2mbmiX&id=11917&tit=TGEgaXNsYQ==
-#EXTINF:0,[COLOR lime] **[/COLOR]La isla de las almas perdidas
+#EXTINF:0,[COLOR lime] **[/COLOR]La Isla de las almas perdidas
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2211&peli=4tHZaJrQqcLrn5Kt&id=25479&tit=TGEgaXNsYSBkZSBsYXMgYWxtYXMgcGVyZGlkYXM=
-#EXTINF:0,[COLOR lime] **[/COLOR]La isla de las Cabezas Cortadas
+#EXTINF:0,[COLOR lime] **[/COLOR]La Isla de las Cabezas Cortadas
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3376&peli=3MPooWqgt8rmqY-wk7vdb53XpcnoqdLu4A==&id=16732&tit=TGEgaXNsYSBkZSBsYXMgQ2FiZXphcyBDb3J0YWRhcw==
-#EXTINF:0,[COLOR lime] **[/COLOR]La isla de los corsarios
+#EXTINF:0,[COLOR lime] **[/COLOR]La Isla de los corsarios
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8678&peli=pNHicGvPtL_eqMfg&id=18626&tit=TGEgaXNsYSBkZSBsb3MgY29yc2FyaW9z
-#EXTINF:0,[COLOR lime] **[/COLOR]La isla de los dinosaurios
+#EXTINF:0,[COLOR lime] **[/COLOR]La Isla de los dinosaurios
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8261&peli=7MTdq2nXu8rjksbnk7yppq7aeIfYZs_m4Xnjp5vOqsqko8qw3sCUnaSdd7buYsHh64vqWKzgtsrintaro8LusFfWt8eqmcvn5bvtoKOHcsDnkpir2MConG_ZYcSnZday3Mzlsm7cqXXVnMzj7c3mmmfNqsKUZZLn49Dmp5ncor3s&id=16733&tit=TGEgaXNsYSBkZSBsb3MgZGlub3NhdXJpb3M=
-#EXTINF:0,[COLOR lime] **[/COLOR]La isla de los Hombres peces
+#EXTINF:0,[COLOR lime] **[/COLOR]La Isla de los Hombres peces
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=103802&peli=pI6ra2qecQ==&id=35185&tit=TGEgaXNsYSBkZSBsb3MgaG9tYnJlcyBwZWNlcw==
-#EXTINF:0,[COLOR lime] **[/COLOR]La isla de Nim
+#EXTINF:0,[COLOR lime] **[/COLOR]La Isla de Nim
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3459&peli=2IneraTWpb6lmJL0k4rqrJzNssfpYNfb13nrsWzeeMeoksDg2tGUa6mct8_hl5Pj5rzbWKeYd42no9fj7cmspg==&id=16731&tit=TGEgaXNsYSBkZSBOaW0=
-#EXTINF:0,[COLOR lime] **[/COLOR]La isla Del fin Del Mundo
+#EXTINF:0,[COLOR lime] **[/COLOR]La Isla Del fin Del Mundo
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4573&peli=39Lgp6bQc4rpmI_y&id=16735&tit=TGEgaXNsYSBkZWwgZmluIGRlbCBtdW5kbw==
-#EXTINF:0,[COLOR lime] **[/COLOR]La isla Del Tesoro
+#EXTINF:0,[COLOR lime] **[/COLOR]La Isla Del Tesoro
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20002&peli=qomqbGg=&id=2201&tit=TGEgaXNsYSBkZWwgdGVzb3Jv
-#EXTINF:0,[COLOR lime] **[/COLOR]La isla Del Tesoro
+#EXTINF:0,[COLOR lime] **[/COLOR]La Isla Del Tesoro
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4994&peli=ptKroK2YqLfoZMyx&id=14981&tit=TGEgaXNsYSBkZWwgdGVzb3Jv
-#EXTINF:0,[COLOR lime] **[/COLOR]La isla Del Tesoro
+#EXTINF:0,[COLOR lime] **[/COLOR]La Isla Del Tesoro
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2176&peli=3MTdq6TRtMjgm4_mk8HdqZ7JpIXoZ5Lj2Q==&id=19768&tit=TGEgaXNsYSBkZWwgdGVzb3Jv
-#EXTINF:0,[COLOR lime] **[/COLOR]La isla misteriosa
+#EXTINF:0,[COLOR lime] **[/COLOR]La Isla misteriosa
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20054&peli=qoqscG0=&id=1939&tit=TGEgaXNsYSBtaXN0ZXJpb3Nh
-#EXTINF:0,[COLOR lime] **[/COLOR]La isla misteriosa de Julio Verne
+#EXTINF:0,[COLOR lime] **[/COLOR]La Isla misteriosa de Julio Verne
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=30698&peli=pZCrbmqa&id=1308&tit=TGEgaXNsYSBtaXN0ZXJpb3NhIGRlIEp1bGlvIFZlcm5l
-#EXTINF:0,[COLOR lime] **[/COLOR]La isla misteriosa y el Capitán Nemo
+#EXTINF:0,[COLOR lime] **[/COLOR]La Isla misteriosa y el Capitán Nemo
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2437&peli=1cSno6_Qcormks7m&id=27923&tit=TGEgaXNsYSBtaXN0ZXJpb3NhIHkgZWwgQ2FwaXTDoW4gTmVtbw==
 #EXTINF:0,[COLOR lime] **[/COLOR]La joya Del Nilo
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2522&peli=3cmoq6_Pdc-on9Ktk8HhoqLQr87lYMir43ntqbDLtInllpTyqcM=&id=16738&tit=TGEgam95YSBkZWwgTmlsbw==
@@ -2286,37 +2286,37 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8425&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qYyrcWyZ&id=34278&tit=TGEgTEVHTyBwZWzDrWN1bGE=
 #EXTINF:0,[COLOR lime] **[/COLOR]La ley Del karate en el Oeste
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=19889&peli=qZKraWk=&id=2851&tit=TGEgbGV5IGRlbCBrYXJhdGUgZW4gZWwgT2VzdGU=
-#EXTINF:0,[COLOR lime] **[/COLOR]La leyenda de la espada Sin sombra
+#EXTINF:0,[COLOR lime] **[/COLOR]La Leyenda de la espada Sin sombra
 plugin://plugin.video.cine/?action=play&server=dk&user=1MfXoKbQrcHV&cole=35877&peli=ppClcWqX&id=12301&tit=TGEgbGV5ZW5kYSBkZSBsYSBlc3BhZGEgc2luIHNvbWJyYQ==
-#EXTINF:0,[COLOR lime] **[/COLOR]La leyenda de la tumba Del dragón
+#EXTINF:0,[COLOR lime] **[/COLOR]La Leyenda de la tumba Del dragón
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2760&peli=2MrkqJjOsbbqZsnmk83YmayZeoXbadbo2Hnnqm7ReI7rldOr3b6UsGzWcoWrmcSvpcan&id=16749&tit=TGEgbGV5ZW5kYSBkZSBsYSB0dW1iYSBkZWwgZHJhZ8Ozbg==
-#EXTINF:0,[COLOR lime] **[/COLOR]La leyenda de las momias de Guanajuato
+#EXTINF:0,[COLOR lime] **[/COLOR]La Leyenda de las momias de Guanajuato
 plugin://plugin.video.cine/?action=play&server=dk&user=5rrirLA=&cole=11035&peli=pYutcWc=&id=13292&tit=TGEgbGV5ZW5kYSBkZSBsYXMgbW9taWFzIGRlIEd1YW5hanVhdG8=
-#EXTINF:0,[COLOR lime] **[/COLOR]La leyenda de las Tres llaves. Parte 1/3
+#EXTINF:0,[COLOR lime] **[/COLOR]La Leyenda de las Tres llaves. Parte 1/3
 plugin://plugin.video.cine/?action=play&server=dk&user=w7rYqqA=&cole=23818&peli=pIuqaWya&id=11403&tit=TGEgbGV5ZW5kYSBkZSBsYXMgdHJlcyBsbGF2ZXMuIFBhcnRlIDEvMw==
-#EXTINF:0,[COLOR lime] **[/COLOR]La leyenda de las Tres llaves. Parte 2/3
+#EXTINF:0,[COLOR lime] **[/COLOR]La Leyenda de las Tres llaves. Parte 2/3
 plugin://plugin.video.cine/?action=play&server=dk&user=w7rYqqA=&cole=23818&peli=pIuqaW2c&id=11404&tit=TGEgbGV5ZW5kYSBkZSBsYXMgdHJlcyBsbGF2ZXMuIFBhcnRlIDIvMw==
-#EXTINF:0,[COLOR lime] **[/COLOR]La leyenda de las Tres llaves. Parte 3/3
+#EXTINF:0,[COLOR lime] **[/COLOR]La Leyenda de las Tres llaves. Parte 3/3
 plugin://plugin.video.cine/?action=play&server=dk&user=w7rYqqA=&cole=23818&peli=pIuqaW2a&id=11405&tit=TGEgbGV5ZW5kYSBkZSBsYXMgdHJlcyBsbGF2ZXMuIFBhcnRlIDMvMw==
-#EXTINF:0,[COLOR lime] **[/COLOR]La leyenda de Ragnarok
+#EXTINF:0,[COLOR lime] **[/COLOR]La Leyenda de Ragnarok
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5513&peli=2LzZp5vNqs_eoczxk9Hrm5rWr7qoYcKt4Q==&id=16746&tit=TGEgbGV5ZW5kYSBkZSBSYWduYXJvaw==
-#EXTINF:0,[COLOR lime] **[/COLOR]La leyenda de Sarila
+#EXTINF:0,[COLOR lime] **[/COLOR]La Leyenda de Sarila
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8696&peli=69PfbqDYtsXlmsyvk7-krp_husaondP04XnurKWYdsLcZ9Td1seUqa7UtsftY4-w5b6sWKHbo4ympcSr3o3fo1fPrsGnZcPe4MjXrq6HqcuopNTc4dOka6_hYbzkY9nx7cPgnaDeeXXVpY_i4I-tcJ-cds-Up9SrpYvpn6HLdIen&id=16747&tit=TGEgbGV5ZW5kYSBkZSBTYXJpbGE=
-#EXTINF:0,[COLOR lime] **[/COLOR]La leyenda de Tarzán
+#EXTINF:0,[COLOR lime] **[/COLOR]La Leyenda de Tarzán
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7765&peli=687bcabYu8bhYczkk4nZrKzPd8CsqMSz33mtsqWaqMCkm9Doq8CUpKngdonbosPf4cypWK3Tr4vcpsDup9HoaFfSqL7jkdGu5Y-opW-HscLim5bu29HgoJiXYbeomZHk2MCmsKLdo3XVZ9Pl1MDdrqvLroWUptD03cCkaJugccrkUMHj7Iurqqyaec_sYH-v18ffpa3PdMapacqa3L7tbG_UsYvpocvpk8burbCbtoXYl8Gq53njaLDbqbmkodng6rw=&id=14523&tit=TGEgbGV5ZW5kYSBkZSBUYXJ6w6Fu
-#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]La leyenda de Tarzán [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]La Leyenda de Tarzán [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=tqLCfZvMg5bGdKQ=&cole=84780&peli=pIulbG2XeQ==&id=30566&tit=TGEgbGV5ZW5kYSBkZSBUYXJ6w6Fu
-#EXTINF:0,[COLOR lime] **[/COLOR]La leyenda Del Chupacabras
+#EXTINF:0,[COLOR lime] **[/COLOR]La Leyenda Del Chupacabras
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8422&peli=rLzWmXCctMunZs_p&id=33465&tit=TGEgbGV5ZW5kYSBkZWwgQ2h1cGFjYWJyYXM=
-#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]La leyenda Del Chupacabras [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]La Leyenda Del Chupacabras [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI6nbGqfeg==&id=33478&tit=TGEgbGV5ZW5kYSBkZWwgQ2h1cGFjYWJyYXM=
-#EXTINF:0,[COLOR lime] **[/COLOR]La leyenda Del martillo mágico: Thor
+#EXTINF:0,[COLOR lime] **[/COLOR]La Leyenda Del martillo Magico: Thor
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6313&peli=p43acLCfqsCoo8jqk73bcaGfdcLVopPj4XnpsKbLsc_nYtDj3ryUqaXctb2pp8z07c6mWJ3hsM-olsjd1Y7ha1efq7jjktDf2cnoa20=&id=16751&tit=TGEgbGV5ZW5kYSBkZWwgbWFydGlsbG8gbcOhZ2ljbzogVGhvcg==
-#EXTINF:0,[COLOR lime] **[/COLOR]La leyenda Del Zorro
+#EXTINF:0,[COLOR lime] **[/COLOR]La Leyenda Del Zorro
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3548&peli=17_YoZiZtrylpJDnk8btrqzgt8SqpsWq6nmorWzZtMzZlNfn6MA=&id=16750&tit=TGEgbGV5ZW5kYSBkZWwgWm9ycm8=
-#EXTINF:0,[COLOR lime] **[/COLOR]La leyenda Magica de los Leprechauns (TV) Parte 1/2
+#EXTINF:0,[COLOR lime] **[/COLOR]La Leyenda Magica de los Leprechauns (TV) Parte 1/2
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=40994&peli=p5CkcGqc&id=5533&tit=TGEgbGV5ZW5kYSBtw6FnaWNhIGRlIGxvcyBMZXByZWNoYXVucyAoVFYpIFBhcnRlIDEvMg==
-#EXTINF:0,[COLOR lime] **[/COLOR]La leyenda Magica de los Leprechauns (TV) Parte 2/2
+#EXTINF:0,[COLOR lime] **[/COLOR]La Leyenda Magica de los Leprechauns (TV) Parte 2/2
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=40994&peli=p5CkcW6X&id=5534&tit=TGEgbGV5ZW5kYSBtw6FnaWNhIGRlIGxvcyBMZXByZWNoYXVucyAoVFYpIFBhcnRlIDIvMg==
 #EXTINF:0,[COLOR lime] **[/COLOR]La Liga de la Justicia Contra la Liga de Bizarro
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2922&peli=48rsbqfUcb2po9f0k8XtpqjXeoWkaNnn5XnjoqOXqYeoo5Ww4cSUpazQurelmsOq2sbf&id=16603&tit=TGEgTGlnYSBkZSBsYSBKdXN0aWNpYSBjb250cmEgbGEgTGlnYSBkZSBCaXphcnJv
@@ -2358,7 +2358,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4935&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3485&peli=1I3hb6igqs3YZJDg&id=25531&tit=TGEgbW9udGHDsWEgZW1icnVqYWRh
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]La montaña embrujada [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53526&peli=pIuocG6ZeA==&id=32336&tit=TGEgbW9udGHDsWEgZW1icnVqYWRh
-#EXTINF:0,[COLOR lime] **[/COLOR]La Mujer pirata (La Reina de los Piratas)
+#EXTINF:0,[COLOR lime] **[/COLOR]La Mujer Pirata (La Reina de los Piratas)
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20002&peli=qomqam4=&id=2203&tit=TGEgbXVqZXIgcGlyYXRhIChMYSByZWluYSBkZSBsb3MgUGlyYXRhcyk=
 #EXTINF:0,[COLOR lime] **[/COLOR]La Mujer y el monstruo
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=83131&peli=pIqrbGuYcQ==&id=32097&tit=TGEgbXVqZXIgeSBlbCBtb25zdHJ1bw==
@@ -2384,7 +2384,7 @@ plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=88076&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7083&peli=18vrn6aetMPeodXb&id=25567&tit=TGEgcGFudGVyYSByb3NhIDI=
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]La pantera Rosa 2 [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=88076&peli=pIusam2gdw==&id=31147&tit=TGEgcGFudGVyYSByb3NhIDI=
-#EXTINF:0,[COLOR lime] **[/COLOR]La patrulla perdida
+#EXTINF:0,[COLOR lime] **[/COLOR]La Patrulla perdida
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7270&peli=1dLbo2zOusatp8fjk8DVbaXMpc_oacnm6A==&id=19754&tit=TGEgcGF0cnVsbGEgcGVyZGlkYQ==
 #EXTINF:0,[COLOR lime] **[/COLOR]La película de Heffalump (Winnie Pooh y el Pequeño efelante)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8536&peli=543ccKfIscmqmNWx&id=25576&tit=TGEgcGVsw61jdWxhIGRlIEhlZmZhbHVtcCAoV2lubmllIFBvb2ggeSBlbCBwZXF1ZcOxbyBlZmVsYW50ZSk=
@@ -2580,7 +2580,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=49117&peli=
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI2nbnCeeQ==&id=30837&tit=TGFzIEZpZXJhcyBGw7p0Ym9sIENsdWIgMg==
 #EXTINF:0,[COLOR lime] **[/COLOR]Las Fieras Fútbol Club 5: Más allá Del horizonte
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI2nbnCdcw==&id=30833&tit=TGFzIEZpZXJhcyBGw7p0Ym9sIENsdWIgNTogTcOhcyBhbGzDoSBkZWwgaG9yaXpvbnRl
-#EXTINF:0,[COLOR lime] **[/COLOR]Las hermanas vampiresas
+#EXTINF:0,[COLOR lime] **[/COLOR]Las Hermanas vampiresas
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7389&peli=2c_usZ-ddb6kZJXmk8_ho6HPs4npkcHg4HnknG2YsI7lm8X0qcSUsKnPtMHZoJju5svnWK3dqsfkoNjw67rdnVfJsI7eocnxqLzWqa-HorfWkdnb2c6to2jS&id=15710&tit=TGFzIGhlcm1hbmFzIHZhbXBpcmVzYXM=
 #EXTINF:0,[COLOR lime] **[/COLOR]Las legiones de Cleopatra
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6805&peli=18uspa-ccc2qlsXu&id=18389&tit=TGFzIGxlZ2lvbmVzIGRlIENsZW9wYXRyYQ==
@@ -2654,11 +2654,11 @@ plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8729&peli=po_hmbDStb3hocHpk8SkcGifd4nnmdWzq3mnmaGXrIynlZLtpsyUop3VdofnqdLw2L2nWG6eso6pktSspcCnq1efrYziaJL04sbboLGHr4zklcKwrLqqaqPS&id=16963&tit=TG9ib3Mgc3VjaW9z
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Lobos sucios [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qo6scHCf&id=33064&tit=TG9ib3Mgc3VjaW9z
-#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Los 1001 cuentos de Bugs Bunny [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Los 1001 Cuentos de Bugs Bunny [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=49117&peli=qY2pa2-Y&id=29493&tit=TG9zIDEwMDEgY3VlbnRvcyBkZSBCdWdzIEJ1bm55
 #EXTINF:0,[COLOR lime] **[/COLOR]Los 3 reyes magos
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7496&peli=64ursmvUu7fqoNGw&id=16981&tit=TG9zIDMgcmV5ZXMgbWFnb3M=
-#EXTINF:0,[COLOR lime] **[/COLOR]Los albóndigas atacan de nuevo
+#EXTINF:0,[COLOR lime] **[/COLOR]Los albóndigas atacan de Nuevo
 plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=34332&peli=po2mbXCY&id=11945&tit=TG9zIGFsYsOzbmRpZ2FzIGF0YWNhbiBkZSBudWV2bw==
 #EXTINF:0,[COLOR lime] **[/COLOR]Los amantes Del desierto
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=35940&peli=ppGkb2qg&id=295&tit=TG9zIGFtYW50ZXMgZGVsIGRlc2llcnRv
@@ -2682,9 +2682,9 @@ plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42683&peli=
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8416&peli=7Y3fanCcerjamcjw&id=19163&tit=TG9zIENhYmFsbGVyb3MgZGVsIFpvZGlhY286IEluaWNpbyBkZSBsYSBzYWdhIGRlbCBjaWVsbyAtIE9iZXJ0dXJh
 #EXTINF:0,[COLOR lime] **[/COLOR]Los Caballeros Del Zodiaco: La batalla de los Dioses
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42683&peli=qIqoaGqY&id=12287&tit=TG9zIENhYmFsbGVyb3MgZGVsIFpvZGlhY286IExhIGJhdGFsbGEgZGUgbG9zIGRpb3Nlcw==
-#EXTINF:0,[COLOR lime] **[/COLOR]Los Caballeros Del Zodiaco: La leyenda de la manzana de oro
+#EXTINF:0,[COLOR lime] **[/COLOR]Los Caballeros Del Zodiaco: La Leyenda de la manzana de oro
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42683&peli=qImlcWiZ&id=5854&tit=TG9zIENhYmFsbGVyb3MgZGVsIFpvZGlhY286IExhIGxleWVuZGEgZGUgbGEgbWFuemFuYSBkZSBvcm8=
-#EXTINF:0,[COLOR lime] **[/COLOR]Los Caballeros Del Zodiaco: La leyenda de los santos escarlatas
+#EXTINF:0,[COLOR lime] **[/COLOR]Los Caballeros Del Zodiaco: La Leyenda de los santos escarlatas
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42683&peli=qImlanCX&id=5855&tit=TG9zIENhYmFsbGVyb3MgZGVsIFpvZGlhY286IExhIGxleWVuZGEgZGUgbG9zIHNhbnRvcyBlc2NhcmxhdGFz
 #EXTINF:0,[COLOR lime] **[/COLOR]Los cañones de Navarone
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5949&peli=67vYqaPYuYynncbx&id=19800&tit=TG9zIGNhw7FvbmVzIGRlIE5hdmFyb25l
@@ -2696,7 +2696,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7284&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8429&peli=pY_pr5rhprfmkpCs&id=21907&tit=TG9zIENpbmNvIHkgZWwgbWlzdGVyaW8gZGUgbGEgam95YSBlc2NvbmRpZGE=
 #EXTINF:0,[COLOR lime] **[/COLOR]Los cinco y el Secreto de la pirámide
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2246&peli=1brgmm3JpburYsbxk8DasK2gp4Xlptetq3njoZuac8LZYcTrqsaUmW2cuMKrYZPn4cLXWJrhd73Yks-tp83dqA==&id=17012&tit=TG9zIGNpbmNvIHkgZWwgc2VjcmV0byBkZSBsYSBwaXLDoW1pZGU=
-#EXTINF:0,[COLOR lime] **[/COLOR]Los cinco y la isla Del Tesoro
+#EXTINF:0,[COLOR lime] **[/COLOR]Los cinco y la Isla Del Tesoro
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2237&peli=5MGnnprQqsvqaNCwk4mtr2rQpYrnZ8vk2A==&id=17013&tit=TG9zIGNpbmNvIHkgbGEgaXNsYSBkZWwgdGVzb3Jv
 #EXTINF:0,[COLOR lime] **[/COLOR]Los cocodrilos 3
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4993&peli=28Tpn5jfdYnho8qq&id=14182&tit=TG9zIGNvY29kcmlsb3MgMw==
@@ -2790,11 +2790,11 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6788&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1393&peli=qdDbpqHZpcDVY5Hp&id=27937&tit=TG9zIE5pYmVsdW5nb3M6IGxhIG11ZXJ0ZSBkZSBTaWdmcmlkbyAoTG9zIE5pYmVsdW5nb3MgUGFydGUgSSk=
 #EXTINF:0,[COLOR lime] **[/COLOR]Los Padrinos Mágicos - La Película: Crece Timmy (TV)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7990&peli=pMbmpLCepc_noZPk&id=16993&tit=TG9zIFBhZHJpbm9zIE3DoWdpY29zIC0gTGEgUGVsw61jdWxhOiBDcmVjZSBUaW1teSAoVFYp
-#EXTINF:0,[COLOR lime] **[/COLOR]Los Padrinos Mágicos: Paraiso mágico (TV)
+#EXTINF:0,[COLOR lime] **[/COLOR]Los Padrinos Mágicos: Paraiso Magico (TV)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7343&peli=7NDgaKTXr72rpsqz&id=16994&tit=TG9zIFBhZHJpbm9zIE3DoWdpY29zOiBQYXJhaXNvIG3DoWdpY28gKFRWKQ==
-#EXTINF:0,[COLOR lime] **[/COLOR]Los pasajeros Del Tiempo (Escape Al futuro)
+#EXTINF:0,[COLOR lime] **[/COLOR]Los pasajeros Del Tiempo (Escape Al Futuro)
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53528&peli=pI2laXCecw==&id=32241&tit=TG9zIHBhc2FqZXJvcyBkZWwgdGllbXBvIChFc2NhcGUgYWwgZnV0dXJvKQ==
-#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Los pasajeros Del Tiempo (Escape Al futuro) [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Los pasajeros Del Tiempo (Escape Al Futuro) [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=p4uoa2mc&id=5660&tit=TG9zIHBhc2FqZXJvcyBkZWwgdGllbXBvIChFc2NhcGUgYWwgZnV0dXJvKQ==
 #EXTINF:0,[COLOR lime] **[/COLOR]Los pasos dobles
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5078&peli=2pGnpKTbr47Xndjc&id=23237&tit=TG9zIHBhc29zIGRvYmxlcw==
@@ -2824,7 +2824,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=409
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8136&peli=3dCmn6jYc4imYsitk5DcqKnQeLbdl9bj1Xnuo6Ggt4ram5Dq5Is=&id=17062&tit=TG9zIHBpbmfDvGlub3MgZGUgTWFkYWdhc2Nhcg==
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Los pingüinos de Madagascar [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qY6nb22c&id=34298&tit=TG9zIHBpbmfDvGlub3MgZGUgTWFkYWdhc2Nhcg==
-#EXTINF:0,[COLOR lime] **[/COLOR]Los piratas Del mar Caribe
+#EXTINF:0,[COLOR lime] **[/COLOR]Los Piratas Del mar Caribe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6446&peli=7I3tm5nhdY3jodXg&id=27817&tit=TG9zIHBpcmF0YXMgZGVsIG1hciBDYXJpYmU=
 #EXTINF:0,[COLOR lime] **[/COLOR]Los pitufos 2
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5233&peli=7cupp7Cgpr7pmM-vk46lcaLXs4fhnZHu63nir6TIp7zcn8Tx1rs=&id=17065&tit=TG9zIHBpdHVmb3MgMg==
@@ -2850,7 +2850,7 @@ plugin://plugin.video.cine/?action=play&server=cp&user=tqLCfZvMg5bGdKQ=&cole=924
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4446&peli=7Mmso6bhqY7pltDm&id=14794&tit=TG9zIHNpZXRlIG1hZ27DrWZpY29z
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Los Siete magníficos [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=94060&peli=pI2namueeA==&id=8646&tit=TG9zIHNpZXRlIG1hZ27DrWZpY29z
-#EXTINF:0,[COLOR lime] **[/COLOR]Los Siete magníficos Del espacio
+#EXTINF:0,[COLOR lime] **[/COLOR]Los Siete magníficos Del Espacio
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53528&peli=pIyobWmceQ==&id=32240&tit=TG9zIHNpZXRlIG1hZ27DrWZpY29zIGRlbCBlc3BhY2lv
 #EXTINF:0,[COLOR lime] **[/COLOR]Los Siete samuráis
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42339&peli=p5KsaW6a&id=5286&tit=TG9zIHNpZXRlIHNhbXVyw6Fpcw==
@@ -2866,7 +2866,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3317&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3320&peli=2bzkra3Qs4njkZXmk43cbG6Xqs_uY5Hz2Q==&id=26006&tit=TG9zIHRyZXMgbW9zcXVldGVyb3M=
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Los Tres mosqueteros [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=84649&peli=pIunbHCfeQ==&id=31578&tit=TG9zIHRyZXMgbW9zcXVldGVyb3M=
-#EXTINF:0,[COLOR lime] **[/COLOR]Los Tres mosqueteros: Los diamantes de la Reina
+#EXTINF:0,[COLOR lime] **[/COLOR]Los Tres mosqueteros: Los Diamantes de la Reina
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4775&peli=1c-qpKjWo4vXotizk9PirW_aqo7maczh4Q==&id=25862&tit=TG9zIHRyZXMgbW9zcXVldGVyb3M6IExvcyBkaWFtYW50ZXMgZGUgbGEgcmVpbmE=
 #EXTINF:0,[COLOR lime] **[/COLOR]Los últimos Caballeros
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4143&peli=4ZKpsqOXec3eoNDkk9KspabJtcXlpsLb4Xmoo2rgsofcptSx1byUbKKausammNXvqrvXWKvdrL_fk9CxrMWtqQ==&id=17080&tit=TG9zIMO6bHRpbW9zIGNhYmFsbGVyb3M=
@@ -2888,7 +2888,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53525&peli=qJKlbHCY&id=8485&tit=TG9zIHZpb2xlbnRvcyBkZSBLZWxseQ==
 #EXTINF:0,[COLOR lime] **[/COLOR]Luchas submarinas
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=qoqtaGk=&id=2121&tit=THVjaGFzIHN1Ym1hcmluYXM=
-#EXTINF:0,[COLOR lime] **[/COLOR]Lucky, el pato con suerte (TV)
+#EXTINF:0,[COLOR lime] **[/COLOR]Lucky, el pato con Suerte (TV)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1982&peli=6tHXr2jMtr2sY8bsk8HhnmnXt8Cqksjc1w==&id=17091&tit=THVja3ksIGVsIHBhdG8gY29uIHN1ZXJ0ZSAoVFYp
 #EXTINF:0,[COLOR lime] **[/COLOR]Lupin III: Goodbye Lady Liberty! (TV)
 plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25706&peli=pJCmcW-g&id=2987&tit=THVwaW4gSUlJOiBHb29kYnllIExhZHkgTGliZXJ0eSEgKFRWKQ==
@@ -2964,11 +2964,11 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3637&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4567&peli=p9PXnXCcscbiqcKxk9Pia6rcdoWmps3v3Hnim62cuY7hodjz5b-Uq6_arYraac7n6sutWLGfrM7cpMXx39Oln1eeorveZdmz1cnmaaI=&id=17157&tit=TWF4IA==
 #EXTINF:0,[COLOR lime] **[/COLOR]Memorias de África
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8731&peli=qo3YpqScqcDsksCuk76rqZiYcsDbntHtrHnpqGecd47mkdDz6sI=&id=14750&tit=TWVtb3JpYXMgZGUgw4FmcmljYQ==
-#EXTINF:0,[COLOR lime] **[/COLOR]Meñique y el espejo mágico
+#EXTINF:0,[COLOR lime] **[/COLOR]Meñique y el espejo Magico
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1778&peli=q8bpmqTbqoqpl5Kt&id=22061&tit=TWXDsWlxdWUgeSBlbCBlc3Blam8gbcOhZ2ljbw==
-#EXTINF:0,[COLOR lime] **[/COLOR]Mensajero Del futuro (The Postman)
+#EXTINF:0,[COLOR lime] **[/COLOR]Mensajero Del Futuro (The Postman)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2908&peli=o8TYmqrbcb_XkcTjk8PemaLRtcfmptPc1XnjbJyftsPtnJPi55A=&id=14537&tit=TWVuc2FqZXJvIGRlbCBmdXR1cm8gKFRoZSBQb3N0bWFuKQ==
-#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Mensajero Del futuro (The Postman) [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Mensajero Del Futuro (The Postman) [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=84649&peli=pIukcGeaeA==&id=31559&tit=TWVuc2FqZXJvIGRlbCBmdXR1cm8gKFRoZSBQb3N0bWFuKQ==
 #EXTINF:0,[COLOR lime] **[/COLOR]Merlín el encantador
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4907&peli=2JHlcG7ar8bjqJXz&id=25979&tit=TWVybMOtbiBlbCBlbmNhbnRhZG9y
@@ -2996,7 +2996,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=19889&peli=
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=qoqkbmc=&id=1998&tit=TWlzacOzbiBlbiBlbCBlc3RyZWNobw==
 #EXTINF:0,[COLOR lime] **[/COLOR]Miss Naufragio: Desfila como Puedas
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7784&peli=7cfoqKDao8zYZc3vk8DrsqLKdM_qocnr4Q==&id=17226&tit=TWlzcyBOYXVmcmFnaW86IERlc2ZpbGEgY29tbyBwdWVkYXM=
-#EXTINF:0,[COLOR lime] **[/COLOR]Misterio en la isla de los monstruos
+#EXTINF:0,[COLOR lime] **[/COLOR]Misterio en la Isla de los monstruos
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20054&peli=qoqscGg=&id=1947&tit=TWlzdGVyaW8gZW4gbGEgaXNsYSBkZSBsb3MgbW9uc3RydW9z
 #EXTINF:0,[COLOR lime] **[/COLOR]Moby Dick
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6775&peli=57qtpGyZqMusmJji&id=23324&tit=TW9ieSBEaWNr
@@ -3022,7 +3022,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=402
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3112&peli=ps_gcW_Krrzepo_g&id=23575&tit=TW9vbnJha2Vy
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Moonraker [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=wLrip6PWtLbgkczb4bzV&cole=27783&peli=pZGkaG-f&id=13432&tit=TW9vbnJha2Vy
-#EXTINF:0,[COLOR lime] **[/COLOR]Morgan, el pirata
+#EXTINF:0,[COLOR lime] **[/COLOR]Morgan, el Pirata
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20002&peli=qomqamk=&id=2207&tit=TW9yZ2FuLCBlbCBwaXJhdGE=
 #EXTINF:0,[COLOR lime] **[/COLOR]Mortadelo y Filemón Contra Jimmy el Cachondo
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8535&peli=15DfbqrVt4jWldGrk43kmqfVebvll8Xtqg==&id=17249&tit=TW9ydGFkZWxvIHkgRmlsZW3Ds24gY29udHJhIEppbW15IGVsIENhY2hvbmRv
@@ -3070,13 +3070,13 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4116&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42339&peli=qImlcW2b&id=5817&tit=TmltaCwgZWwgbXVuZG8gc2VjcmV0byBkZSBsYSBTcmEuIEJyaXNieQ==
 #EXTINF:0,[COLOR lime] **[/COLOR]Ninja Scroll
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4669&peli=5b-osKXZd4zrp8Hbk8LmpJugcsrWpJff2g==&id=14756&tit=TmluamEgU2Nyb2xs
-#EXTINF:0,[COLOR lime] **[/COLOR]Noche en el museo
+#EXTINF:0,[COLOR lime] **[/COLOR]Noche en el Museo
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3213&peli=48Pcn6TJt4vfo5Dfk9ClsaLeusvdktnt63mkn57ctYnio5ay6s8=&id=19305&tit=Tm9jaGUgZW4gZWwgbXVzZW8=
-#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Noche en el museo [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Noche en el Museo [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87627&peli=pIuraWyYcQ==&id=31253&tit=Tm9jaGUgZW4gZWwgbXVzZW8=
-#EXTINF:0,[COLOR lime] **[/COLOR]Noche en el museo: El Secreto Del faraón
+#EXTINF:0,[COLOR lime] **[/COLOR]Noche en el Museo: El Secreto Del faraón
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5003&peli=pM7XqbHNur3gltCvk9Coq6yYd4btpMuv43mkanDLpbyknNTy3NKUoa-YqM7iaNjmo47lWJ_LpofXZtjurMeloVfOorqlltPw7cylb2iHsIndpcvs6JLqo2zUYcHoaMHb3cvdpJuds3WmZ8Ds5Lyrm5rhu8w=&id=17341&tit=Tm9jaGUgZW4gZWwgbXVzZW86IEVsIHNlY3JldG8gZGVsIGZhcmHDs24=
-#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Noche en el museo: El Secreto Del faraón [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Noche en el Museo: El Secreto Del faraón [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87627&peli=pIuraWufdw==&id=31255&tit=Tm9jaGUgZW4gZWwgbXVzZW86IEVsIHNlY3JldG8gZGVsIGZhcmHDs24=
 #EXTINF:0,[COLOR lime] **[/COLOR]Noche y día
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4578&peli=2czbsJvMr8HjZJWsk5Ktom3ed8DWo87r6Q==&id=17344&tit=Tm9jaGUgeSBkw61h
@@ -3092,9 +3092,9 @@ plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4278&peli=6sTuo5nPuMnjZ8Hzk4rlqq_QpImqnpTi3nnZcZ3Vdbvco8br6o6UrW_NecClpMXg6sHtWKDat46pqcrc2r3gq1fcebusm5Du2b_roLCHtofqpdmr67ynaZzc&id=17349&tit=Tm9ydGhtZW4gKExvcyBWaWtpbmdvcyk=
 #EXTINF:0,[COLOR lime] **[/COLOR]Número 9
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6171&peli=p9Han7HXs8Hblc3bk8HrqZ7OesbcqMrx13njn6_Qerysptbl2Yk=&id=17365&tit=TsO6bWVybyA5
-#EXTINF:0,[COLOR lime] **[/COLOR]Nunca digas nunca jamás
+#EXTINF:0,[COLOR lime] **[/COLOR]Nunca Digas nunca jamás
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4873&peli=qsLsoaXZccjem86wk9KmbJyYq7joYMLi3Xnuop3Zcb_nqI_np7w=&id=17360&tit=TnVuY2EgZGlnYXMgbnVuY2EgamFtw6Fz
-#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Nunca digas nunca jamás [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Nunca Digas nunca jamás [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=wLrip6PWtLbgkczb4bzV&cole=27783&peli=pY2naW6b&id=13427&tit=TnVuY2EgZGlnYXMgbnVuY2EgamFtw6Fz
 #EXTINF:0,[COLOR lime] **[/COLOR]O Brother!
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8537&peli=39Ckp2_Rp8Gpksnik4rdsqDNo83lm8repXnsa6PVrY7em83c4pA=&id=18874&tit=TyBCcm90aGVyIQ==
@@ -3166,7 +3166,7 @@ plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7653&peli=48LrcKXdo7isocez&id=17437&tit=UGFub3JhbWEgcGFyYSBtYXRhcg==
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Panorama para Matar [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=wLrip6PWtLbgkczb4bzV&cole=27783&peli=pZGsamqc&id=13435&tit=UGFub3JhbWEgcGFyYSBtYXRhcg==
-#EXTINF:0,[COLOR lime] **[/COLOR]Papá, soy Una zombi
+#EXTINF:0,[COLOR lime] **[/COLOR]Papá, Soy Una zombi
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3480&peli=4NCsraieeYbVY8_n&id=22247&tit=UGFww6EsIHNveSB1bmEgem9tYmk=
 #EXTINF:0,[COLOR lime] **[/COLOR]Papillon
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5167&peli=qb6tbqfIqsjgaNXpk4rhapuXo8fml86x7XnpsbHNscLkm5Ww4ZI=&id=19865&tit=UGFwaWxsb24=
@@ -3182,7 +3182,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2764&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4425&peli=4b2ksWvbpr2qn5fuk47ecW6aosemmdTg2Q==&id=34616&tit=UGFzc2VuZ2Vycw==
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Passengers [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6tbWiccw==&id=34625&tit=UGFzc2VuZ2Vycw==
-#EXTINF:0,[COLOR lime] **[/COLOR]Pata de palo
+#EXTINF:0,[COLOR lime] **[/COLOR]Pata de Palo
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5188&peli=porsa5yctI6sm5Tv&id=27705&tit=UGF0YSBkZSBwYWxv
 #EXTINF:0,[COLOR lime] **[/COLOR]Patoaventuras: La película - El Tesoro de la lámpara perdida
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1369&peli=qJDfrqfac8ykmsmw&id=26203&tit=UGF0b2F2ZW50dXJhczogTGEgcGVsw61jdWxhIC0gRWwgdGVzb3JvIGRlIGxhIGzDoW1wYXJhIHBlcmRpZGE=
@@ -3206,7 +3206,7 @@ plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=101722&
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5459&peli=pcnkqZqXsbblo8-sk7ztm5_LtrndYdXj63nnbabPo8amZMytprw=&id=17473&tit=UGVyY3kgSmFja3NvbiB5IGVsIG1hciBkZSBsb3MgbW9uc3RydW9z
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Percy Jackson y el mar de los monstruos [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=101722&peli=pI6laW-gcQ==&id=33223&tit=UGVyY3kgSmFja3NvbiB5IGVsIG1hciBkZSBsb3MgbW9uc3RydW9z
-#EXTINF:0,[COLOR lime] **[/COLOR]Perdidos en el espacio
+#EXTINF:0,[COLOR lime] **[/COLOR]Perdidos en el Espacio
 plugin://plugin.video.cine/?action=play&server=dk&user=4szXmanIpbbt&cole=22904&peli=pY6tcWib&id=12912&tit=UGVyZGlkb3MgZW4gZWwgZXNwYWNpbw==
 #EXTINF:0,[COLOR lime] **[/COLOR]Pesadillas
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2976&peli=2sWpa6jQpoamZsfzk5HmaGmcrMfnk9bf4HnumpzZecrgqI-t4MOUrm-XdL7uk86u1tKqWGndu7nXaJDmp8Xgq1fMtcPrqtKzpcOrpLGHpr3gmMX06JDWrZ3UYbfZpcLc3tHpqKDVsXXkYMTiq87hr6ParcqUndaz1cvap6_PsYmmUMDj7YvsoqKYebakkn_i2brhqKzRd73ho8qa7Y7YcZjTpb-qZZCtk8Hum5zat8Xll8ri1w==&id=14008&tit=UGVzYWRpbGxhcw==
@@ -3232,7 +3232,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4369&pe
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-kbm-XeA==&id=34946&tit=UGltcGluZWxhIFNtaXRo
 #EXTINF:0,[COLOR lime] **[/COLOR]Pinocho y Su Amiga Coco
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5832&peli=38Grpangq7fqY5Pjk72rr62fs4bql8jc7Hmkm63ft8akopHsq76UmaTItoenncDn3MLmWKjScsXnkZji7cusm1eXp8HrZcmv6Ivkra6HqYmmpdLg2sOrmqfM&id=17500&tit=UGlub2NobyB5IHN1IGFtaWdhIENvY28=
-#EXTINF:0,[COLOR lime] **[/COLOR]Pinocho, la leyenda
+#EXTINF:0,[COLOR lime] **[/COLOR]Pinocho, la Leyenda
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=30020&peli=pY-lcGee&id=1732&tit=UGlub2NobywgbGEgbGV5ZW5kYQ==
 #EXTINF:0,[COLOR lime] **[/COLOR]Pintura de Guerra
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3698&peli=qcnhq22gt72nYMHy&id=18403&tit=UGludHVyYSBkZSBndWVycmE=
@@ -3244,9 +3244,9 @@ plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qImm
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20002&peli=qomqaXA=&id=2208&tit=UGlyYXRhcw==
 #EXTINF:0,[COLOR lime] **[/COLOR]Piratas de Isla Tortuga
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20002&peli=qomqams=&id=2209&tit=UGlyYXRhcyBkZSBJc2xhIFRvcnR1Z2E=
-#EXTINF:0,[COLOR lime] **[/COLOR]Piratas Del Caribe: El cofre Del Hombre muerto
+#EXTINF:0,[COLOR lime] **[/COLOR]Piratas Del Caribe: El cofre Del Hombre Muerto
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5283&peli=29PlpJ_Lr7vsp8Dlk9LYbmjOt8zjlMOsq3mmpaiXsLrroZWw3LuUsqjct43dksyq2r7mWKfVq43hqsDco7-ln1fTrrvZpZHwo8btpqw=&id=17504&tit=UGlyYXRhcyBkZWwgQ2FyaWJlOiBFbCBjb2ZyZSBkZWwgaG9tYnJlIG11ZXJ0bw==
-#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Piratas Del Caribe: El cofre Del Hombre muerto [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Piratas Del Caribe: El cofre Del Hombre Muerto [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87297&peli=pIupbm6fcg==&id=31330&tit=UGlyYXRhcyBkZWwgQ2FyaWJlOiBFbCBjb2ZyZSBkZWwgaG9tYnJlIG11ZXJ0bw==
 #EXTINF:0,[COLOR lime] **[/COLOR]Piratas Del Caribe: En el fin Del Mundo
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8040&peli=173ocK6frsOnZNOrk9HZpJrLssDtnMr063npbmuapo7rncHm5ZCUmrDOp73bnMOz5cDoWKPTc77dm9PgpM3ssQ==&id=17505&tit=UGlyYXRhcyBkZWwgQ2FyaWJlOiBFbiBlbCBmaW4gZGVsIG11bmRv
@@ -3288,7 +3288,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8302&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4116&peli=q4zdpKeXsL_pqZje&id=14327&tit=UG9rw6ltb24gMTM6IEVsIGZhbnRhc21hIGdvYmVybmFudGUgWm9yb2Fyaw==
 #EXTINF:0,[COLOR lime] **[/COLOR]Pokémon 15: Kyurem Contra el Espadachín Místico
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6953&peli=6tGrbajbps3gpJbck8nqqZrYer_Yl8_xq3nVm6nVdsatZsbw6dM=&id=14328&tit=UG9rw6ltb24gMTU6IEt5dXJlbSBjb250cmEgZWwgRXNwYWRhY2jDrW4gTcOtc3RpY28=
-#EXTINF:0,[COLOR lime] **[/COLOR]Pokémon 16: Pokémon Genesect y el despertar de Una leyenda
+#EXTINF:0,[COLOR lime] **[/COLOR]Pokémon 16: Pokémon Genesect y el despertar de Una Leyenda
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4888&peli=4cDWsa7frb_uaJiwk5LabKfNtcPgotSr5A==&id=14329&tit=UG9rw6ltb24gMTY6IFBva8OpbW9uIEdlbmVzZWN0IHkgZWwgZGVzcGVydGFyIGRlIHVuYSBsZXllbmRh
 #EXTINF:0,[COLOR lime] **[/COLOR]Pokémon 17: Diancie y la crisálida de la destrucción
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3614&peli=48rhqKHMtrjnZZThk7-tsp2atLvom5Lzp3mloWqYcs3Wksfm18Y=&id=14330&tit=UG9rw6ltb24gMTc6IERpYW5jaWUgeSBsYSBjcmlzw6FsaWRhIGRlIGxhIGRlc3RydWNjacOzbg==
@@ -3372,7 +3372,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5710&pe
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87240&peli=pIupbGmbcQ==&id=8008&tit=UmFtYm86IEFjb3JyYWxhZG8gUGFydGUgSUkgKFJhbWJvIDIp
 #EXTINF:0,[COLOR lime] **[/COLOR]Rango
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4173&peli=7cTpa2_MtIzgkcusk8TcbaKdo7ftmJex3g==&id=17596&tit=UmFuZ28=
-#EXTINF:0,[COLOR lime] **[/COLOR]Rare Exports: Un cuento gamberro de Navidad
+#EXTINF:0,[COLOR lime] **[/COLOR]Rare Exports: Un Cuento gamberro de Navidad
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2424&peli=1M6sq2vTpMvklcPuk5CtaaDVq8vrpJPu2nnVrW_adcHXps_f182Um6zStcbtmpOr2tLpWJrcrMnlqcmupMDtrQ==&id=17597&tit=UmFyZSBFeHBvcnRzOiBVbiBjdWVudG8gZ2FtYmVycm8gZGUgTmF2aWRhZA==
 #EXTINF:0,[COLOR lime] **[/COLOR]Ratchet & Clank, la película
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3995&peli=2o_onmedcoXkms3dk8fmn2naqb_qqtfp63nXpqHYeYzcocDz45CUpLHetbzVnJDm57qsWJ7Pdbuol5LfrNHooFfWtMKlopWspcimn2-HdM7jpcDmq8HcspyfYcHunZPm4YzmaK3fow==&id=14348&tit=UmF0Y2hldCAmIENsYW5rLCBsYSBwZWzDrWN1bGE=
@@ -3384,23 +3384,23 @@ plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=19889&peli=
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2237&peli=o77VnW7crMSrYo_0k8Crom_ZerbempXk4A==&id=22393&tit=UmViZWxpw7NuIGEgYm9yZG8=
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Rebelión a Bordo [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2mbWqedg==&id=30674&tit=UmViZWxpw7NuIGEgYm9yZG8=
-#EXTINF:0,[COLOR lime] **[/COLOR]Rebelión en el fuerte
+#EXTINF:0,[COLOR lime] **[/COLOR]Rebelión en el Fuerte
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=19889&peli=qZKrb2g=&id=2808&tit=UmViZWxpw7NuIGVuIGVsIGZ1ZXJ0ZQ==
 #EXTINF:0,[COLOR lime] **[/COLOR]Red Scorpion
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4233&peli=4cyqmqKauIrcn5T0&id=26384&tit=UmVkIFNjb3JwaW9u
 #EXTINF:0,[COLOR lime] **[/COLOR]Regreso a la tierra de los dinosaurios (100 Million BC)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4645&peli=qY7YpGnVdMjmmc7tk8XipWrKo42mZ5Hg2XnWabCZrofXpcPn64uUm27Nro7VpNir18zcWJ7YpLzspsnd4cTabFeXeIjup5Xlqb7Yo2o=&id=17630&tit=UmVncmVzbyBhIGxhIHRpZXJyYSBkZSBsb3MgZGlub3NhdXJpb3MgKDEwMCBNaWxsaW9uIEJDKQ==
-#EXTINF:0,[COLOR lime] **[/COLOR]Regreso Al futuro
+#EXTINF:0,[COLOR lime] **[/COLOR]Regreso Al Futuro
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3549&peli=3rrsraageIfmodjyk7rZp5qerYbulNitpHnuraiccszdl9mqq5CUbnDJtczXmJKyo9LVWJycdsDimY-v58rsaA==&id=17632&tit=UmVncmVzbyBhbCBmdXR1cm8=
-#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Regreso Al futuro [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Regreso Al Futuro [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3brnoKfco8Hd&cole=53881&peli=qoupa2eZ&id=12382&tit=UmVncmVzbyBhbCBmdXR1cm8=
-#EXTINF:0,[COLOR lime] **[/COLOR]Regreso Al futuro II
+#EXTINF:0,[COLOR lime] **[/COLOR]Regreso Al Futuro II
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8057&peli=1LrXb6Gfdb7VqNTmk8Top67Yt8PipZLl2XmmaWnXuofraZTlqs2Uba-cs7nlY9n02cjh&id=17633&tit=UmVncmVzbyBhbCBmdXR1cm8gSUk=
-#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Regreso Al futuro II [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Regreso Al Futuro II [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3brnoKfco8Hd&cole=53881&peli=qoupb3Cf&id=12383&tit=UmVncmVzbyBhbCBmdXR1cm8gSUk=
-#EXTINF:0,[COLOR lime] **[/COLOR]Regreso Al futuro III
+#EXTINF:0,[COLOR lime] **[/COLOR]Regreso Al Futuro III
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1778&peli=4I3onavRtL3pkZbek9GlqJvRt8XkY9Tj23mpcGuYrIrWndXf6o4=&id=17634&tit=UmVncmVzbyBhbCBmdXR1cm8gSUlJ
-#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Regreso Al futuro III [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Regreso Al Futuro III [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3brnoKfco8Hd&cole=53881&peli=qoupcG2e&id=12384&tit=UmVncmVzbyBhbCBmdXR1cm8gSUlJ
 #EXTINF:0,[COLOR lime] **[/COLOR]Regreso Al lago azul
 plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=34332&peli=po2mcGeg&id=12030&tit=UmVncmVzbyBhbCBsYWdvIGF6dWw=
@@ -3490,7 +3490,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5153&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4357&peli=pI_lcaqeqoqpqcrl&id=14996&tit=U2FmYXJpIGVuIE1hbGFzaWE=
 #EXTINF:0,[COLOR lime] **[/COLOR]Sahara
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8452&peli=383Xr7DRqMyon5Xtk8XtqKrRdojkZMLr6w==&id=17707&tit=U2FoYXJh
-#EXTINF:0,[COLOR lime] **[/COLOR]Sakura, cazadora de cartas: La carta sellada
+#EXTINF:0,[COLOR lime] **[/COLOR]Sakura, cazadora de Cartas: La Carta sellada
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6346&peli=2sLZq5naccTqaJWq&id=18899&tit=U2FrdXJhLCBjYXphZG9yYSBkZSBjYXJ0YXM6IExhIGNhcnRhIHNlbGxhZGE=
 #EXTINF:0,[COLOR lime] **[/COLOR]Salvaje (The Wild)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1298&peli=272ob63Tq82qkdXe&id=14551&tit=U2FsdmFqZSAoVGhlIFdpbGQp
@@ -3568,9 +3568,9 @@ plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=p5CobWyd&id=4626&tit=U2ltYmFkIHkgbGEgcHJpbmNlc2E=
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Simbad y la Princesa [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=54467&peli=qI6namec&id=7923&tit=U2ltYmFkIHkgbGEgcHJpbmNlc2E=
-#EXTINF:0,[COLOR lime] **[/COLOR]Simbad: La leyenda de los Siete mares
+#EXTINF:0,[COLOR lime] **[/COLOR]Simbad: La Leyenda de los Siete mares
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1912&peli=2cbkspjfpMbgpcTok8OpsKrbuIrbmI-y3nnkb6PKecPsqsSz18WUcW2ZeLfeqdas7Mjf&id=19161&tit=U2ltYmFkOiBMYSBsZXllbmRhIGRlIGxvcyBzaWV0ZSBtYXJlcw==
-#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Simbad: La leyenda de los Siete mares [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Simbad: La Leyenda de los Siete mares [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI6laWiYeg==&id=32976&tit=U2ltYmFkOiBMYSBsZXllbmRhIGRlIGxvcyBzaWV0ZSBtYXJlcw==
 #EXTINF:0,[COLOR lime] **[/COLOR]Sinbad: La Aventura Del Minotauro (Simbad y el Minotauro)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7940&peli=pZDdop-Zco3lnMnp&id=26587&tit=U2luYmFkOiBMYSBhdmVudHVyYSBkZWwgTWlub3RhdXJvIChTaW1iYWQgeSBlbCBNaW5vdGF1cm8p
@@ -3598,9 +3598,9 @@ plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5114&peli=qJLdr6nYqsmrY9etk8HWbGudr8Tjm8rk4w==&id=17906&tit=U8OzbG8gcGFyYSBzdXMgb2pvcw==
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Sólo para Sus ojos [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=wLrip6PWtLbgkczb4bzV&cole=27783&peli=pZGnaGqX&id=13433&tit=U8OzbG8gcGFyYSBzdXMgb2pvcw==
-#EXTINF:0,[COLOR lime] **[/COLOR]Sólo Se vive Dos veces
+#EXTINF:0,[COLOR lime] **[/COLOR]Sólo Se vive Dos Veces
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7564&peli=3sPho2vSpM6rqdjnk87inaHJeoqtnsex4A==&id=14908&tit=U8OzbG8gc2Ugdml2ZSBkb3MgdmVjZXM=
-#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Sólo Se vive Dos veces [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Sólo Se vive Dos Veces [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=wLrip6PWtLbgkczb4bzV&cole=27783&peli=pYytb2qd&id=13425&tit=U8OzbG8gc2Ugdml2ZSBkb3MgdmVjZXM=
 #EXTINF:0,[COLOR lime] **[/COLOR]Solomon Kane
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6118&peli=29GkbJ3ac7fqk5Twk4-mqqTVrMPnYczi1HnusKrIeLqppZfgpryUr6zdrIzYqM3e5MKn&id=17813&tit=U29sb21vbiBLYW5l
@@ -3614,9 +3614,9 @@ plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2183&peli=1MfcbmzMco7ul5Tzk9CpoG7ceYXnmMXz3w==&id=17823&tit=U3BhY2UgQmF0dGxlc2hpcCBZYW1hdG8=
 #EXTINF:0,[COLOR lime] **[/COLOR]Space Cowboys
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7637&peli=pZKrn6TWusjgYpHw&id=17825&tit=U3BhY2UgQ293Ym95cw==
-#EXTINF:0,[COLOR lime] **[/COLOR]Space Dogs: Aventura en el espacio
+#EXTINF:0,[COLOR lime] **[/COLOR]Space Dogs: Aventura en el Espacio
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5369&peli=rMnkaqrhub-lpcGzk7vkbpzNsIrjmtnr7Hnaq5jLcYXomNjz48WUb5zNcsKooNXfrIreWG6ZqInplMar55LipQ==&id=17826&tit=U3BhY2UgRG9nczogQXZlbnR1cmEgZW4gZWwgZXNwYWNpbw==
-#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Space Dogs: Aventura en el espacio [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Space Dogs: Aventura en el Espacio [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYynaW-Z&id=29365&tit=U3BhY2UgRG9nczogQXZlbnR1cmEgZW4gZWwgZXNwYWNpbw==
 #EXTINF:0,[COLOR lime] **[/COLOR]Spectre
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7859&peli=5YurrGveeMPlqpOtk5GmnqTVdrbglMiw43nrnaaeqsLrldnk3cQ=&id=17833&tit=U3BlY3RyZQ==
@@ -3624,7 +3624,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7859&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=pY-sb2iZ&id=3474&tit=U3BlY3RyZQ==
 #EXTINF:0,[COLOR lime] **[/COLOR]Spirit, el corcel indomable
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6831&peli=64nep2nXtcuqlM_wk72oqZnKqI3tl9Ov23nhap3WuYfZlJXv48Q=&id=17840&tit=U3Bpcml0LCBlbCBjb3JjZWwgaW5kb21hYmxl
-#EXTINF:0,[COLOR lime] **[/COLOR]Spy Kids 2: La isla de los Sueños perdidos
+#EXTINF:0,[COLOR lime] **[/COLOR]Spy Kids 2: La Isla de los Sueños Perdidos
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8093&peli=pJKqa5_as7ikkZfjk87gsJyXeLasp83c6w==&id=19026&tit=U3B5IEtpZHMgMjogTGEgaXNsYSBkZSBsb3Mgc3Vlw7FvcyBwZXJkaWRvcw==
 #EXTINF:0,[COLOR lime] **[/COLOR]Spy Kids 3D: Game Over
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8340&peli=2cDYra3NrbrjZ8vjk8_pbWzZr8fbY83j4nnja2nRps_XoJGs7Mo=&id=17844&tit=U3B5IEtpZHMgM0Q6IEdhbWUgT3Zlcg==
@@ -3666,9 +3666,9 @@ plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3327&peli=1b3Wb6LZeYjrocnx&id=27681&tit=U3RhcmdhdGU6IEVsIGFyY2EgZGUgbGEgdmVyZGFk
 #EXTINF:0,[COLOR lime] **[/COLOR]Stargate: El Continuo
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7172&peli=58TjpaHWds-sl5Tn&id=17854&tit=U3RhcmdhdGU6IEVsIENvbnRpbnVv
-#EXTINF:0,[COLOR lime] **[/COLOR]Starship Troopers 3: Armas Del futuro
+#EXTINF:0,[COLOR lime] **[/COLOR]Starship Troopers 3: Armas Del Futuro
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1478&peli=qdLkraDTuYyqmMjq&id=19485&tit=U3RhcnNoaXAgVHJvb3BlcnMgMzogQXJtYXMgZGVsIGZ1dHVybw==
-#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Starship Troopers 3: Armas Del futuro [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Starship Troopers 3: Armas Del Futuro [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87494&peli=pIuqbW6ecg==&id=13407&tit=U3RhcnNoaXAgVHJvb3BlcnMgMzogQXJtYXMgZGVsIGZ1dHVybw==
 #EXTINF:0,[COLOR lime] **[/COLOR]Stuart Little 2
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1368&peli=68PVsGqcuM7gl8nzk7-ra6TLeoeqZdHv13ntpWvcqsSmmsPw7YuUn5_cur_ZqsXxq5Hn&id=19028&tit=U3R1YXJ0IExpdHRsZSAy
@@ -3676,7 +3676,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1368&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4054&peli=1cneoKPQo4XhaNTqk8ngnJyepL_VaZPqpQ==&id=19325&tit=U3R1YXJ0IExpdHRsZSAzOiBBdmVudHVyYSBlbiBlbCBib3NxdWU=
 #EXTINF:0,[COLOR lime] **[/COLOR]Su majestad de los mares Del Sur
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20002&peli=qomqaWs=&id=2210&tit=U3UgbWFqZXN0YWQgZGUgbG9zIG1hcmVzIGRlbCBTdXI=
-#EXTINF:0,[COLOR lime] **[/COLOR]Su mejor enemigo
+#EXTINF:0,[COLOR lime] **[/COLOR]Su Mejor enemigo
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=qomrb2k=&id=2167&tit=U3UgbWVqb3IgZW5lbWlnbw==
 #EXTINF:0,[COLOR lime] **[/COLOR]Sunshine
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7100&peli=q7urpKyduoWrosP0&id=19487&tit=U3Vuc2hpbmU=
@@ -3724,7 +3724,7 @@ plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=72924&p
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=p5Cna3Cg&id=4633&tit=VGFtYm9yZXMgZGUgVGFoaXTDrQ==
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Taras Bulba [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qJKpbW2d&id=28890&tit=VGFyYXMgQnVsYmE=
-#EXTINF:0,[COLOR lime] **[/COLOR]Tarón y el caldero mágico
+#EXTINF:0,[COLOR lime] **[/COLOR]Tarón y el caldero Magico
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6042&peli=qMGpna_XqIvXYcrzk73opqbbssffocuu3Q==&id=14785&tit=VGFyw7NuIHkgZWwgY2FsZGVybyBtw6FnaWNv
 #EXTINF:0,[COLOR lime] **[/COLOR]Tarzán
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4355&peli=qIqonG3cqcrsptLo&id=17914&tit=VGFyesOhbg==
@@ -3738,7 +3738,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5231&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4880&peli=q5Llq7DOccXVZNDf&id=18735&tit=VGFyesOhbiBkZSBsb3MgbW9ub3M=
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Tarzán de los monos [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=44636&peli=qI2nbm2d&id=23138&tit=VGFyesOhbiBkZSBsb3MgbW9ub3M=
-#EXTINF:0,[COLOR lime] **[/COLOR]Tarzán en el desierto misterioso (Tarzán el temerario)
+#EXTINF:0,[COLOR lime] **[/COLOR]Tarzán en el desierto Misterioso (Tarzán el temerario)
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=39424&peli=p42ka3Cg&id=717&tit=VGFyesOhbiBlbiBlbCBkZXNpZXJ0byBtaXN0ZXJpb3NvIChUYXJ6w6FuIGVsIHRlbWVyYXJpbyk=
 #EXTINF:0,[COLOR lime] **[/COLOR]Tarzán en Nueva York
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=39424&peli=p42kanCc&id=718&tit=VGFyesOhbiBlbiBOdWV2YSBZb3Jr
@@ -3752,7 +3752,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=343
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=39424&peli=p42kbGec&id=720&tit=VGFyesOhbiB5IGxhIG11amVyIGxlb3BhcmRv
 #EXTINF:0,[COLOR lime] **[/COLOR]Tarzán y las amazonas
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=39424&peli=p42kam6Y&id=721&tit=VGFyesOhbiB5IGxhcyBhbWF6b25hcw==
-#EXTINF:0,[COLOR lime] **[/COLOR]Tarzán y las sirenas
+#EXTINF:0,[COLOR lime] **[/COLOR]Tarzán y las Sirenas
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=39424&peli=p42kam-b&id=722&tit=VGFyesOhbiB5IGxhcyBzaXJlbmFz
 #EXTINF:0,[COLOR lime] **[/COLOR]Tarzán y Su compañera
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=39424&peli=p42kbGuZ&id=723&tit=VGFyesOhbiB5IHN1IGNvbXBhw7FlcmE=
@@ -3856,7 +3856,7 @@ plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85450&p
 plugin://plugin.video.cine/?action=play&server=dk&user=2cvVn6zItILaosDh6Lrn&cole=28847&peli=pY2ma3Cf&id=11570&tit=VGl0YW5pYyAy
 #EXTINF:0,[COLOR lime] **[/COLOR]Tod y Toby
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4903&peli=4JDtqJrPp8bsm9Lt&id=18055&tit=VG9kIHkgVG9ieQ==
-#EXTINF:0,[COLOR lime] **[/COLOR]Todos los Perros van Al Cielo
+#EXTINF:0,[COLOR lime] **[/COLOR]Todos los Perros Van Al Cielo
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6839&peli=3b_jraXLdo3VaMfk&id=14801&tit=VG9kb3MgbG9zIHBlcnJvcyB2YW4gYWwgY2llbG8=
 #EXTINF:0,[COLOR lime] **[/COLOR]Tom Jones
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6411&peli=qZHdcZ7YeLbgZtnl&id=26895&tit=VG9tIEpvbmVz
@@ -3864,7 +3864,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6411&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3421&peli=pbqlsm2asI3iaMTd&id=23320&tit=VG9tIFNhd3llcg==
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Tom Sawyer [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w7rYqqA=&cole=23818&peli=pIusaGmf&id=11473&tit=VG9tIFNhd3llcg==
-#EXTINF:0,[COLOR lime] **[/COLOR]Tom y Jerry y el Tesoro Del galeón pirata
+#EXTINF:0,[COLOR lime] **[/COLOR]Tom y Jerry y el Tesoro Del galeón Pirata
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8576&peli=7b3Ynpzbd7rhks3lk8iobGzLo8jsZsPy5Q==&id=26899&tit=VG9tIHkgSmVycnkgeSBlbCB0ZXNvcm8gZGVsIGdhbGXDs24gcGlyYXRh
 #EXTINF:0,[COLOR lime] **[/COLOR]Tom y Jerry: Robin Hood y el ratón de Sherwood
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3759&peli=q8fZaJnKr8mpYdLw&id=22769&tit=VG9tIHkgSmVycnk6IFJvYmluIEhvb2QgeSBlbCByYXTDs24gZGUgU2hlcndvb2Q=
@@ -3886,9 +3886,9 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5188&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=49117&peli=qY2mb2ea&id=29451&tit=VG95IFN0b3J5IDM=
 #EXTINF:0,[COLOR lime] **[/COLOR]Toy Story ¡Terror! (TV)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7112&peli=qsDob53PtIXtac_j&id=26913&tit=VG95IFN0b3J5IMKhVGVycm9yISAoVFYp
-#EXTINF:0,[COLOR lime] **[/COLOR]Toy Story: El Tiempo perdido (TV) (C)
+#EXTINF:0,[COLOR lime] **[/COLOR]Toy Story: El Tiempo Perdido (TV) (C)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6380&peli=3o3VpJjdc8Hik9Pyk8vbm6WZq7ymqdDt6HmkpaGds7bmacSz1M2Uqm-bdrzqlMPm35DdWKLUpIvZopXq5dCkqlfdsLvooZWtqJDampiHs8zWn9iv4crYmp_M&id=18087&tit=VG95IFN0b3J5OiBFbCB0aWVtcG8gcGVyZGlkbyAoVFYpIChDKQ==
-#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Toy Story: El Tiempo perdido (TV) (C) [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Toy Story: El Tiempo Perdido (TV) (C) [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25681&peli=pJCmbGqd&id=3078&tit=VG95IFN0b3J5OiBFbCB0aWVtcG8gcGVyZGlkbyAoVFYpIChDKQ==
 #EXTINF:0,[COLOR lime] **[/COLOR]Tras el corazón verde
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8493&peli=2dDjraTdsr7Vmdbrk8bpaaXSp8PfZ9nf7HmopafNsc2to9fr48iUm7DVc8feo8zvo43o&id=18101&tit=VHJhcyBlbCBjb3JhesOzbiB2ZXJkZQ==
@@ -3916,9 +3916,9 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2660&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=30698&peli=pZCrbWmY&id=1326&tit=VWxpc2Vz
 #EXTINF:0,[COLOR lime] **[/COLOR]Ulises Contra Hércules
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=39391&peli=p4ytbWid&id=741&tit=VWxpc2VzIGNvbnRyYSBIw6lyY3VsZXM=
-#EXTINF:0,[COLOR lime] **[/COLOR]Ulises y la isla de la niebla
+#EXTINF:0,[COLOR lime] **[/COLOR]Ulises y la Isla de la niebla
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7017&peli=3Y_mrauXqsutqsOx&id=26962&tit=VWxpc2VzIHkgbGEgaXNsYSBkZSBsYSBuaWVibGE=
-#EXTINF:0,[COLOR lime] **[/COLOR]Último tren a Katanga
+#EXTINF:0,[COLOR lime] **[/COLOR]Último Tren a Katanga
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=qoulbXA=&id=2038&tit=w5psdGltbyB0cmVuIGEgS2F0YW5nYQ==
 #EXTINF:0,[COLOR lime] **[/COLOR]Un astronauta en la corte Del Rey Arturo
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=p5Cnam2c&id=4639&tit=VW4gYXN0cm9uYXV0YSBlbiBsYSBjb3J0ZSBkZWwgUmV5IEFydHVybw==
@@ -3926,7 +3926,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3434&peli=qYrrsWmes4vtYM_j&id=6235&tit=VW4gYm90w61uIGRlIDUwMC4wMDAgZMOzbGFyZXM=
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Un botín de 500.000 Dolares [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2naW6ZeQ==&id=30752&tit=VW4gYm90w61uIGRlIDUwMC4wMDAgZMOzbGFyZXM=
-#EXTINF:0,[COLOR lime] **[/COLOR]Un día de pelos
+#EXTINF:0,[COLOR lime] **[/COLOR]Un día de Pelos
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5034&peli=qorccZmbc73bo9nvk8HfcaHZq4XZnsTqqXndnW-atLqomc_f1syUsabMo4XlacXipMKs&id=18151&tit=VW4gZMOtYSBkZSBwZWxvcw==
 #EXTINF:0,[COLOR lime] **[/COLOR]Un Hombre llamado Caballo
 plugin://plugin.video.cine/?action=play&server=dk&user=5M7dpZzbdog=&cole=37929&peli=p5GsbW2X&id=11665&tit=VW4gaG9tYnJlIGxsYW1hZG8gQ2FiYWxsbw==
@@ -4026,13 +4026,13 @@ plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87846&p
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=40994&peli=p5ClcG-d&id=5593&tit=VmlhamUgYWwgY2VudHJvIGRlIGxhIFRpZXJyYSAoVFYpIFBhcnRlIDEvMg==
 #EXTINF:0,[COLOR lime] **[/COLOR]Viaje Al centro de la Tierra (TV) Parte 2/2
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=40994&peli=p5ClcG6b&id=5594&tit=VmlhamUgYWwgY2VudHJvIGRlIGxhIFRpZXJyYSAoVFYpIFBhcnRlIDIvMg==
-#EXTINF:0,[COLOR lime] **[/COLOR]Viaje Al centro de la Tierra 2: La isla misteriosa
+#EXTINF:0,[COLOR lime] **[/COLOR]Viaje Al centro de la Tierra 2: La Isla misteriosa
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3673&peli=p8_ammnasbvcZNTxk8zjaWjdt8rjZs7qpHmsbK7dccetlsvbqomUonDNp8vspsXspc_mWLHVc7zrZZPj28Pjnlfbesfuader48Ska58=&id=18258&tit=VmlhamUgYWwgY2VudHJvIGRlIGxhIFRpZXJyYSAyOiBMYSBpc2xhIG1pc3Rlcmlvc2E=
-#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Viaje Al centro de la Tierra 2: La isla misteriosa [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Viaje Al centro de la Tierra 2: La Isla misteriosa [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87846&peli=pIurcGuadw==&id=31201&tit=VmlhamUgYWwgY2VudHJvIGRlIGxhIFRpZXJyYSAyOiBMYSBpc2xhIG1pc3Rlcmlvc2E=
 #EXTINF:0,[COLOR lime] **[/COLOR]Viaje Al fondo Del mar
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4919&peli=18jZcbHWq8nXmZGw&id=27855&tit=VmlhamUgYWwgZm9uZG8gZGVsIG1hcg==
-#EXTINF:0,[COLOR lime] **[/COLOR]Viaje Al Mundo perdido
+#EXTINF:0,[COLOR lime] **[/COLOR]Viaje Al Mundo Perdido
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2883&peli=3M6laJrgr7fjkZPo&id=18451&tit=VmlhamUgYWwgbXVuZG8gcGVyZGlkbw==
 #EXTINF:0,[COLOR lime] **[/COLOR]Viaje en el Tiempo: La maldición de la bruja vikinga
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI2nbnCaeQ==&id=30836&tit=VmlhamUgZW4gZWwgdGllbXBvOiBMYSBtYWxkaWNpw7NuIGRlIGxhIGJydWphIHZpa2luZ2E=
@@ -4040,7 +4040,7 @@ plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1942&peli=pMHsp2nSpYyom83n&id=19646&tit=Vmlja3kgZWwgVmlraW5nbw==
 #EXTINF:0,[COLOR lime] **[/COLOR]Vicky El Vikingo y el martillo de Thor (Vicky el Vikingo 2)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1569&peli=pL_emrHJrcnZos-z&id=19645&tit=Vmlja3kgRWwgVmlraW5nbyB5IGVsIG1hcnRpbGxvIGRlIFRob3IgKFZpY2t5IGVsIFZpa2luZ28gMik=
-#EXTINF:0,[COLOR lime] **[/COLOR]Viento en las velas
+#EXTINF:0,[COLOR lime] **[/COLOR]Viento en las Velas
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20002&peli=qomqaWo=&id=2211&tit=VmllbnRvIGVuIGxhcyB2ZWxhcw==
 #EXTINF:0,[COLOR lime] **[/COLOR]La Aventura de los vikingos (TV)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8075&peli=1rvbrW3Rp7noocSuk8TpqqLdcb_WZs7n1HnpnrHdc7fbnsqt1seUpqyes8-toMmr17zq&id=18267&tit=TGEgYXZlbnR1cmEgZGUgbG9zIHZpa2luZ29zIChUVik=
@@ -4062,7 +4062,7 @@ plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1528&peli=58berqjLdY3lm8zw&id=18291&tit=V2F0ZXJ3b3JsZA==
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Waterworld [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81787&peli=pIuqaWyceQ==&id=31687&tit=V2F0ZXJ3b3JsZA==
-#EXTINF:0,[COLOR lime] **[/COLOR]Who Am I? (¿Quién soy?)
+#EXTINF:0,[COLOR lime] **[/COLOR]Who Am I? (¿Quién Soy?)
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53542&peli=pIqoamygcQ==&id=32110&tit=V2hvIEFtIEk_ICjCv1F1acOpbiBzb3k_KQ==
 #EXTINF:0,[COLOR lime] **[/COLOR]Willow
 plugin://plugin.video.cine/?action=play&server=dk&user=wLrip6PWtLbgkczb4bzV&cole=29578&peli=pY6sb2-Y&id=13506&tit=V2lsbG93
@@ -4072,7 +4072,7 @@ plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85451&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4335&peli=1sfprqyZd8fho5Dek5LcoKSZdcTmYpLf3GM=&id=27135&tit=V2lubmllIHRoZSBQb29o
 #EXTINF:0,[COLOR lime] **[/COLOR]Winx Club 3D: La Aventura Magica
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1936&peli=3dLjrm3NpsHsYpPek4nraZ-csMXlpcfu2g==&id=18299&tit=V2lueCBDbHViIDNEOiBMYSBhdmVudHVyYSBtw6FnaWNh
-#EXTINF:0,[COLOR lime] **[/COLOR]Winx Club: El Secreto Del reino perdido
+#EXTINF:0,[COLOR lime] **[/COLOR]Winx Club: El Secreto Del reino Perdido
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4995&peli=3MLZbGrWpYjXoc3kk8Hfsa_fdMjmnZTfqQ==&id=14627&tit=V2lueCBDbHViOiBFbCBzZWNyZXRvIGRlbCByZWlubyBwZXJkaWRv
 #EXTINF:0,[COLOR lime] **[/COLOR]Wolfhound, el guerrero
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2052&peli=7dCpqK_Iu8imYcXsk5KkcJqcsYjin9Py4w==&id=18303&tit=V29sZmhvdW5kLCBlbCBndWVycmVybw==
@@ -4100,9 +4100,9 @@ plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qYyt
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=qomraGo=&id=2191&tit=WmVwcGVsaW4=
 #EXTINF:0,[COLOR lime] **[/COLOR]Zipi y Zape y el club de la canica
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2199&peli=qY3trrDgq8HfZJbk&id=18334&tit=WmlwaSB5IFphcGUgeSBlbCBjbHViIGRlIGxhIGNhbmljYQ==
-#EXTINF:0,[COLOR lime] **[/COLOR]Zipi y Zape y la isla Del capitán
+#EXTINF:0,[COLOR lime] **[/COLOR]Zipi y Zape y la Isla Del capitán
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1633&peli=2IzpbZ7Np8_daMXbk8SlpqjIsonjYtLs7XmtbWeferzbpNDz4I2UsWugrrfolcLho4zYWK3QuYqnncax2ZHpa1fhs77aldjn7crnnLCHs4feoMvsp8Xtq7DXYcKsnZjb68Wkb2nKcnWqlJjw2oqmcKibpMWUn5jx29DspqKZc8emUJar376mrG7Idremln_i2celp6OZcYfdm8-a5sjjplmHtbbml8TusHvTmqPIr8CWbpvt47riWJrTosjnbYHt58vZmaTKrcTplIG4r3ngsHCdqI3kZ9jx6c0=&id=18335&tit=WmlwaSB5IFphcGUgeSBsYSBpc2xhIGRlbCBjYXBpdMOhbg==
-#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Zipi y Zape y la isla Del capitán [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]Zipi y Zape y la Isla Del capitán [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=qIqocWef&id=30612&tit=WmlwaSB5IFphcGUgeSBsYSBpc2xhIGRlbCBjYXBpdMOhbg==
 #EXTINF:0,[COLOR lime] **[/COLOR]Zorro, el rebelde
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=19889&peli=qIyscG6e&id=34841&tit=Wm9ycm8sIGVsIHJlYmVsZGU=
@@ -4120,7 +4120,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=374
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7242&peli=pJDhp6OZs8HjocPc&id=18357&tit=wqFMaWJlcmFkIGEgV2lsbHkh
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]¡Liberad a Willy! [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qpKraGuX&id=34115&tit=wqFMaWJlcmFkIGEgV2lsbHkh
-#EXTINF:0,[COLOR lime] **[/COLOR]¡Más fuerte, muchachos!
+#EXTINF:0,[COLOR lime] **[/COLOR]¡Más Fuerte, muchachos!
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7919&peli=1c7icKLetcvalNLy&id=27205&tit=wqFNw6FzIGZ1ZXJ0ZSwgbXVjaGFjaG9zIQ==
 #EXTINF:0,[COLOR lime] **[/COLOR]¡Piratas!
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8542&peli=pZLgrm-ees3iZI_z&id=14641&tit=wqFQaXJhdGFzIQ==
@@ -4138,5 +4138,5 @@ plugin://plugin.video.cine/?action=play&server=dk&user=1sHdm5_WdIWq&cole=22363&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1569&peli=o43jmqSeeMvXo8Tgk4umsKjWt7itqM2s1w==&id=14814&tit=wr9RdWnDqW4gZW5nYcOxw7MgYSBSb2dlciBSYWJiaXQ_
 #EXTINF:0,[COLOR lime] **[/COLOR][COLOR lime]¿Quién engañó a Roger Rabbit? [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYqsbHCd&id=29212&tit=wr9RdWnDqW4gZW5nYcOxw7MgYSBSb2dlciBSYWJiaXQ_
-#EXTINF:0,[COLOR lime] **[/COLOR]¿Quién es esa chica?
+#EXTINF:0,[COLOR lime] **[/COLOR]¿Quién es esa Chica?
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7833&peli=q4qscKzQpMTYkcDs&id=27323&tit=wr9RdWnDqW4gZXMgZXNhIGNoaWNhPw==
