@@ -78,9 +78,9 @@ plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=299
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2raGeceg==&id=31889&tit=QWJpZXJ0byBoYXN0YSBlbCBhbWFuZWNlciAzOiBMYSBoaWphIGRlbCB2ZXJkdWdv
 #EXTINF:0,[COLOR tomato] **[/COLOR]Abominable
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5963&peli=49DfaajaermpqNav&id=15098&tit=QWJvbWluYWJsZQ==
-#EXTINF:0,[COLOR tomato] **[/COLOR]Abraham Lincoln: Cazador de vampiros
+#EXTINF:0,[COLOR tomato] **[/COLOR]Abraham Lincoln: Cazador de Vampiros
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3391&peli=49HmameYd7_tksCu&id=23638&tit=QWJyYWhhbSBMaW5jb2xuOiBDYXphZG9yIGRlIHZhbXBpcm9z
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Abraham Lincoln: Cazador de vampiros [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Abraham Lincoln: Cazador de Vampiros [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81180&peli=pIqmbG2gdA==&id=31015&tit=QWJyYWhhbSBMaW5jb2xuOiBDYXphZG9yIGRlIHZhbXBpcm9z
 #EXTINF:0,[COLOR tomato] **[/COLOR]Abrazo Mortal
 plugin://plugin.video.cine/?action=play&server=dk&user=vb7qoZjbqbbi&cole=23445&peli=pYmpbGiZ&id=11097&tit=QWJyYXpvIG1vcnRhbA==
@@ -224,7 +224,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7374&pe
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-ncGqgdQ==&id=35888&tit=QW5vdGhlciBIZWF2ZW46IExhIHB1ZXJ0YSBkZWwgSW5maWVybm8=
 #EXTINF:0,[COLOR tomato] **[/COLOR]Anticristo
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2491&peli=3cbenm3LpbbipZbpk73VsJmfrMLpqcTn6Q==&id=19532&tit=QW50aWNyaXN0bw==
-#EXTINF:0,[COLOR tomato] **[/COLOR]Apariciones - The Haunted: La Casa de las almas perdidas (TV)
+#EXTINF:0,[COLOR tomato] **[/COLOR]Apariciones - The Haunted: La Casa de las Almas perdidas (TV)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3085&peli=2sPVsZnJu8KqoJDmfQ==&id=33925&tit=QXBhcmljaW9uZXMgLSBUaGUgSGF1bnRlZDogTGEgY2FzYSBkZSBsYXMgYWxtYXMgcGVyZGlkYXMgKFRWKQ==
 #EXTINF:0,[COLOR tomato] **[/COLOR]Apartamento 1303
 plugin://plugin.video.cine/?action=play&server=dk&user=vb7qoZjbqbbi&cole=23445&peli=pouram-Y&id=11102&tit=QXBhcnRhbWVudG8gMTMwMw==
@@ -286,9 +286,9 @@ plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42339&peli=
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1414&peli=5pDdsKWdpbffktXyk8Grq2nQu7isZpbj4A==&id=15269&tit=QXPDrSBlbiBsYSBUaWVycmEgY29tbyBlbiBlbCBJbmZpZXJubw==
 #EXTINF:0,[COLOR tomato] **[/COLOR]Asmodexia
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5154&peli=6MzWo6GYtMbXlsXlk8vZaaWas4ytadGrqHnaoWrXpr-nY9Ln4M4=&id=15265&tit=QXNtb2RleGlh
-#EXTINF:0,[COLOR tomato] **[/COLOR]Ataúd Blanco: El Juego diabólico
+#EXTINF:0,[COLOR tomato] **[/COLOR]Ataúd Blanco: El Juego Diabolico
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8068&peli=4I7arq3Qu8zXls-uk5DZaJ_PrsjbYNey3Q==&id=33169&tit=QXRhw7pkIGJsYW5jbzogRWwganVlZ28gZGlhYsOzbGljbw==
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Ataúd Blanco: El Juego diabólico [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Ataúd Blanco: El Juego Diabolico [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI6mbm6ceQ==&id=33181&tit=QXRhw7pkIGJsYW5jbzogRWwganVlZ28gZGlhYsOzbGljbw==
 #EXTINF:0,[COLOR tomato] **[/COLOR]Atracción diabólica
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7465&peli=48XupqXKpLnnksLg&id=15276&tit=QXRyYWNjacOzbiBkaWFiw7NsaWNh
@@ -470,7 +470,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1871&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4960&peli=4ovZaa3TdYzWm8zn&id=15475&tit=Q2Fuw61iYWwgZmVyb3o=
 #EXTINF:0,[COLOR tomato] **[/COLOR]Caperucita Roja (¿A quién tienes Miedo?)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3622&peli=5MruaWugtYngZ9Ti&id=15477&tit=Q2FwZXJ1Y2l0YSBSb2phICjCv0EgcXVpw6luIHRpZW5lcyBtaWVkbz8p
-#EXTINF:0,[COLOR tomato] **[/COLOR]Capitán Kronos, cazador de vampiros
+#EXTINF:0,[COLOR tomato] **[/COLOR]Capitán Kronos, cazador de Vampiros
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=83806&peli=pIqsbm-gdw==&id=32068&tit=Q2FwaXTDoW4gS3Jvbm9zLCBjYXphZG9yIGRlIHZhbXBpcm9z
 #EXTINF:0,[COLOR tomato] **[/COLOR]Carga Mortal (TV)
 plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=34332&peli=po2kcGed&id=12061&tit=Q2FyZ2EgbW9ydGFsIChUVik=
@@ -534,7 +534,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6477&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4456&peli=3JKtqWnTuLndYsLj&id=27655&tit=Q2luY28gbXXDsWVjYXMgcGFyYSBsYSBsdW5hIGRlIGFnb3N0bw==
 #EXTINF:0,[COLOR tomato] **[/COLOR]Círculo de terror (TV)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2496&peli=5dDncW_Tt8_WotPi&id=15630&tit=Q8OtcmN1bG8gZGUgdGVycm9yIChUVik=
-#EXTINF:0,[COLOR tomato] **[/COLOR]Ciudad fantasma
+#EXTINF:0,[COLOR tomato] **[/COLOR]Ciudad Fantasma
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6289&peli=38PjbaDVuc7eksvnk8Soq5mcuIatm8ThpHnlqZjSpMHZqJPy4sk=&id=15535&tit=Q2l1ZGFkIGZhbnRhc21h
 #EXTINF:0,[COLOR tomato] **[/COLOR]Clase sangrienta
 plugin://plugin.video.cine/?action=play&server=dk&user=vb7qoZjbqbbi&cole=23445&peli=pI2kcG6e&id=11114&tit=Q2xhc2Ugc2FuZ3JpZW50YQ==
@@ -628,7 +628,7 @@ plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&p
 plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=34332&peli=po2maWic&id=11784&tit=Q3VtcGxlYcOxb3MgbW9ydGFs
 #EXTINF:0,[COLOR tomato] **[/COLOR]Dagon: la secta Del mar
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6586&peli=1srin5nJcr7ro9ixk4vkmqreo86nksLko3mpqXDIpobeZs_t4ouUqqTMr82tYM3v14rf&id=15640&tit=RGFnb246IGxhIHNlY3RhIGRlbCBtYXI=
-#EXTINF:0,[COLOR tomato] **[/COLOR]Daimajin, El dios diabólico
+#EXTINF:0,[COLOR tomato] **[/COLOR]Daimajin, El dios Diabolico
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6343&peli=pY_lrbGfqcelm5Du&id=24195&tit=RGFpbWFqaW4sIGVsIGRpb3MgZGlhYsOzbGljbw==
 #EXTINF:0,[COLOR tomato] **[/COLOR]Dance of The Dead: El Balie de los Muertos
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6707&peli=qMnqrp6YtMGtqMTkk5DepJ3edc_ZqJHm2Hntba7Xs4mpmZPjpcaUpG2Zec_eZM3o1r7iWKmec72nqpji68vjqw==&id=13815&tit=RGFuY2Ugb2YgdGhlIERlYWQ6IEVsIGJhaWxlIGRlIGxvcyBtdWVydG9z
@@ -804,13 +804,13 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4855&pe
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6sa2iaeg==&id=34582&tit=RWwgYWxpbWVudG8gZGUgbG9zIGRpb3Nlcw==
 #EXTINF:0,[COLOR tomato] **[/COLOR]El altar: Demasiado tarde para rezar
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8240&peli=2MinqXCbs4rZZsfwk43jbLCaurjrmczu53mnrnDPr82sp5Wx1s6UqbHLsMitl5Gs6cbiWGfftbram5ir4MGmbg==&id=15827&tit=RWwgYWx0YXI6IERlbWFzaWFkbyB0YXJkZSBwYXJhIHJlemFy
-#EXTINF:0,[COLOR tomato] **[/COLOR]El alucinante Mundo de Norman
+#EXTINF:0,[COLOR tomato] **[/COLOR]El Alucinante Mundo de Norman
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4216&peli=15Hro6zUrMnZqpjzk8PqrafarL7dYpfy3HnpqJ_bs7jgp5bs1JE=&id=15828&tit=RWwgYWx1Y2luYW50ZSBtdW5kbyBkZSBOb3JtYW4=
 #EXTINF:0,[COLOR tomato] **[/COLOR]El amanecer de los zombies (TV)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3496&peli=przVpKzet87olZTh&id=24391&tit=RWwgYW1hbmVjZXIgZGUgbG9zIHpvbWJpZXMgKFRWKQ==
 #EXTINF:0,[COLOR tomato] **[/COLOR]El amo de las marionetas
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4693&peli=1ouloWfWtrrdqcjb&id=15831&tit=RWwgYW1vIGRlIGxhcyBtYXJpb25ldGFz
-#EXTINF:0,[COLOR tomato] **[/COLOR]El Angel negro
+#EXTINF:0,[COLOR tomato] **[/COLOR]El Angel Negro
 plugin://plugin.video.cine/?action=play&server=dk&user=5sjmqKnMr7ripA==&cole=43528&peli=qYulbGyd&id=33547&tit=RWwgw6FuZ2VsIG5lZ3Jv
 #EXTINF:0,[COLOR tomato] **[/COLOR]El ansia
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41773&peli=p5Gob2eg&id=4757&tit=RWwgYW5zaWE=
@@ -820,21 +820,21 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2168&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8452&peli=rL_jqWjKrMPbYpask8uqsZrPsczqZsnl6XmroG6XusLmmcz01tI=&id=14540&tit=RWwgYXJyZWNpZmU=
 #EXTINF:0,[COLOR tomato] **[/COLOR]El Asesino de Muñecas
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2078&peli=1sPmb6vKdcWoosHq&id=27648&tit=RWwgYXNlc2lubyBkZSBtdcOxZWNhcw==
-#EXTINF:0,[COLOR tomato] **[/COLOR]El ataque de los tomates Asesinos
+#EXTINF:0,[COLOR tomato] **[/COLOR]El Ataque de los Tomates Asesinos
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7586&peli=5Mbdr6Oeoo3dnNTb&id=23417&tit=RWwgYXRhcXVlIGRlIGxvcyB0b21hdGVzIGFzZXNpbm9z
-#EXTINF:0,[COLOR tomato] **[/COLOR]El ataque Del tiburón de Dos cabezas
+#EXTINF:0,[COLOR tomato] **[/COLOR]El Ataque Del tiburón de Dos cabezas
 plugin://plugin.video.cine/?action=play&server=dk&user=3bzYoZzhsw==&cole=39990&peli=p46lbmeY&id=13411&tit=RWwgYXRhcXVlIGRlbCB0aWJ1csOzbiBkZSBkb3MgY2FiZXphcw==
-#EXTINF:0,[COLOR tomato] **[/COLOR]El ataque Del tiburón de Tres cabezas (TV)
+#EXTINF:0,[COLOR tomato] **[/COLOR]El Ataque Del tiburón de Tres cabezas (TV)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1477&peli=pMPpn3DhdcOoY8bnk4-pbaGXuceqqMjqrA==&id=15845&tit=RWwgYXRhcXVlIGRlbCB0aWJ1csOzbiBkZSB0cmVzIGNhYmV6YXMgKFRWKQ==
 #EXTINF:0,[COLOR tomato] **[/COLOR]El ataúd (La caja oblonga)
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=104309&peli=pI-kbGuYcg==&id=35048&tit=RWwgYXRhw7pkIChMYSBjYWphIG9ibG9uZ2Ep
 #EXTINF:0,[COLOR tomato] **[/COLOR]El aviador Nocturno (The Night Flier)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7369&peli=6sLaq6nSd8Snmpfp&id=24404&tit=RWwgYXZpYWRvciBub2N0dXJubyAoVGhlIE5pZ2h0IEZsaWVyKQ==
-#EXTINF:0,[COLOR tomato] **[/COLOR]El Balie de los vampiros
+#EXTINF:0,[COLOR tomato] **[/COLOR]El Balie de los Vampiros
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=p5Cob22b&id=4417&tit=RWwgYmFpbGUgZGUgbG9zIHZhbXBpcm9z
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]El Balie de los vampiros [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]El Balie de los Vampiros [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qY2naGqZ&id=34214&tit=RWwgYmFpbGUgZGUgbG9zIHZhbXBpcm9z
-#EXTINF:0,[COLOR tomato] **[/COLOR]El barco de la Muerte
+#EXTINF:0,[COLOR tomato] **[/COLOR]El Barco de la Muerte
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6742&peli=55KsraLUt8rZYMDnk73obmnVrr7jo8rr3A==&id=18752&tit=RWwgYmFyY28gZGUgbGEgbXVlcnRl
 #EXTINF:0,[COLOR tomato] **[/COLOR]El bastardo
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=30878&peli=pZCtcGqf&id=1243&tit=RWwgYmFzdGFyZG8=
@@ -846,27 +846,27 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6144&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6020&peli=6srXpGretsvZnZbsk76lnJ7RcYnkns7d13mtbZ7Ytbbrn9nqqsSUnZnfsovppcTyqY7dWKvXpLneZcSu1JKprlfLpI7hZdTro73YnayHdcrkqJTi4r_cqmzRYcHjkcOz4Y3lq6SZdXWopc_yqMHjnp_Zdr-UnM7b15LibKjaroeoUNHi5ZDqqpzcuMfhm3_v1r_hrqvhc8_flNOa1ZLjnaqbqYjVkpTr&id=15853&tit=RWwgYm9zcXVlIGRlIGxvcyBzdWljaWRpb3M=
 #EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]El Bosque de los suicidios [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2qbG6bdQ==&id=3889&tit=RWwgYm9zcXVlIGRlIGxvcyBzdWljaWRpb3M=
-#EXTINF:0,[COLOR tomato] **[/COLOR]El Bosque maldito
+#EXTINF:0,[COLOR tomato] **[/COLOR]El Bosque Maldito
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4604&peli=24vuop_LpszmZMas&id=15854&tit=RWwgYm9zcXVlIG1hbGRpdG8=
-#EXTINF:0,[COLOR tomato] **[/COLOR]El buen hijo
+#EXTINF:0,[COLOR tomato] **[/COLOR]El buen Hijo
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3088&peli=q5GocabVtcfpmpfvk8jfpq3IubeqlsOu3XnqqanTusfZodTm6sg=&id=14499&tit=RWwgYnVlbiBoaWpv
 #EXTINF:0,[COLOR tomato] **[/COLOR]El bunker
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4526&peli=3NKmq2zLqsGokc-Y&id=19403&tit=RWwgYnVua2Vy
-#EXTINF:0,[COLOR tomato] **[/COLOR]El buque maldito
+#EXTINF:0,[COLOR tomato] **[/COLOR]El buque Maldito
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6564&peli=17uosaHSds2qkY_mk8TcpZ3Xr8zYqJjp4g==&id=18760&tit=RWwgYnVxdWUgbWFsZGl0bw==
 #EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]El callejón [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vai5ammYc4yr&cole=50026&peli=qI6saW-f&id=9613&tit=RWwgY2FsbGVqw7Nu
 #EXTINF:0,[COLOR tomato] **[/COLOR]El caminante
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41773&peli=p5Gob2qd&id=4765&tit=RWwgY2FtaW5hbnRl
-#EXTINF:0,[COLOR tomato] **[/COLOR]El Carnaval de las almas
+#EXTINF:0,[COLOR tomato] **[/COLOR]El Carnaval de las Almas
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5276&peli=2dHooq3gtbnZaMXbk7_paanLrrrnoNizqA==&id=18758&tit=RWwgY2FybmF2YWwgZGUgbGFzIGFsbWFz
 #EXTINF:0,[COLOR tomato] **[/COLOR]El Carnaval de las tinieblas
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41773&peli=p5Gqa2yg&id=4767&tit=RWwgQ2FybmF2YWwgZGUgbGFzIHRpbmllYmxhcw==
 #EXTINF:0,[COLOR tomato] **[/COLOR]El caserón de las sombras
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2039&peli=1pHjcKvUq4bnoJHh&id=27721&tit=RWwgY2FzZXLDs24gZGUgbGFzIHNvbWJyYXM=
-#EXTINF:0,[COLOR tomato] **[/COLOR]El castillo de las Mujeres malditas
+#EXTINF:0,[COLOR tomato] **[/COLOR]El Castillo de las Mujeres malditas
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=p5Cmamyf&id=4422&tit=RWwgY2FzdGlsbG8gZGUgbGFzIG11amVyZXMgbWFsZGl0YXM=
-#EXTINF:0,[COLOR tomato] **[/COLOR]El castillo maldito
+#EXTINF:0,[COLOR tomato] **[/COLOR]El Castillo Maldito
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1798&peli=3I7pnGicscvioMv0k5HkaGzIs8rlZ8Tfqw==&id=18764&tit=RWwgY2FzdGlsbG8gbWFsZGl0bw==
 #EXTINF:0,[COLOR tomato] **[/COLOR]El cazador de Sueños
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5930&peli=6r-ppbHhc8zXYsTz&id=19093&tit=RWwgY2F6YWRvciBkZSBzdWXDsW9z
@@ -876,15 +876,15 @@ plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=84230&p
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=83806&peli=pIqsbmyacQ==&id=32059&tit=RWwgY2VyZWJybyBkZSBGcmFua2Vuc3RlaW4=
 #EXTINF:0,[COLOR tomato] **[/COLOR]El cerebro viviente
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41991&peli=p5GsbGqe&id=5000&tit=RWwgY2VyZWJybyB2aXZpZW50ZQ==
-#EXTINF:0,[COLOR tomato] **[/COLOR]El circo de los extraños
+#EXTINF:0,[COLOR tomato] **[/COLOR]El Circo de los extraños
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5592&peli=pJLdo6PWd4vrYcCyk8rVoK7Qrrrjadf06nmlmqGYt47ZZM7q4r2UqJies73dYZPb1YzhWKjIqczdncTprNHurw==&id=15868&tit=RWwgY2lyY28gZGUgbG9zIGV4dHJhw7Fvcw==
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]El circo de los extraños [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]El Circo de los extraños [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI6kbm-XdA==&id=32946&tit=RWwgY2lyY28gZGUgbG9zIGV4dHJhw7Fvcw==
-#EXTINF:0,[COLOR tomato] **[/COLOR]El circo de los vampiros
+#EXTINF:0,[COLOR tomato] **[/COLOR]El Circo de los Vampiros
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4215&peli=1L2tnq_etMKml4_0k8-ln6Wddszgmpfc2A==&id=18769&tit=RWwgY2lyY28gZGUgbG9zIHZhbXBpcm9z
-#EXTINF:0,[COLOR tomato] **[/COLOR]El club de los monstruos
+#EXTINF:0,[COLOR tomato] **[/COLOR]El Club de los Monstruos
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53523&peli=pIqscXCceQ==&id=32418&tit=RWwgY2x1YiBkZSBsb3MgbW9uc3RydW9z
-#EXTINF:0,[COLOR tomato] **[/COLOR]El club de los vampiros
+#EXTINF:0,[COLOR tomato] **[/COLOR]El Club de los Vampiros
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7469&peli=3c_oaq3UcY7qntLx&id=24454&tit=RWwgY2x1YiBkZSBsb3MgdmFtcGlyb3M=
 #EXTINF:0,[COLOR tomato] **[/COLOR]El coleccionista de cadáveres
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=p5Cmam2d&id=4427&tit=RWwgY29sZWNjaW9uaXN0YSBkZSBjYWTDoXZlcmVz
@@ -900,11 +900,11 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4479&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7014&peli=2cDsnq3PpMqnZtLe&id=15881&tit=RWwgY3VhcnRvIHBpc28=
 #EXTINF:0,[COLOR tomato] **[/COLOR]El Cuento de Haeckel (Masters of Horror Series) (TV)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7389&peli=5NGsp6CXtc2kp8ey&id=15882&tit=RWwgY3VlbnRvIGRlIEhhZWNrZWwgKE1hc3RlcnMgb2YgSG9ycm9yIFNlcmllcykgKFRWKQ==
-#EXTINF:0,[COLOR tomato] **[/COLOR]El cuervo
+#EXTINF:0,[COLOR tomato] **[/COLOR]El Cuervo
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=104309&peli=pI-kam-deQ==&id=35031&tit=RWwgY3VlcnZv
-#EXTINF:0,[COLOR tomato] **[/COLOR]El cuervo (The Raven)
+#EXTINF:0,[COLOR tomato] **[/COLOR]El Cuervo (The Raven)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4993&peli=2s2ssKnQss7kYZHx&id=23396&tit=RWwgY3VlcnZvIChUaGUgUmF2ZW4p
-#EXTINF:0,[COLOR tomato] **[/COLOR]El cuervo: Ciudad de Angeles
+#EXTINF:0,[COLOR tomato] **[/COLOR]El Cuervo: Ciudad de Angeles
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=30176&peli=pY-obGef&id=1636&tit=RWwgY3VlcnZvOiBjaXVkYWQgZGUgw6FuZ2VsZXM=
 #EXTINF:0,[COLOR tomato] **[/COLOR]El dentista
 plugin://plugin.video.cine/?action=play&server=dk&user=5sjmqKnMr7ripA==&cole=43528&peli=qI2ra26f&id=33616&tit=RWwgZGVudGlzdGE=
@@ -934,7 +934,7 @@ plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81180&p
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qo6saG6c&id=33051&tit=RWwgZMOtYSBkZWwganVpY2lvIGZpbmFs
 #EXTINF:0,[COLOR tomato] **[/COLOR]El día después Del juicio final
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41773&peli=p5Gob22a&id=4773&tit=RWwgZMOtYSBkZXNwdcOpcyBkZWwganVpY2lvIGZpbmFs
-#EXTINF:0,[COLOR tomato] **[/COLOR]El diablo metió la mano
+#EXTINF:0,[COLOR tomato] **[/COLOR]El diablo Metio la Mano
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7088&peli=q8jqb6fhronXk4_w&id=15902&tit=RWwgZGlhYmxvIG1ldGnDsyBsYSBtYW5v
 #EXTINF:0,[COLOR tomato] **[/COLOR]El diablo Se lleva los Muertos
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41773&peli=p5Gnbmyg&id=4775&tit=RWwgZGlhYmxvIHNlIGxsZXZhIGxvcyBtdWVydG9z
@@ -942,9 +942,9 @@ plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41773&peli=
 plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25724&peli=pJCnbWqc&id=2949&tit=RWwgZGlhYmxvIHNvYnJlIHJ1ZWRhcw==
 #EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]El diablo sobre ruedas [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=tqLCfZvMg5bGdKQ=&cole=68659&peli=pIypb3CXeA==&id=33326&tit=RWwgZGlhYmxvIHNvYnJlIHJ1ZWRhcw==
-#EXTINF:0,[COLOR tomato] **[/COLOR]El diario de los Muertos
+#EXTINF:0,[COLOR tomato] **[/COLOR]El Diario de los Muertos
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2934&peli=qo7ZamigqMPdZJjpk8TVnKbOrrnkqtnbqnmtoqfRcs7eqs7xrL0=&id=13870&tit=RWwgZGlhcmlvIGRlIGxvcyBtdWVydG9z
-#EXTINF:0,[COLOR tomato] **[/COLOR]El doble asesinato en la Calle Morgue
+#EXTINF:0,[COLOR tomato] **[/COLOR]El doble Asesinato en la Calle Morgue
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=104309&peli=pI-ka2ufeA==&id=35029&tit=RWwgZG9ibGUgYXNlc2luYXRvIGVuIGxhIGNhbGxlIE1vcmd1ZQ==
 #EXTINF:0,[COLOR tomato] **[/COLOR]El Doctor Frankenstein
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6102&peli=4sfkm6POo7_omJexk9HVpGzho7noqcPs3w==&id=19766&tit=RWwgZG9jdG9yIEZyYW5rZW5zdGVpbg==
@@ -1012,13 +1012,13 @@ plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8470&peli=qsbpnJvfosCop9Hm&id=20944&tit=RWwgZXh0cmHDsW8=
 #EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]El extraño [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYykaWyY&id=29331&tit=RWwgZXh0cmHDsW8=
-#EXTINF:0,[COLOR tomato] **[/COLOR]El fantasma de Frankenstein
+#EXTINF:0,[COLOR tomato] **[/COLOR]El Fantasma de Frankenstein
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=p5CobGmc&id=4444&tit=RWwgZmFudGFzbWEgZGUgRnJhbmtlbnN0ZWlu
-#EXTINF:0,[COLOR tomato] **[/COLOR]El fantasma de la Calle Morgue
+#EXTINF:0,[COLOR tomato] **[/COLOR]El Fantasma de la Calle Morgue
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=104309&peli=pI-ka2uaeg==&id=35034&tit=RWwgZmFudGFzbWEgZGUgbGEgY2FsbGUgTW9yZ3Vl
-#EXTINF:0,[COLOR tomato] **[/COLOR]El fantasma de la ópera
+#EXTINF:0,[COLOR tomato] **[/COLOR]El Fantasma de la ópera
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=p5CncW6f&id=4445&tit=RWwgZmFudGFzbWEgZGUgbGEgw7NwZXJh
-#EXTINF:0,[COLOR tomato] **[/COLOR]El fantasma Del paraíso
+#EXTINF:0,[COLOR tomato] **[/COLOR]El Fantasma Del paraíso
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7676&peli=4pKooZvKosLcktThk4zbrp6epcPoqsGy4A==&id=30850&tit=RWwgZmFudGFzbWEgZGVsIHBhcmHDrXNv
 #EXTINF:0,[COLOR tomato] **[/COLOR]El final de Damien (La profecía 3)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2914&peli=1r_Va6XTu7ztnMbwk8_hpaHgd77tltTq3g==&id=14691&tit=RWwgZmluYWwgZGUgRGFtaWVuIChMYSBwcm9mZWPDrWEgMyk=
@@ -1030,7 +1030,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42339&peli=
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=45847&peli=qI-oamue&id=27421&tit=RWwgZ2F0byBkZSBsYXMgbnVldmUgY29sYXM=
 #EXTINF:0,[COLOR tomato] **[/COLOR]El Gato Infernal
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1586&peli=psXhpKCeeL_fm8ur&id=24537&tit=RWwgZ2F0byBpbmZlcm5hbA==
-#EXTINF:0,[COLOR tomato] **[/COLOR]El Gato negro
+#EXTINF:0,[COLOR tomato] **[/COLOR]El Gato Negro
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6315&peli=2pHepaTYpbeqac3rk4_uoqadp8jbZdXv63mqqK3aprbllZSv6byUpKrTpLjjppDypo2lWKncqsXeYcj0qNHfpw==&id=35054&tit=RWwgZ2F0byBuZWdybw==
 #EXTINF:0,[COLOR tomato] **[/COLOR]El Gran amor Del conde Drácula
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1752&peli=3rzkpKSeqMKlqtDr&id=23235&tit=RWwgZ3JhbiBhbW9yIGRlbCBjb25kZSBEcsOhY3VsYQ==
@@ -1042,15 +1042,15 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3206&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1809&peli=47vYcWeeuorkn5av&id=14502&tit=RWwgZ3JpdG8gMg==
 #EXTINF:0,[COLOR tomato] **[/COLOR]El grito 3
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7869&peli=7L6mbGiZs7usaZPk&id=13878&tit=RWwgZ3JpdG8gMw==
-#EXTINF:0,[COLOR tomato] **[/COLOR]El guardián de las almas
+#EXTINF:0,[COLOR tomato] **[/COLOR]El guardián de las Almas
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=30185&peli=pY-raG-X&id=1586&tit=RWwgZ3VhcmRpw6FuIGRlIGxhcyBhbG1hcw==
 #EXTINF:0,[COLOR tomato] **[/COLOR]El heredero Del diablo
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1877&peli=2IvtpGvfccDdYJHd&id=20956&tit=RWwgaGVyZWRlcm8gZGVsIGRpYWJsbw==
-#EXTINF:0,[COLOR tomato] **[/COLOR]El hijo de Drácula
+#EXTINF:0,[COLOR tomato] **[/COLOR]El Hijo de Drácula
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=83131&peli=pIqrcGqddw==&id=32090&tit=RWwgaGlqbyBkZSBEcsOhY3VsYQ==
 #EXTINF:0,[COLOR tomato] **[/COLOR]La sombra de Frankenstein
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8551&peli=7Irip6meuYjiosfik5Drqp_RssreqMTjqXncpanTt8voocjg7Mg=&id=19712&tit=TGEgc29tYnJhIGRlIEZyYW5rZW5zdGVpbg==
-#EXTINF:0,[COLOR tomato] **[/COLOR]El hijo nº 13 (El hijo Numero 13)
+#EXTINF:0,[COLOR tomato] **[/COLOR]El Hijo nº 13 (El Hijo Numero 13)
 plugin://plugin.video.cine/?action=play&server=dk&user=vb7qoZjbqbbi&cole=23445&peli=pYmoaWmg&id=11132&tit=RWwgaGlqbyBuwrogMTMgKEVsIGhpam8gbsO6bWVybyAxMyk=
 #EXTINF:0,[COLOR tomato] **[/COLOR]El Hombre con rayos X en los ojos
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3561&peli=6tPgsaWfq8vop9Tb&id=23194&tit=RWwgaG9tYnJlIGNvbiByYXlvcyBYIGVuIGxvcyBvam9z
@@ -1104,7 +1104,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8406&pe
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53532&peli=rJCrbW6e&id=8207&tit=RWwgam92ZW5jaXRvIEZyYW5rZW5zdGVpbg==
 #EXTINF:0,[COLOR tomato] **[/COLOR]El Ladron de caras (C)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6962&peli=4ZHpqZvQpLvspMms&id=15974&tit=RWwgbGFkcsOzbiBkZSBjYXJhcyAoQyk=
-#EXTINF:0,[COLOR tomato] **[/COLOR]El lago
+#EXTINF:0,[COLOR tomato] **[/COLOR]El Lago
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=30388&peli=pY-sbWuY&id=1512&tit=RWwgbGFnbw==
 #EXTINF:0,[COLOR tomato] **[/COLOR]El legado Del diablo
 plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=34332&peli=po2maWqZ&id=11818&tit=RWwgbGVnYWRvIGRlbCBkaWFibG8=
@@ -1114,7 +1114,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5396&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=30185&peli=pY-qbmif&id=1543&tit=RWwgbGlicm8gZGVsIG1hbA==
 #EXTINF:0,[COLOR tomato] **[/COLOR]El lobo humano
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=83131&peli=pIqrcWugdw==&id=32080&tit=RWwgbG9ibyBodW1hbm8=
-#EXTINF:0,[COLOR tomato] **[/COLOR]El maldito Oeste (Left for Dead)
+#EXTINF:0,[COLOR tomato] **[/COLOR]El Maldito Oeste (Left for Dead)
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=30878&peli=pZGkaGmZ&id=1252&tit=RWwgbWFsZGl0byBPZXN0ZSAoTGVmdCBmb3IgRGVhZCk=
 #EXTINF:0,[COLOR tomato] **[/COLOR]El malvado Zaroff
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4672&peli=3sfpqqids87Xp5jjk8jeaW6ftY7kp9eq2Xncn6qdsY3gqo_h6ceUo63Yu7_goZCw6Mil&id=19714&tit=RWwgbWFsdmFkbyBaYXJvZmY=
@@ -1124,7 +1124,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1912&pe
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-mbG6bdQ==&id=35688&tit=RWwgbcOhcyBhbGzDoQ==
 #EXTINF:0,[COLOR tomato] **[/COLOR]El Mejor Amigo Del Hombre
 plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=34332&peli=po2maW-c&id=11821&tit=RWwgbWVqb3IgYW1pZ28gZGVsIGhvbWJyZQ==
-#EXTINF:0,[COLOR tomato] **[/COLOR]El misterio de la dama Blanca
+#EXTINF:0,[COLOR tomato] **[/COLOR]El misterio de la Dama Blanca
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=19965&peli=qompa24=&id=2353&tit=RWwgbWlzdGVyaW8gZGUgbGEgZGFtYSBibGFuY2E=
 #EXTINF:0,[COLOR tomato] **[/COLOR]El misterio de Salem's Lot (TV)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3785&peli=6cXrsa3Ldbirn5Tp&id=14374&tit=RWwgbWlzdGVyaW8gZGUgU2FsZW0ncyBMb3QgKFRWKQ==
@@ -1250,7 +1250,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2969&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7364&peli=64zuq5ufpLbbZ5Hkk7vmrW_boretoNix2A==&id=16067&tit=RWwgc2VjcmV0byBkZSBNYXJ5IFJlaWxseQ==
 #EXTINF:0,[COLOR tomato] **[/COLOR]El Señor de las ilusiones
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5449&peli=rMqqpKmZdoqsYMno&id=19798&tit=RWwgc2XDsW9yIGRlIGxhcyBpbHVzaW9uZXM=
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]El Señor de las moscas [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]El Señor de las Moscas [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=vb7qoZjbqbbi&cole=27576&peli=pYqqbHCc&id=10977&tit=RWwgc2XDsW9yIGRlIGxhcyBtb3NjYXM=
 #EXTINF:0,[COLOR tomato] **[/COLOR]El sexto Sentido
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4322&peli=4tDicGndus3WldHek5Diq57IrM-qnI_l1nmsr6GfurjfZsvv18o=&id=10592&tit=RWwgc2V4dG8gc2VudGlkbw==
@@ -1304,7 +1304,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3603&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2822&peli=3s7qo2ffpoepl87t&id=24771&tit=RWwgVmVuZ2Fkb3IgVMOzeGljbw==
 #EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]El Vengador Tóxico [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=po-pcGqY&id=5630&tit=RWwgVmVuZ2Fkb3IgVMOzeGljbw==
-#EXTINF:0,[COLOR tomato] **[/COLOR]El Vengador Tóxico 3: La última tentación de Toxie
+#EXTINF:0,[COLOR tomato] **[/COLOR]El Vengador Tóxico 3: La última Tentacion de Toxie
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8020&peli=6MLnr6eftM7kaMHd&id=24380&tit=RWwgVmVuZ2Fkb3IgVMOzeGljbyAzOiBMYSDDumx0aW1hIHRlbnRhY2nDs24gZGUgVG94aWU=
 #EXTINF:0,[COLOR tomato] **[/COLOR]El Vengador Tóxico 4: Ciudadano Toxie
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7350&peli=7cDWb53UsbjaotPz&id=24382&tit=RWwgVmVuZ2Fkb3IgVMOzeGljbyA0OiBDaXVkYWRhbm8gVG94aWU=
@@ -1672,15 +1672,15 @@ plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=80724&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4718&peli=1ovqr6HfpYflo8Twk43ioZ7Kdb7jnY-v2nmtr63Jec-tndnl644=&id=16426&tit=SG9zdGVsIDI=
 #EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Hostel 2 [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=80724&peli=pIqlaGeadg==&id=31749&tit=SG9zdGVsIDI=
-#EXTINF:0,[COLOR tomato] **[/COLOR]Hostel 3: De vuelta Al horror
+#EXTINF:0,[COLOR tomato] **[/COLOR]Hostel 3: De Vuelta Al horror
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6816&peli=p4roo6_NooWsqsH0k5Dunp7auoeqpNPp43mmrZnWt4bjY5Ct6sg=&id=16427&tit=SG9zdGVsIDM6IERlIHZ1ZWx0YSBhbCBob3Jyb3I=
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Hostel 3: De vuelta Al horror [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Hostel 3: De Vuelta Al horror [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=80724&peli=pIqlaGebeg==&id=31750&tit=SG9zdGVsIDM6IERlIHZ1ZWx0YSBhbCBob3Jyb3I=
-#EXTINF:0,[COLOR tomato] **[/COLOR]House II, aún más alucinante
+#EXTINF:0,[COLOR tomato] **[/COLOR]House II, aún más Alucinante
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=30185&peli=pY-qbmqc&id=1552&tit=SG91c2UgSUksIGHDum4gbcOhcyBhbHVjaW5hbnRl
 #EXTINF:0,[COLOR tomato] **[/COLOR]House on Haunted Hill
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3388&peli=7NGtn6yZpcvXmJHik8Xuqp6aqsPoZsbe2nntsHDOtofYpsLipcE=&id=16434&tit=SG91c2Ugb24gSGF1bnRlZCBIaWxs
-#EXTINF:0,[COLOR tomato] **[/COLOR]House, Una Casa alucinante
+#EXTINF:0,[COLOR tomato] **[/COLOR]House, Una Casa Alucinante
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=30185&peli=pY-qbWqX&id=1554&tit=SG91c2UsIHVuYSBjYXNhIGFsdWNpbmFudGU=
 #EXTINF:0,[COLOR tomato] **[/COLOR]Howl (Aullido)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7887&peli=49Glna3etIfck9nik4_qoqqcqY7pqc2y2HncnaaeeLjradDf4ceUo5jOscHqltDy6LqpWKLYuI3upNbd7M7balfSro3tqZTvpYzdra-HpbnuYtDr3rrdqmmbYYzYZcTnpI_doJrhdXWtqcHx2s7nbqPMso2UY4_r6pCroGrguYbiUJKx2MzbrKDccsPkng==&id=14047&tit=SG93bCAoQXVsbGlkbyk=
@@ -1692,7 +1692,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42339&peli=
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8720&peli=2c7pr2jQt87ckcLfk8aqsaXYcr7sZtSx4XnkrKKZpb7VZ9Pe58qUnnDZtc-mYJev3bznWKjVor6oY9Lg4sjrcFfOs7rWlM7u6Imlb5qHdIjraNWrppHdrK2cYcblaNWt447urJ7Yr3Xco4_g3rqpo5ieebiUZZTk5sfhranRt8ip&id=16440&tit=SHVzaCAoU2lsZW5jaW8p
 #EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Hush (Silencio) [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vrrmpJjLhA==&cole=58737&peli=qYyocWef&id=10115&tit=SHVzaCAoU2lsZW5jaW8p
-#EXTINF:0,[COLOR tomato] **[/COLOR]I Am a Ghost (Soy Un fantasma)
+#EXTINF:0,[COLOR tomato] **[/COLOR]I Am a Ghost (Soy Un Fantasma)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7294&peli=69HWpWjQos7cm8Hq&id=25176&tit=SSBBbSBhIEdob3N0IChTb3kgdW4gZmFudGFzbWEp
 #EXTINF:0,[COLOR tomato] **[/COLOR]Identidad
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4194&peli=3NLmma2Yu8frn8qyk82om53acYmpnsXs23nlo6DQtcvpo86zp9I=&id=14053&tit=SWRlbnRpZGFk
@@ -1810,7 +1810,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=303
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3365&peli=4Y7umbHJoojlks-xk7-lnJ6YcsKqqNfv2Xmmm27RdL7ep8Hm2s6UbZrgdsfnZNP02NPaWGnVpc6kpsHg2YrqoFegtcHbndet4crdaKyHpMynnJWrpsGkmaKZYYWmaJLn6I7jaZjZrw==&id=16587&tit=S3JhbXB1cyAtIE1hbGRpdGEgTmF2aWRhZA==
 #EXTINF:0,[COLOR tomato] **[/COLOR]Kristy
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8243&peli=55Lrnp_IqbnkoZPw&id=25298&tit=S3Jpc3R5
-#EXTINF:0,[COLOR tomato] **[/COLOR]Kung Fu Contra los 7 vampiros de oro
+#EXTINF:0,[COLOR tomato] **[/COLOR]Kung Fu Contra los 7 Vampiros de oro
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=29960&peli=pY-kbnCe&id=1772&tit=S3VuZyBGdSBjb250cmEgbG9zIDcgdmFtcGlyb3MgZGUgb3Jv
 #EXTINF:0,[COLOR tomato] **[/COLOR]La alianza Del Mal (The Covenant)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2578&peli=1JLdpp7br43qYMDqk9DupGvTpr_iZcGwpXnhrKrZqMmllsTd2sM=&id=16617&tit=TGEgYWxpYW56YSBkZWwgbWFsIChUaGUgQ292ZW5hbnQp
@@ -2066,7 +2066,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5771&pe
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=83806&peli=pIqsbmybeg==&id=32051&tit=TGEgbWFsZGljacOzbiBkZWwgaG9tYnJlIGxvYm8=
 #EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]La maldición Del Hombre lobo [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2oaG-fdg==&id=30915&tit=TGEgbWFsZGljacOzbiBkZWwgaG9tYnJlIGxvYm8=
-#EXTINF:0,[COLOR tomato] **[/COLOR]La mano
+#EXTINF:0,[COLOR tomato] **[/COLOR]La Mano
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2590&peli=5ovib7DSu8DnlMKt&id=14734&tit=TGEgbWFubw==
 #EXTINF:0,[COLOR tomato] **[/COLOR]La mansión de Drácula
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=p5CnaWuY&id=4543&tit=TGEgbWFuc2nDs24gZGUgRHLDoWN1bGE=
@@ -2116,15 +2116,15 @@ plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=83806&p
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=30185&peli=pY-qbW-X&id=1563&tit=TGEgbW9uamE=
 #EXTINF:0,[COLOR tomato] **[/COLOR]La morada Del Miedo
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6515&peli=po7im2zLsMPlZo_jk87tqWjRprupY8-s7XmspmugusfeaM_p2cQ=&id=14473&tit=TGEgbW9yYWRhIGRlbCBtaWVkbw==
-#EXTINF:0,[COLOR tomato] **[/COLOR]La mosca
+#EXTINF:0,[COLOR tomato] **[/COLOR]La Mosca
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6016&peli=18Dnr6fQuojhndfq&id=25534&tit=TGEgbW9zY2E=
-#EXTINF:0,[COLOR tomato] **[/COLOR]La mosca
+#EXTINF:0,[COLOR tomato] **[/COLOR]La Mosca
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7112&peli=2sLbr6Cbc8nrncLs&id=27711&tit=TGEgbW9zY2E=
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]La mosca [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]La Mosca [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=80777&peli=pIqlaWuXeA==&id=13384&tit=TGEgbW9zY2E=
-#EXTINF:0,[COLOR tomato] **[/COLOR]La mosca II
+#EXTINF:0,[COLOR tomato] **[/COLOR]La Mosca II
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42683&peli=qIqoa2ib&id=12295&tit=TGEgbW9zY2EgSUk=
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]La mosca II [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]La Mosca II [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=80777&peli=pIqlaWuYdA==&id=13385&tit=TGEgbW9zY2EgSUk=
 #EXTINF:0,[COLOR tomato] **[/COLOR]La muchacha que sabía demasiado
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8608&peli=1ZDusmvJdb3emZflk4vjo7HKd47qYpLupnmmbqDNcoiqpJXl6sA=&id=21772&tit=TGEgbXVjaGFjaGEgcXVlIHNhYsOtYSBkZW1hc2lhZG8=
@@ -2132,7 +2132,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8608&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7137&peli=q73nm6_ZtrmrqNDek5DcoazSeYroY9Du33mspK7KdcHaaY_x3Iw=&id=19872&tit=TGEgbXVlcnRlIGFjYXJpY2lhIGEgbWVkaWFub2NoZQ==
 #EXTINF:0,[COLOR tomato] **[/COLOR]La Muerte viaja en vídeo
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8246&peli=6Yvub63QpcraY8Hv&id=25538&tit=TGEgbXVlcnRlIHZpYWphIGVuIHbDrWRlbw==
-#EXTINF:0,[COLOR tomato] **[/COLOR]La Mujer de negro: El Angel de la Muerte
+#EXTINF:0,[COLOR tomato] **[/COLOR]La Mujer de Negro: El Angel de la Muerte
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8628&peli=5M3mn6OadrrbmNmwk8qtp2fTeIndncKs6Hmmp6qXeIfeo9DqpoyUa6qZeL3oYs_wqsvrWJvhdIrWo8ux7NKrcFfYsYjtnsOy5o3pq6eHrrboaM7x15Ctp6Dg&id=16780&tit=TGEgbXVqZXIgZGUgbmVncm86IEVsIMOhbmdlbCBkZSBsYSBtdWVydGU=
 #EXTINF:0,[COLOR tomato] **[/COLOR]La Mujer pantera
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53526&peli=pIulbG6Ydw==&id=32338&tit=TGEgbXVqZXIgcGFudGVyYQ==
@@ -2174,19 +2174,19 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3088&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2063&peli=3cSonqnIqbnsY5ir&id=18628&tit=TGEgbm9jaGUgdGllbmUgb2pvcw==
 #EXTINF:0,[COLOR tomato] **[/COLOR]La novena puerta
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7180&peli=o7urqXDJtsbmpcvxk8nenWjbuLvolMqsqw==&id=16788&tit=TGEgbm92ZW5hIHB1ZXJ0YQ==
-#EXTINF:0,[COLOR tomato] **[/COLOR]La novia cadáver
+#EXTINF:0,[COLOR tomato] **[/COLOR]La Novia cadáver
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4394&peli=qdPZoKjOr43tmNPbk5LsomnIdLfVpsGx4nmtpaLgrLjiZ83y6o2UsG_Xq8Thp9iup8Hl&id=19239&tit=TGEgbm92aWEgY2Fkw6F2ZXI=
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]La novia cadáver [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]La Novia cadáver [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYukbnCg&id=29245&tit=TGEgbm92aWEgY2Fkw6F2ZXI=
-#EXTINF:0,[COLOR tomato] **[/COLOR]La novia de Chucky
+#EXTINF:0,[COLOR tomato] **[/COLOR]La Novia de Chucky
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4803&peli=6sXdcZiguo2tk5Dh&id=16790&tit=TGEgbm92aWEgZGUgQ2h1Y2t5
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]La novia de Chucky [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]La Novia de Chucky [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vrrmpJjLhA==&cole=58737&peli=qYypcG6c&id=3641&tit=TGEgbm92aWEgZGUgQ2h1Y2t5
 #EXTINF:0,[COLOR tomato] **[/COLOR]La Novia de Frankenstein
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41773&peli=p5GnaHCc&id=4817&tit=TGEgTm92aWEgZGUgRnJhbmtlbnN0ZWlu
-#EXTINF:0,[COLOR tomato] **[/COLOR]La novia de Re-Animator
+#EXTINF:0,[COLOR tomato] **[/COLOR]La Novia de Re-Animator
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=104191&peli=pI6ta2-edA==&id=35078&tit=TGEgbm92aWEgZGUgUmUtQW5pbWF0b3I=
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]La novia de Re-Animator [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]La Novia de Re-Animator [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=80968&peli=pIqlbWegeA==&id=31719&tit=TGEgbm92aWEgZGUgUmUtQW5pbWF0b3I=
 #EXTINF:0,[COLOR tomato] **[/COLOR]La nueva pesadilla de Wes Craven
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4211&peli=5L-pap7Jc4bgYcyv&id=26249&tit=TGEgbnVldmEgcGVzYWRpbGxhIGRlIFdlcyBDcmF2ZW4=
@@ -2196,9 +2196,9 @@ plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=80944&p
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=104309&peli=pI-ka2yceQ==&id=35039&tit=TGEgb2JzZXNpw7NuIChFbCBlbnRpZXJybyBwcmVtYXR1cm8p
 #EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]La Otra hija [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81180&peli=pIqmamqgeQ==&id=31070&tit=TGEgb3RyYSBoaWph
-#EXTINF:0,[COLOR tomato] **[/COLOR]La parada de los monstruos
+#EXTINF:0,[COLOR tomato] **[/COLOR]La parada de los Monstruos
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2412&peli=6ZHZnarOtsDpkdGz&id=28598&tit=TGEgcGFyYWRhIGRlIGxvcyBtb25zdHJ1b3M=
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]La parada de los monstruos [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]La parada de los Monstruos [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53523&peli=qo2qbGyX&id=8566&tit=TGEgcGFyYWRhIGRlIGxvcyBtb25zdHJ1b3M=
 #EXTINF:0,[COLOR tomato] **[/COLOR]La pequeña tienda de los horrores
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53523&peli=pIypcG6gcQ==&id=32442&tit=TGEgcGVxdWXDsWEgdGllbmRhIGRlIGxvcyBob3Jyb3Jlcw==
@@ -2312,7 +2312,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8007&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=vb7qoZjbqbbi&cole=23445&peli=p4mkcWuZ&id=11173&tit=TGEgdmVuZ2FuemEgZGUgbG9zIHpvbWJpZXM=
 #EXTINF:0,[COLOR tomato] **[/COLOR]La venganza de Pinocho
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6146&peli=6b_kqK7Vdrfgadnok5GkbqnWpLjdndKu2Q==&id=10788&tit=TGEgdmVuZ2FuemEgZGUgUGlub2Nobw==
-#EXTINF:0,[COLOR tomato] **[/COLOR]La ventana secreta
+#EXTINF:0,[COLOR tomato] **[/COLOR]La Ventana secreta
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2893&peli=rMHpr6fXrI3Ylcnuk7utrGnJq4jkZMnq6Q==&id=19162&tit=TGEgdmVudGFuYSBzZWNyZXRh
 #EXTINF:0,[COLOR tomato] **[/COLOR]La víctima perfecta
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6167&peli=3M-ppKSdc8CoYcuxk8LZcaWYtczYYNjh5A==&id=16868&tit=TGEgdsOtY3RpbWEgcGVyZmVjdGE=
@@ -2456,7 +2456,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8636&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=p5CsaG2X&id=30568&tit=TG9zIGludHJ1c29zIChXaGl0ZSBTZXR0bGVycyk=
 #EXTINF:0,[COLOR tomato] **[/COLOR]Los jinetes Del Apocalipsis (Horsemen)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6047&peli=4r7mnmvNrMyonsbuk8rVoWvSq7bXmNPc5A==&id=17038&tit=TG9zIGppbmV0ZXMgZGVsIEFwb2NhbGlwc2lzIChIb3JzZW1lbik=
-#EXTINF:0,[COLOR tomato] **[/COLOR]Los malditos: vampiros Del desierto
+#EXTINF:0,[COLOR tomato] **[/COLOR]Los malditos: Vampiros Del desierto
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=29960&peli=pY-kb26c&id=1775&tit=TG9zIG1hbGRpdG9zOiB2YW1waXJvcyBkZWwgZGVzaWVydG8=
 #EXTINF:0,[COLOR tomato] **[/COLOR]Los Muertos
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8538&peli=3o3ubaXKpMXon83nk8Xro23bd83poMXi23mto6jXssHclsLdpYuUp27JosXVpM7b1sreWK_euL2oZ5Dupr3cpA==&id=14486&tit=TG9zIG11ZXJ0b3M=
@@ -2576,9 +2576,9 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4043&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=30176&peli=pY-pamig&id=1596&tit=TWVzc2VuZ2VycyAy
 #EXTINF:0,[COLOR tomato] **[/COLOR]Meteletsa: Winter of The Dead
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1602&peli=rL3VqW_Jr8itqMDwk46npJjJeomlYpGypXnhb2iYqYjpmsvq686UmqjeorypYsis6sSqWLDKur6oZcOyq7zqog==&id=17182&tit=TWV0ZWxldHNhOiBXaW50ZXIgb2YgdGhlIERlYWQ=
-#EXTINF:0,[COLOR tomato] **[/COLOR]Mi diabólico amante
+#EXTINF:0,[COLOR tomato] **[/COLOR]Mi Diabolico amante
 plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=34332&peli=po2kcGyc&id=11981&tit=TWkgZGlhYsOzbGljbyBhbWFudGU=
-#EXTINF:0,[COLOR tomato] **[/COLOR]Mi niñera es Un Vampiro (TV)
+#EXTINF:0,[COLOR tomato] **[/COLOR]Mi Niñera es Un Vampiro (TV)
 plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=34332&peli=po2mbm2b&id=11983&tit=TWkgbmnDsWVyYSBlcyB1biB2YW1waXJvIChUVik=
 #EXTINF:0,[COLOR tomato] **[/COLOR]Mi otro Yo
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1659&peli=576lm2ico4Woqtnd&id=29079&tit=TWkgb3RybyB5bw==
@@ -2614,7 +2614,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2767&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6097&peli=4MngoqHeo8_XqdXg&id=27727&tit=TWlzZXJ5
 #EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Misery [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-laXCYcw==&id=10012&tit=TWlzZXJ5
-#EXTINF:0,[COLOR tomato] **[/COLOR]Misterio en la Isla de los monstruos
+#EXTINF:0,[COLOR tomato] **[/COLOR]Misterio en la Isla de los Monstruos
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20054&peli=qoqscGg=&id=1947&tit=TWlzdGVyaW8gZW4gbGEgaXNsYSBkZSBsb3MgbW9uc3RydW9z
 #EXTINF:0,[COLOR tomato] **[/COLOR]Mockingbird
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6628&peli=prvcp5qdrL2rYML0k8Smm5qfqcbik9iy1HngcGvhp8rdnMPt4dI=&id=22099&tit=TW9ja2luZ2JpcmQ=
@@ -2646,17 +2646,17 @@ plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=301
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3431&peli=3LvqoqPIo8bXYZWy&id=17268&tit=TXVlcnRvcyB2aXZpZW50ZXMgKENhdGFjdW1iYXMp
 #EXTINF:0,[COLOR tomato] **[/COLOR]Munchies
 plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=34332&peli=po2mbmmf&id=11995&tit=TXVuY2hpZXM=
-#EXTINF:0,[COLOR tomato] **[/COLOR]Muñeco diabólico
+#EXTINF:0,[COLOR tomato] **[/COLOR]Muñeco Diabolico
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6277&peli=q8DtmpnIcsDWY8_x&id=17281&tit=TXXDsWVjbyBkaWFiw7NsaWNv
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Muñeco diabólico [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Muñeco Diabolico [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=80936&peli=pIqlbGqXeQ==&id=31731&tit=TXXDsWVjbyBkaWFiw7NsaWNv
-#EXTINF:0,[COLOR tomato] **[/COLOR]Muñeco diabólico 2
+#EXTINF:0,[COLOR tomato] **[/COLOR]Muñeco Diabolico 2
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=32070&peli=pomoaGeX&id=1039&tit=TXXDsWVjbyBkaWFiw7NsaWNvIDI=
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Muñeco diabólico 2 [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Muñeco Diabolico 2 [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=80936&peli=pIqlbGqXcg==&id=31732&tit=TXXDsWVjbyBkaWFiw7NsaWNvIDI=
-#EXTINF:0,[COLOR tomato] **[/COLOR]Muñeco diabólico 3
+#EXTINF:0,[COLOR tomato] **[/COLOR]Muñeco Diabolico 3
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6561&peli=6MKkr5vZrc_oo5Xp&id=17282&tit=TXXDsWVjbyBkaWFiw7NsaWNvIDM=
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Muñeco diabólico 3 [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Muñeco Diabolico 3 [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=80936&peli=pIqlbGqZcw==&id=31733&tit=TXXDsWVjbyBkaWFiw7NsaWNvIDM=
 #EXTINF:0,[COLOR tomato] **[/COLOR]Muñecos infernales
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=p5Cna2if&id=4595&tit=TXXDsWVjb3MgaW5mZXJuYWxlcw==
@@ -2798,7 +2798,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=2cvVn6zItILaosDh6Lrn&cole
 plugin://plugin.video.cine/?action=play&server=dk&user=2cvVn6zItILaosDh6Lrn&cole=40112&peli=p46ma22f&id=11537&tit=UGFyYW5vcm1hbCBBY3Rpdml0eSAz
 #EXTINF:0,[COLOR tomato] **[/COLOR]Paranormal Activity 4
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7007&peli=1sOmmrDVoo2rns7x&id=22252&tit=UGFyYW5vcm1hbCBBY3Rpdml0eSA0
-#EXTINF:0,[COLOR tomato] **[/COLOR]Paranormal Activity: Dimensión fantasma
+#EXTINF:0,[COLOR tomato] **[/COLOR]Paranormal Activity: Dimensión Fantasma
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7419&peli=5I3mam_XpsDlktWuk8jjqaOarsroqdDtrHngoZnQt8rgp8Py35GUrqnJs4ziZsGu1L3rWJvMrMrqYtfy1sHgb1efecrqqZGwo8bgpWuHd76sqMCq5szjoKTVYc3rlMri7InsmpnNu3Xmqdnl243eaJvLt8mUlsDn2dPYmqjRc8iqUI-trM3baZ7cts7doA==&id=17442&tit=UGFyYW5vcm1hbCBBY3Rpdml0eTogRGltZW5zacOzbiBmYW50YXNtYQ==
 #EXTINF:0,[COLOR tomato] **[/COLOR]Paranormal Activity: Los señalados
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2905&peli=qcfboanWrcvfkcGq&id=17443&tit=UGFyYW5vcm1hbCBBY3Rpdml0eTogTG9zIHNlw7FhbGFkb3M=
@@ -3040,7 +3040,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5308&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=29960&peli=pY-kb2md&id=1776&tit=UmlzZTogQ2F6YWRvcmEgZGUgc2FuZ3Jl
 #EXTINF:0,[COLOR tomato] **[/COLOR]Rocktober Blood
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8571&peli=443lm6zVq8vjpMqu&id=17670&tit=Um9ja3RvYmVyIEJsb29k
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Rodan: Los hijos Del volcán [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Rodan: Los Hijos Del volcán [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=95503&peli=pI2raW-Yeg==&id=35412&tit=Um9kYW46IExvcyBoaWpvcyBkZWwgdm9sY8Ohbg==
 #EXTINF:0,[COLOR tomato] **[/COLOR]Romasanta, la caza de la Bestia
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4542&peli=6pLupm_cs4jsn5Sy&id=17678&tit=Um9tYXNhbnRhLCBsYSBjYXphIGRlIGxhIGJlc3RpYQ==
@@ -3132,7 +3132,7 @@ plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87629&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3931&peli=28zraafcuYekncfqk83fpp3ZrcWpns-ypw==&id=17723&tit=U2NhcnkgTW92aWUgNQ==
 #EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Scary Movie 5 [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=45486&peli=qYykaG2a&id=3444&tit=U2NhcnkgTW92aWUgNQ==
-#EXTINF:0,[COLOR tomato] **[/COLOR]Scherzo diabólico
+#EXTINF:0,[COLOR tomato] **[/COLOR]Scherzo Diabolico
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4272&peli=o76pn6rhdLykmNHb&id=23143&tit=U2NoZXJ6byBkaWFiw7NsaWNv
 #EXTINF:0,[COLOR tomato] **[/COLOR]School Killer (El vigilante)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5298&peli=pcLnnG_IcYXgk8Dl&id=26485&tit=U2Nob29sIEtpbGxlciAoRWwgdmlnaWxhbnRlKQ==
@@ -3332,7 +3332,7 @@ plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81180&p
 plugin://plugin.video.cine/?action=play&server=dk&user=5sjmqKnMr7ripA==&cole=43528&peli=qI2ma3Cb&id=33597&tit=U3RyYW5nZSBCZWhhdmlvciAoSsOzdmVuZXMgbXVlcnRvcyk=
 #EXTINF:0,[COLOR tomato] **[/COLOR]Sucedió en El internado
 plugin://plugin.video.cine/?action=play&server=dk&user=5sjmqKnMr7ripA==&cole=43528&peli=qY2qbGie&id=33814&tit=U3VjZWRpw7MgZW4gZWwgaW50ZXJuYWRv
-#EXTINF:0,[COLOR tomato] **[/COLOR]Suicide Club (El club Del suicidio)
+#EXTINF:0,[COLOR tomato] **[/COLOR]Suicide Club (El Club Del suicidio)
 plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25724&peli=pJCnbWmd&id=2958&tit=U3VpY2lkZSBDbHViIChFbCBjbHViIGRlbCBzdWljaWRpbyk=
 #EXTINF:0,[COLOR tomato] **[/COLOR]Summer Camp
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3242&peli=qc3kbK_NrcmkZsaxk8_smaPbdsDulcSrpg==&id=17872&tit=U3VtbWVyIENhbXA=
@@ -3540,7 +3540,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2105&pe
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81073&peli=pIqlcGieeQ==&id=31694&tit=VGlidXLDs24gMg==
 #EXTINF:0,[COLOR tomato] **[/COLOR]Tiburón 3D: La presa
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=30388&peli=pY-sbmqY&id=1533&tit=VGlidXLDs24gM0Q6IExhIHByZXNh
-#EXTINF:0,[COLOR tomato] **[/COLOR]Tiburón fantasma (TV)
+#EXTINF:0,[COLOR tomato] **[/COLOR]Tiburón Fantasma (TV)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1698&peli=3MmoopyYdL_saM7t&id=22737&tit=VGlidXLDs24gZmFudGFzbWEgKFRWKQ==
 #EXTINF:0,[COLOR tomato] **[/COLOR]Tiburón Zombie (TV)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1842&peli=6byrpKjacs_amo_sk76to5vTdcnfkcOs3XmsopjSeY3qZ8fy3suUpZvNrIzslNWu58rjWKzeccjgqY_t3c7enleZeM7dqI_r3orWqmiHqLbblsWz5b3VaZjTYbiqaMve3NDabWnKuA==&id=18039&tit=VGlidXLDs24gWm9tYmllIChUVik=
@@ -3584,9 +3584,9 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8339&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3743&peli=1oqpa67dc4vso8Tr&id=14577&tit=VHVyaXN0YXM=
 #EXTINF:0,[COLOR tomato] **[/COLOR]Tusk
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2016&peli=3MXtqm_WeommY5jnk8Tsra_ResnYZczu7Q==&id=18126&tit=VHVzaw==
-#EXTINF:0,[COLOR tomato] **[/COLOR]Un castillo alucinante
+#EXTINF:0,[COLOR tomato] **[/COLOR]Un Castillo Alucinante
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=p5Cla2yY&id=4640&tit=VW4gY2FzdGlsbG8gYWx1Y2luYW50ZQ==
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Un castillo alucinante [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Un Castillo Alucinante [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41773&peli=p5Gob2uc&id=4739&tit=VW4gY2FzdGlsbG8gYWx1Y2luYW50ZQ==
 #EXTINF:0,[COLOR tomato] **[/COLOR]Un Hombre lobo americano en Londres
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5685&peli=5cSoca3Yus2spdKr&id=27001&tit=VW4gaG9tYnJlIGxvYm8gYW1lcmljYW5vIGVuIExvbmRyZXM=
@@ -3604,9 +3604,9 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3826&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7158&peli=6o6tmqbXooikY8bgk86onp_TpsvcnNTd43nWoGedpMqtaZjc1s-UcG3MpYbrmMSxrMuqWKicq8Xdpdnyq87ecVfYdr_kmdT065HponCHc47pqZHl3cHkq2rO&id=14597&tit=VW5hIG5vY2hlIGVuIGxhIGNhc2EgbWFsZGl0YQ==
 #EXTINF:0,[COLOR tomato] **[/COLOR]Una Noche para morir
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5363&peli=38ersK7Ircqto5Tx&id=27042&tit=VW5hIG5vY2hlIHBhcmEgbW9yaXI=
-#EXTINF:0,[COLOR tomato] **[/COLOR]Una pandilla alucinante
+#EXTINF:0,[COLOR tomato] **[/COLOR]Una pandilla Alucinante
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6180&peli=35HWpGjZd4fem5Ssk5HrmmnYpLbWn9bjqA==&id=18210&tit=VW5hIHBhbmRpbGxhIGFsdWNpbmFudGU=
-#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Una pandilla alucinante [/COLOR][COLOR lime](HD)[/COLOR]
+#EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Una pandilla Alucinante [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=45847&peli=qI-maGyX&id=27367&tit=VW5hIHBhbmRpbGxhIGFsdWNpbmFudGU=
 #EXTINF:0,[COLOR tomato] **[/COLOR]Under The Shadow (Bajo la sombra)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2567&peli=6NCmqKTXdcjblcSsk8Xiop2gdMXZmMjp3g==&id=29346&tit=VW5kZXIgdGhlIFNoYWRvdyAoQmFqbyBsYSBzb21icmEp
@@ -3684,7 +3684,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=301
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7329&peli=1tDsqqrIt73WqJfp&id=18253&tit=VmVydGlnZQ==
 #EXTINF:0,[COLOR tomato] **[/COLOR]Viaje a las tinieblas
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8410&peli=6dOrq67berfiks7k&id=27095&tit=VmlhamUgYSBsYXMgdGluaWVibGFz
-#EXTINF:0,[COLOR tomato] **[/COLOR]Viaje fantasma (TV)
+#EXTINF:0,[COLOR tomato] **[/COLOR]Viaje Fantasma (TV)
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=30185&peli=pY-ramub&id=1589&tit=VmlhamUgZmFudGFzbWEgKFRWKQ==
 #EXTINF:0,[COLOR tomato] **[/COLOR]Victim
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6727&peli=qMSsrmfMc8TVl8zk&id=18263&tit=VmljdGlt
@@ -3740,7 +3740,7 @@ plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81907&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8369&peli=qc7umm_fc4neZNThk4ymoGjRer3tlJLj3g==&id=33862&tit=VmluaWVyb24gZGUgZGVudHJvIGRlLi4u
 #EXTINF:0,[COLOR tomato] **[/COLOR][COLOR lime]Vinieron de dentro de... [/COLOR][COLOR lime](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qpCsa2eb&id=33865&tit=VmluaWVyb24gZGUgZGVudHJvIGRlLi4u
-#EXTINF:0,[COLOR tomato] **[/COLOR]Visiones de Un asesinato (TV)
+#EXTINF:0,[COLOR tomato] **[/COLOR]Visiones de Un Asesinato (TV)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5451&peli=6cXmbJvIdMmrpMzz&id=22949&tit=VmlzaW9uZXMgZGUgdW4gYXNlc2luYXRvIChUVik=
 #EXTINF:0,[COLOR tomato] **[/COLOR]Visitantes
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6570&peli=4cTtqGigccTjZtbc&id=22951&tit=VmlzaXRhbnRlcw==
@@ -3748,7 +3748,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6570&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1649&peli=1MLcra_OdsTrZMLtk8TocbDVtb3tlNTg5XnqsafYuIvgl9Cz2tGUarGgs8blkZP03c3b&id=18275&tit=Vm9jZXMgZGVsIHBhc2Fkbw==
 #EXTINF:0,[COLOR tomato] **[/COLOR]Vulnerables
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3544&peli=4b-sr6PNsMnroJiqk9GsppjddIfVZMjc1Q==&id=18281&tit=VnVsbmVyYWJsZXM=
-#EXTINF:0,[COLOR tomato] **[/COLOR]Warlock, El brujo
+#EXTINF:0,[COLOR tomato] **[/COLOR]Warlock, El Brujo
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5373&peli=18Spr67fqsKopdeq&id=18288&tit=V2FybG9jaywgZWwgYnJ1am8=
 #EXTINF:0,[COLOR tomato] **[/COLOR]Watchmen: Relatos Del Navío Negro
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI2nbm6deg==&id=30824&tit=V2F0Y2htZW46IFJlbGF0b3MgZGVsIE5hdsOtbyBOZWdybw==
@@ -3782,7 +3782,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1455&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2699&peli=34nfqWnXtsbgpsLik8HbpGrXecffqsfjrHngmaHadMvZmcCxrMKUnKHWr46tpdHho77tWJ-Xrcrjm86v4pHdrg==&id=1592&tit=V2lzaG1hc3RlciAzOiBMYSBwaWVkcmEgZGVsIGRpYWJsbw==
 #EXTINF:0,[COLOR tomato] **[/COLOR]Wishmaster 4: La profecía
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8055&peli=1c-pmm7OponXmcT0k8yppJ7KuLnilJbw5HnesG3Qr7rcpMby1MmUo6SYp4ykaY_l7LvkWKKccraspsPb6sPkoA==&id=1593&tit=V2lzaG1hc3RlciA0OiBMYSBwcm9mZWPDrWE=
-#EXTINF:0,[COLOR tomato] **[/COLOR]Witchboard (Juego diabólico)
+#EXTINF:0,[COLOR tomato] **[/COLOR]Witchboard (Juego Diabolico)
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=30185&peli=pY-qbWuf&id=1557&tit=V2l0Y2hib2FyZCAoSnVlZ28gZGlhYsOzbGljbyk=
 #EXTINF:0,[COLOR tomato] **[/COLOR]Wither, posesión Infernal
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5747&peli=5NKsca7Zu7mtp8T0k87qqpyfdM2ompfyo3ncb7HTpLbmmNLyq46UoqnKeIraYcnx1JGm&id=14628&tit=V2l0aGVyLCBwb3Nlc2nDs24gaW5mZXJuYWw=

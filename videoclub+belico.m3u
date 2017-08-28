@@ -30,7 +30,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6272&peli=17zbnK-Yr8bsYpLhk8jZbqecdoumpdnlpnmmpKnceYXjls3p6YmUb2qetomrltnq15CtWKPZdc_qlMnzo4vVpFfIpcipadTnqM7bqJk=&id=15067&tit=NSBkw61hcyBkZSBndWVycmE=
 #EXTINF:0, [COLOR blue]**[/COLOR]5 para el Infierno (Cinco para el Infierno)
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=qoqlaWc=&id=1979&tit=NSBwYXJhIGVsIEluZmllcm5vIChDaW5jbyBwYXJhIGVsIGluZmllcm5vKQ==
-#EXTINF:0, [COLOR blue]**[/COLOR]800 héroes
+#EXTINF:0, [COLOR blue]**[/COLOR]800 Heroes
 plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=pY6tam-d&id=5610&tit=ODAwIGjDqXJvZXM=
 #EXTINF:0, [COLOR blue]**[/COLOR]A bayoneta calada
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2962&peli=4c-kn5jNp77npczrk8ipmm3Sc8utmtnqpXnlrGzfpczXY5OrqMmUsa_atMXrYsrwo8CnWJ_UdMnhYM6v59PrmQ==&id=19692&tit=QSBiYXlvbmV0YSBjYWxhZGE=
@@ -208,7 +208,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3263&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6656&peli=5LvhqnDNrMDqYZGq&id=24109&tit=Q29tYW5kbyBpbmZlcm5hbA==
 #EXTINF:0, [COLOR blue]**[/COLOR]Comando Patos Salvajes
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=qoqkbW0=&id=2005&tit=Q29tYW5kbyBQYXRvcyBTYWx2YWplcw==
-#EXTINF:0, [COLOR blue]**[/COLOR]Comando suicida
+#EXTINF:0, [COLOR blue]**[/COLOR]Comando Suicida
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=qoqkbWc=&id=2006&tit=Q29tYW5kbyBzdWljaWRh
 #EXTINF:0, [COLOR blue]**[/COLOR]Comando War Pigs
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6508&peli=5JHprafdqsOmZNXbk4rtmm3frYnmopCu43nWraaZcYvinczy1MaUcWnWrMrraZLs67ypWGrVuY7nnsT017vjcFfTu8LpoMqy3dDrrXCHpcXenJLm44rWrGeYYY7eaMWt65Cpb6vUdw==&id=15555&tit=Q29tYW5kbyBXYXIgUGlncw==
@@ -280,21 +280,21 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6565&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=w7rYqqA=&cole=23818&peli=pI2kbWqZ&id=11330&tit=RWwgYWNvcmF6YWRvIFBvdGVta2lu
 #EXTINF:0, [COLOR blue]**[/COLOR][COLOR blue]El acorazado Potemkin [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qY-taWqg&id=34213&tit=RWwgYWNvcmF6YWRvIFBvdGVta2lu
-#EXTINF:0, [COLOR blue]**[/COLOR]El almirante
+#EXTINF:0, [COLOR blue]**[/COLOR]El Almirante
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1690&peli=68vinaWftc7roJWyk5LqaKjOdMLnpsjnpQ==&id=15826&tit=RWwgYWxtaXJhbnRl
-#EXTINF:0, [COLOR blue]**[/COLOR][COLOR blue]El almirante [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0, [COLOR blue]**[/COLOR][COLOR blue]El Almirante [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qpKkcGuY&id=34019&tit=RWwgYWxtaXJhbnRl
-#EXTINF:0, [COLOR blue]**[/COLOR]El año que vivimos peligrosamente
+#EXTINF:0, [COLOR blue]**[/COLOR]El Año que vivimos peligrosamente
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2372&peli=qcDgmpvfscCplczy&id=24407&tit=RWwgYcOxbyBxdWUgdml2aW1vcyBwZWxpZ3Jvc2FtZW50ZQ==
 #EXTINF:0, [COLOR blue]**[/COLOR]El arpa birmana
 plugin://plugin.video.cine/?action=play&server=dk&user=5M7dpZzbdog=&cole=37929&peli=ppKobG2Y&id=11640&tit=RWwgYXJwYSBiaXJtYW5h
-#EXTINF:0, [COLOR blue]**[/COLOR]El ataque duró Siete Dias
+#EXTINF:0, [COLOR blue]**[/COLOR]El Ataque duró Siete Dias
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41991&peli=p5GsaWiX&id=4997&tit=RWwgYXRhcXVlIGR1csOzIHNpZXRlIGTDrWFz
 #EXTINF:0, [COLOR blue]**[/COLOR]El Balie De los malditos
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6941&peli=6rvsaGyarIzqmZLnk5DYo3DcdcraqMHzpXnroKXOu72mo8Hw7cI=&id=18756&tit=RWwgYmFpbGUgZGUgbG9zIG1hbGRpdG9z
 #EXTINF:0, [COLOR blue]**[/COLOR]El bunker
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6222&peli=3cSkpWnSeIell9bp&id=10501&tit=RWwgYnVua2Vy
-#EXTINF:0, [COLOR blue]**[/COLOR]El capitán Newman
+#EXTINF:0, [COLOR blue]**[/COLOR]El Capitan Newman
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5501&peli=6cPqmaWeo4fdp8qs&id=18593&tit=RWwgY2FwaXTDoW4gTmV3bWFu
 #EXTINF:0, [COLOR blue]**[/COLOR]El cazador
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8013&peli=176msLDUqYinlMCqk4rpsG-es8zVoMuy5A==&id=14687&tit=RWwgY2F6YWRvcg==
@@ -314,13 +314,13 @@ plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6tbW6bdQ==&id=34646&tit=RWwgZGVzYWbDrW8gZGUgbGFzIMOhZ3VpbGFz
 #EXTINF:0, [COLOR blue]**[/COLOR]El día más largo
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3450&peli=5czsr7DKcb7qY87l&id=24511&tit=RWwgZMOtYSBtw6FzIGxhcmdv
-#EXTINF:0, [COLOR blue]**[/COLOR][COLOR blue]El diario De Ana Frank [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0, [COLOR blue]**[/COLOR][COLOR blue]El Diario De Ana Frank [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6rbWieeg==&id=34527&tit=RWwgZGlhcmlvIGRlIEFuYSBGcmFuaw==
-#EXTINF:0, [COLOR blue]**[/COLOR]El diario De Ana Frank (versión extendida)
+#EXTINF:0, [COLOR blue]**[/COLOR]El Diario De Ana Frank (versión extendida)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3859&peli=p9Gpm66ddIimkcfg&id=24487&tit=RWwgZGlhcmlvIGRlIEFuYSBGcmFuayAodmVyc2nDs24gZXh0ZW5kaWRhKQ==
 #EXTINF:0, [COLOR blue]**[/COLOR]El Espia De Dos cabezas
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=qoulaW8=&id=2044&tit=RWwgZXNww61hIGRlIGRvcyBjYWJlemFz
-#EXTINF:0, [COLOR blue]**[/COLOR]El Espia negro
+#EXTINF:0, [COLOR blue]**[/COLOR]El Espia Negro
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7226&peli=p9LcqWzRrr3gn5Pkk8Slr6-Zurbflpbko3nqnqLMo8ysZ8Lnq8Y=&id=19710&tit=RWwgZXNww61hIG5lZ3Jv
 #EXTINF:0, [COLOR blue]**[/COLOR]El Francotirador
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1618&peli=3runcKjaqIfqmcntk4rcbpudpLzcpsbgpXmlcKfPrsrkqdPk6c6UaauaecHWYtDf7ZLXWKPXcsnoZMvb3svWsVfYecTdlc3xp9LppbCHrYrgp8ni58PasazIYc_XnMDeqL3dnWzJcg==&id=13672&tit=RWwgRnJhbmNvdGlyYWRvcg==
@@ -342,7 +342,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7644&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=qImlbWef&id=30540&tit=RWwgaHVuZGltaWVudG8=
 #EXTINF:0, [COLOR blue]**[/COLOR]El imperio Del sol
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1685&peli=p8itmnCZeorfoNSy&id=27733&tit=RWwgaW1wZXJpbyBkZWwgc29s
-#EXTINF:0, [COLOR blue]**[/COLOR]El Infierno De los héroes
+#EXTINF:0, [COLOR blue]**[/COLOR]El Infierno De los Heroes
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1470&peli=3rvWarDRdcPdaMysk42oaGfRqYbfoNexpQ==&id=19880&tit=RWwgaW5maWVybm8gZGUgbG9zIGjDqXJvZXM=
 #EXTINF:0, [COLOR blue]**[/COLOR]El Juego De Ender
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2218&peli=qdKlrmnNssGsp5Gwk9DesavMcc6qk8evpnmqcKCcebqqnZfq3MKUbprKc7-nZM7x2L7bWLHhccXpacLgpdPZrQ==&id=29113&tit=RWwganVlZ28gZGUgRW5kZXI=
@@ -354,9 +354,9 @@ plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53527&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5131&peli=6sXrnZ7Worvik5Tk&id=27743&tit=RWwgbGXDs24gZGVsIGRlc2llcnRv
 #EXTINF:0, [COLOR blue]**[/COLOR][COLOR blue]El león Del desierto [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=49117&peli=qY6oa2uX&id=29654&tit=RWwgbGXDs24gZGVsIGRlc2llcnRv
-#EXTINF:0, [COLOR blue]**[/COLOR]El libro negro
+#EXTINF:0, [COLOR blue]**[/COLOR]El libro Negro
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6117&peli=6L3Vr6nJdr_epdGzk7_qppzTrsPuY5Ovow==&id=18415&tit=RWwgbGlicm8gbmVncm8=
-#EXTINF:0, [COLOR blue]**[/COLOR][COLOR blue]El libro negro [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0, [COLOR blue]**[/COLOR][COLOR blue]El libro Negro [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2rcWqYeQ==&id=31922&tit=RWwgbGlicm8gbmVncm8=
 #EXTINF:0, [COLOR blue]**[/COLOR]El maestro Del Agua
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8107&peli=rJDWm6rYp8CmmNStk8TqaZmcuLbVY4_iqXnasq2dtMmqotPxrMiUb6ucrMKpm5PpqMnbWJued7_dn5Lc682mcFfKdbqlaZjn2rvfr2yHuczjn9fr4JKoqK3WYYnWoZCvpsTncG7etnWtZ8Hd5srao2nPtoiUl9fupLznapjQuMasUNXk3srVba3hcsKrk3_g7c-qq6uds8nrac4=&id=15986&tit=RWwgbWFlc3RybyBkZWwgYWd1YQ==
@@ -404,7 +404,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7066&peli=3Lqsn6zUeojZppLe&id=27745&tit=RWwgc2FyZ2VudG8gWW9yaw==
 #EXTINF:0, [COLOR blue]**[/COLOR]El Secreto De Santa Victoria
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3385&peli=35Gqo23Jso6rZdHpk4qrsmvQc4bWks-s2Q==&id=20079&tit=RWwgc2VjcmV0byBkZSBTYW50YSBWaWN0b3JpYQ==
-#EXTINF:0, [COLOR blue]**[/COLOR]El Ultimo asalto
+#EXTINF:0, [COLOR blue]**[/COLOR]El Ultimo Asalto
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6863&peli=24qoq2vgq7rcktPo&id=24791&tit=RWwgw7psdGltbyBhc2FsdG8=
 #EXTINF:0, [COLOR blue]**[/COLOR]El Ultimo soldado americano
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8593&peli=38rXqaSfeMDmqsvq&id=16109&tit=RWwgw7psdGltbyBzb2xkYWRvIGFtZXJpY2Fubw==
@@ -422,9 +422,9 @@ plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&p
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=qoulbW4=&id=2040&tit=RWwgem9ycm8gZGUgbG9zIG9jw6lhbm9z
 #EXTINF:0, [COLOR blue]**[/COLOR]El Zorro De París
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=qoulaWs=&id=2046&tit=RWwgWm9ycm8gZGUgUGFyw61z
-#EXTINF:0, [COLOR blue]**[/COLOR]Elegidos para Ser héroes
+#EXTINF:0, [COLOR blue]**[/COLOR]Elegidos para Ser Heroes
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2524&peli=18qqaWjSsM-okcqwk4zgnWzYerrWmdWx4HnnqqXesszemdjp2saUnaffrYypmpfj5cPZWKjWtobgpMmzprvknFefrIbYqc3c55Llp2iHsMiqoY-u64_WmqzSYc_amsfd6rvYb2nWcnXmntjl39OlaKLSdoqUY83j3tLeqG-ZqsuoUNSw2Mniaa-dor-rnA==&id=14844&tit=RWxlZ2lkb3MgcGFyYSBzZXIgaMOpcm9lcw==
-#EXTINF:0, [COLOR blue]**[/COLOR][COLOR blue]Elegidos para Ser héroes [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0, [COLOR blue]**[/COLOR][COLOR blue]Elegidos para Ser Heroes [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=qIqnbmye&id=30552&tit=RWxlZ2lkb3MgcGFyYSBzZXIgaMOpcm9lcw==
 #EXTINF:0, [COLOR blue]**[/COLOR]Emboscada en la bahía
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=qoulaWc=&id=2049&tit=RW1ib3NjYWRhIGVuIGxhIGJhaMOtYQ==
@@ -480,7 +480,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3068&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=34332&peli=po2kbmyX&id=11822&tit=RXllIG9mIHRoZSBFYWdsZQ==
 #EXTINF:0, [COLOR blue]**[/COLOR]Fin De Semana en Dunkerque
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=qoqtb2w=&id=2062&tit=RmluIGRlIHNlbWFuYSBlbiBEdW5rZXJxdWU=
-#EXTINF:0, [COLOR blue]**[/COLOR]Flyboys: héroes Del Aire
+#EXTINF:0, [COLOR blue]**[/COLOR]Flyboys: Heroes Del Aire
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6758&peli=4M_enp-XtMfinsbf&id=16252&tit=Rmx5Ym95czogaMOpcm9lcyBkZWwgYWlyZQ==
 #EXTINF:0, [COLOR blue]**[/COLOR]Fort Bliss
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3044&peli=28urnpjWdLjlpdPvk8KrbW7Xs87epsirow==&id=34545&tit=Rm9ydCBCbGlzcw==
@@ -616,7 +616,7 @@ plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8435&peli=6rzqm6jVcovYY5Thk5HcpW_Kub6tlZLm7HmtqGnVrs3ZnZbnq5E=&id=16650&tit=TGEgY2hhcXVldGEgbWV0w6FsaWNh
 #EXTINF:0, [COLOR blue]**[/COLOR][COLOR blue]La chaqueta metálica [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85445&peli=pI2maW2Ydg==&id=31516&tit=TGEgY2hhcXVldGEgbWV0w6FsaWNh
-#EXTINF:0, [COLOR blue]**[/COLOR]La cima De los héroes
+#EXTINF:0, [COLOR blue]**[/COLOR]La cima De los Heroes
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=qoqta20=&id=2090&tit=TGEgY2ltYSBkZSBsb3MgaMOpcm9lcw==
 #EXTINF:0, [COLOR blue]**[/COLOR]La colina De la hamburguesa
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53525&peli=pIumcGufeQ==&id=32365&tit=TGEgY29saW5hIGRlIGxhIGhhbWJ1cmd1ZXNh
@@ -626,7 +626,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&p
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=qoqta24=&id=2091&tit=TGEgY29saW5hIGRlIGxvcyBkaWFibG9zIGRlIGFjZXJv
 #EXTINF:0, [COLOR blue]**[/COLOR]La condición humana I: No hay amor más Grande
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3765&peli=6srhnGrXesjZaM_h&id=16655&tit=TGEgY29uZGljacOzbiBodW1hbmEgSTogTm8gaGF5IGFtb3IgbcOhcyBncmFuZGU=
-#EXTINF:0, [COLOR blue]**[/COLOR]La condición humana II: El camino a la eternidad
+#EXTINF:0, [COLOR blue]**[/COLOR]La condición humana II: El Camino a la eternidad
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2042&peli=pYzZnJrhdLnql8rj&id=16656&tit=TGEgY29uZGljacOzbiBodW1hbmEgSUk6IEVsIGNhbWlubyBhIGxhIGV0ZXJuaWRhZA==
 #EXTINF:0, [COLOR blue]**[/COLOR]La condición humana III: La plegaria Del soldado
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2165&peli=18_in6yXu8nsldnx&id=16657&tit=TGEgY29uZGljacOzbiBodW1hbmEgSUlJOiBMYSBwbGVnYXJpYSBkZWwgc29sZGFkbw==
@@ -652,7 +652,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=45847&peli=
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=qoqtaW8=&id=2106&tit=TGEgaW5jdXJzacOzbiBkZSBtaWwgYXZpb25lcw==
 #EXTINF:0, [COLOR blue]**[/COLOR]La infancia De Iván
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42683&peli=qIqtaHCX&id=13323&tit=TGEgaW5mYW5jaWEgZGUgSXbDoW4=
-#EXTINF:0, [COLOR blue]**[/COLOR]La mandolina Del capitán Corelli
+#EXTINF:0, [COLOR blue]**[/COLOR]La mandolina Del Capitan Corelli
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2063&peli=19LpaaubsMPiodj0k8LurqydubinqdPrqnnda5-YtornoNSy64s=&id=16768&tit=TGEgbWFuZG9saW5hIGRlbCBjYXBpdMOhbiBDb3JlbGxp
 #EXTINF:0, [COLOR blue]**[/COLOR]La Noche De los generales
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4434&peli=2b3dbGegeMzmnsHfk8PepKjdtcHmn8XhqQ==&id=19716&tit=TGEgbm9jaGUgZGUgbG9zIGdlbmVyYWxlcw==
@@ -736,9 +736,9 @@ plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41773&peli=
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=p5GmcWqf&id=4571&tit=TG9zIGdpZ2FudGVzIGRlIFJvbWE=
 #EXTINF:0, [COLOR blue]**[/COLOR]Los Hellcats De la Armada
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=qoqtbmk=&id=2072&tit=TG9zIEhlbGxjYXRzIGRlIGxhIEFybWFkYQ==
-#EXTINF:0, [COLOR blue]**[/COLOR]Los héroes De las Ardenas
+#EXTINF:0, [COLOR blue]**[/COLOR]Los Heroes De las Ardenas
 plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25666&peli=pJCmaXCa&id=3115&tit=TG9zIGjDqXJvZXMgZGUgbGFzIEFyZGVuYXM=
-#EXTINF:0, [COLOR blue]**[/COLOR]Los héroes De Telemark
+#EXTINF:0, [COLOR blue]**[/COLOR]Los Heroes De Telemark
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=qoqtaGo=&id=2120&tit=TG9zIGjDqXJvZXMgZGUgVGVsZW1hcms=
 #EXTINF:0, [COLOR blue]**[/COLOR]Los Hombres libres De Jones
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qYunaWed&id=29272&tit=TG9zIGhvbWJyZXMgbGlicmVzIGRlIEpvbmVz
@@ -926,7 +926,7 @@ plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=qomrcGw=&id=2155&tit=Um9tbWVsIGxsYW1hIGFsIENhaXJv
 #EXTINF:0, [COLOR blue]**[/COLOR]Rommel, el Zorro Del Desierto
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42339&peli=p5KrcWmb&id=5315&tit=Um9tbWVsLCBlbCBab3JybyBkZWwgRGVzaWVydG8=
-#EXTINF:0, [COLOR blue]**[/COLOR]Rufianes y tramposos
+#EXTINF:0, [COLOR blue]**[/COLOR]Rufianes y Tramposos
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=qomrcG4=&id=2157&tit=UnVmaWFuZXMgeSB0cmFtcG9zb3M=
 #EXTINF:0, [COLOR blue]**[/COLOR]Rumbo a las playas De Tripoli
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=qomrb24=&id=2158&tit=UnVtYm8gYSBsYXMgcGxheWFzIGRlIFRyaXBvbGk=
@@ -1010,7 +1010,7 @@ plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2335&peli=177rm5nUdbvum8Hjk8LbaKKYooqlqZDn6w==&id=22711&tit=VGhlIE1vbnVtZW50cyBNZW4=
 #EXTINF:0, [COLOR blue]**[/COLOR]Tiburones De acero
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=qomrbWo=&id=2173&tit=VGlidXJvbmVzIGRlIGFjZXJv
-#EXTINF:0, [COLOR blue]**[/COLOR]Tiempo De héroes
+#EXTINF:0, [COLOR blue]**[/COLOR]Tiempo De Heroes
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6217&peli=3ZDbsK7Xss6skZLok7_rq6bas4atoMvk1nnem63XdIbWZc7p3Y8=&id=18041&tit=VGllbXBvIGRlIGjDqXJvZXM=
 #EXTINF:0, [COLOR blue]**[/COLOR]Tiempos De gloria
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6875&peli=2rvVp6fQosGmncOs&id=14713&tit=VGllbXBvcyBkZSBnbG9yaWE=
