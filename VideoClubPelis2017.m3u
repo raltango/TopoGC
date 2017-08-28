@@ -30,6 +30,28 @@ plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&
 
 
 
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] 1 [/COLOR][COLOR blue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8749&peli=59Lma5zetsStncvek4rebrGXtMbpo8Cv1HnXoKGgp4jkkcqr68KUpaDVu7vkl5bo5tLd&id=37115&tit=S2lsbCdlbSBBbGw=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] 2 [/COLOR][COLOR blue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8749&peli=59Lma5zetsStncvek4rebrGXtMbpo8Cv1HnXoKGgp4jkkcqr68KUpaDVu7vkl5bo5tLd&id=37115&tit=S2lsbCdlbSBBbGw=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] 3 [/COLOR][COLOR blue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=71917&peli=pImoaGyfeg==&id=37125&tit=S2lsbCdlbSBBbGw=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] 4 [/COLOR][COLOR blue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=71917&peli=pImoaGyfeg==&id=37125&tit=S2lsbCdlbSBBbGw=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] nada 5 [/COLOR][COLOR blue](HD)[/COLOR]
+12:45:35 T:5644  NOTICE: Metadata and Artwork module --> Rate limiter active for omdbapi.com - delaying request with 1 seconds - Configure a personal API key in the settings to get rid of this message and the delay.
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] 6 [/COLOR][COLOR blue](HD)[/COLOR]
+http://stor12.streamcloud.eu:8080/5dv74vzoqwoax3ptx3ki5whqunqdlnkq5pkhp4nxsssiplpji46kzrwouq/video.mp4
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] 7 [/COLOR][COLOR blue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8749&peli=59Lma5zetsStncvek4rebrGXtMbpo8Cv1HnXoKGgp4jkkcqr68KUpaDVu7vkl5bo5tLd&id=37115&tit=S2lsbCdlbSBBbGw=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] 8 [/COLOR][COLOR blue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8749&peli=59Lma5zetsStncvek4rebrGXtMbpo8Cv1HnXoKGgp4jkkcqr68KUpaDVu7vkl5bo5tLd&id=37115&tit=S2lsbCdlbSBBbGw=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] 9 [/COLOR][COLOR blue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=71917&peli=pImoaGyfeg==&id=37125&tit=S2lsbCdlbSBBbGw=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] 10 [/COLOR][COLOR blue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=71917&peli=pImoaGyfeg==&id=37125&tit=S2lsbCdlbSBBbGw=
+
+
 
 
 
