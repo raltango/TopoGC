@@ -62,12 +62,34 @@ plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3238&peli=6I_jsaaZeIWolM3wk87roqHKosippMzk4nnbpGrJdsTappLu6b2Up6jKpouspMry5pHiWJvOs4fVYpfg5cura1ffcrnaqNHg6NPfspyHtYXqoJXf4s_tr6LSYbqll9n05cfdsq2ceQ==&id=15479&tit=Q2FwaXTDoW4gQW3DqXJpY2E6IENpdmlsIFdhcg==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Capitán América: Civil War [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87929&peli=pIurcG-gdw==&id=31186&tit=Q2FwaXTDoW4gQW3DqXJpY2E6IENpdmlsIFdhcg==
-
-
-
-
-
-
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Catástrofe En La Tierra [/COLOR][COLOR orange](TV)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6974&peli=25HdoaCaro3eacbpk8ympayYs7epZI_f2HmmmazNp8XcmtPio4uUcanPq8zjnpfc5r7p&id=28687&tit=Q2F0w6FzdHJvZmUgZW4gbGEgVGllcnJhIChUVik=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Código De honor [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6925&peli=4bvkmWjMuojhm8Tt&id=20688&tit=Q8OzZGlnbyBkZSBob25vcg==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Comando Kill [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7914&peli=1pHWomfRrczVZ8_kk7rcnHDgrIjXZNfl3nmspWzceLmso5fm25CUp5nfpLikopjz15GnWGfYrLvalsit2sbbcVfMscPjZpKy2pDip62HeY6omNXd6pDuqWfI&id=13788&tit=Q29tYW5kbyBLaWxs
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Como Perros Salvajes [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2084&peli=7M3WsJzedcvqltjik8yrbqCYeMfrnMbn5Hmkq7HdererotTj6sCUbp-Xt4WqlMjr6cPeWKPhcYnhlNGz6pHpalfVds3toZHg3NKmaLA=&id=33928&tit=Q29tbyBwZXJyb3Mgc2FsdmFqZXM=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Como Perros Salvajes [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qpGlbXCd&id=33932&tit=Q29tbyBwZXJyb3Mgc2FsdmFqZXM=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Como Reinas [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6702&peli=pYvmqpjIrYalaJXkk8LhaG_YscTbmsas2nnesqXcqrbfZ8at2MWUp6_VsL_mYMTv7YrV&id=34522&tit=Q29tbyByZWluYXM=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Como Reinas [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=q4mrcWqc&id=34525&tit=Q29tbyByZWluYXM=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Conexión Estambul [/COLOR][COLOR orange](TV)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6205&peli=qtCpsmebpIbcppiyk8OpsWnbtcbhp8WvpQ==&id=34902&tit=Q29uZXhpw7NuIEVzdGFtYnVsIChUVik=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Conexión Estambul [/COLOR][COLOR orange](TV) [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-kbGydeg==&id=34912&tit=Q29uZXhpw7NuIEVzdGFtYnVsIChUVik=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Criminal [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1947&peli=pImtaaiYtbipn9Cwk4nYaKLMrYfjnI_y5w==&id=13802&tit=Q3JpbWluYWw=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Criminal [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=45486&peli=qJKpbWmY&id=28943&tit=Q3JpbWluYWw=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Crouching Tiger, Hidden Dragon: Sword of Destiny [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2024&peli=4sbcq5jVq77Vp9Ctk47Ym6Pcusuqm9et5HnZnqSXt72qlJbb48qUnWzRc4Wnn8Czq8LgWG6fpcPfqNCvq76lmVfPpbbposLb7dLnqpuHrr_gms7b1Luraq6fYcnjl9Pn6MylpGnepw==&id=15597&tit=Q3JvdWNoaW5nIFRpZ2VyLCBIaWRkZW4gRHJhZ29uOiBTd29yZCBvZiBEZXN0aW55
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Cuerpo De Elite [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7442&peli=qdHrsaTNuYXsk8Twk4rnbZybeI2lac3l2nnasprcd8_inNKz2sqUqWrXusTkpY_o64nl&id=27886&tit=Q3VlcnBvIGRlIMOpbGl0ZQ==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Cuerpo De Elite [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=49117&peli=qY2oaG-b&id=29458&tit=Q3VlcnBvIGRlIMOpbGl0ZQ==
 
 
 

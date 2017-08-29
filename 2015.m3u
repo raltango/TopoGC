@@ -30,9 +30,26 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6398&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4219&peli=7MvnqaXTesCtl9Htk8HWoqfVdcPkps7spHmmoW3TtcOkldPn1c2Un6ygeImkkZTq1M7t&id=15388&tit=QmxhY2toYXQgLSBBbWVuYXphIGVuIGxhIHJlZA==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Blackhat - Amenaza En La red [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3brnoKfco8Hd&cole=53881&peli=qYypbmif&id=12332&tit=QmxhY2toYXQgLSBBbWVuYXphIGVuIGxhIHJlZA==
-
-
-
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Catástrofe inminente [/COLOR][COLOR orange](TV)[/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8027&peli=5MTtqZrZq87npMffk4nnn6bSrcarYJHlq3mnrHDhqcfjo9Xz2Mw=&id=15498&tit=Q2F0w6FzdHJvZmUgaW5taW5lbnRlIChUVik=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Caza Al Asesino [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1777&peli=6LrdnK3Vu8Omo8fik7rlpqfheL_flMLl7Xndb6fcc4jiaZPi2o2Un7CZq8TbYc2y7MrV&id=15500&tit=Q2F6YSBhbCBhc2VzaW5v
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Caza Al Asesino [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=pomrcWuX&id=5676&tit=Q2F6YSBhbCBhc2VzaW5v
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Chappie [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7817&peli=7YvrpKnMu4ammM7ek4_hqKbgdYbVpJjv2nnrsbGbqY6mZpfmps6UpW_VrsbeppPe4MTYWG3Rsbrpppbn2MzkrlebuMzXp8qs5tDnqqCHqcHopJDl3MTgmaWb&id=15511&tit=Q2hhcHBpZQ==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Chappie [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=tqLCfZvMg5bGdKQ=&cole=84780&peli=pIunaWybcg==&id=33157&tit=Q2hhcHBpZQ==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Comando War Pigs [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6508&peli=5JHprafdqsOmZNXbk4rtmm3frYnmopCu43nWraaZcYvinczy1MaUcWnWrMrraZLs67ypWGrVuY7nnsT017vjcFfTu8LpoMqy3dDrrXCHpcXenJLm44rWrGeYYY7eaMWt65Cpb6vUdw==&id=15555&tit=Q29tYW5kbyBXYXIgUGlncw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Cuatro Fantásticos [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1568&peli=pcemrprUs8jilcHpk8fcmbHQrcmsmtHv5nnacWvXtsjqYpT04c-UoXDdqrjcn9mxppGlWJnXq7jspcndpsTgcFfUqMrWns2y4Yzaoa2HrcOlp5Gz4YnZcayaYcrYkdHf6c7go63RdA==&id=15614&tit=Q3VhdHJvIEZhbnTDoXN0aWNvcw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Cuatro Fantásticos [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85451&peli=pIylaGmacQ==&id=31458&tit=Q3VhdHJvIEZhbnTDoXN0aWNvcw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Daemonium [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7364&peli=3rzhaLHUtI6tmNPl&id=29030&tit=RGFlbW9uaXVt
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Daemonium [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYmpaWya&id=29034&tit=RGFlbW9uaXVt
 
 
 
