@@ -1,6 +1,6 @@
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] 13 Horas: Los Soldados Secretos De Bengasi [/COLOR][/COLOR][COLOR red] (Accion)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] 13 Horas: Los Soldados Secretos De Bengasi [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5597&peli=qLvqrWugcsenZJDkk8Hja57erInak8Tv7Xnkr52XuLmnqo-xpo2UoGfWrbvapsbl6pLuWKDMq8flaM_l4cXisVfLsYvlZtKwq5Drp56Hcr3Yqcvw5cbpmqLIYbirmZLb28Tnr6ufdHXrZNXg64rosK2Xt4qUm9mz6IzdqbHWu8mpUMizp7rVn6CcqMvmkn_fpo2qpKCXsbiootCarMqmq22eq4baZ8Lfk8Grpafdp8nckcjr2Xmkq22crMGpZsWv4YuUoayXsr7ZmJPmq7_aWKvIs7jqYcSq5r7gpg==&id=13629&tit=MTMgSG9yYXM6IExvcyBzb2xkYWRvcyBzZWNyZXRvcyBkZSBCZW5nYXNp
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] 13 Horas: Los Soldados Secretos De Bengasi [/COLOR][COLOR blue](HD)[/COLOR][/COLOR][COLOR red] (Accion)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] 13 Horas: Los Soldados Secretos De Bengasi [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=pY6tbm-a&id=29337&tit=MTMgSG9yYXM6IExvcyBzb2xkYWRvcyBzZWNyZXRvcyBkZSBCZW5nYXNp
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] 30 Minutos Para Morir [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3485&peli=5pHYn6HYo7fjmY_ok4vbcW_Tq8_oos6wqHnXcZ7Lcszemc3p2cuUsJ3OssqtqJLr1MKnWKfdrompmsrk2dPcpFfIqovrZ9Pt7YzoqW6HeouradHg2MHZb2-a&id=14563&tit=MzAgbWludXRvcyBwYXJhIG1vcmly
@@ -37,8 +37,6 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7812&pe
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Batman v. Superman: El amanecer De La Justicia [/COLOR][COLOR red] (2016)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1561&peli=p8bqaqmcrcjjZ5Gqk8rYomfZrcTkpcXq2w==&id=13718&tit=QmF0bWFuIHYuIFN1cGVybWFuOiBFbCBhbWFuZWNlciBkZSBsYSBKdXN0aWNpYQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Batman v. Superman: El amanecer De La Justicia [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=cp&user=3brnoKfco8Hd&cole=53881&peli=pImlamueeQ==&id=12346&tit=QmF0bWFuIHYuIFN1cGVybWFuOiBFbCBhbWFuZWNlciBkZSBsYSBKdXN0aWNpYQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Batman v. Superman: El amanecer De La Justicia [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=1sHdm5_WdIWq&cole=22363&peli=pousbWmf&id=33416&tit=QmF0bWFuIHYuIFN1cGVybWFuOiBFbCBhbWFuZWNlciBkZSBsYSBKdXN0aWNpYQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Batman: El Regreso De los cruzados enmascarados [/COLOR][COLOR red] (2016)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2989&peli=qNHro2zPrIjal8Lqk47gr2rYu8TYmMPp33nXmnCdermmZcrcpc-Ub6bdo47jpsvf172q&id=29497&tit=QmF0bWFuOiBFbCByZWdyZXNvIGRlIGxvcyBjcnV6YWRvcyBlbm1hc2NhcmFkb3M=
@@ -52,8 +50,18 @@ plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53574&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2510&peli=pL_er5yap7eppMfwk8_XpJ-eesjYn8Cr1nnamaaascyqZsHf55GUb52bssPhlJDc5IrpWJnWc4qqqMjjqdOkp1fRusqlYsSs48OpcayHqoXsnJDipMLVqKPI&id=13724&tit=QmF0bWFuOiBNYWxhIHNhbmdyZQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Batman: Mala Sangre [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vai5ammYc4yr&cole=50026&peli=pImta2-XdA==&id=9557&tit=QmF0bWFuOiBNYWxhIHNhbmdyZQ==
-
-
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Blanco humano 2 [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6947&peli=1cSpcZjXq8Pel8Stk9HhoqnRc73sZ5Hjo3ncpJvUrIzipJf0p76UpJzVuojXYJKzpcboWKLNrYvqncmw58DmoFebo7iqp87zqtLnrWyHeIvokpPq7Yvfq5jfYYXqlZTj1M3dbZnddHXYpNfho9GmnKWXrMaUlNPy2onsapvVccDl&id=13737&tit=QmxhbmNvIGh1bWFubyAy
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Blanco humano 2 [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85564&peli=pIunbG2gdg==&id=31403&tit=QmxhbmNvIGh1bWFubyAy
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Blood Father [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4032&peli=p8_eqJiYcsPWksXjk8fkp5jes8vkosbd4nmmpZ3UccTnZJTeqs0=&id=13739&tit=Qmxvb2QgRmF0aGVy
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Blood Father [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2qbXCfeg==&id=31837&tit=Qmxvb2QgRmF0aGVy
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Capitán América: Civil War [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3238&peli=6I_jsaaZeIWolM3wk87roqHKosippMzk4nnbpGrJdsTappLu6b2Up6jKpouspMry5pHiWJvOs4fVYpfg5cura1ffcrnaqNHg6NPfspyHtYXqoJXf4s_tr6LSYbqll9n05cfdsq2ceQ==&id=15479&tit=Q2FwaXTDoW4gQW3DqXJpY2E6IENpdmlsIFdhcg==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Capitán América: Civil War [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87929&peli=pIurcG-gdw==&id=31186&tit=Q2FwaXTDoW4gQW3DqXJpY2E6IENpdmlsIFdhcg==
 
 
 

@@ -26,7 +26,10 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3862&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6442&peli=qMXeo26ats3rpNWzk7vaa66epMXbosCt1nmtaqagu8SlaZKvpNGUsanJdIrlm5TzrMHaWK3Zso6lppTk5rrlb1fRtYvmlJbe27vhqKqHsIenacGy7IzZbm3R&id=13716&tit=QmF0bWFuIFVubGltaXRlZDogTW9uc3Rlcm1hbsOtYQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Batman vs. Robin [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6398&peli=2LurnaOXdMbgnY_0k8annafcrovnmMzw1XmrbGzRusLuZsew3MuUp2mYcrnrZ9Tu34vW&id=13719&tit=QmF0bWFuIHZzLiBSb2Jpbg==
-
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Blackhat - Amenaza En La red [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4219&peli=7MvnqaXTesCtl9Htk8HWoqfVdcPkps7spHmmoW3TtcOkldPn1c2Un6ygeImkkZTq1M7t&id=15388&tit=QmxhY2toYXQgLSBBbWVuYXphIGVuIGxhIHJlZA==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Blackhat - Amenaza En La red [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3brnoKfco8Hd&cole=53881&peli=qYypbmif&id=12332&tit=QmxhY2toYXQgLSBBbWVuYXphIGVuIGxhIHJlZA==
 
 
 
