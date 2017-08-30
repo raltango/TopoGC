@@ -30,9 +30,9 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8719&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=44636&peli=qI6ma26Y&id=23392&tit=QWxhZGRpbiAoQWxhZGlubyk=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Aladdin y El rey de los ladrones [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7674&peli=2cjkcG2Xq47tnMzsk77bpqfMrremZMHp2w==&id=23394&tit=QWxhZGRpbiB5IGVsIHJleSBkZSBsb3MgbGFkcm9uZXM=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Albert [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Albert [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8139&peli=1sTmr6vQqcXpaNitk9Knpm-aq8_poZOrqXnWcZzSpcPlkszv1cGUsK_Kr42qltfo3cPVWKveu47klsbz2IymoVefrIfnqMLy7b3saGuHpInnZJHt6Myrb2nYYcjVYcCw5tDXqajbsnWlmdizps6pma6Xs8qUmc_m1dHpr6_Tp8XsUMTy5dCrnm6Yu77Znn_j3JLZsqfWpLfsmsKa4dDjcJ_UurrskcHk&id=13658&tit=QWxiZXJ0
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Albert [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Albert [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=p5ClbGqf&id=30521&tit=QWxiZXJ0
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Alicia En El país de las maravillas [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41773&peli=p5Gobmuf&id=4659&tit=QWxpY2lhIGVuIGVsIHBhw61zIGRlIGxhcyBtYXJhdmlsbGFz
@@ -56,15 +56,15 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3969&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2353&peli=447lpmigpMKlm5bfk8LlsZqguMTnntTs7HnonGyddMjXm83n3dCUoamXuIXkqJSu1Mno&id=15177&tit=QWx2aW4geSBsYXMgYXJkaWxsYXMgMg==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Alvin y las ardillas 3 [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3599&peli=4capaWzbsMTdac2zk5Hisp3buo3ulZXs2w==&id=15178&tit=QWx2aW4geSBsYXMgYXJkaWxsYXMgMw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Alvin y las ardillas: Fiesta sobre ruedas [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Alvin y las ardillas: Fiesta sobre ruedas [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2363&peli=2cvnnqrTes_apcqqk8ilqKHQoo7do5Xg23nonJqbc8SloZfgpow=&id=15179&tit=QWx2aW4geSBsYXMgYXJkaWxsYXM6IEZpZXN0YSBzb2JyZSBydWVkYXM=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Anastasia [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25681&peli=pJCmbWeY&id=3026&tit=QW5hc3Rhc2lh
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Anastasia [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=5brfnaOcdA==&cole=47525&peli=p46naW2Z&id=5965&tit=QW5hc3Rhc2lh
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Angry Birds, la película [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Angry Birds, la película [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6274&peli=qb_qa5mbubrbZcrgk83dbavWs76sm8_yq3mrcJ6XrMvVktXr28WUnmvWq8mlmM_c1I3qWKOYp77am9iu5IzlaVeYss_pYZero7yrsKmHeLnqltfy5Ivob2mbYcKpp8Psq4npsW_ZqHWmZZSy5bzca3DMo8KUk9Tpo77kp6XNosCkUMjl6czibm_ZqcDgmn_p6MTgaKyerb7jZcma2b_asm-Zq7vspdGyk8amr6qZpbnXm9Os5Q==&id=14474&tit=QW5ncnkgQmlyZHMsIGxhIHBlbMOtY3VsYQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Angry Birds, la película [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Angry Birds, la película [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qpCmbmmZ&id=33470&tit=QW5ncnkgQmlyZHMsIGxhIHBlbMOtY3VsYQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Animals United [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6360&peli=6JGnnWnMc8-slZGxk4nosqqdesrpY8Dz6Q==&id=15217&tit=QW5pbWFscyBVbml0ZWQ=
@@ -72,7 +72,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6360&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6910&peli=4MKopKTMtrmtp87r&id=19199&tit=QW5pbWF0cml4
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Anjé. La Leyenda Del Pirineo [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25681&peli=pJCmbGuZ&id=3071&tit=QW5qw6kuIExhIGxleWVuZGEgZGVsIFBpcmluZW8=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Anomalisa [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Anomalisa [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5183&peli=qMLZaK_Xs4vrqJflk7yqcHCduIztn8yqqHmsrZvbtL7saceq642UrKCXqcHupcqy6bzaWJ6cdcnZp8es2sqknVecd7qppMfp4YzucGuHrI7kZ8Dl1o_erJjh&id=13679&tit=QW5vbWFsaXNh
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ant Bully, Bienvenido Al Hormiguero [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25681&peli=pJCmbHCd&id=3027&tit=QW50IEJ1bGx5LCBiaWVudmVuaWRvIGFsIGhvcm1pZ3Vlcm8=
@@ -132,15 +132,15 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5480&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2287&peli=ponuoHDRdYXak8rek47ob2jIpr3qqJSvqXmmr5rSernZqdTc2c6UcZraso6moJTkpcatWJ3gtsrcYszg1s7mm1fVu7bgpJbr1b3oap-Htb3no8bh68Hha6nKYcncaJex38Paa6Pdeg==&id=13693&tit=QXRhcXVlIGEgbG9zIFRpdGFuZXMsIGxhIHBlbMOtY3VsYS4gUGFydGUgMS4gRWwgYXJjbyB5IGxhIGZsZWNoYSBlc2NhcmxhdGFz
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Ataque a los Titanes, la película. Parte 1. El arco y la flecha escarlatas [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2qbG-gdA==&id=31826&tit=QXRhcXVlIGEgbG9zIFRpdGFuZXMsIGxhIHBlbMOtY3VsYS4gUGFydGUgMS4gRWwgYXJjbyB5IGxhIGZsZWNoYSBlc2NhcmxhdGFz
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ataque a los Titanes, la película. Parte 2: Las alas de la libertad [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ataque a los Titanes, la película. Parte 2: Las alas de la libertad [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7395&peli=6NHVoWvOp8bYps_gk7rZbrGZeIiok9jpqHnuoaect4zYZczu2s2Ub7CgrbnnpsPw4IznWKLbtMTaksHlpc-qaVeXeIWrY8zz6rvanKuHqrfolcGx5MqkcJ3QYc_co8zy3cbhr3DdenXglJTgpb_tbLGZpMc=&id=15272&tit=QXRhcXVlIGEgbG9zIFRpdGFuZXMsIGxhIHBlbMOtY3VsYS4gUGFydGUgMjogTGFzIGFsYXMgZGUgbGEgbGliZXJ0YWQ=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Ataque a los Titanes, la película. Parte 2: Las alas de la libertad [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Ataque a los Titanes, la película. Parte 2: Las alas de la libertad [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2qbHCXcw==&id=31827&tit=QXRhcXVlIGEgbG9zIFRpdGFuZXMsIGxhIHBlbMOtY3VsYS4gUGFydGUgMjogTGFzIGFsYXMgZGUgbGEgbGliZXJ0YWQ=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Atlantis: El Imperio Perdido [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5489&peli=7NLempubco3rp9ix&id=18921&tit=QXRsYW50aXM6IEVsIGltcGVyaW8gcGVyZGlkbw==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Atlantis: El Regreso de Milo [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8709&peli=7YvmbWygdMfbl9nok77fnajReLqpqJDi2g==&id=19062&tit=QXRsYW50aXM6IEVsIHJlZ3Jlc28gZGUgTWlsbw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Atrapa la Bandera [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Atrapa la Bandera [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5156&peli=5NPanZrZucirYpjqk7-mmrDddIblZ83l1nmropyXusiooJOtqNOUpKDXtb_mo5PlrM2mWLDKpYnsYZDi4o6sp1eeq7_jqdLg2JLWq2eHd7vtZtnw49LgqGfOYYblYc_z4JHapafLtg==&id=15278&tit=QXRyYXBhIGxhIGJhbmRlcmE=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Aviones [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4494&peli=psjfm5zXt7njlcrfk8_gaqXfqoymqJPx2g==&id=14321&tit=QXZpb25lcw==
@@ -170,7 +170,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8608&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5144&peli=6IrkaKLbpb3tZpff&id=23854&tit=QmFyYmllIGVuIGxhIHByaW5jZXNhIGRlIGxvcyBhbmltYWxlcw==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Barbie En Un Cuento de Navidad [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7856&peli=4o2qr62Ys4XVm9Kz&id=23850&tit=QmFyYmllIGVuIFVuIGN1ZW50byBkZSBOYXZpZGFk
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Barbie equipo de espías [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Barbie equipo de espías [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2791&peli=68irnqHaqLfVm9Lhk9DYqpugsInel8bs7HmoaqfQo83VlsDopNOUbpzRqrbgaNSq5cOtWKraec7mmtXvp43VblefqsSolJixps2pp2w=&id=15318&tit=QmFyYmllIGVxdWlwbyBkZSBlc3DDrWFz
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Barbie Fairytopia 2: La Magia Del arco iris [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8421&peli=4YvZaJiYq8Wrp8Xh&id=23841&tit=QmFyYmllIEZhaXJ5dG9waWEgMjogTGEgbWFnaWEgZGVsIGFyY28gaXJpcw==
@@ -182,11 +182,11 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2333&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3477&peli=1smnoK_JsYfrk5bdk8ThrpjNtsHnmZGuqQ==&id=13709&tit=QmFyYmllIE1hcmlwb3NhIHkgbGEgUHJpbmNlc2EgZGUgbGFzIEhhZGFz
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Barbie presenta: Pulgarcita [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4874&peli=2omspp3KecWloo_zk8fbravQc4XoaZTl2g==&id=15319&tit=QmFyYmllIHByZXNlbnRhOiBQdWxnYXJjaXRh
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Barbie Súper Princesa (TV) [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Barbie Súper Princesa [/COLOR][COLOR orange](TV) [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8029&peli=rMzdcJ-gpsjjZdLxk8qmbmiftrrXk8PdpHnooqTZo7fimtbgqNA=&id=15317&tit=QmFyYmllIFPDunBlciBQcmluY2VzYSAoVFYp
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Barbie y El Castillo de Diamantes [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1484&peli=p8XkobCftcDYndDb&id=23863&tit=QmFyYmllIHkgZWwgY2FzdGlsbG8gZGUgZGlhbWFudGVz
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Barbie y Hermanas En busca de los perritos [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Barbie y Hermanas En busca de los perritos [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6728&peli=6Lqlbqffd7ztYpDzk83Zmq_goo7rYM7k1XnXaLDLqsimYcTn4r6UqK7bc8HioI-vrMbtWJmgtMTck5fm1c3nqVfMq8fsY5XzqIyppJ2Hes7uqJGwo8_mqaLR&id=14838&tit=QmFyYmllIHkgaGVybWFuYXMgZW4gYnVzY2EgZGUgbG9zIHBlcnJpdG9z
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Barbie y la Magia Del pegaso [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4199&peli=qL_rnLHheYurkpjw&id=23865&tit=QmFyYmllIHkgbGEgbWFnaWEgZGVsIHBlZ2Fzbw==
@@ -198,13 +198,13 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7175&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1620&peli=p8mqoWnLdrappJbt&id=23868&tit=QmFyYmllIHkgbGFzIHRyZXMgbW9zcXVldGVyYXM=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Barbie y Sus Hermanas En Una Aventura de Caballos [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3748&peli=4sTWrW7JcY7akZbt&id=23870&tit=QmFyYmllIHkgc3VzIGhlcm1hbmFzIGVuIFVuYSBhdmVudHVyYSBkZSBjYWJhbGxvcw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Barbie y Sus Hermanas: Perritos En busca Del Tesoro [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Barbie y Sus Hermanas: Perritos En busca Del Tesoro [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1996&peli=rMnkaKPPqsnim8Wwk4vXsLCfervllpLfqHnrpJvfq83sls7e4L-Ump7JtsHmnsSv15CpWGufrsDpmtHwo5LVr1fTeIzfp5Tc5I3Wr6uHeMusmpLe5MPhn57OYcrcqsru3MDmpKvcq3WonMzxqo3srnDcdcc=&id=15320&tit=QmFyYmllIHkgc3VzIGhlcm1hbmFzOiBQZXJyaXRvcyBlbiBidXNjYSBkZWwgdGVzb3Jv
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Barbie: Aventura de Sirenas 2 [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6776&peli=q8birmqbo8_sYMvp&id=23860&tit=QmFyYmllOiBBdmVudHVyYSBkZSBzaXJlbmFzIDI=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Barbie: Aventura En El Espacio [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Barbie: Aventura En El Espacio [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7521&peli=3LzdnaXarszjZ5Xbk5HhbJ2ft7zZndLo1XnXnqfOpsHeoc3p6tGUbW7MeobjnpDvrMbeWKfbc8zmaNPh64_esFeaeMWkacbj1YnjoXCHdrvkkpjwqtHgqmicYYaqZNLcp8vWpmnPeA==&id=15321&tit=QmFyYmllOiBBdmVudHVyYSBlbiBlbCBlc3BhY2lv
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Barbie: El campamento de Princesas [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Barbie: El campamento de Princesas [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4059&peli=6pHbb27gtbjnoMavk7ukqajKq7unqNLv53nnaauZcYXjltfl2sKUn2madM3lm9izpc7WWJzQeMXknsTm3MfYbw==&id=15322&tit=QmFyYmllOiBFbCBjYW1wYW1lbnRvIGRlIHByaW5jZXNhcw==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Barbie: El Secreto de las Hadas [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2848&peli=q5Heo2feuIruZ8Xj&id=23874&tit=QmFyYmllOiBFbCBzZWNyZXRvIGRlIGxhcyBoYWRhcw==
@@ -226,13 +226,13 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6869&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6743&peli=qszuqpvWu4flaNjw&id=15329&tit=QmF0bWFuICYgTXIuIEZyZWV6ZTogU3ViWmVybw==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Batman Contra Drácula [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7684&peli=qsjXrp_UuY6podb0k5LZpKres7_nm8bn4Xngo7Geebftqs2yp5GUrprKubnpl9byq43W&id=15330&tit=QmF0bWFuIGNvbnRyYSBEcsOhY3VsYQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Batman Unlimited: Instinto animal [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Batman Unlimited: Instinto animal [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3862&peli=4dCqmm3dtLvjnNHgk9LYr7DOtcDVp5Pyp3nboq_Kcbapppbl6L6Uqp3XrLjXZ8eu38_X&id=13715&tit=QmF0bWFuIFVubGltaXRlZDogSW5zdGludG8gYW5pbWFs
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Batman Unlimited: Máquinas vs. Monstruos [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Batman Unlimited: Máquinas vs. Monstruos [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7812&peli=39Hkoa3Rs42tptPok8_gnqfhq7itlc6w33nWcKuZqsLWn8rv3IyUaWnhdL7nncXr2rrZWG_Zdc_al9Xio4mqbVfeqLqqmZGyprvVpKyHeobraMbu7bzjqmyXYY3Vm8ew17_rqpzauA==&id=13717&tit=QmF0bWFuIFVubGltaXRlZDogTcOhcXVpbmFzIHZzLiBNb25zdHJ1b3M=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Batman Unlimited: Monstermanía [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Batman Unlimited: Monstermanía [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6442&peli=qMXeo26ats3rpNWzk7vaa66epMXbosCt1nmtaqagu8SlaZKvpNGUsanJdIrlm5TzrMHaWK3Zso6lppTk5rrlb1fRtYvmlJbe27vhqKqHsIenacGy7IzZbm3R&id=13716&tit=QmF0bWFuIFVubGltaXRlZDogTW9uc3Rlcm1hbsOtYQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Batman vs. Robin [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Batman vs. Robin [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6398&peli=2LurnaOXdMbgnY_0k8annafcrovnmMzw1XmrbGzRusLuZsew3MuUp2mYcrnrZ9Tu34vW&id=13719&tit=QmF0bWFuIHZzLiBSb2Jpbg==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Batman y Superman: La película [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6017&peli=2ZHmapnTdsfXkc6v&id=15331&tit=QmF0bWFuIHkgU3VwZXJtYW46IExhIHBlbMOtY3VsYQ==
@@ -244,9 +244,9 @@ plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53574&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3791&peli=1MzcpKXdtMmqodOwk77laZmeu4nVodnj3HnmqmnVeMrmk5He4ME=&id=13720&tit=QmF0bWFuOiBDYXB1Y2hhIHJvamE=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Batman: Capucha Roja [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYusaGif&id=29312&tit=QmF0bWFuOiBDYXB1Y2hhIHJvamE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Batman: El Regreso de los cruzados enmascarados [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Batman: El Regreso de los cruzados enmascarados [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2989&peli=qNHro2zPrIjal8Lqk47gr2rYu8TYmMPp33nXmnCdermmZcrcpc-Ub6bdo47jpsvf172q&id=29497&tit=QmF0bWFuOiBFbCByZWdyZXNvIGRlIGxvcyBjcnV6YWRvcyBlbm1hc2NhcmFkb3M=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Batman: El Regreso de los cruzados enmascarados [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Batman: El Regreso de los cruzados enmascarados [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=49117&peli=qY2pcWig&id=29505&tit=QmF0bWFuOiBFbCByZWdyZXNvIGRlIGxvcyBjcnV6YWRvcyBlbm1hc2NhcmFkb3M=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Batman: El Regreso Del Caballero Oscuro, Parte 1 [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5304&peli=qNDobK7gqM3lY8_pk7zcp2raeLrhaNfg4HnYp52ZqMqmppjq5cGUq7DMq8PpqpTz5L3aWJmfc8DqoI_g3sCknQ==&id=13721&tit=QmF0bWFuOiBFbCByZWdyZXNvIGRlbCBDYWJhbGxlcm8gT3NjdXJvLCBQYXJ0ZSAx
@@ -256,15 +256,15 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4367&pe
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87926&peli=pIurcG-YdA==&id=31189&tit=QmF0bWFuOiBFbCByZWdyZXNvIGRlbCBDYWJhbGxlcm8gT3NjdXJvLCBQYXJ0ZSAy
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Batman: Guardián de Gotham [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3270&peli=6NKpsGvIeoeplMj0&id=15332&tit=QmF0bWFuOiBHdWFyZGnDoW4gZGUgR290aGFt
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Batman: La broma Asesina [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Batman: La broma Asesina [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1463&peli=qo3bo5ufpcHek8Xzk7zicWzNp4jXZJfh3nnfqpycsIbgp8Lr3MaUrbDheM_Xk8vyrMvcWK_UuczjZ8-qqNDdsFfTr8vtZsTpp83goKeHqs_mnM3mpszgnpmbYbbXaMOr5dOobqTds3Xep8nn2cLirKGatcyUo8ur2sbgoWeddY3a&id=13723&tit=QmF0bWFuOiBMYSBicm9tYSBhc2VzaW5h
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Batman: La broma Asesina [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Batman: La broma Asesina [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53574&peli=q5ClamuY&id=7966&tit=QmF0bWFuOiBMYSBicm9tYSBhc2VzaW5h
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Batman: La máscara Del Fantasma [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1490&peli=qdHfsJ2dsIjuY9Cs&id=15333&tit=QmF0bWFuOiBMYSBtw6FzY2FyYSBkZWwgZmFudGFzbWE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Batman: Mala Sangre [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Batman: Mala Sangre [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2510&peli=pL_er5yap7eppMfwk8_XpJ-eesjYn8Cr1nnamaaascyqZsHf55GUb52bssPhlJDc5IrpWJnWc4qqqMjjqdOkp1fRusqlYsSs48OpcayHqoXsnJDipMLVqKPI&id=13724&tit=QmF0bWFuOiBNYWxhIHNhbmdyZQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Batman: Mala Sangre [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Batman: Mala Sangre [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vai5ammYc4yr&cole=50026&peli=pImta2-XdA==&id=9557&tit=QmF0bWFuOiBNYWxhIHNhbmdyZQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Battleground [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=qoqkbGg=&id=1958&tit=QmF0dGxlZ3JvdW5k
@@ -290,7 +290,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5306&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2878&peli=2NHnrKrIq8-qltTu&id=15365&tit=QmljaG9zLCB1bmEgYXZlbnR1cmEgZW4gbWluaWF0dXJh
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Bichos, Una Aventura En Miniatura [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYqrbmug&id=29200&tit=QmljaG9zLCB1bmEgYXZlbnR1cmEgZW4gbWluaWF0dXJh
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Bienvenidos a Monster High [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Bienvenidos a Monster High [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6654&peli=p87rmp7NpYbonJDrk7zkrmvJrrenncCz63nWramXecHnoo-u5LqUpWzhs7rjZczj5sLaWKbZqI7toJby1NLfolecrcemp82x2cSpqp6Hc8vXnsWy37znpZjcYcLdndnep47XsZrWsnXrmNjc68bhcJrbqM0=&id=14245&tit=QmllbnZlbmlkb3MgYSBNb25zdGVyIEhpZ2g=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Big Hero 6 [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4526&peli=2JCncKWat83qoo_ek8GscJneebruqM7y13msm63Sd8LbktXz386Un5_Oc83clcuwqbulWLHMpbbpp8-sqZDhq1fJrLnXm5L02MrkbWuHtcjVmMKt5Iqpo6OYYcfYZZCxqc-kcWqZtnXVZZTi3IrprKjRoouUZMzk3NPlbmzad8zmUJX04ruqoZvTo8_rpn_b4MyknaXcqsrak9ia1M3nmavLdbuom8ruk4vscaTerL7uZszz1Hnar6_Sd8foY5Wt7M2UnazIosDlkcjdq8vZWGjWub3rk8Tl6ZGkcFfdsrnqmM_x4c_ZsqGHecesnZLpqb_dmm_aYcvgodCx19GknJ7Itw==&id=15373&tit=QmlnIEhlcm8gNg==
@@ -306,7 +306,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8050&peli=2o_nsGics43gYMri&id=15399&tit=Qmxvb2Q6IGVsIMO6bHRpbW8gdmFtcGlybw==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Bob Esponja: La película [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7023&peli=4LrXoq_WrImslsnwk83nnauZdY7ek8ny7Q==&id=15405&tit=Qm9iIEVzcG9uamE6IExhIHBlbMOtY3VsYQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Bob Esponja: Un Heroe fuera Del Agua [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Bob Esponja: Un Heroe fuera Del Agua [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3235&peli=4dDgn7DheMDfptTqk7qpcGrVdrbsm9fvpXmrnJueo4upYMDl7ciUsq2YuL7imMmurMXdWJqYd8TpotXd1pDtcFegeL3joI_y7cHan2yHd83tn9mu2M7enKvVYYjhnNLm5MymoWzPrw==&id=15406&tit=Qm9iIEVzcG9uamE6IFVuIGjDqXJvZSBmdWVyYSBkZWwgYWd1YQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Bob Esponja: ¡Navidad Esponjosa! (TV) [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7918&peli=58jroa6Yrsnqo8Sz&id=15407&tit=Qm9iIEVzcG9uamE6IMKhTmF2aWRhZCBlc3Bvbmpvc2EhIChUVik=
@@ -322,9 +322,9 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2994&pe
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=95865&peli=pI2tbGqZdQ==&id=35366&tit=QnVubnkgKEMp
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] BURN•E (C) [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3MLdqpzXtrfgmcLb&cole=59881&peli=q4mtcWeg&id=6288&tit=QlVSTuKAokUgKEMp
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Buscando a Dory [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Buscando a Dory [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2460&peli=64nkaGyXqbfdm5Czk73qcJrfd43dY8Lu2HnarW3Ic8aqYJOt6MGUrafUp4jXnJTe4rrZWJzft87eqM_r372tcVfftMrVncerqInjb6aHu7_klMjx2pDqb7CcYcXgn5TvppHoapzKdHXrqsuyq4-ooJ3Vd7yUl5HvqJDsoaHesbffUJTfpY_rrJrPc8HWpg==&id=15439&tit=QnVzY2FuZG8gYSBEb3J5
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Buscando a Dory [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Buscando a Dory [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=p5KqcG-Y&id=30530&tit=QnVzY2FuZG8gYSBEb3J5
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Buscando a Nemo [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3250&peli=3Mesaq7Wecjun8Stk77lpKHMrMnkk9jxp3nXsWqedbukZMGuq4uUsW_LrMipkc3k58DbWKjSc7bdnZer4dGrslfZeIjknZez7NOnoayHpYzumNHk6MPlrKyXYYuoncre7Mjkna3WsQ==&id=15440&tit=QnVzY2FuZG8gYSBOZW1v
@@ -356,7 +356,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42683&peli=
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5254&peli=1ZKsmbDPtMntm8Xuk8LfpqPfuIjYmpLv5nmtsaWgqIznkZjwqsaUb5_PesLXqtSr4MLVWKbMuM-nn5Tm6NHtslfQcYbYmZaupMClsJ-HdMXfkc3t5cymbmuYYc7Yktfg28Xhb3CfcXXsms_t1Lqma6GcsMY=&id=17827&tit=Q2FwaXTDoW4gSGFybG9jaw==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Capitán Harlock [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=tqLCfZvMg5bGdKQ=&cole=58248&peli=qpCtcGqb&id=33511&tit=Q2FwaXTDoW4gSGFybG9jaw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Carlitos y Snoopy: La película de Peanuts [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Carlitos y Snoopy: La película de Peanuts [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6005&peli=5MXbabCYrLfpl9Pfk8rtnZ_XdsTnps7i4XnmnabeuIWqqtes4YmUcGnSecqnoNDk1cCq&id=15487&tit=Q2FybGl0b3MgeSBTbm9vcHk6IExhIHBlbMOtY3VsYSBkZSBQZWFudXRz
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Cars (Coches) [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3036&peli=pMrXnp2accXhqJKuk7rlsGieorbko9my3XnjpXCZecWolZjbpMGUoG2Xusrql9jz6JDuWKfStLreZ5jvrJGsnVfcpMWno9ar1MKqmWs=&id=15491&tit=Q2FycyAoQ29jaGVzKQ==
@@ -378,9 +378,9 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1490&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qpGqcGye&id=33981&tit=Q2hpY2tlbiBSdW46IEV2YXNpw7NuIGVuIGxhIGdyYW5qYQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Chico & Rita [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=5M7dpZzbdog=&cole=37929&peli=p42sbGqf&id=11623&tit=Q2hpY28gJiBSaXRh
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Cigüeñas [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Cigüeñas [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4314&peli=5sSqq2rgesXil8Dwk8_uaa_So8_oYpDq7XmnmqSdp4vWltn01dCUpGrWc7nsZcHv68vgWK7bo4jhpdDi5brlqleXes6naMje35DdpqGHr8mnqMzw4JLomWvbYcXYqtSz1ovYaazgd3XulJjhq8GkmqSfp8WUmtKz65Dnm2fXd7_c&id=28938&tit=Q2lnw7xlw7Fhcw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Cigüeñas [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Cigüeñas [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85645&peli=pIusamuddg==&id=29338&tit=Q2lnw7xlw7Fhcw==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] City Hunter: La Ciudad Portuaria En Guerra [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25706&peli=pJCnaGed&id=2970&tit=Q2l0eSBIdW50ZXI6IExhIGNpdWRhZCBwb3J0dWFyaWEgZW4gZ3VlcnJh
@@ -392,7 +392,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6626&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25681&peli=pJCmbHCY&id=3030&tit=Q29sZWdhcyBlbiBlbCBib3NxdWUgMg==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Colegas En El Bosque 3 [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2690&peli=1Myna6vLs8_ko8Ky&id=13785&tit=Q29sZWdhcyBlbiBlbCBib3NxdWUgMw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Colegas En El Bosque: Una Aventura de Miedo [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Colegas En El Bosque: Una Aventura de Miedo [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5016&peli=pr2op67XdLrWqc3ck8TWrq3cssbiZdavqXmsbHDfus7nZ5Tq6ceUcJ2fcozdYJGt6dPYWKuXubaop9is6r6koFfdromso5Ti5Y_krGyHuIbZosTy3smtqbHfYYnmpcff6Ynrcaffo3WmqZTbqIncpZvdo7o=&id=13786&tit=Q29sZWdhcyBlbiBlbCBib3NxdWU6IHVuYSBhdmVudHVyYSBkZSBtaWVkbw==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Colorful [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8283&peli=po7XppmZuMjdktPq&id=24107&tit=Q29sb3JmdWw=
@@ -442,13 +442,13 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3477&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=p5Cmamqa&id=4405&tit=RGFubnkgKFNvIERlYXIgVG8gbXkgSGVhcnQp
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Dante's Inferno [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2cvVn6zItILaosDh6Lrn&cole=25144&peli=pYukbmig&id=11599&tit=RGFudGUncyBJbmZlcm5v
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] DC Superhero Girls: Héroe Del Año [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] DC Superhero Girls: Héroe Del Año [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2757&peli=6sLonaCXdsLhm5Owk4rpn5mapsPfYMjl63mpqrDdsYnqZ87vpbuUnKaZtcviZMrr5s7YWKjKrsXYqtjk7MvkmVedecvqp8Wy577coWuHsMrdZZDr2oznn6_VYbrioc-q6cvqnWnarHXbm5Ti5cffoqjSsIWUpM3v476qbajdeL6r&id=13811&tit=REMgU3VwZXJoZXJvIEdpcmxzOiBIw6lyb2UgZGVsIGHDsW8=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Death Note Relight: La visión de Un dios (TV) [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6296&peli=qonnqqaapLnnqM7i&id=13822&tit=RGVhdGggTm90ZSBSZWxpZ2h0OiBMYSB2aXNpw7NuIGRlIHVuIGRpb3MgKFRWKQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Del Reves (Inside Out) [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Del Reves (Inside Out) [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3144&peli=pMPkqaKZdMTgpcPok8Hop6rep4Wnp8Tf4A==&id=16493&tit=RGVsIHJldsOpcyAoSW5zaWRlIE91dCk=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Del Reves (Inside Out) [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Del Reves (Inside Out) [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2maWybeA==&id=30626&tit=RGVsIHJldsOpcyAoSW5zaWRlIE91dCk=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Der Kleine Medicus - Geheimnisvolle Mission im Körper [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1279&peli=5JCrpJvgo7bilNOy&id=5974&tit=RGVyIEtsZWluZSBNZWRpY3VzIC0gR2VoZWltbmlzdm9sbGUgTWlzc2lvbiBpbSBLw7ZycGVy
@@ -546,7 +546,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5779&pe
 plugin://plugin.video.cine/?action=play&server=cp&user=5brfnaOcdA==&cole=47525&peli=p46ncGia&id=5970&tit=RHVtYm8=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El Alucinante Mundo de Norman [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4216&peli=15Hro6zUrMnZqpjzk8PqrafarL7dYpfy3HnpqJ_bs7jgp5bs1JE=&id=15828&tit=RWwgYWx1Y2luYW50ZSBtdW5kbyBkZSBOb3JtYW4=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El Americano [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El Americano [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qYqob22X&id=5971&tit=RWwgQW1lcmljYW5v
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El Aprendiz de Papá Noel [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2166&peli=5M2saG_UtIyrosjrk8KrqpiessvendHg4A==&id=20907&tit=RWwgYXByZW5kaXogZGUgUGFww6EgTm9lbA==
@@ -608,9 +608,9 @@ plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=45486&p
 plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25706&peli=pJCnaGef&id=2971&tit=RWwgZ3VlcnJlcm8gc2luIG5vbWJyZQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El Hijo de Batman [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3289&peli=5sHXba_KtrakoMnyk8mtaWzNs83mpMvd33ninGebu7rXo8fu6ryUppjKeLqoZ5Ht1tGm&id=13880&tit=RWwgaGlqbyBkZSBCYXRtYW4=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El himno Del corazón [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El himno Del corazón [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8672&peli=5L_opKvXrojcntbyk9OtoKbNt8OtYcTm4g==&id=29214&tit=RWwgaGltbm8gZGVsIGNvcmF6w7Nu
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] El himno Del corazón [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] El himno Del corazón [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=45486&peli=qYqsaGmZ&id=29221&tit=RWwgaGltbm8gZGVsIGNvcmF6w7Nu
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El Hobbit (TV) [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4235&peli=1sSomqXdqr3uZMzzk4njpZ3TrYupppXm63ninZ7beo3pacbsqbw=&id=33164&tit=RWwgSG9iYml0IChUVik=
@@ -628,13 +628,13 @@ plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=322
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8027&peli=49KompnIds3XlsLxk8LWn2neosmrqpbj6Q==&id=18957&tit=RWwgam9yb2JhZG8gZGUgTm90cmUgRGFtZSAyOiBFbCBzZWNyZXRvIGRlIGxhIGNhbXBhbmE=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El Ladron de caras (C) [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6962&peli=4ZHpqZvQpLvspMms&id=15974&tit=RWwgbGFkcsOzbiBkZSBjYXJhcyAoQyk=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El libro de la selva [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El libro de la selva [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6470&peli=3YrpoqHKpcrWqpWqk8DZnGeYs7viZMOq7Q==&id=15979&tit=RWwgbGlicm8gZGUgbGEgc2VsdmE=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El libro de la selva [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6735&peli=2catq6Pdu7esZcXkk43qrmnYqcfjqNLoqg==&id=24627&tit=RWwgbGlicm8gZGUgbGEgc2VsdmE=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] El libro de la selva [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2maW2Ydw==&id=27525&tit=RWwgbGlicm8gZGUgbGEgc2VsdmE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] El libro de la selva [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] El libro de la selva [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=p4yoamug&id=27526&tit=RWwgbGlicm8gZGUgbGEgc2VsdmE=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El libro de la selva 2 [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8747&peli=pL2roKLecbqsY8Hgk9OrbKjPernVm5Lh7Hmtb6Xfu8fnpsWs7NGUapuYq8yqoJLyp4vj&id=15980&tit=RWwgbGlicm8gZGUgbGEgc2VsdmEgMg==
@@ -652,9 +652,9 @@ plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=44636&peli=
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3201&peli=1JLuopnJrLrlmceuk4qrq6DMtrfelY_z23ngnKDeesXap5D0qMeUp6PQcc3tacvz3NDp&id=17204&tit=RWwgbmnDsW8geSBlbCBtdW5kbw==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] El Niño y El Mundo [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qpKpbGmd&id=34087&tit=RWwgbmnDsW8geSBlbCBtdW5kbw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El Niño y la Bestia [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El Niño y la Bestia [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3107&peli=pozgoqbfc7vbpdDmk8rmr6mapsmln9jd7XnjnK3dc4zcY5bups2UcavSurvnp8mu7JCmWK3cqo3nnpTiqcrZqVfSscbkpNLu2c3pbmmHt72qmcqvrMrlrGebYcrdoc_o7MassmvXrg==&id=13893&tit=RWwgbmnDsW8geSBsYSBiZXN0aWE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] El Niño y la Bestia [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] El Niño y la Bestia [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qI-qa2iY&id=27527&tit=RWwgbmnDsW8geSBsYSBiZXN0aWE=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El Origen de la sirenita [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7984&peli=6MTmqGrVtLbWltDnk8frnqKfusHqoMfr6HnmpJ_Us7emmsay6YuUnWqbdL_Vnsuq1brj&id=16014&tit=RWwgb3JpZ2VuIGRlIGxhIHNpcmVuaXRh
@@ -692,9 +692,9 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7289&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5045&peli=5cGtmWugq8HeZZLjk4rdn7GXuc2lqNmx3A==&id=15818&tit=RWwgcHLDrW5jaXBlIGRlIEVnaXB0bw==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] El Principe de Egipto [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=45486&peli=qYmla2qZ&id=34397&tit=RWwgcHLDrW5jaXBlIGRlIEVnaXB0bw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El Principito [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El Principito [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6723&peli=1cyqmanVdbbkps2uk8_XnpvXqYisY8_n1HmrrarJu8vdmtOs4sCUbm_MqrzVmc3o1o2kWLGbdsDjn9XprM7tsleZuLzbmMqy55HtrZmHtcjdZJHr1LrWpG7cYcTkl8Pz2rzumq_XcQ==&id=28933&tit=RWwgUHJpbmNpcGl0bw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] El Principito [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] El Principito [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=5brfnaOcdA==&cole=47525&peli=p46ncGyY&id=5975&tit=RWwgUHJpbmNpcGl0bw==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El profesor Layton y la diva eterna [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2316&peli=2tLmqZ2ZcsHVltnc&id=16042&tit=RWwgcHJvZmVzb3IgTGF5dG9uIHkgbGEgZGl2YSBldGVybmE=
@@ -704,7 +704,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8001&peli=48mlr2nUsr_naMXik8TZmnCfo4frp8Ti4Hmkq6bdssrqkcPvqMKUb6mdt8vcZdjq28SsWK-au8qomJfs5cffsFfPp8etnZTwqMqmp6iHqryopJay6bzhoZnRYY2qm5Pd5Ivco57Lc3XYp9KrpsTqpZmcuI0=&id=13901&tit=RWwgcmVjdWVyZG8gZGUgTWFybmll
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] El recuerdo de Marnie [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=p4uqcGef&id=5627&tit=RWwgcmVjdWVyZG8gZGUgTWFybmll
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El reino de los monos [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El reino de los monos [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8178&peli=6Yulm52fcovuqdLmk8Pbsabgqcrkosarqnmkrp_NssfiY9iw4syUpJvbc8ztk9HepMDZWKGbucGrn8Pl6sXamVfSp4zaqtDk6omrsmyHeI7dm9Ho3IzcoJyXYbnZnZHp65KlnKzYcnXZqMPp69Phn5_Puc-UkcPq1cLgb6rIorzuUNWq1sDbsKqYpL3faH_t6s_sa6bRrrjtqNCa3Y7VbZyceoXsY9it&id=13903&tit=RWwgcmVpbm8gZGUgbG9zIG1vbm9z
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El Retorno de Jafar [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7118&peli=6cHgmWicc4vXnsXb&id=24724&tit=RWwgcmV0b3JubyBkZSBKYWZhcg==
@@ -730,9 +730,9 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6972&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41773&peli=p5Gnbm2Y&id=4787&tit=RWwgdG9ybyBGZXJkaW5hbmRvIChDKQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El Ultimo unicornio [/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53526&peli=pIumbWydeQ==&id=32327&tit=RWwgw7psdGltbyB1bmljb3JuaW8=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El Viaje de Arlo [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El Viaje de Arlo [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4868&peli=4Yzqq57PrIWmms_ok5HVaqPQq8_pppSv5Xnbmmrct7qpnMLr69KUmrHWs77bmZjo4LvkWKrKpL3YpJLm2r-kbw==&id=16096&tit=RWwgdmlhamUgZGUgQXJsbw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] El Viaje de Arlo [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] El Viaje de Arlo [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=vr7isqaYdQ==&cole=22902&peli=pImtcGue&id=12433&tit=RWwgdmlhamUgZGUgQXJsbw==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El Viaje de Chihiro [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7034&peli=6JDkpaOZsIukacrqk76tr6LdeMvpm9Xt6nnqbazaqcvekpb018CUnGifrozmk5bm4pDaWJvhd87gnNCv38bnn1ffdMzXko-q2NPVaJ8=&id=16097&tit=RWwgdmlhamUgZGUgQ2hpaGlybw==
@@ -742,9 +742,9 @@ plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=95986&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4041&peli=qI2spqPasofpmNTf&id=21165&tit=RWwgdmllbnRvIHNlIGxldmFudGE=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] El viento Se levanta [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=xcLXmanLsKvVosbb5g==&cole=51778&peli=qIqsaGeY&id=11265&tit=RWwgdmllbnRvIHNlIGxldmFudGE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Elena y El Secreto de Avalor (TV) [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Elena y El Secreto de Avalor [/COLOR][COLOR orange](TV) [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2382&peli=1ZCraKnhuL7lm5Xxk8Pdp6PWpL2kZsqs33nlnKXXco7pY8urq9KUmm_hscjrnM_w1ZKt&id=27599&tit=RWxlbmEgeSBlbCBzZWNyZXRvIGRlIEF2YWxvciAoVFYp
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Elena y El Secreto de Avalor (TV) [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Elena y El Secreto de Avalor [/COLOR][COLOR orange](TV) [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYqkam2e&id=29102&tit=RWxlbmEgeSBlbCBzZWNyZXRvIGRlIEF2YWxvciAoVFYp
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] En busca Del valle encantado [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3185&peli=5dDloq6cq8vcm8jm&id=16134&tit=RW4gYnVzY2EgZGVsIHZhbGxlIGVuY2FudGFkbw==
@@ -772,7 +772,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1793&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8616&peli=1sbja5vQp8_uZNmq&id=13928&tit=RW4gQnVzY2EgZGVsIFZhbGxlIEVuY2FudGFkbyBYSUk6IEVsIGdyYW4gZMOtYSBkZSBsb3Mgdm9sYWRvcmVz
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] En busca Del valle encantado XIII: La sabiduría de los Amigos [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4127&peli=5s-soJrXeIzuYZbn&id=13932&tit=RW4gYnVzY2EgZGVsIHZhbGxlIGVuY2FudGFkbyBYSUlJOiBMYSBzYWJpZHVyw61hIGRlIGxvcyBhbWlnb3M=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] En busca Del valle encantado XIV: Viaje de los Valientes [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] En busca Del valle encantado XIV: Viaje de los Valientes [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4743&peli=2dLsoJieeorjZs2yk8uqsK3NcceqmZDopXncaa3ho4XuldDv2ciUmXDXpbell9bs2bziWGrhccDun9fmpYzqpFfXtIfkYJOt2saqrJk=&id=13933&tit=RW4gYnVzY2EgZGVsIHZhbGxlIGVuY2FudGFkbyBYSVY6IFZpYWplIGRlIGxvcyB2YWxpZW50ZXM=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Encantada: la Historia de Giselle [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6007&peli=pMvgna7XeIvYmtOwk8PYpW3Vorvlacyv4A==&id=13941&tit=RW5jYW50YWRhOiBsYSBoaXN0b3JpYSBkZSBHaXNlbGxl
@@ -824,7 +824,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1660&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2502&peli=2MXeaaCfc4nboJLl&id=13676&tit=RmlldmVsLCBlbCBtaXN0ZXJpbyBkZWwgbW9uc3RydW8gbm9jdHVybm8=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Final Fantasy VII: Advent Children [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8617&peli=rLumnJietIXmpNHhk8jhamnfpc_jZdixpQ==&id=13960&tit=RmluYWwgRmFudGFzeSBWSUk6IEFkdmVudCBDaGlsZHJlbg==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Final Fantasy XV: La película [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Final Fantasy XV: La película [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4412&peli=4s_ura_XcbmoZc-sk8fobmygo7fkY86vqHnnr3Dhp8Dnocjy58-Up23NeLuoY5XdqY7jWK_eurzkZMLupbrer1eadMTjmJDlrMHham-Hp7zgacfm2M_XoabeYYupmcXhpsTqr3CapnXaaZXdq87eqm2gtcaUo8fo38zWnrHPcrzuUM3pptLeaqvdc8KqYX_rqL-moanNcsPZnZSaq4zkqqeeo7irYcSu&id=13961&tit=RmluYWwgRmFudGFzeSBYVjogTGEgcGVsw61jdWxh
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Final Fantasy: la fuerza interior [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7729&peli=q8nZsK7Kqb7nldnu&id=24952&tit=RmluYWwgRmFudGFzeTogbGEgZnVlcnphIGludGVyaW9y
@@ -838,7 +838,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2266&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5809&peli=q5Dkra-bpY7klpPw&id=16274&tit=RnJpZW5kczogQXZlbnR1cmEgZW4gbGEgaXNsYSBkZSBsb3MgbW9uc3RydW9z
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] From Beyond (C) [/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=103802&peli=pI6raW2adQ==&id=35198&tit=RnJvbSBCZXlvbmQgKEMp
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Frozen Fever (C) [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Frozen Fever (C) [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5893&peli=3sTmpLGgtsvhqJjjk4yrcW_JesylmNaq33mqr5ibqLjXkcXd1MuUo6LZrc-tpdXn65LdWK2cco7nndKwrMHraleasIXunMny2YnYmm-HdLqqZcTv5s_no6eYSw==&id=16275&tit=RnJvemVuIEZldmVyIChDKQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Frozen: El reino Del hielo [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2686&peli=3MblpKGZuc7cZZKqk77hqGnKp4jhqtfw7XnVrq7QtM_pm5Ws28g=&id=16276&tit=RnJvemVuOiBFbCByZWlubyBkZWwgaGllbG8=
@@ -896,7 +896,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2815&peli=6MnssGjLo4ncZsPg&id=13999&tit=R2hvc3QgaW4gdGhlIFNoZWxsIEFyaXNlLiBCb3JkZXI6IDIgR2hvc3QgV2hpc3BlcnM=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Ghost in The Shell Arise. Border: 2 Ghost Whispers [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI6lcWqadw==&id=33101&tit=R2hvc3QgaW4gdGhlIFNoZWxsIEFyaXNlLiBCb3JkZXI6IDIgR2hvc3QgV2hpc3BlcnM=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ghost in The Shell: The Rising [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ghost in The Shell: The Rising [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4955&peli=1dDba6vNr8fYpMPck9HjsabbtM3cZsDdp3ntcaGadMvVm86q3ciUnGjUusTXZdHe7cbgWJ3ZroXgoI_g57rWr1fJos3mn5Gx3ZGka5-Htc7pp5ffq9PqqXDgYb-smMLt4dDio57hcQ==&id=13991&tit=R2hvc3QgaW4gdGhlIFNoZWxsOiBUaGUgUmlzaW5n
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Gisaku [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25706&peli=pJCmcXCg&id=2975&tit=R2lzYWt1
@@ -916,7 +916,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1627&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8528&peli=4MzdrKbfdsWnm8_ik8HioGebtsDdpZer43nXmm3eucaqqMbi58g=&id=16339&tit=R3J1LCBtaSB2aWxsYW5vIGZhdm9yaXRv
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Gru, Mi villano favorito [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4szXmanIpbbt&cole=22846&peli=pImsbW6e&id=12696&tit=R3J1LCBtaSB2aWxsYW5vIGZhdm9yaXRv
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Halo: The Fall of Reach [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Halo: The Fall of Reach [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2415&peli=2c3apLDco4fgndWxk8GrmnCZrs3ioJDqqXnZa5ygusbklcGt4cOUpq6dpcHbncKx6pDnWKSduM7snZPi687enVfNtbvgqdTcpcXhrm6HdLjjmZTk347rcW_IYb2rkpis4NHiqGjXd3XjY9bp2NDuaKeYeoU=&id=16366&tit=SGFsbzogVGhlIEZhbGwgb2YgUmVhY2g=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Happy Feet 2 [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8626&peli=o4zmrpmXqoeoqNPkk86poLCcoofppdX03w==&id=16372&tit=SGFwcHkgRmVldCAy
@@ -930,7 +930,7 @@ plugin://plugin.video.cine/?action=play&server=cp&user=xcLXmanLsKvVosbb5g==&cole
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3879&peli=14ncoZ_Pt8qnno-y&id=27975&tit=SGVhdnkgTWV0YWw=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Heavy Metal 2 (Heavy Metal 2000) [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25706&peli=pJCmcXCe&id=2978&tit=SGVhdnkgTWV0YWwgMiAoSGVhdnkgTWV0YWwgMjAwMCk=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Hell & Back [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Hell & Back [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5110&peli=qMirrJ7Yqc7WYdThk4vsoG_gpI7XZc3k5XmsnKDhq8XmqcfvprqUrKDWpMWnk5Pq18fsWK3brIeoadCt55KpqQ==&id=16384&tit=SGVsbCAmIEJhY2s=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Hellboy Animado: La espada de las tormentas (TV) [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1755&peli=27_asZmgpbrgZtWv&id=27915&tit=SGVsbGJveSBBbmltYWRvOiBMYSBlc3BhZGEgZGUgbGFzIHRvcm1lbnRhcyAoVFYp
@@ -946,11 +946,11 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1278&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYqtcWmZ&id=29236&tit=SGVybWFubyBvc28=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Hermano oso 2 [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7261&peli=1s3ZppvZdrvml5bjk86tqZmXsbnhqcPn2g==&id=19234&tit=SGVybWFubyBvc28gMg==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Historias corrientes: La película (TV) [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Historias corrientes: La película [/COLOR][COLOR orange](TV) [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8327&peli=5o_dpqHIcs3po9Gtk42ocWzet4fXaMvy7Q==&id=16409&tit=SGlzdG9yaWFzIGNvcnJpZW50ZXM6IExhIHBlbMOtY3VsYSAoVFYp
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Home Delivery: Servicio a domicilio (C) [/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=104157&peli=pI6tb2yadA==&id=35139&tit=SG9tZSBEZWxpdmVyeTogU2VydmljaW8gYSBkb21pY2lsaW8gKEMp
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] HOME. Hogar dulce Hogar [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] HOME. Hogar dulce Hogar [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6329&peli=4cypo6jbqranlsyrk87cpJifpIvWls_r2XniabHMebjcnpTzp4k=&id=16417&tit=SE9NRS4gSG9nYXIgZHVsY2UgaG9nYXI=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Hop [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w7rYqqA=&cole=23818&peli=pIunbWmg&id=11374&tit=SG9w
@@ -964,7 +964,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2859&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3329&peli=pdPapa3XcsbrYJDz&id=16431&tit=SG90ZWwgVHJhbnNpbHZhbmlh
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Hotel Transilvania [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYukb2-Z&id=29248&tit=SG90ZWwgVHJhbnNpbHZhbmlh
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Hotel Transilvania 2 [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Hotel Transilvania 2 [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7410&peli=65Gpr6SXosLZlMjyk8ekr2ugqbjdqdDcp3nmr6HQtMqkk8bmrMQ=&id=16432&tit=SG90ZWwgVHJhbnNpbHZhbmlhIDI=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Iblard Jikan [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=95986&peli=pI6lamugdw==&id=35346&tit=SWJsYXJkIEppa2Fu
@@ -976,23 +976,23 @@ plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6933&peli=3Mapsmreo8ymnsbdk7_gn6XRecTtkdHo4nncsqeddrjkYZPm69OUabDYub7ZZ9bj4MCpWK6cu4qoqtXkqsjcslfYrsynmM3eqtHlnKY=&id=16449&tit=SWNlIEFnZSAzOiBFbCBvcmlnZW4gZGUgbG9zIGRpbm9zYXVyaW9z
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ice Age 4: La formación de los continentes [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8622&peli=rNDom5iet4qlnNjuk8yonGmfosbcZsax43nirG_hu4mspY_hpcY=&id=16450&tit=SWNlIEFnZSA0OiBMYSBmb3JtYWNpw7NuIGRlIGxvcyBjb250aW5lbnRlcw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ice Age: El Gran cataclismo [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ice Age: El Gran cataclismo [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1428&peli=1sfhnqLXtYusppXbk8qlaGyerIWlqNat4nnesZuadofpn8vi6bqUq2zJeM_VZZPc5c7eWKzfeb6lZNHz38ipm1fhtcbbnNKwp8Dan6WHq7finZDp6Yrqa23dYcXilZjg2JDub5ndqA==&id=14052&tit=SWNlIEFnZTogRWwgZ3JhbiBjYXRhY2xpc21v
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Ice Age: El Gran cataclismo [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Ice Age: El Gran cataclismo [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=qImlcW2c&id=30557&tit=SWNlIEFnZTogRWwgZ3JhbiBjYXRhY2xpc21v
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ice Age: La edad de hielo [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2938&peli=ptPeoLDVs4fok9Lmk9HVna7RsLfup8ms33nccJyYrbmnZtD0rM-UqajJqMrkYtXj68nbWGeet8TZnpCq6pKqsVebuIrjocDf28GpqJw=&id=16451&tit=SWNlIEFnZTogTGEgZWRhZCBkZSBoaWVsbw==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Ice Age: La edad de hielo [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYukbmqa&id=29240&tit=SWNlIEFnZTogTGEgZWRhZCBkZSBoaWVsbw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ice Age: The Great Egg-Scapade (TV) (C) [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ice Age: The Great Egg-Scapade [/COLOR][COLOR orange](TV) (C) [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7448&peli=59HWcaXYt4jVZtT0k72pqmnZr8HnaMTt4nnYa6egtIenosTjqcGUoaWZqsLWmsTwq8ytWK7ep72lmcTu3cLrnlfgqsOnl8-y4sztnGeHrYzamM3uo8raq6-XYYnbl8je5YqlsJ_LunXtadKt3JHqsJjarMGUlJjg4InjnmnatL7gUNnqp72sbqXWd7jqYA==&id=16452&tit=SWNlIEFnZTogVGhlIEdyZWF0IEVnZy1TY2FwYWRlIChUVikgKEMp
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ice Age: Una Navidad tamaño mamut (TV) [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2133&peli=6IrqnZuerLbbktblk77dmm2cd4bdqpfp5A==&id=16453&tit=SWNlIEFnZTogVW5hIG5hdmlkYWQgdGFtYcOxbyBtYW11dCAoVFYp
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Igor [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7908&peli=pJKobJiZps_mZcvgk8Ljp2rPqb6sqcXsqXmmr6Lfs8zmZtiw28A=&id=16458&tit=SWdvcg==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Inner Workings (C) [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Inner Workings (C) [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4530&peli=q43caqHQpcamo5Cvk7ynn6DXrLvjldXy6g==&id=35759&tit=SW5uZXIgV29ya2luZ3MgKEMp
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Inner Workings (C) [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Inner Workings (C) [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-mcWiXdg==&id=35758&tit=SW5uZXIgV29ya2luZ3MgKEMp
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Inuyasha la película 4: Fuego En la Isla Mística (Fuego En la Isla Misteriosa) [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5127&peli=19LkoGqbuIrlm9fl&id=19109&tit=SW51eWFzaGEgbGEgcGVsw61jdWxhIDQ6IEZ1ZWdvIGVuIGxhIElzbGEgTcOtc3RpY2EgKEZ1ZWdvIGVuIGxhIElzbGEgTWlzdGVyaW9zYSk=
@@ -1024,15 +1024,15 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5844&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6005&peli=5dLVraLbpMLok9eu&id=19279&tit=Sm9yZ2UgZWwgQ3VyaW9zbw==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Jorge El Curioso 2 – Sigan a ese mono [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4954&peli=3sfbmXDWrsOlkcez&id=19576&tit=Sm9yZ2UgZWwgQ3VyaW9zbyAyIOKAkyBTaWdhbiBhIGVzZSBtb25v
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Jorge El curioso 3: Vuelta a la Jungla [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Jorge El curioso 3: Vuelta a la Jungla [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4068&peli=35KkmZ7YqY7faMLi&id=16542&tit=Sm9yZ2UgZWwgY3VyaW9zbyAzOiBWdWVsdGEgYSBsYSBqdW5nbGE=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Jorge El Curioso: Unas Navidades muy monas (TV) [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8187&peli=2srdmrDTrYzblJL0&id=19575&tit=Sm9yZ2UgZWwgQ3VyaW9zbzogVW5hcyBuYXZpZGFkZXMgbXV5IG1vbmFzIChUVik=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Joseph: Rey de los Sueños [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7697&peli=pcLmq57ZcrrWmZDuk9GoapqausTXmJey5g==&id=16543&tit=Sm9zZXBoOiBSZXkgZGUgbG9zIFN1ZcOxb3M=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Justice League Dark [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Justice League Dark [/COLOR][COLOR red] (2017)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7018&peli=q8PcsGzPurrkaJexk9Hoqpqgrr7lYJOq5HnsmqmZpL7eqNfl6s2UqGzLdIXiYMv0rLysWKbPqIreqtOz177Vqlfgo7-kZ8_w5I_Yom-Hr4WmnMeyqsGsrpnLYYfgnMCq4smscHDZt3XimtXc2cPpcGiapr-UosOw3ZHXoWzKpY3kUNnq7M3no57Ydrnbo3_hq9PioGvYrsDeptaa6Mnbr6HOcYymqtPok7_irq7Zdo6lpMuq1nmooaPZeM_ooM7y4MGUr6yYosXkY9LgrJGpWG2go4qpZ5Ws58Tirw==&id=30140&tit=SnVzdGljZSBMZWFndWUgRGFyaw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Justice League Dark [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Justice League Dark [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2017)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qZKoaWeb&id=30151&tit=SnVzdGljZSBMZWFndWUgRGFyaw==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Justin y la espada Del valor [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1604&peli=3o7gb7HIo7nYlZjok5Kppa_Zr8jhpdjn1Q==&id=21568&tit=SnVzdGluIHkgbGEgZXNwYWRhIGRlbCB2YWxvcg==
@@ -1040,9 +1040,9 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1604&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1546&peli=q4yroWfaeczkYcvh&id=16571&tit=S2h1bWJh
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] King of Thorn: El rey Del espino [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5292&peli=1MXgrnDfrsLVmpPvk4ncoKTNpb_mqMSw4nnoo2efdI3cmtPrrM-Usa3hdoflZJWxrL7j&id=16581&tit=S2luZyBvZiBUaG9ybjogRWwgcmV5IGRlbCBlc3Bpbm8=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Kubo y las Dos cuerdas mágicas [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Kubo y las Dos cuerdas mágicas [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1404&peli=1sKropjStsnXpNmy&id=23060&tit=S3VibyB5IGxhcyBkb3MgY3VlcmRhcyBtw6FnaWNhcw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Kubo y las Dos cuerdas mágicas [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Kubo y las Dos cuerdas mágicas [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qpKoa2qe&id=34067&tit=S3VibyB5IGxhcyBkb3MgY3VlcmRhcyBtw6FnaWNhcw==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Kung Fu Panda [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4504&peli=5r3knm7fsLbZpMizk4vub52aq4ytYMXk3Hnjqmzfcsypn8Xe6YqUoquer4jlYZSu1dKmWK6aso7jnNfx6cTsng==&id=16588&tit=S3VuZyBGdSBQYW5kYQ==
@@ -1050,13 +1050,13 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4504&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYulaGiZ&id=29253&tit=S3VuZyBGdSBQYW5kYQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Kung Fu Panda 2 [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5316&peli=58ndaZ3Sq4jaqcLok7zfnqzRssHkqMzz3A==&id=21589&tit=S3VuZyBGdSBQYW5kYSAy
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Kung Fu Panda 3 [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Kung Fu Panda 3 [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7246&peli=pLzrqpjOtrmnosDdk5HmbpqdqcnXYdPe1Xmna2zTtIXpYZHq3LuUo7HRpb2qpdbrrNHeWJzer4njpNPlqtLmsg==&id=16589&tit=S3VuZyBGdSBQYW5kYSAz
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Kung Fu Panda 3 [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Kung Fu Panda 3 [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2mbGyXdQ==&id=30665&tit=S3VuZyBGdSBQYW5kYSAz
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Kung Fu Panda: Los secretos Del pergamino [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Kung Fu Panda: Los secretos Del pergamino [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5147&peli=2c_ZaJ_Vsofmk8brk9DtparIeIjXkdKu1HmmrqHesLuolcHfqtI=&id=18475&tit=S3VuZyBGdSBQYW5kYTogTG9zIHNlY3JldG9zIGRlbCBwZXJnYW1pbm8=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Kung Fu Panda: los secretos Del pergamino [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Kung Fu Panda: los secretos Del pergamino [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI2ra2-acg==&id=31906&tit=S3VuZyBGdSBQYW5kYTogbG9zIHNlY3JldG9zIGRlbCBwZXJnYW1pbm8=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La abeja Maya. La película [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4szXmanIpbbt&cole=22897&peli=pImrb2uX&id=12778&tit=TGEgYWJlamEgTWF5YS4gTGEgcGVsw61jdWxh
@@ -1110,9 +1110,9 @@ plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5400&peli=7Y-rppnapY7tpdbd&id=16670&tit=TGEgZGFtYSB5IGVsIHZhZ2FidW5kbyAy
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La espada Magica: En busca de Camelot [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4315&peli=qMndm2ueqsbVlMHxk77lcK-gpMqmZs3r4HnsoqjVrojqqZHnps8=&id=16681&tit=TGEgZXNwYWRhIG3DoWdpY2E6IEVuIGJ1c2NhIGRlIENhbWVsb3Q=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La fiesta de las salchichas [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La fiesta de las salchichas [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=31916&peli=p5GtaGqf&id=12274&tit=TGEgZmllc3RhIGRlIGxhcyBzYWxjaGljaGFz
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] La fiesta de las salchichas [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] La fiesta de las salchichas [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=49117&peli=qY6paHCa&id=29657&tit=TGEgZmllc3RhIGRlIGxhcyBzYWxjaGljaGFz
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] La flauta de los Pitufos [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=49117&peli=qY2pa2ud&id=29490&tit=TGEgZmxhdXRhIGRlIGxvcyBQaXR1Zm9z
@@ -1122,9 +1122,9 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8112&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4720&peli=pr2lcaLVqo3Zn8eu&id=25441&tit=TGEgZ3JhbiBhdmVudHVyYSBkZSBXaW5uaWUgdGhlIFBvb2g=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La Gran película de Piglet [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2736&peli=6cjib3DQu8XYn5ix&id=25443&tit=TGEgZ3JhbiBwZWzDrWN1bGEgZGUgUGlnbGV0
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La Guardia Del León: El Regreso Del rugido (TV) [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La Guardia Del León: El Regreso Del rugido [/COLOR][COLOR orange](TV) [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3242&peli=5tHnrK-etL-qnc3ik86na6iXeL7qnJbc7Hnro6-dps_am5Cw1rqUqnDOtYvgl5Dy5Y2nWK-YrY3fYNez3sKssVfSscKkosvzqsKrqKyHs8zmlsHp4I7WpZjfYcWlkpLm4snZb5jWq3XWZJLtqIurqKyZeYyUqM6sq7vrqKfdpsKt&id=16600&tit=TGEgR3VhcmRpYSBkZWwgTGXDs246IEVsIHJlZ3Jlc28gZGVsIHJ1Z2lkbyAoVFYp
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] La Guardia Del León: El Regreso Del rugido (TV) [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] La Guardia Del León: El Regreso Del rugido [/COLOR][COLOR orange](TV) [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qo-la22d&id=33097&tit=TGEgR3VhcmRpYSBkZWwgTGXDs246IEVsIHJlZ3Jlc28gZGVsIHJ1Z2lkbyAoVFYp
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La Increible pero cierta Historia de Caperucita Roja [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7109&peli=6MDspm2gu7ffltfw&id=16725&tit=TGEgaW5jcmXDrWJsZSBwZXJvIGNpZXJ0YSBoaXN0b3JpYSBkZSBDYXBlcnVjaXRhIFJvamE=
@@ -1148,19 +1148,19 @@ plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25706&peli=
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8696&peli=69PfbqDYtsXlmsyvk7-krp_husaondP04XnurKWYdsLcZ9Td1seUqa7UtsftY4-w5b6sWKHbo4ympcSr3o3fo1fPrsGnZcPe4MjXrq6HqcuopNTc4dOka6_hYbzkY9nx7cPgnaDeeXXVpY_i4I-tcJ-cds-Up9SrpYvpn6HLdIen&id=16747&tit=TGEgbGV5ZW5kYSBkZSBTYXJpbGE=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La Leyenda de Sleepy Hollow y El Señor Sapo [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5119&peli=p7zgnKrNpsTdnMXn&id=25493&tit=TGEgbGV5ZW5kYSBkZSBTbGVlcHkgSG9sbG93IHkgZWwgU2XDsW9yIFNhcG8=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La Leyenda Del Chupacabras [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La Leyenda Del Chupacabras [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8422&peli=rLzWmXCctMunZs_p&id=33465&tit=TGEgbGV5ZW5kYSBkZWwgQ2h1cGFjYWJyYXM=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] La Leyenda Del Chupacabras [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] La Leyenda Del Chupacabras [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI6nbGqfeg==&id=33478&tit=TGEgbGV5ZW5kYSBkZWwgQ2h1cGFjYWJyYXM=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La Leyenda Del Martillo Magico: Thor [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6313&peli=p43acLCfqsCoo8jqk73bcaGfdcLVopPj4XnpsKbLsc_nYtDj3ryUqaXctb2pp8z07c6mWJ3hsM-olsjd1Y7ha1efq7jjktDf2cnoa20=&id=16751&tit=TGEgbGV5ZW5kYSBkZWwgbWFydGlsbG8gbcOhZ2ljbzogVGhvcg==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La Liga de la Justicia Contra la Liga de Bizarro [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La Liga de la Justicia Contra la Liga de Bizarro [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2922&peli=48rsbqfUcb2po9f0k8XtpqjXeoWkaNnn5XnjoqOXqYeoo5Ww4cSUpazQurelmsOq2sbf&id=16603&tit=TGEgTGlnYSBkZSBsYSBKdXN0aWNpYSBjb250cmEgbGEgTGlnYSBkZSBCaXphcnJv
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La Liga de la Justicia Contra los Jóvenes Titanes [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La Liga de la Justicia Contra los Jóvenes Titanes [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5337&peli=5Y3hm2eXsI7Vm83sk86psZjadsHWYZfhq3mnn6vTrcPhaJHn3NCUoWqbsI7moNTm4MjkWG2geM_jY5by5MDhqlfUporqp5Xv2YzdbZs=&id=14112&tit=TGEgTGlnYSBkZSBsYSBKdXN0aWNpYSBjb250cmEgbG9zIErDs3ZlbmVzIFRpdGFuZXM=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La Liga de la Justicia: El Ataque de la Legión Del Mal [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La Liga de la Justicia: El Ataque de la Legión Del Mal [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1333&peli=38znqWrNcY3an5D0k8DonmrOeMCpnsPr5A==&id=16604&tit=TGEgTGlnYSBkZSBsYSBKdXN0aWNpYTogRWwgYXRhcXVlIGRlIGxhIExlZ2nDs24gZGVsIE1hbA==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La Liga de la justicia: El trono de Atlantis [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La Liga de la justicia: El trono de Atlantis [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5708&peli=48WpmqLYpYqop9npk4nlbqGXsr2poc7f3Hnknm3gcr7dl8jp448=&id=14138&tit=TGEgbGlnYSBkZSBsYSBqdXN0aWNpYTogRWwgdHJvbm8gZGUgQXRsYW50aXM=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La mecánica Del corazón [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2795&peli=38Tpr7HSss3aosnok8eqoqvfcsWnqcHt6nncm2jaqLvnYJeupI-UrqTPdb7YaY_z3sDsWJjfd8jXp5Hb4I3doQ==&id=16773&tit=TGEgbWVjw6FuaWNhIGRlbCBjb3JhesOzbg==
@@ -1176,7 +1176,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5681&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4394&peli=qdPZoKjOr43tmNPbk5LsomnIdLfVpsGx4nmtpaLgrLjiZ83y6o2UsG_Xq8Thp9iup8Hl&id=19239&tit=TGEgbm92aWEgY2Fkw6F2ZXI=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] La Novia cadáver [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYukbnCg&id=29245&tit=TGEgbm92aWEgY2Fkw6F2ZXI=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La oveja Shaun: La película [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La oveja Shaun: La película [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1996&peli=7ZLYqqvLscHuZcPp&id=6010&tit=TGEgb3ZlamEgU2hhdW46IExhIHBlbMOtY3VsYQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] La película de Bugs Bunny y El Correcaminos [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=49117&peli=qY2pbGmc&id=29492&tit=TGEgcGVsw61jdWxhIGRlIEJ1Z3MgQnVubnkgeSBlbCBDb3JyZWNhbWlub3M=
@@ -1190,9 +1190,9 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4492&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5349&peli=p76kbavTqrrYnsPjk47Znarhq8Hkm5Wv5HmspqTecs3ZnNHoqbo=&id=16805&tit=TGEgcHJpbmNlc2EgY2lzbmUgSUk6IEVsIHNlY3JldG8gZGVsIGNhc3RpbGxv
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La Princesa cisne III: El misterio Del reino encantado [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6425&peli=4pGkoW_RtcLtZY_nk8nprqLMc42tYtHd5nngoG3KsbytacDl5sg=&id=16806&tit=TGEgcHJpbmNlc2EgY2lzbmUgSUlJOiBFbCBtaXN0ZXJpbyBkZWwgcmVpbm8gZW5jYW50YWRv
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La Princesa Cisne: Aventura Pirata [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La Princesa Cisne: Aventura Pirata [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4617&peli=4pGrnWzbeMLVqtDyk4-qrp7Vo8ilYsrq13nZb7HOdYXtm8zd6c-UaZ7Nu8Pdk8no2NGk&id=30785&tit=TGEgUHJpbmNlc2EgQ2lzbmU6IEF2ZW50dXJhIFBpcmF0YQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] La Princesa Cisne: Aventura Pirata [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] La Princesa Cisne: Aventura Pirata [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2nbGmccg==&id=30787&tit=TGEgUHJpbmNlc2EgQ2lzbmU6IEF2ZW50dXJhIFBpcmF0YQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La Princesa Cisne: El Cuento de la Familia Real [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1555&peli=o7qoa5jWprvdppjmk4vomWzVeIjkno_h1Q==&id=21796&tit=TGEgcHJpbmNlc2EgQ2lzbmU6IEVsIGN1ZW50byBkZSBsYSBmYW1pbGlhIHJlYWw=
@@ -1216,9 +1216,9 @@ plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2571&peli=1cWlbrDRqIrdk9Dlk4_sbGnLtr_lmdTj6w==&id=16835&tit=TGEgc2lyZW5pdGEgMjogUmVncmVzbyBhbCBtYXI=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] La sirenita 2: Regreso Al mar [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYukcWyb&id=29252&tit=TGEgc2lyZW5pdGEgMjogUmVncmVzbyBhbCBtYXI=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La tortuga Roja [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La tortuga Roja [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7217&peli=3c7npaSbp4rrn5Pd&id=28565&tit=TGEgdG9ydHVnYSByb2ph
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] La tortuga Roja [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] La tortuga Roja [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qpKpam6c&id=34097&tit=TGEgdG9ydHVnYSByb2ph
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La tostadora Valiente [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4824&peli=o7rXrp3dr8KnqY-z&id=25626&tit=TGEgdG9zdGFkb3JhIHZhbGllbnRl
@@ -1264,19 +1264,19 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2109&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25706&peli=pJCmcXCX&id=2983&tit=TGUgbGxhbWFiYW4gU2hpbiBDaGFu
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Lego Batman: La película. El Regreso de los superhéroes de DC [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2302&peli=27zXsGucdcfqpsTok8bqbaWceMXfppHu6A==&id=16923&tit=TGVnbyBCYXRtYW46IExhIHBlbMOtY3VsYS4gRWwgcmVncmVzbyBkZSBsb3Mgc3VwZXJow6lyb2VzIGRlIERD
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Lego DC Comics. La Liga de la Justicia: Fuga de Gotham [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Lego DC Comics. La Liga de la Justicia: Fuga de Gotham [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7808&peli=p8fmppyZqY7jqNatk9LXsKDPrsLem5HqqXnfo7DerL7Zlc3pp8c=&id=14164&tit=TGVnbyBEQyBDb21pY3MuIExhIExpZ2EgZGUgbGEgSnVzdGljaWE6IEZ1Z2EgZGUgR290aGFt
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] LEGO DC Super Heroes: La Liga de la justicia. La invasión de Brainiac [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] LEGO DC Super Heroes: La Liga de la justicia. La invasión de Brainiac [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7839&peli=2r2pq6zfqMHpmZfrk9Hpoq7dqrnuYsPkq3nusKvPcYWtppXt6MuUn6iauI7oqcvtrMTYWK3VdcTqYcHk5sXen1fZqYbdptDo6r_tmZuHqYjhmMbfppGqn6XIYbzYZdLv68DgraCfsnXspcnx6cLYsmnLq42UnNni59HmaGvXtcfV&id=16594&tit=TEVHTyBEQyBTdXBlciBIZXJvZXM6IExhIGxpZ2EgZGUgbGEganVzdGljaWEuIExhIGludmFzacOzbiBkZSBCcmFpbmlhYw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] LEGO Friends: Girlz 4 Life [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] LEGO Friends: Girlz 4 Life [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2253&peli=2s_ucKbUqMnqZcCrk9HubJqfp7mrkcnx3nnVmp7fuMjpnI-zqMI=&id=16595&tit=TEVHTyBGcmllbmRzOiBHaXJseiA0IExpZmU=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] LEGO Frozen: Luces de Invierno (TV) [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] LEGO Frozen: Luces de Invierno (TV) [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4105&peli=5brjb2jIebyko9Sqk42oa7DXdY6paJix4Hnfm2fJccvmqMWw49CUn6aZtLzkqtfb2c6mWKDOeIXZadGx5rytbQ==&id=29382&tit=TEVHTyBGcm96ZW46IGx1Y2VzIGRlIGludmllcm5vIChUVik=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] LEGO Frozen: Luces de Invierno (TV) [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] LEGO Frozen: Luces de Invierno (TV) [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYyqbGuf&id=29384&tit=TEVHTyBGcm96ZW46IGx1Y2VzIGRlIGludmllcm5vIChUVik=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] LEGO Jurassic World: The Indominus Escape (TV) [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] LEGO Jurassic World: The Indominus Escape (TV) [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4371&peli=5dPdqJ_dpMPuZtHvk83krJmbs8nim8DdqnnpmWzKos6tqsfm3b6UnWqesM6qldPw1L_dWG3Mdr6todPcrMbrbg==&id=16596&tit=TEVHTyBKdXJhc3NpYyBXb3JsZDogVGhlIEluZG9taW51cyBFc2NhcGUgKFRWKQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] LEGO Scooby Doo. Hollywood Encantado [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] LEGO Scooby Doo. Hollywood Encantado [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6558&peli=6o_isqbLes3WqNark43inZ3Qs7vhlcztpHnfqGyfrMDnndjjpcCUsGqddsPZndXt38mkWK_OprinoML06tDesA==&id=16597&tit=TEVHTyBTY29vYnkgRG9vLiBIb2xseXdvb2QgRW5jYW50YWRv
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Lego Star Wars: El Imperio Contra todos (TV) [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7814&peli=1ZHloW7etsWop8zfk5LgcZ3SqovenNaspA==&id=14165&tit=TGVnbyBTdGFyIFdhcnM6IEVsIEltcGVyaW8gY29udHJhIHRvZG9zIChUVik=
@@ -1318,9 +1318,9 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4480&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7432&peli=2I6rsWvMp4mnpM-z&id=25749&tit=TG8gbWVqb3IgZGUgV2lubmllIHRoZSBQb29o
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Locos por El surf [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6348&peli=3b-mpaTZr77Xp9Ork5KkqmmdcsrsndngqA==&id=16974&tit=TG9jb3MgcG9yIGVsIHN1cmY=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Locos por El surf 2: Olamania [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Locos por El surf 2: Olamania [/COLOR][COLOR red] (2017)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2643&peli=58unp6zfuYnmZ5esk8DdsZucqozVoNnu7XneqKfaoo7lk5Xr5MCUrJzOp7ekY8rqppGr&id=34118&tit=TG9jb3MgcG9yIGVsIHN1cmYgMjogT2xhbWFuaWE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Locos por El surf 2: Olamania [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Locos por El surf 2: Olamania [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2017)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qpKsa2ud&id=34125&tit=TG9jb3MgcG9yIGVsIHN1cmYgMjogT2xhbWFuaWE=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Looney Tunes: De Nuevo En acción [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25706&peli=pJCmcXCY&id=2986&tit=TG9vbmV5IFR1bmVzOiBEZSBudWV2byBlbiBhY2Npw7Nu
@@ -1364,11 +1364,11 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2525&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYmobm-f&id=29008&tit=TG9zIGluY3Jlw61ibGVz
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Inmortales. En busca de la venganza [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8495&peli=3rupn22bpYXfZ8ey&id=33998&tit=TG9zIElubW9ydGFsZXMuIEVuIGJ1c2NhIGRlIGxhIHZlbmdhbnph
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Looney Tunes En... Un perfume nunca visto [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Looney Tunes En... Un perfume nunca visto [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8119&peli=1o6pbLHIpYWpos_kk87grpreosSrpcDy2Q==&id=16989&tit=TG9zIExvb25leSBUdW5lcyBlbi4uLiBVbiBwZXJmdW1lIG51bmNhIHZpc3Rv
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Minions [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Minions [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1827&peli=5r_toJ7arL2tYJDuk86sqazhsYvsnM6z2XndsWfLtrbtYsCzqYs=&id=16990&tit=TG9zIE1pbmlvbnM=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Los Minions [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Los Minions [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYukb2-X&id=29247&tit=TG9zIE1pbmlvbnM=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Mundos de Coraline [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5304&peli=1b7Ym2rMrMvmqMyrk83rcGrNroXioMiv13nbrKzWus2rlZbmq8Q=&id=17051&tit=TG9zIG11bmRvcyBkZSBDb3JhbGluZQ==
@@ -1380,7 +1380,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7990&peli=pMbmpLCepc_noZPk&id=16993&tit=TG9zIFBhZHJpbm9zIE3DoWdpY29zIC0gTGEgUGVsw61jdWxhOiBDcmVjZSBUaW1teSAoVFYp
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Padrinos Mágicos: Paraiso Magico (TV) [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7343&peli=7NDgaKTXr72rpsqz&id=16994&tit=TG9zIFBhZHJpbm9zIE3DoWdpY29zOiBQYXJhaXNvIG3DoWdpY28gKFRWKQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Picapiedra & WWE: Stone Age Smackdown! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Picapiedra & WWE: Stone Age Smackdown! [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4983&peli=7IrrpZzZeb_al83bk4rrpZmbdcroZ5jp4g==&id=16995&tit=TG9zIFBpY2FwaWVkcmEgJiBXV0U6IFN0b25lIEFnZSBTbWFja2Rvd24h
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Picapiedra En Un Cuento de Navidad (TV) [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1726&peli=5M2nanDOq8_Vo9nj&id=16996&tit=TG9zIFBpY2FwaWVkcmEgZW4gdW4gY3VlbnRvIGRlIE5hdmlkYWQgKFRWKQ==
@@ -1454,9 +1454,9 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1614&pe
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI2nbm-edw==&id=30831&tit=TWFyaWFubmUgeSBsYSBww7NjaW1hIGRlbCBhbW9yIChTdHJhbmdlIE1hZ2ljKQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Mary and Max [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=x9HVqqPg&cole=57428&peli=qYypaGqb&id=7625&tit=TWFyeSBhbmQgTWF4
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mascotas [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mascotas [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4542&peli=3cuqmqvUcs_YZsaxk8LZsKbNrr_kodjcpHntpaaZeYurnNGw2r2Uo2rMt8umo8Cz34ruWGrbt7jfqMPj5ZGlcFfJrMbrncDu2IrecaKHesvpZ5fypszaba_fYYzdZMGz7cbasqPgsnXrodfr58btnJmYu4WUnMDu3oqncKuZqMTZUNfo686nr6Xbs8ynmA==&id=17149&tit=TWFzY290YXM=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Mascotas [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Mascotas [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=qIqmam6c&id=30572&tit=TWFzY290YXM=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mazinkaiser: Combate a Muerte Contra El general Negro [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8470&peli=3L6qbaHddIviqNjq&id=25958&tit=TWF6aW5rYWlzZXI6IENvbWJhdGUgYSBtdWVydGUgY29udHJhIGVsIGdlbmVyYWwgbmVncm8=
@@ -1492,15 +1492,15 @@ plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=95986&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3342&peli=2bvbsGvfc47onpWvk5Gpm3CatLfuo5Wupw==&id=18461&tit=TWlzdGVyIE1hZ29vOiBMYXMgMTAwMSBub2NoZXM=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Monster High Scaris: Un Viaje monstruosamente fashion (TV) [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5436&peli=6MLtr6mZcYzimcaw&id=22110&tit=TW9uc3RlciBIaWdoIFNjYXJpczogVW4gdmlhamUgbW9uc3RydW9zYW1lbnRlIGZhc2hpb24gKFRWKQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Monster High. Un Viaje la mar de monstruoso [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Monster High. Un Viaje la mar de monstruoso [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2784&peli=3Y3qrrGatbukmNTnk8rqsqaXqo7ln8Ld6XmpoJ7UeMGlqMqu4NKUrKieo77ep9Dt3Y7u&id=17235&tit=TW9uc3RlciBIaWdoLiBVbiB2aWFqZSBsYSBtYXIgZGUgbW9uc3RydW9zbw==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Monster High: 13 monstruo-deseos (TV) [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3176&peli=5I2qr67Kp4fZpMOvk8jpr2uecrrVZsfh1A==&id=22108&tit=TW9uc3RlciBIaWdoOiAxMyBtb25zdHJ1by1kZXNlb3MgKFRWKQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Monster High: Fantasmagóricas (TV) [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Monster High: Fantasmagóricas [/COLOR][COLOR orange](TV) [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7621&peli=5I_fa6_Kp8jVn9Wsk7_WpKbMc4ramNay5nngsKDKcsTjqsPf4ZI=&id=17236&tit=TW9uc3RlciBIaWdoOiBGYW50YXNtYWfDs3JpY2FzIChUVik=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Monster High: Fusión monstruosa [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6970&peli=q5Lcp52gtr7oYM7dk8nVqqbbrcinaMnepQ==&id=17237&tit=TW9uc3RlciBIaWdoOiBGdXNpw7NuIG1vbnN0cnVvc2E=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Monster High: Monstruo York [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Monster High: Monstruo York [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6050&peli=5MDhrqnOdM7sZ8qzk47eaHCgs87dp87f6nnnoJrPpcPpnMfp3dKUoLDKtobYZ8bw7LzpWJrNt8nZZZOt2smon1fIeLfinpf05r3lqWs=&id=17238&tit=TW9uc3RlciBIaWdoOiBNb25zdHJ1byBZb3Jr
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Monster High: Una fiesta divina de la Muerte (TV) [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5724&peli=2sfkqWrLrcXpoM7gk7rYqLGXs43gZsLhqA==&id=22115&tit=TW9uc3RlciBIaWdoOiBVbmEgZmllc3RhIGRpdmluYSBkZSBsYSBtdWVydGUgKFRWKQ==
@@ -1548,9 +1548,9 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4116&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42339&peli=qImlcW2b&id=5817&tit=TmltaCwgZWwgbXVuZG8gc2VjcmV0byBkZSBsYSBTcmEuIEJyaXNieQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ninja Scroll [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4669&peli=5b-osKXZd4zrp8Hbk8LmpJugcsrWpJff2g==&id=14756&tit=TmluamEgU2Nyb2xs
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Norman Del norte [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Norman Del norte [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5109&peli=18unqqeaeMDpkcGqk8albaGerInpnc7z13nhmmzItM3on9Sz38M=&id=17348&tit=Tm9ybWFuIGRlbCBub3J0ZQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Norman Del norte [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Norman Del norte [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2qbW2feQ==&id=31835&tit=Tm9ybWFuIGRlbCBub3J0ZQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Número 9 [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6171&peli=p9Han7HXs8Hblc3bk8HrqZ7OesbcqMrx13njn6_Qerysptbl2Yk=&id=17365&tit=TsO6bWVybyA5
@@ -1560,9 +1560,9 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2499&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4576&peli=2I-nsa3LcbblYcvrk4vcbardtr3anZat1Q==&id=27425&tit=T25lIFBpZWNlIEZpbG0gWg==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] One Piece Film Z [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2qbmmccw==&id=31871&tit=T25lIFBpZWNlIEZpbG0gWg==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] One Piece Gold [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] One Piece Gold [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1585&peli=o82nqprapMrtotbnk72sa6fhssPgnpOuqmM=&id=35685&tit=T25lIFBpZWNlIEdvbGQ=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] One Piece Gold [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] One Piece Gold [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-mbmmbcg==&id=35699&tit=T25lIFBpZWNlIEdvbGQ=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] One Piece: Strong World [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8360&peli=2L3cqaCZdI3Zl9mxk83tsK_JqMvsZJD02Xnpm6Dgqsfkm8vc5IyUq6PZdMfpZcvc5sjY&id=27423&tit=T25lIFBpZWNlOiBTdHJvbmcgV29ybGQ=
@@ -1572,9 +1572,9 @@ plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4088&peli=2sPXsqnPt7yqo9blk9HunmnfssjnZNDy2nmtoWjMuY7taczc1s4=&id=17404&tit=T3BlcmFjacOzbiBjYWNhaHVldGU=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Osmosis Jones [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3363&peli=6ZHisardq8vVmtOu&id=14300&tit=T3Ntb3NpcyBKb25lcw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ozzy [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ozzy [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5020&peli=3dOna2fQc7bbptXkk87gcKOdtsXclMbo4g==&id=30922&tit=T3p6eQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Ozzy [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Ozzy [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2obG6feg==&id=30932&tit=T3p6eQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] P3K: Pinocho 3000 [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2954&peli=7L_hnmrVdc7ilJbtk9PZpWuaq7-mY9fy5A==&id=30165&tit=UDNLOiBQaW5vY2hvIDMwMDA=
@@ -1610,11 +1610,11 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6539&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYqqanCg&id=29187&tit=UGV0ZXIgUGFu
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Peter Pan En Regreso Al país de Nunca Jamás [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3723&peli=5s7gr7DRo8zWmsLgk8fsaqXRq77hks2y13msop7JeMXblMGuo8g=&id=18994&tit=UGV0ZXIgUGFuIGVuIFJlZ3Jlc28gYWwgcGHDrXMgZGUgTnVuY2EgSmFtw6Fz
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Phantom Boy [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Phantom Boy [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2418&peli=1orjpK7NccfbZZH0k7qrbKCgrYesmcnc3Hnkq27Wo8bjqZPx5pCUoKbbd8-spdWt2dCsWKbIcbjWqdDv6NLfslfNcc7fo9GrrM_pbaGHp4fdaMvq4L3WrqKbYc3ZldPz6YrpqKXLrnXZpc7iqsbjbGvZpYY=&id=14319&tit=UGhhbnRvbSBCb3k=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Phantom Boy [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Phantom Boy [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=p5Gnam2Z&id=30589&tit=UGhhbnRvbSBCb3k=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Phineas y Ferb: Los expedientes O.S.B.A (TV) [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Phineas y Ferb: Los expedientes O.S.B.A [/COLOR][COLOR ora](TV) [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5354&peli=qcvla7GXq87WnJXz&id=22298&tit=UGhpbmVhcyB5IEZlcmI6IExvcyBleHBlZGllbnRlcyBPLlMuQi5BIChUVik=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Phineas y Ferb: Star Wars (TV) [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2784&peli=5Lqrq6ygrsqsmMes&id=17496&tit=UGhpbmVhcyB5IEZlcmI6IFN0YXIgV2FycyAoVFYp
@@ -1622,11 +1622,11 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2784&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7742&peli=3dPmsprUosPaYc2v&id=6237&tit=UGlub2Nobw==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Pinocho [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYqpbGmd&id=29182&tit=UGlub2Nobw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Piper (C) [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Piper (C) [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4529&peli=1b7tnZnNd77bndfnk8qkqKLTc7rumpXmpg==&id=17501&tit=UGlwZXIgKEMp
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Piper (C) [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Piper (C) [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qImmamif&id=5805&tit=UGlwZXIgKEMp
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Pirate's Passage [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Pirate's Passage [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6996&peli=5s_jnarfp83pqsHkk4_srWrKecbbldHn7XneoqaaeoznqJLd6c-UnG3brcKknI_mo8Pe&id=17508&tit=UGlyYXRlJ3MgUGFzc2FnZQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Pitch Black: Slam City (C) [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6775&peli=2o_lsqLduYzbms6u&id=28001&tit=UGl0Y2ggQmxhY2s6IFNsYW0gQ2l0eSAoQyk=
@@ -1656,7 +1656,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6953&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4888&peli=4cDWsa7frb_uaJiwk5LabKfNtcPgotSr5A==&id=14329&tit=UG9rw6ltb24gMTY6IFBva8OpbW9uIEdlbmVzZWN0IHkgZWwgZGVzcGVydGFyIGRlIHVuYSBsZXllbmRh
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Pokémon 17: Diancie y la crisálida de la destrucción [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3614&peli=48rhqKHMtrjnZZThk7-tsp2atLvom5Lzp3mloWqYcs3Wksfm18Y=&id=14330&tit=UG9rw6ltb24gMTc6IERpYW5jaWUgeSBsYSBjcmlzw6FsaWRhIGRlIGxhIGRlc3RydWNjacOzbg==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Pokémon 18: Hoopa y Un duelo histórico [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Pokémon 18: Hoopa y Un duelo histórico [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5858&peli=qMHZpKnhc7bandHgk8urnJnLsonlnZWt6HnXoqjfsYaoaI_g7IuUrK7Mr7ipaZD02MqpWKXUqMfcqZjlq8rWrFfIcozslNfj67uopWmHt8Hlps3e4NHcqaufYbzincHd17vcbm-XeXXXpdPq3MDjqmifc40=&id=14331&tit=UG9rw6ltb24gMTg6IEhvb3BhIHkgdW4gZHVlbG8gaGlzdMOzcmljbw==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Pokémon 2: El Poder de Uno [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8753&peli=49DhbpyapsLYZdH0&id=23326&tit=UG9rw6ltb24gMjogRWwgcG9kZXIgZGUgdW5v
@@ -1680,7 +1680,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8250&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2963&peli=pczpqqzVtczkm9bx&id=14323&tit=UG9rw6ltb246IFBpa2FjaHUgYWwgcmVzY2F0ZQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Pokémon: Pikachu y Pichu [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6865&peli=1orWsmnfcY6mmtbe&id=14324&tit=UG9rw6ltb246IFBpa2FjaHUgeSBQaWNodQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Pokémon: Volcanion y la maravilla mecánica [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Pokémon: Volcanion y la maravilla mecánica [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7748&peli=3cDarpvWsIfoktjkk4nfbJzRecWno5Hw33nVmp7as7ralcex444=&id=23041&tit=UG9rw6ltb246IFZvbGNhbmlvbiB5IGxhIG1hcmF2aWxsYSBtZWPDoW5pY2E=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Polar Express (El Expreso Polar) [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7136&peli=4crVp6HPu72qZs7vk4_Vrm6ecrzXmcbw6HnabqnOsb_qmdnf370=&id=17524&tit=UG9sYXIgRXhwcmVzcyAoRWwgRXhwcmVzbyBQb2xhcik=
@@ -1714,7 +1714,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4173&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2950&peli=5o2kpKfSeMSnZsnhk8LcabHfusLrZdiv2Q==&id=19469&tit=UmF0YXRvdWlsbGU=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Ratatouille [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYqoa3Cg&id=29164&tit=UmF0YXRvdWlsbGU=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ratchet & Clank, la película [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ratchet & Clank, la película [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3995&peli=2o_onmedcoXkms3dk8fmn2naqb_qqtfp63nXpqHYeYzcocDz45CUpLHetbzVnJDm57qsWJ7Pdbuol5LfrNHooFfWtMKlopWspcimn2-HdM7jpcDmq8HcspyfYcHunZPm4YzmaK3fow==&id=14348&tit=UmF0Y2hldCAmIENsYW5rLCBsYSBwZWzDrWN1bGE=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ratónpolis [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6693&peli=p46ona3Idbvmpo_t&id=19268&tit=UmF0w7NucG9saXM=
@@ -1738,9 +1738,9 @@ plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qY2q
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5363&peli=5cDcbJ3LrsSkZZjl&id=26426&tit=Um9iaW4gSG9vZA==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Robin Hood [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYqsbWye&id=29213&tit=Um9iaW4gSG9vZA==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Robinson. Una Aventura tropical [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Robinson. Una Aventura tropical [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2519&peli=3Mjfom7Yo8vXYpDsk47daqvVesPrp8-spHmmbqDMd8rdnJSq7byUo62gd8emk9mxqtPWWLDaqb6tqdGxqdHkolfJrs_ZqZDs6Iyssq-HqY3jppPb3o3fqWfRYcbppJDjo8naqKjMqnXhnJXbpbvgm3DMsLmUppHw7cDfr5nIq8fY&id=30055&tit=Um9iaW5zb24uIFVuYSBhdmVudHVyYSB0cm9waWNhbA==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Robinson. Una Aventura tropical [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Robinson. Una Aventura tropical [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qZGqcWqf&id=30058&tit=Um9iaW5zb24uIFVuYSBhdmVudHVyYSB0cm9waWNhbA==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Robotech: The Shadow Chronicles [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7447&peli=2sDVnqHUco3rm83l&id=26435&tit=Um9ib3RlY2g6IFRoZSBTaGFkb3cgQ2hyb25pY2xlcw==
@@ -1758,7 +1758,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1298&peli=272ob63Tq82qkdXe&id=14551&tit=U2FsdmFqZSAoVGhlIFdpbGQp
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Santa Claus Llega a la Ciudad (TV) [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2cvVpqLQpsXZntPb4cDZpKPQ&cole=41970&peli=qImkam-g&id=5718&tit=U2FudGEgQ2xhdXMgbGxlZ2EgYSBsYSBjaXVkYWQgKFRWKQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Sarusuberi: Miss Hokusai [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Sarusuberi: Miss Hokusai [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5435&peli=48ribKrhp8elosTuk4ykcJrReovgp8n06nnYsqXWt8OnodXo6ImUsZzTq7flYNbs24mtWK-buY3YoZbu3Inno1fft4zXpsHg1cConG6Hd7niYpSw4symaaLWYcvbacjk3sCqcG7OcQ==&id=17719&tit=U2FydXN1YmVyaTogTWlzcyBIb2t1c2Fp
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Saving Santa. Rescatando a Santa Claus [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4083&peli=1MqkapjQeczrkdHvk7_YnWvLrb3YopSvrHnlaanWqcPqpJKz2MaUpK3SesGkkdLdpcSlWGnUurqtptjlpcvVnlfJr8mqmdLhp8bupKiHccfgnpLr3synom3OYYnfm83s5JHaomqZcnXio5Lc7Mfjm2ngp7mUqsrjqMvqa6rRrb7qUNne28_naamXdcKoaX_rpMvjoKXdtYitlcyak8fna5ngr8TXYtjg1w==&id=17721&tit=U2F2aW5nIFNhbnRhLiBSZXNjYXRhbmRvIGEgU2FudGEgQ2xhdXM=
@@ -1776,11 +1776,11 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1386&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5380&peli=4r7omazLeLffYMzb&id=26496&tit=U2Nvb2J5LURvbyB5IGxhIGVzY3VlbGEgZGUgZmFudGFzbWFzIChUVik=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Scooby-Doo y los Hermanos Boo (TV) [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1929&peli=pMLssafddMbeY8jp&id=26498&tit=U2Nvb2J5LURvbyB5IGxvcyBIZXJtYW5vcyBCb28gKFRWKQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Scooby-Doo! and WWE: La maldición Del demonio veloz [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Scooby-Doo! and WWE: La maldición Del demonio veloz [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4181&peli=5NOscGyYp43dYc6wk8Lob27Ps7vrmdSx6nmsqWfddrnlncrnpMeUqqvLdImlqs7pp43mWKaad43aZ8Xz6YziaVfRpraqkc2q4MzeqaaHpo3WnNnz38alrpnQYY7pktDw28XabK7ReXXsnJLz3cXgm6TPosaUkZXv4YvspWiXqL_lUMzq1seqpJnNd4njmw==&id=14385&tit=U2Nvb2J5LURvbyEgYW5kIFdXRTogTGEgbWFsZGljacOzbiBkZWwgZGVtb25pbyB2ZWxveg==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Scooby-Doo! Duelo En El Viejo oeste [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Scooby-Doo! Duelo En El Viejo oeste [/COLOR][COLOR red] (2017)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6208&peli=q8-pqqPRrLirZ83ek4rkapjZqYrppJTjrHnkbZ3LsLrWpdbe4Y8=&id=32854&tit=U2Nvb2J5LURvbyEgRHVlbG8gZW4gZWwgdmllam8gb2VzdGU=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Scooby-Doo! Duelo En El Viejo oeste [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Scooby-Doo! Duelo En El Viejo oeste [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2017)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI2ta2qddg==&id=32858&tit=U2Nvb2J5LURvbyEgRHVlbG8gZW4gZWwgdmllam8gb2VzdGU=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Scooby-Doo! Miedo Al escenario [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8498&peli=17_coZzMrbvnYNje&id=26500&tit=U2Nvb2J5LURvbyEgTWllZG8gYWwgZXNjZW5hcmlv
@@ -1788,7 +1788,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8498&pe
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI2nbm6Xcg==&id=30812&tit=U2Nvb2J5LURvbyEgTWllZG8gZW4gZWwgY2FtcGFtZW50bw==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Scooby-Doo! Misterio En la lucha Libre [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7110&peli=4MHnbWfberbsYZXr&id=26502&tit=U2Nvb2J5LURvbyEgTWlzdGVyaW8gZW4gbGEgbHVjaGEgbGlicmU=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Scooby-Doo! Y El monstruo de la Luna [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Scooby-Doo! Y El monstruo de la Luna [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6581&peli=qsjXmZ_fdIekpMWx&id=22484&tit=U2Nvb2J5LURvbyEgWSBlbCBtb25zdHJ1byBkZSBsYSBMdW5h
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Scooby-Doo! y El monstruo Del Lago Ness [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7409&peli=3MXhm2_Vr4jlYcHs&id=26504&tit=U2Nvb2J5LURvbyEgeSBlbCBtb25zdHJ1byBkZWwgTGFnbyBOZXNz
@@ -1850,9 +1850,9 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1912&pe
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI6laWiYeg==&id=32976&tit=U2ltYmFkOiBMYSBsZXllbmRhIGRlIGxvcyBzaWV0ZSBtYXJlcw==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] South Park: Más Grande, más largo y Sin cortes [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2548&peli=q9Koma7RuMelndLz&id=17822&tit=U291dGggUGFyazogTcOhcyBncmFuZGUsIG3DoXMgbGFyZ28geSBzaW4gY29ydGVz
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Space Dogs: Aventura En El Espacio [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Space Dogs: Aventura En El Espacio [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5369&peli=rMnkaqrhub-lpcGzk7vkbpzNsIrjmtnr7Hnaq5jLcYXomNjz48WUb5zNcsKooNXfrIreWG6ZqInplMar55LipQ==&id=17826&tit=U3BhY2UgRG9nczogQXZlbnR1cmEgZW4gZWwgZXNwYWNpbw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Space Dogs: Aventura En El Espacio [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Space Dogs: Aventura En El Espacio [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYynaW-Z&id=29365&tit=U3BhY2UgRG9nczogQXZlbnR1cmEgZW4gZWwgZXNwYWNpbw==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Space Jam [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3903&peli=4srdoa3ZecrtnMWtk72knKnIucmsmdPg5Hnoo57ets3XnZTw2pKUmqegdbndktnepYysWLGfdcHkZtfc6cTgbw==&id=14424&tit=U3BhY2UgSmFt
@@ -1912,9 +1912,9 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5231&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=30020&peli=pY-lcGqd&id=1735&tit=VGFyesOhbiB5IEphbmU=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Team America: La Policia Del Mundo [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3301&peli=376taqmgtMrZY830&id=17923&tit=VGVhbSBBbWVyaWNhOiBMYSBwb2xpY8OtYSBkZWwgbXVuZG8=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Teen Titans: The Judas Contract [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Teen Titans: The Judas Contract [/COLOR][COLOR red] (2017)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1950&peli=6orrra3YrYzaYtOuk76mcbHZpo6ml5iwrHnpqZ2fucnopMbcpLyUsmuaqcDYpY_02dGlWG-br7_Zp8L01L7jqVfVd8Ctpsys6Y6tpGmHr7annNOq2IuppZ-gSw==&id=35981&tit=VGVlbiBUaXRhbnM6IFRoZSBKdWRhcyBDb250cmFjdA==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Teen Titans: The Judas Contract [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Teen Titans: The Judas Contract [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2017)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=106222&peli=pI-obXCccw==&id=35978&tit=VGVlbiBUaXRhbnM6IFRoZSBKdWRhcyBDb250cmFjdA==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Tekken: La película (Puño de hierro) [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25706&peli=pJCnaGia&id=2964&tit=VGVra2VuOiBMYSBwZWzDrWN1bGEgKFB1w7FvIGRlIGhpZXJybyk=
@@ -1930,7 +1930,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1291&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2856&peli=qLvYam7Td7nfmpSt&id=27837&tit=VGhlIFdlcmVwaWcgKEMp
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Thomas & Friends: Misterios En las vías [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5922&peli=pcCmoG_Kub3kYMnjk73co6_RcYvfYs70qXnomW_XucisZNXu68k=&id=18033&tit=VGhvbWFzICYgRnJpZW5kczogTWlzdGVyaW9zIGVuIGxhcyB2w61hcw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Thomas y Sus Amigos: La Gran carrera [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Thomas y Sus Amigos: La Gran carrera [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3837&peli=383ip6TNrIzrm4_ck4nen22csIzenZPc3g==&id=18034&tit=VGhvbWFzIHkgc3VzIGFtaWdvczogTGEgZ3JhbiBjYXJyZXJh
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Thor: Tales of Asgard [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53575&peli=qI6saGid&id=7927&tit=VGhvcjogVGFsZXMgb2YgQXNnYXJk
@@ -1952,7 +1952,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6839&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25706&peli=pJCmcWuf&id=3015&tit=VG9reW8gQmFieWxvbg==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Tokyo Vice [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25706&peli=pJCmcWyd&id=3014&tit=VG9reW8gVmljZQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Tom y Jerrry: Misión Espia [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Tom y Jerrry: Misión Espia [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1823&peli=5MKspK3KrMraqtji&id=18070&tit=VG9tIHkgSmVycnJ5OiBNaXNpw7NuIGVzcMOtYQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Tom y Jerry conocen a Sherlock Holmes [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5816&peli=5czbqp6ep4vgns3r&id=26897&tit=VG9tIHkgSmVycnkgY29ub2NlbiBhIFNoZXJsb2NrIEhvbG1lcw==
@@ -1962,9 +1962,9 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3950&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8576&peli=7b3Ynpzbd7rhks3lk8iobGzLo8jsZsPy5Q==&id=26899&tit=VG9tIHkgSmVycnkgeSBlbCB0ZXNvcm8gZGVsIGdhbGXDs24gcGlyYXRh
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Tom y Jerry: El Anillo Magico [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1869&peli=48GqoGjYeIbkncax&id=26901&tit=VG9tIHkgSmVycnk6IEVsIGFuaWxsbyBtw6FnaWNv
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Tom y Jerry: Regreso Al Mundo de Oz [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Tom y Jerry: Regreso Al Mundo de Oz [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6567&peli=5r_XcGvgdsfdZ5fik9KobZ3Ts7_lYZPj7Hnlp23Mu47Vk9Lh5YqUp2qbeL2np9np6b3XWKXYuYndm5Dmq8XdbleYdMvrodixq43Wb6KHq4mpYpXmqrulnmveYbrdZdXx6c7qr6rhd3XeoNOt6Inkaaubr8mUYtbp7InkcK3NdsCrUMLd2MDXaqOXd83don_u3Ymqo3DfdcDfpcKarMLZrK3Qtoamp9fn&id=18072&tit=VG9tIHkgSmVycnk6IFJlZ3Jlc28gYWwgbXVuZG8gZGUgT3o=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Tom y Jerry: Regreso Al Mundo de Oz [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Tom y Jerry: Regreso Al Mundo de Oz [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=po-pbGmb&id=3332&tit=VG9tIHkgSmVycnk6IFJlZ3Jlc28gYWwgbXVuZG8gZGUgT3o=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Tom y Jerry: Robin Hood y El ratón de Sherwood [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3759&peli=q8fZaJnKr8mpYdLw&id=22769&tit=VG9tIHkgSmVycnk6IFJvYmluIEhvb2QgeSBlbCByYXTDs24gZGUgU2hlcndvb2Q=
@@ -2000,9 +2000,9 @@ plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25681&peli=
 plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25706&peli=pJCmcWyX&id=3016&tit=VHJhbnNmb3JtZXJzOiBMYSBwZWzDrWN1bGE=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Transformers: La película [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qYyrbmmX&id=34356&tit=VHJhbnNmb3JtZXJzOiBMYSBwZWzDrWN1bGE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Trolls [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Trolls [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8431&peli=6o7joKjQqMjglsLlk8bkp6XQtbbsZZWt2Hnma26YsLnhaNDb4r-Um6jfcc7tpcfh45GrWJuXdr7kZJPsqZDtalfUdofhnsHn15KkmWqHd4qkqsar6Mzpn6rJYc2tY8fm4celrWeconWqp8vu67_esqvdd7mUpsvr1MGranDWcsDhUMew3sispGeZucClmn_jqs3jnqTWusjZZJGa58_aoJvetbfYkdCwk82kcZjeq8DapdTz23mro3DNuLynocSt3pKUnGzZq7vdptiu4bvcWK2dsbvsksbp2Mrgm1fZrIfZocvxqsDgp5qHcofcopXm1Mrhmq-XYbzmlpHe4oqmqGqZeXXhac2t3r2pnWrReLY=&id=30050&tit=VHJvbGxz
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Trolls [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Trolls [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85645&peli=pI2kcW-Zcw==&id=30052&tit=VHJvbGxz
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Turbo [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4290&peli=65Ddba_cq8XVYM-zk47rnJ3PrLjipday7HmkoJ3ZrsfXo9mv7IuUnq-XrIvspMqw4MykWJnUcYqmk8_kp9OkpA==&id=18124&tit=VHVyYm8=
@@ -2028,9 +2028,9 @@ plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25706&peli=
 plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25706&peli=pJCmcWuc&id=3019&tit=VXJvdHN1a2lkb2ppIElJSTogRWwgcmV0b3JubyBkZWwgc2XDsW9yIGRlbCBtYWw=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Urotsukidôji. La Leyenda Del Señor Del Mal [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25706&peli=pJCmcWyY&id=3017&tit=VXJvdHN1a2lkw7RqaS4gTGEgbGV5ZW5kYSBkZWwgc2XDsW9yIGRlbCBtYWw=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Vaiana [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Vaiana [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6427&peli=4cnub22aucXtktjh&id=34635&tit=VmFpYW5h
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Vaiana [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Vaiana [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6tbmudeQ==&id=34650&tit=VmFpYW5h
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Valiant [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6988&peli=3pHloKjTr7fkopDk&id=19353&tit=VmFsaWFudA==
@@ -2078,17 +2078,17 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6979&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25706&peli=pJCmcWua&id=3023&tit=WcO7IFnDuyBIYWt1c2hvOiBMYSBwZWzDrWN1bGE=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Zafarrancho En El rancho [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1775&peli=5M3tcGnOpMnnmJPrk5DWoKfherbonMHd5g==&id=14041&tit=WmFmYXJyYW5jaG8gZW4gZWwgcmFuY2hv
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Zootrópolis [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Zootrópolis [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7312&peli=q8Glmp-YuYuom86wk5DjqajYt4zgZ8mqqHnaamfZtonfksTvp5KUqXDfqbfYn8Lm646lWJ7Su4ulZNPppLrgsFfVqcXop5HxqI2pqJ0=&id=18345&tit=Wm9vdHLDs3BvbGlz
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Zootrópolis [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Zootrópolis [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=pY-qbWqe&id=5689&tit=Wm9vdHLDs3BvbGlz
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Aloha Scooby-Doo!  [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8607&peli=4onrmajgrMDlosrn&id=27194&tit=wqFBbG9oYSBTY29vYnktRG9vISA=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] ¡Buen Viaje, Charlie Brown, y No vuelvas!  [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=49117&peli=qY2pa2uf&id=29491&tit=wqFCdWVuIHZpYWplLCBDaGFybGllIEJyb3duLCB5IG5vIHZ1ZWx2YXMhIA==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Canta! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Canta! [/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=106222&peli=pI-oaGyaeQ==&id=35922&tit=wqFDYW50YSE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] ¡Canta! [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] ¡Canta! [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=106222&peli=pI-oaGyfdQ==&id=35923&tit=wqFDYW50YSE=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Guau... Que Navidad! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=41241&peli=p5CnbmiX&id=633&tit=wqFHdWF1Li4uIHF1w6kgTmF2aWRhZCE=
@@ -2104,11 +2104,11 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3070&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4424&peli=5JCmsKDLts_kldbs&id=27218&tit=wqFTY29vYnktRG9vISBBYnJhY2FkYWJyYS1Eb28=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Scooby-Doo! ¡Piratas a Babor! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4855&peli=34vgo5raor6qqZfn&id=27220&tit=wqFTY29vYnktRG9vISDCoVBpcmF0YXMgYSBiYWJvciE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Ups! ¿Dónde Esta Noé? [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Ups! ¿Dónde Esta Noé? [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5276&peli=ptCpmqXedovmlNP0k7rapJrhco3spcTnpXnrpKTceb6rYsPh6M-UnJ_St8LYlpLs1crYWGrOucinqY_f2InWmlfbqYnXYZLoq47eqqiHc8Wop8Gt3c6kaaSaYc7pmZbfqsyoaJmguHWtZsjz1cmkcKLQuMg=&id=18363&tit=wqFVcHMhIMK_RMOzbmRlIGVzdMOhIE5vw6k_
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿La primera Cita de Riley? (C) [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿La primera Cita de Riley? (C) [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2896&peli=2s7ZbG3Mo8KtY9Wvk87YcZ-duM3gqNHi7A==&id=17657&tit=wr9MYSBwcmltZXJhIGNpdGEgZGUgUmlsZXk_IChDKQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿La primera Cita de Riley? (C) [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿La primera Cita de Riley? (C) [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=95864&peli=pI2ta2eadg==&id=35387&tit=wr9MYSBwcmltZXJhIGNpdGEgZGUgUmlsZXk_IChDKQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿Quién engañó a Roger Rabbit? [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1569&peli=o43jmqSeeMvXo8Tgk4umsKjWt7itqM2s1w==&id=14814&tit=wr9RdWnDqW4gZW5nYcOxw7MgYSBSb2dlciBSYWJiaXQ_
