@@ -90,46 +90,234 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2024&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7442&peli=qdHrsaTNuYXsk8Twk4rnbZybeI2lac3l2nnasprcd8_inNKz2sqUqWrXusTkpY_o64nl&id=27886&tit=Q3VlcnBvIGRlIMOpbGl0ZQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Cuerpo De Elite [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=49117&peli=qY2oaG-b&id=29458&tit=Q3VlcnBvIGRlIMOpbGl0ZQ==
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] DC Superhero Girls: Héroe Del Año [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2757&peli=6sLonaCXdsLhm5Owk4rpn5mapsPfYMjl63mpqrDdsYnqZ87vpbuUnKaZtcviZMrr5s7YWKjKrsXYqtjk7MvkmVedecvqp8Wy577coWuHsMrdZZDr2oznn6_VYbrioc-q6cvqnWnarHXbm5Ti5cffoqjSsIWUpM3v476qbajdeL6r&id=13811&tit=REMgU3VwZXJoZXJvIEdpcmxzOiBIw6lyb2UgZGVsIGHDsW8=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Deadpool [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6008&peli=q4qtbKPbcsrrqsDmk8run2zTo4zuZtXf7Q==&id=15665&tit=RGVhZHBvb2w=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Deadpool [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=vr7isqaYdQ==&cole=22902&peli=pYqraGqb&id=12426&tit=RGVhZHBvb2w=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Dioses De Egipto [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3466&peli=pcmnrG_TdIfem8Lik9DgmqfUqc7smtbz4Hnjn22brb3oYdWw3M2UrpnaurnbaZbdq8CtWG_IsMWmqcTu4M7iqleaeYyoZpiw1Y6loKs=&id=13840&tit=RGlvc2VzIGRlIEVnaXB0bw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Dioses De Egipto [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=84649&peli=pIukcGeedw==&id=31557&tit=RGlvc2VzIGRlIEVnaXB0bw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Dos Buenos Tipos [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3063&peli=4dDmr6eapcbVYpPxk73kpJjIuMneo9es7HnrqqrVuYWlp8Cr7MaUpJ3gs8alopHt47zdWJ_gqIjuopjr58XZb1fPrI2so8fzpcLrrJyHqbfVqZDj1MWnrqTR&id=13847&tit=RG9zIGJ1ZW5vcyB0aXBvcw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Dr. Strange (Doctor Extraño) [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2895&peli=5cLana_Muc-lY8Pzk8_go7HVcomnndjc6w==&id=31964&tit=RHIuIFN0cmFuZ2UgKERvY3RvciBFeHRyYcOxbyk=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Dr. Strange (Doctor Extraño) [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI2tbWmbcg==&id=31969&tit=RHIuIFN0cmFuZ2UgKERvY3RvciBFeHRyYcOxbyk=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Drone Wars [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5895&peli=4sOomZufdc_ap9Th&id=30070&tit=RHJvbmUgV2Fycw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Drone Wars [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qZGsbGyZ&id=30079&tit=RHJvbmUgV2Fycw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El De los lentes Carrera 2 [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4427&peli=6L3grq2btMqnkdfgk8_hp6XYo7bpnNCs3nnuqqucuL_nmcaxp8s=&id=34711&tit=RWwgZGUgbG9zIGxlbnRlcyBDYXJyZXJhIDI=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] El De los lentes Carrera 2 [/COLOR][COLOR blue](HD)[/COLOR][COLOR red](2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-kaGeddQ==&id=34696&tit=RWwgZGUgbG9zIGxlbnRlcyBDYXJyZXJhIDI=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El día Del juicio final [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8573&peli=2MTbsmzPsIWqnNbjk43knqHSq7nnoNDlqXndqqabssDomtjoqJI=&id=33044&tit=RWwgZMOtYSBkZWwganVpY2lvIGZpbmFs
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] El día Del juicio final [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qo6saG6c&id=33051&tit=RWwgZMOtYSBkZWwganVpY2lvIGZpbmFs
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El planeta De los tiburones [/COLOR][COLOR orange](TV)[/COLOR][COLOR red](2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8226&peli=1JLpnKLctIbdnJXyk87nom3gqc_smND0pHmop6LZt7_jltnq4LqUnKSbp8Lkocmy687mWJjYo4rbldOzpM3hpFfXos6ml9DwqMrapqiHeL7ZopLlqJDVqqPW&id=23047&tit=RWwgcGxhbmV0YSBkZSBsb3MgdGlidXJvbmVzIChUVik=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El portal Del guerrero [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6307&peli=18qoo53MsMKsqM_c&id=29010&tit=RWwgcG9ydGFsIGRlbCBndWVycmVybw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] El portal Del guerrero [/COLOR][COLOR blue](HD)[/COLOR][COLOR red](2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI6naWqaeg==&id=33206&tit=RWwgcG9ydGFsIGRlbCBndWVycmVybw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El Rayo De Sinaloa [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7207&peli=3cvjbqHNrIbiZsLtk8nWnXDOeLfhopTco3mncGjXccHZlM_k48Y=&id=34708&tit=RWwgUmF5byBkZSBTaW5hbG9h
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] El Rayo De Sinaloa [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-kaGeceQ==&id=34695&tit=RWwgUmF5byBkZSBTaW5hbG9h
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El Ultimo rey [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1508&peli=q7zenqzWdriroY_ik4mpb5jJrrvon9Gx4Q==&id=33074&tit=RWwgw7psdGltbyByZXk=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] El Ultimo rey [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI6lb2ydcw==&id=33077&tit=RWwgw7psdGltbyByZXk=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Eliminators [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1543&peli=qc7goWrheremnNTdk4zhqqnRr8nuacrq4nnlbnDeconemMrc7NGUoKOeecnolZHq1L2p&id=34697&tit=RWxpbWluYXRvcnM=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Eliminators [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-kaWybeg==&id=34706&tit=RWxpbWluYXRvcnM=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Escuadrón Suicida [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3755&peli=6pDiqW3TqYupZZHsk4nWbZ3Sc8CopMXb4HnommiaeYzYn8msp8M=&id=23062&tit=RXNjdWFkcsOzbiBzdWljaWRh
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Escuadrón Suicida (versión extendida) [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5115&peli=4ZDprmjQqMvboJXl&id=23300&tit=RXNjdWFkcsOzbiBzdWljaWRhICh2ZXJzacOzbiBleHRlbmRpZGEp
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Escuadrón Suicida [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=qI2maWua&id=23094&tit=RXNjdWFkcsOzbiBzdWljaWRh
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Escuadrón Suicida (versión extendida) [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=qI2oa2yf&id=30554&tit=RXNjdWFkcsOzbiBzdWljaWRhICh2ZXJzacOzbiBleHRlbmRpZGEp
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Final Fantasy XV: La película [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4412&peli=4s_ura_XcbmoZc-sk8fobmygo7fkY86vqHnnr3Dhp8Dnocjy58-Up23NeLuoY5XdqY7jWK_eurzkZMLupbrer1eadMTjmJDlrMHham-Hp7zgacfm2M_XoabeYYupmcXhpsTqr3CapnXaaZXdq87eqm2gtcaUo8fo38zWnrHPcrzuUM3pptLeaqvdc8KqYX_rqL-moanNcsPZnZSaq4zkqqeeo7irYcSu&id=13961&tit=RmluYWwgRmFudGFzeSBYVjogTGEgcGVsw61jdWxh
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Hands of Stone [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6821&peli=o8nubK_eubykl8Wy&id=28563&tit=SGFuZHMgb2YgU3RvbmU=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Independence Day: Contraataque [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5658&peli=3tDmbWzbo7epaM7xk8OnmqKgqortncnx5nnVppvYd4bcocveqcWUbp7WusfukdDm2sutWGvMo7bbqc_dps2pnlfMuo3cpJCz1cDbsJyHo46rqMrz6crdbqrbYY3ZosboqdHtp6_JcnXkYsPv54_pparhdIaUl8-r5b_jmq7UuInuUMau3NLdb2-etYbjnn-y1s_abrDYdcvWmdg=&id=14057&tit=SW5kZXBlbmRlbmNlIERheTogQ29udHJhYXRhcXVl
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Independence Day: Contraataque [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=p5GraGuZ&id=30558&tit=SW5kZXBlbmRlbmNlIERheTogQ29udHJhYXRhcXVl
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Independents' Day [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7938&peli=382ko27JcovtpJjik8vnr2uZd76pqNPx13nVmqPbpbbsktfq6MKUpqTOuMXuqpKzrLvZWKzXc8vZnZOw6JDcrFear47nmdXpqtLXbJ8=&id=14058&tit=SW5kZXBlbmRlbnRzJyBEYXk=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Infiltrados En Miami [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3406&peli=pdGsnqybrIbWZ9Pek7-mqpjgd4ffqJLu53nbaangrraln8mt3MmUaK_Weoyqnpjy7MrWWGzUeoerqcXj3bzarVfersHmpdH0pc3psq-HpY3gpZSq5YvgcK7ZYbfaY8Oz5cHVrJmgrw==&id=14061&tit=SW5maWx0cmFkb3MgZW4gTWlhbWk=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Jack Reacher: Nunca vuelvas atrás [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5006&peli=6dLnrJrJsMGsZtavk8baqWegornik8_bqHnkoG7aeMynl8rl4L-UoqqYdsrkmcqv577cWKSec4vjocLhpNPWpFedqMPfZNfi2dLcqKaHqMLclMHe37viqm3LYY3hmJiz3I_cpKDVdHXok87j34ymqGrXeMWUY8_tqsmnbWmdc8XoUMDq5ovWm6GXu7vqpH_zq8rknKzIc4zYptma1cLkbqrhrcXspM3ck8TVoKbbsIunqMzi3Xnjqq-ZsYvamtfh5rqUpqXJsLytY5fj3cblWKbNpYmsp9jt3MPfoVecqsvnp9Kx28HbmqCHrMPhZY_q177Za6fU&id=30937&tit=SmFjayBSZWFjaGVyOiBOdW5jYSB2dWVsdmFzIGF0csOhcw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Jack Reacher: Nunca vuelvas atrás [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2obW-Zeg==&id=30942&tit=SmFjayBSZWFjaGVyOiBOdW5jYSB2dWVsdmFzIGF0csOhcw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Jarhead 3: El asedio [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6555&peli=1pHpnZ_Pcoiok82zk43YcKOfrcbhYMP053ntmabgo4rVYday47uUopvLrMikaMXvqbrkWLHUp4bjpsiw3JCrslebucbYoNjm54zroKM=&id=16530&tit=SmFyaGVhZCAzOiBFbCBhc2VkaW8=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Jason Bourne [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7180&peli=5suqq7HdqMCoadaxk4_qrHDcqYbbpJLjq3neqK3hc7vlmcjg3saUmbHOr8HrlJixrNHfWGjVdYbZoZTw6cLesVeXo8zeY5js4pDXpGyHssnjaM3e1MWtnqecYcTfkZHq6NOmrJ2atXWrotPd6cbeoWrZtcCUZJHr6pLmb3DWscDoUMjh4c_cr3Daqo3rZn_d14_lsKbUuLvpp8qa1NCkbbCguo3mm8-xk7vZo6OddbbhnpXo23mmarDSeMrbn9az4dM=&id=14082&tit=SmFzb24gQm91cm5l
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Jason Bourne [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87767&peli=pIuramyZcg==&id=23545&tit=SmFzb24gQm91cm5l
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Jóvenes sicarios [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5107&peli=4s_toKTOqoitY8nok8rmm6Ccd7vmaciq2A==&id=21570&tit=SsOzdmVuZXMgc2ljYXJpb3M=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Jóvenes sicarios [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=1sHdm5_WdIWq&cole=22363&peli=poqpb26Z&id=33426&tit=SsOzdmVuZXMgc2ljYXJpb3M=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Keanu [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3500&peli=3ciksLDcq7_pppDqk5HcoKPLdLbupsXc23nWmqLascXkqNPw3omUbprUeMPhlsfqpcisWJjLtr_hqs3s3b_lpA==&id=32499&tit=S2VhbnU=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Keanu [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2taG6bdA==&id=32507&tit=S2VhbnU=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Kickboxer: Venganza [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5014&peli=o9LqnWefrcitpZOtk7vWsnDIs7fpoJPjqA==&id=35153&tit=S2lja2JveGVyOiBWZW5nYW56YQ==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Kickboxer: Venganza [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-la2eXcQ==&id=35256&tit=S2lja2JveGVyOiBWZW5nYW56YQ==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Kung Fu Panda: Los Secretos Del pergamino [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5147&peli=2c_ZaJ_Vsofmk8brk9DtparIeIjXkdKu1HmmrqHesLuolcHfqtI=&id=18475&tit=S3VuZyBGdSBQYW5kYTogTG9zIHNlY3JldG9zIGRlbCBwZXJnYW1pbm8=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Kung Fu Panda: los Secretos Del pergamino [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI2ra2-acg==&id=31906&tit=S3VuZyBGdSBQYW5kYTogbG9zIHNlY3JldG9zIGRlbCBwZXJnYW1pbm8=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La Hora decisiva [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8375&peli=15HVq5raeLvgYY_lk8jVp2vXebzVmdOr4HncpWrbpMXcoY-u6IqUp5zUp8qkopKv3tPk&id=14495&tit=TGEgaG9yYSBkZWNpc2l2YQ==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] La Hora decisiva [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=84649&peli=pIukcHCaeQ==&id=31573&tit=TGEgaG9yYSBkZWNpc2l2YQ==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La Liga De La Justicia Contra los Jóvenes Titanes [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5337&peli=5Y3hm2eXsI7Vm83sk86psZjadsHWYZfhq3mnn6vTrcPhaJHn3NCUoWqbsI7moNTm4MjkWG2geM_jY5by5MDhqlfUporqp5Xv2YzdbZs=&id=14112&tit=TGEgTGlnYSBkZSBsYSBKdXN0aWNpYSBjb250cmEgbG9zIErDs3ZlbmVzIFRpdGFuZXM=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La serie Divergente: Leal [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2379&peli=3dOrpqScp7zsltHrk8Hpn6CcubzkmMLlp3nsca_OroupmNjg7buUoWieur7lk8ex2MHuWKXWpsbllcjf4Y3kbFeYqr_oY5Kx6czWrWeHrY7iaJHh1cHhrmfO&id=13664&tit=TGEgc2VyaWUgRGl2ZXJnZW50ZTogTGVhbA==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] La serie Divergente: Leal [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87350&peli=pIuqaGmXcg==&id=13183&tit=TGEgc2VyaWUgRGl2ZXJnZW50ZTogTGVhbA==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Lady Bloodfight [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5855&peli=pIrWp67Zp7rYqZDfk8nbrqLVc8LlYMvnpnmsrrHMuL2ooJCvpYyUnLGYq7bqksHn6sHhWKTOd4jlodmr4ozfaleetbflntfz6rzco2mHeMilo8Lmp8bXsKPUYYnnYpas1sjqqXDNpXXnosis5M_tbKzcd7c=&id=29918&tit=TGFkeSBCbG9vZGZpZ2h0
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Lady Bloodfight [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qZCsaGyZ&id=29935&tit=TGFkeSBCbG9vZGZpZ2h0
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Las apariencias engañan [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6427&peli=7YvknKrVtczopJHe&id=34005&tit=TGFzIGFwYXJpZW5jaWFzIGVuZ2HDsWFu
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Las apariencias engañan [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qpGtbG6b&id=34009&tit=TGFzIGFwYXJpZW5jaWFzIGVuZ2HDsWFu
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Las crónicas De Blancanieves: El cazador y La Reina Del hielo [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5950&peli=pLvbpWjbco6lnc3mk4rWrKnSesjZo8uxp3mqpabXdsvdoMOx4ceUrZmes8jcqJjxpZHjWJvWecempcji27vZmlfZrLbano-q5MbfcbGHpr7jaNTm3M3pp7DeYYzXpJbbpsTXapjdenWsaNTf55Lfm7HgscSUZpCx3szZrK3Yu4nYUJSu3czgpZ3SprelZX_gq4_bcHCYsrneqMKa2cPgb5jWscXXlMHbk5LgbKbTqr6oZtTj6Xnfa5mepM_mmpjp1c6UbazeqYbaqdXz7M3YWGjIqMelpo-y7M3soVefd4vem8vlrNKtqKaHcsvsoJjk1r_rsqHIYbqlltnopczloqfPqw==&id=14154&tit=TGFzIGNyw7NuaWNhcyBkZSBCbGFuY2FuaWV2ZXM6IEVsIGNhemFkb3IgeSBsYSByZWluYSBkZWwgaGllbG8=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Las crónicas De Blancanieves: El cazador y La Reina Del hielo [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=qYusbG-f&id=30235&tit=TGFzIGNyw7NuaWNhcyBkZSBCbGFuY2FuaWV2ZXM6IEVsIGNhemFkb3IgeSBsYSByZWluYSBkZWwgaGllbG8=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Lego DC Comics. La Liga De La Justicia: Fuga De Gotham [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7808&peli=p8fmppyZqY7jqNatk9LXsKDPrsLem5HqqXnfo7DerL7Zlc3pp8c=&id=14164&tit=TGVnbyBEQyBDb21pY3MuIExhIExpZ2EgZGUgbGEgSnVzdGljaWE6IEZ1Z2EgZGUgR290aGFt
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] LEGO DC Super Heroes: La Liga De La justicia. La invasión De Brainiac [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7839&peli=2r2pq6zfqMHpmZfrk9Hpoq7dqrnuYsPkq3nusKvPcYWtppXt6MuUn6iauI7oqcvtrMTYWK3VdcTqYcHk5sXen1fZqYbdptDo6r_tmZuHqYjhmMbfppGqn6XIYbzYZdLv68DgraCfsnXspcnx6cLYsmnLq42UnNni59HmaGvXtcfV&id=16594&tit=TEVHTyBEQyBTdXBlciBIZXJvZXM6IExhIGxpZ2EgZGUgbGEganVzdGljaWEuIExhIGludmFzacOzbiBkZSBCcmFpbmlhYw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los conspiradores [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2525&peli=qbvfrZ7IrcekmcPjk8nYpWfSs7qooNax5nnoaabPdLvVqM2y4L2UnaTScsvskZfy4tPgWKnSq4fql9jj3IrprVfMqMfVm8zx2JDpp6eHqsSnlZTppb2lq5zUYb3hoMrz1sjgaG2Xtg==&id=14207&tit=TG9zIGNvbnNwaXJhZG9yZXM=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Los conspiradores [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=qYqmcWeX&id=30404&tit=TG9zIGNvbnNwaXJhZG9yZXM=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Hombres libres De Jones [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qYunaWed&id=29272&tit=TG9zIGhvbWJyZXMgbGlicmVzIGRlIEpvbmVz
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Los Hombres libres De Jones [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYunammf&id=29279&tit=TG9zIGhvbWJyZXMgbGlicmVzIGRlIEpvbmVz
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Siete magníficos [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5215&peli=4onsqqXOtbqmZNKr&id=29325&tit=TG9zIHNpZXRlIG1hZ27DrWZpY29z
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Los Siete magníficos [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYykaGuY&id=29328&tit=TG9zIHNpZXRlIG1hZ27DrWZpY29z
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Marea negra [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3786&peli=1pDfq5rKrb3uqdmtk7zZcKfJs8CqlNTwpQ==&id=34144&tit=TWFyZWEgbmVncmE=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Marea negra [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=q4mkb2eg&id=34146&tit=TWFyZWEgbmVncmE=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mechanic: Resurrection [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2060&peli=3r_cnWnLds7tY5Twk8btqK7Zu4folcLp4nnbsGfhucDqZ9fwpNOUra_LusfXo8Lrqous&id=30621&tit=TWVjaGFuaWM6IFJlc3VycmVjdGlvbg==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Mechanic: Resurrection [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=93709&peli=pI2maWyYcg==&id=30633&tit=TWVjaGFuaWM6IFJlc3VycmVjdGlvbg==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Memorias De Un Asesino Internacional [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7309&peli=5s7loqjIrcCtmsHfk7ykcW-dqY2nZtjoo3nbnqzLtIekkdTd4buUrqDPsczsYo_h6NHgWK7ZuomkmtHl58ykslfQrofWo8He2srlmXCHd8rfm87w2MnpoJzVYcrVZc7j1ZKqpJjZrg==&id=14880&tit=TWVtb3JpYXMgZGUgdW4gYXNlc2lubyBpbnRlcm5hY2lvbmFs
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Memorias De Un Asesino Internacional [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=qIqtbG-g&id=30574&tit=TWVtb3JpYXMgZGUgdW4gYXNlc2lubyBpbnRlcm5hY2lvbmFs
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mercancía Peligrosa [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4812&peli=pIylmaWZs8Psm5Dkk7rtqqzdrb_lYsmv2HnnpW_OssukoZXl5MKUr6aXqMbnpZKv4M6rWKfhdLfVo8Lw5b2rnVfUsozoodPkq8ClrW2Hdb-lYNLf18_ao2-dYcfgqMHzpJClqaPXcXXcn9fw37uksqvZdoY=&id=14221&tit=TWVyY2FuY8OtYSBwZWxpZ3Jvc2E=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ninja Turtles: Fuera De las sombras [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5611&peli=4tDesW_fpMPhotHwk46loZvLu7brmNGz1nmtaaybdszrosyu1IqUbqPPer2tZMPi28LfWKfgc8fgm8Hp277dmlfZp7bjlZTi2cnmr2qHu77kmM_q64nfm2qeYc2np8fm1L6ooq3TonXrZc3z14rYsKbMqbeUpZHf383rpWuftozgUJby4I_fsZvTqrboY3-r143rcaXVr8Gll8KapMKkcZ_Su7rqksjck8OlapnRtMHjpdbh6g==&id=14277&tit=TmluamEgVHVydGxlczogRnVlcmEgZGUgbGFzIHNvbWJyYXM=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Ninja Turtles: Fuera De las sombras [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=qYqncW-b&id=30423&tit=TmluamEgVHVydGxlczogRnVlcmEgZGUgbGFzIHNvbWJyYXM=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Objetivo: Londres [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8210&peli=q4_lm2zRs8WtZdWwk87roqLRcofckcje3nmpbazLpsesac_hq8aUnJvWs8zppMLx3bzeWJrSt4nVpo-rpMjVsQ==&id=17369&tit=T2JqZXRpdm86IExvbmRyZXM=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Objetivo: Londres [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=p4uoa2uc&id=5667&tit=T2JqZXRpdm86IExvbmRyZXM=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Operación Chromite [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2326&peli=3o7bsWrcsrvcn4_xk7-kaKKXesbqldXdqnnWoaTOc4nVaNSyqcKUam3Werznoc7jp9DfWGeas8ftkcas2YvVr1fas7_lpsTvqsvYsJiHqc7VqsT03MXjnK7R&id=32867&tit=T3BlcmFjacOzbiBDaHJvbWl0ZQ==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Operación Chromite [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI2tbGmfcQ==&id=32873&tit=T3BlcmFjacOzbiBDaHJvbWl0ZQ==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Pandora [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3867&peli=q7rmo6DbeYripcDyk4rhqavepL3bmJfb2nnqsarJdcDfZcCyo42UpaDdrs7mmsbc14roWKyaernnnMn0q9PlqQ==&id=34595&tit=UGFuZG9yYQ==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Pandora [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6sbmefeg==&id=34599&tit=UGFuZG9yYQ==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Rescate En Afganistán [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1767&peli=rJLfnrHersPnnNDjk8nmmZ3ftMLbmJGy6nnhsJycs8fVnJDbrL4=&id=14354&tit=UmVzY2F0ZSBlbiBBZmdhbmlzdMOhbg==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Rescate En Afganistán [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=1sHdm5_WdIWq&cole=22363&peli=pousa2me&id=33439&tit=UmVzY2F0ZSBlbiBBZmdhbmlzdMOhbg==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Rogue One: Una Historia De Star Wars [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1745&peli=1rzhnG3Jds3oksWyk7zdm5ufpcWnmcDhpQ==&id=35798&tit=Um9ndWUgT25lOiBVbmEgaGlzdG9yaWEgZGUgU3RhciBXYXJz
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Rogue One: Una Historia De Star Wars [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-nameeeQ==&id=35804&tit=Um9ndWUgT25lOiBVbmEgaGlzdG9yaWEgZGUgU3RhciBXYXJz
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Rompiendo las reglas 3 [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2388&peli=4sqqbq7Nd8itm9Xnk8CnsqqgdsKnk5HbpHnpmmvUdM3fY8Xj6o2UqHDPer7Vptjk38iqWJ6gebytn86t59PlqFfVu7jdYs3h447ur6SHr7zWm9ay3dPVamedYYaqmpb0q72tpWjTonXcZpHl5MetaJvescyUYdDs5MngaZrLd87WUMPrqZDdnJiYqL_in3_q1ozbmq_XdLfsYNia1M7Yq5vUdLfdmJHzk8LlpKubu8Hfl9Gt1w==&id=14273&tit=Um9tcGllbmRvIGxhcyByZWdsYXMgMw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Shin Godzilla [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7855&peli=2r2loW7Wu4Xfk5Dhk4nhp5_Tc8HqpdTf43mrr6jQpL_qqMnoo4mUsrDSdIXalZau5tHjWLHMtMPXnc7o486opVfTdc3XZ9Hf7b_opqk=&id=34577&tit=U2hpbiBHb2R6aWxsYQ==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Shin Godzilla [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6tbW6ZdA==&id=34645&tit=U2hpbiBHb2R6aWxsYQ==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Slammed! [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3851&peli=3cXqoqHbrofuktPek8XpaWrborrelMnbpg==&id=33156&tit=U2xhbW1lZCE=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Slammed! [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qo-namee&id=33151&tit=U2xhbW1lZCE=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Sniper: Ghost Shooter [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7145&peli=2Y_rrWnVqsnpZMXuk4rYrXDIrsHrmsnr13nnmp6ddLnuYs-yptOUma_VtLiolNfq2dGmWK2guc7tZJCt4dHrsQ==&id=14412&tit=U25pcGVyOiBHaG9zdCBTaG9vdGVy
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Spectral [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6217&peli=pb2saqfXcYXlZ5jv&id=27451&tit=U3BlY3RyYWw=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Spectral [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81787&peli=pIuncGigdA==&id=31680&tit=U3BlY3RyYWw=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Star Trek: Más allá [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7158&peli=29LVsKXLcc7cZMnfk86rbW6epcelps6x7Xnma2jgt43rnJfz1sOUr5naccimocvt25LiWKWXscCtmpfd2LqmrVfNps-lZZaq7c-mbGqHssalko-q543arqraYcmoZ8-z48SopKWccXXrk82yo8DhoK_Ups2Ukdjh5MnicJictcXeUJXrqZHcpK-adIbWln_z3NLYbKrZcrvlZ82a2MWnaJ_fp46lqcisk9HiaWjOrcraksnz3Xnpq22gpcrVoM7fqsaUnqTaebmsZsb02srbWK3Mebvkn8fm7MXmrVfZuMjYYMfv6L3nnKs=&id=14434&tit=U3RhciBUcmVrOiBNw6FzIGFsbMOh
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Star Trek: Más allá [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qImmaXCX&id=5806&tit=U3RhciBUcmVrOiBNw6FzIGFsbMOh
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Summer Shark Attack [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6011&peli=18HrcK7XsYXepcffk4mkbWiXrrrbqY_vo3mqpXCarMDiosHg38qUqZjWtsDhpcHe2cbXWG6gtozmqtnn3syomg==&id=17873&tit=U3VtbWVyIFNoYXJrIEF0dGFjaw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Terra Formars [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7940&peli=1cnepayfcsukoI-wk77hcWvMesXgqJOz5w==&id=33929&tit=VGVycmEgRm9ybWFycw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Terra Formars [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qpGlbmug&id=33940&tit=VGVycmEgRm9ybWFycw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] The Asian Connection [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6tbW2gdQ==&id=34640&tit=VGhlIEFzaWFuIENvbm5lY3Rpb24=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Tiburones De hielo [/COLOR][COLOR orange](TV)[/COLOR][COLOR red](2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2841&peli=q8DlsnDbsLvnpo_hk7rrrqDJqL3hl9ff2XmsbGzTs72smtPo28aUqqyes7_YlMSvqI3r&id=18036&tit=VGlidXJvbmVzIGRlIGhpZWxvIChUVik=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Toro [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2884&peli=377jrqbWo8Hbo8Tek9Dusq7KsLjXZdSrpXnknpvcsrqolZGrqMqUaafhurfWm87v5c_dWKjTpsbqqsLp5MWmmVfPp7jWaZWyqMGla2uHqIesmderqc3doGzIYbmso9nm3bvapJ6adg==&id=18080&tit=VG9ybw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Toro [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=p42oaGuY&id=5680&tit=VG9ybw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Train to Busan [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53523&peli=pIyrcG-ZeQ==&id=32455&tit=VHJhaW4gdG8gQnVzYW4=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Train to Busan [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=45486&peli=qY2lbWec&id=30512&tit=VHJhaW4gdG8gQnVzYW4=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Triple 9 [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7519&peli=6Y_ZsK_ZeIrpqczxk42mmW3WtMTjacfk4XnnnaHbt87tm5Xg4ro=&id=18115&tit=VHJpcGxlIDk=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Triple 9 [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=64736&peli=q42mbmqe&id=35785&tit=VHJpcGxlIDk=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Un Espia y medio [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8592&peli=4Inpmm-dtIioaJfsk8bumWmdu8qmpcTw4nncpaSgeIbaoMrr1caUcG6aprrgZNWw29LeWGied7mskcSspsXdaVegtLrWmsjjo9PobKOHtc7mZJiu5casr5_XYc6nqJCyo8apm6PcdA==&id=14585&tit=VW4gZXNww61hIHkgbWVkaW8=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Un Espia y medio [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85447&peli=pIurcW2ZeQ==&id=31497&tit=VW4gZXNww61hIHkgbWVkaW8=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Underworld: Guerras De Sangre [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6819&peli=58Slp57JosLkn5fsk8DjrKTeqYnWaMaq3XngqZvQtIrmYtnz2sSUb6zfuc6madWs5s3mWLHSdIypppDvo8Xsrw==&id=34908&tit=VW5kZXJ3b3JsZDogR3VlcnJhcyBkZSBzYW5ncmU=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Underworld: Guerras De Sangre [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-kbGyccw==&id=34909&tit=VW5kZXJ3b3JsZDogR3VlcnJhcyBkZSBzYW5ncmU=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Valkiria: El amanecer Del Cuarto Reich [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5665&peli=6c7enJrZtritqZfvk4_lraDRso3jl8nk1nnjoq-Zdr-pm9Th3LuUnGnKerisYNXup4ndWG_RccKtkZCyrMvooVfQesTtpszs68ytsqOHo4vVlMfc6pLfrKzbYcrVkszl1YrgrpuZuXXgY8DfptLsqp_Xo8GUmtHt3JLiqmnceben&id=14606&tit=VmFsa2lyaWE6IEVsIGFtYW5lY2VyIGRlbCBDdWFydG8gUmVpY2g=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Valkiria: El amanecer Del Cuarto Reich [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=p5GpbWme&id=30610&tit=VmFsa2lyaWE6IEVsIGFtYW5lY2VyIGRlbCBDdWFydG8gUmVpY2g=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] X-Men: Apocalipsis [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3604&peli=44vepqfPu4alkZOyk87YsZzYqIbuYMvu4XmpmprVcYaom5Xi1NGUqq3ec4zrkpDm17ynWKvNdL7WkpXw2YmpnFfWr4fsacv05MbZr6mHuLnWkceuq7qln2vKYbrnnM_op8fZnm_ZpHXbYM2r4JCprZvPtcyUpsDc2Y6tmaifeL7s&id=14632&tit=WC1NZW46IEFwb2NhbGlwc2lz
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] X-Men: Apocalipsis [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87969&peli=pIusamuYdQ==&id=30513&tit=WC1NZW46IEFwb2NhbGlwc2lz
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Yo Soy La venganza [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7182&peli=2cvjsamfpL7cpdfjk8fqa2vYsb_Yks-x2Hnla6LVqL7bptazp8-UbanYrbfjlMLv2b6qWKWdtbfmlNLh5s3gm1fSeovfn5Ww2MreqZuHdrvZp8Tf4c_coK_TYbrikcnp7cbcnKvZsnXnZsjvqo2msqLWsM2UlcrhpMvYpHDRpbnr&id=14935&tit=WW8gc295IGxhIHZlbmdhbnph
 
 
 
