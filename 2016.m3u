@@ -466,9 +466,9 @@ plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7312&peli=q8Glmp-YuYuom86wk5DjqajYt4zgZ8mqqHnaamfZtonfksTvp5KUqXDfqbfYn8Lm646lWJ7Su4ulZNPppLrgsFfVqcXop5HxqI2pqJ0=&id=18345&tit=Wm9vdHLDs3BvbGlz
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Zootrópolis [/COLOR][COLOR blue](HD)[/COLOR][COLOR green] (Animacion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=pY-qbWqe&id=5689&tit=Wm9vdHLDs3BvbGlz
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Canta! [/COLOR][COLOR green] (Animacion)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Canta! [/COLOR][COLOR green] (Animacion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=106222&peli=pI-oaGyaeQ==&id=35922&tit=wqFDYW50YSE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] ¡Canta! [/COLOR][COLOR blue](HD)[/COLOR][COLOR green] (Animacion)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Canta! [/COLOR][COLOR blue](HD)[/COLOR][COLOR green] (Animacion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=106222&peli=pI-oaGyfdQ==&id=35923&tit=wqFDYW50YSE=
 
 
