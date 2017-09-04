@@ -470,16 +470,44 @@ plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=pY-q
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=106222&peli=pI-oaGyaeQ==&id=35922&tit=wqFDYW50YSE=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Canta! [/COLOR][COLOR blue](HD)[/COLOR][COLOR green] (Animacion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=106222&peli=pI-oaGyfdQ==&id=35923&tit=wqFDYW50YSE=
-
-
-
-
-
-
-
-
-
-
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] 100 Metros [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5269&peli=qsGocaHgsMurndTt&id=33081&tit=MTAwIG1ldHJvcw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] 100 Metros [/COLOR][COLOR blue](HD)[/COLOR] [COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qo-kaG-c&id=33086&tit=MTAwIG1ldHJvcw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] 22 Angeles [/COLOR][COLOR orange] (TV)[/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1404&peli=49HemqXatsjlqZGuk7umaqXOrcCom9DpqHnaqWncqcKmZ83lo4-UnKPNd73qksWy2MTW&id=27576&tit=MjIgw6FuZ2VsZXMgKFRWKQ==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] 7 Años [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2187&peli=qM-nomiesIusYsjkk86mrZyZu4rdmZPzp3mtm6nSdIyrZdXlqr2Unpqcecaoo9jn6cbnWGrarsHpY8TuqMmpsQ==&id=15072&tit=NyBhw7Fvcw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] 7 Años [/COLOR][COLOR blue](HD) [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=qImlcW6f&id=30515&tit=NyBhw7Fvcw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] 7:19 [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3243&peli=6NKnoa7Xpsvgo9Hc&id=29179&tit=NzoxOQ==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] 7:19 [/COLOR][COLOR blue](HD) [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYqqaGeg&id=29184&tit=NzoxOQ==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Aliados [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7202&peli=18PdbG7Xc8imnZHbk9KmppigeritYc7s1nncbmyeqL-pnpjc5sKUnmrXesfhmMLxpczfWKKYs4npYcvsqNLarFfddcKpaJfp67yqaJ6HebemlpevpYvdqGeX&id=34131&tit=QWxpYWRvcw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Aliados [/COLOR][COLOR blue](HD) [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qpKta22a&id=34136&tit=QWxpYWRvcw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Altamira [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4076&peli=o8Ldaq_Jrs7jqZHsk8zuca-fdI7ao9ne3nmqm2ecss3coJjbqNGUspvMtIvkptndp4vlWK7Rr7zcY8Lo1tHbsQ==&id=15175&tit=QWx0YW1pcmE=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Altamira [/COLOR][COLOR blue](HD) [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=po-sbm-g&id=30522&tit=QWx0YW1pcmE=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] American Honey [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5736&peli=2bvpr2_XcofXZNWvk9DkmqXfesCqZcXm1g==&id=31918&tit=QW1lcmljYW4gSG9uZXk=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] American Honey [/COLOR][COLOR blue](HD) [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2saGibcg==&id=31931&tit=QW1lcmljYW4gSG9uZXk=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Amor Y Amistad [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3117&peli=4NDYnKDUqYfiZtizk9KlaqObsrzemMDv3XmrsKPeromtaZXuo88=&id=33949&tit=QW1vciB5IGFtaXN0YWQ=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Amor Y Amistad [/COLOR][COLOR blue](HD) [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qpGmb2ed&id=33950&tit=QW1vciB5IGFtaXN0YWQ=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Animales nocturnos [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3047&peli=ptHuoaufoojjqJXb&id=33457&tit=QW5pbWFsZXMgbm9jdHVybm9z
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Animales nocturnos [/COLOR][COLOR blue](HD [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI6na2-XcQ==&id=33463&tit=QW5pbWFsZXMgbm9jdHVybm9z
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Anonymous [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5897&peli=3byqoW6Zo8XbmM_lk8Duop3eu77Zosvo5A==&id=35727&tit=QW5vbnltb3Vz
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Anonymous [/COLOR][COLOR blue](HD) [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=64736&peli=q4ytcGie&id=35740&tit=QW5vbnltb3Vz
 
 
 

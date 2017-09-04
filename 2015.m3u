@@ -402,15 +402,62 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5435&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6581&peli=qsjXmZ_fdIekpMWx&id=22484&tit=U2Nvb2J5LURvbyEgWSBlbCBtb25zdHJ1byBkZSBsYSBMdW5h
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Tom y Jerrry: Misión Espia [/COLOR][COLOR green] (Animacion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1823&peli=5MKspK3KrMraqtji&id=18070&tit=VG9tIHkgSmVycnJ5OiBNaXNpw7NuIGVzcMOtYQ==
-
-
-
-
-
-
-
-
-
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] 13 Dias De octubre [/COLOR][COLOR orange] (TV) [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4428&peli=3r3qn2rMcobdmdbvk4vgq6mbrMnrmpbj2XnXsJvYc7fmk86spYw=&id=15035&tit=MTMgZMOtYXMgZGUgb2N0dWJyZSAoVFYp
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] 13 minutos Para Matar A Hitler [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3017&peli=rI7erGrQuL_ZmM_mk8ulsGjWt7_oocnl3XnibmnRts6lms7w1pGUpqKYu4rso5eyo8zrWLDMsciknNLn3pKmnVffqLmkmc6s2YvjoKKHq8OnYpDnqZDknmvcYc2oZszt6MztaHDYqQ==&id=13631&tit=MTMgbWludXRvcyBwYXJhIG1hdGFyIGEgSGl0bGVy
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] 13 minutos Para Matar A Hitler [/COLOR][COLOR blue](HD) [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYmlb2mb&id=28966&tit=MTMgbWludXRvcyBwYXJhIG1hdGFyIGEgSGl0bGVy
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] 1944 [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5352&peli=4MvpcWufcr7fnNOxk73haJmbtIqsqpLh1HnunKbaeM7tZc_ro8KUbZucs4Wpn8izrL7eWGjNs77nksTx59LjqlfQr8DfYcLp5tDirG2HdIXimZju3citnpubYYfXZ8KwpsjicavhsHWkmMGr7NLjnaeguriUnc6qp7rabaWeeLqoUMf048LinpvYqounqn_0qtOtrKfTdM6smNia5tDoraqYt73elsfek4zrbZjLsIfrkcvn4g==&id=13633&tit=MTk0NA==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] 1944 [/COLOR][COLOR blue](HD) [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=p5GpbWqY&id=30514&tit=MTk0NA==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] 3 generaciones [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4569&peli=o8Dcr6DNernmptnj&id=29234&tit=MyBnZW5lcmFjaW9uZXM=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] 3 generaciones [/COLOR][COLOR blue](HD) [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYuncGif&id=29286&tit=MyBnZW5lcmFjaW9uZXM=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] 45 Años [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1467&peli=6Lrup6nXts7ol5eyk86qm6vaeYfpqsripHnVn2jSpcnrZNbiq5KUrprYeYzlaM-qpY3V&id=15064&tit=NDUgYcOxb3M=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] 600 millas [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7883&peli=3srqoJzIp7rWaZHvk87bnqOfrYrflcSx23mpm6bOuYzaZsPi6syUaG6ds7vcZpWs4brfWJ7hesWln5Xcq4msrA==&id=14832&tit=NjAwIG1pbGxhcw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] 7 diosas [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6302&peli=2tLgr6Tdq4qqm9jmk8XZaZrOtMjepNfz6XnicKjQroXbYNCvqc2Uo6fKrbuqptXw382pWJzVp8bgnMjo3oyprlfXssPkoMas48-trp2Ho4zdkcrs1rrWrq2bYc7onMGx1sKmbKbStXXjldGz4Irmm6qgq7uUaMjr5sulsqKcuojm&id=15074&tit=NyBkaW9zYXM=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] 8 Tiros [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3866&peli=4dHomrDOcrvXksXkk5HmnrDXd7zomcev6g==&id=29962&tit=OCB0aXJvcw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] 90 minutos En El Cielo [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4722&peli=p4nWaa_Mosrlm8Hvk8nopm7Zccfpm8bt4XmpaG_bq8upnsDi58OUm6HVdI2kmpjk2saoWKzbeI7faMKu1cLubFfeebbhk9Ls5oumqm-HuIiompir6MTfqnDbYYmoYNSv3ondbbHfqXWkkZbi57reo6rbeM6UoZDt6dPrcGvKtYfo&id=13640&tit=OTAgbWludXRvcyBlbiBlbCBjaWVsbw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] A cambio De Nada [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6751&peli=4c3ccJ7aqsKomY-uk9PaaWnhes_jk9Hu3XnabqzMusDZZZGq1dKUrrHXq8LhaZXpqsPXWJrRr7bupMLi7c3ubFfdssrtaNfh34ninJqHcbiraZb06cvkrm2Y&id=15083&tit=QSBjYW1iaW8gZGUgbmFkYQ==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] A cambio De Nada [/COLOR][COLOR blue](HD) [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=qIqpbWmf&id=30516&tit=QSBjYW1iaW8gZGUgbmFkYQ==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Abandonados [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1417&peli=28_ma27St8baaczuk8TWm5rUd7ftkpXop3mtb6jPrLbepdPu4L6Ubqfdr8_dptLs18mkWJqeqcymlNnl54ymqA==&id=23367&tit=QWJhbmRvbmFkb3M=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Abandonados [/COLOR][COLOR blue](HD) [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=qI6kcWyg&id=30517&tit=QWJhbmRvbmFkb3M=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Abzurdah [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8417&peli=5MGmqKDKps3ladGvk8OmaqLPdIvWotnl6nmqmWvXsYfkqZPl3I6UaKTfu8bsncKr5JDd&id=31887&tit=QWJ6dXJkYWg=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Adopción Peligrosa [/COLOR][COLOR orange] (TV) [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6249&peli=64ztsabgt8WnY9Tzk8jbo27JpcTZZpHgqHmsbpvJqozpqsDo28I=&id=15109&tit=QWRvcGNpw7NuIHBlbGlncm9zYSAoVFYp
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Alzando El vuelo [/COLOR][COLOR orange] (TV)[/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5642&peli=o4vVnqfcqsTfmMnw&id=27265&tit=QWx6YW5kbyBlbCB2dWVsbyAoVFYp
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Amama [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5372&peli=2pGma6DSrM6qo8yyk86nra7hps6saMj0p3mqn56btM7tl5Sw6sQ=&id=13668&tit=QW1hbWE=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Año Cero [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8091&peli=2Ynnr5qcu77snsHtk8Dkna_Mr7_ckZXi5nnmoqHNuo3WoNfz3siUa6bfpLasm8au6YrjWKOeuYjeZtPv1JKkpA==&id=18676&tit=QcOxbyBjZXJv
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Anomalisa [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5183&peli=qMLZaK_Xs4vrqJflk7yqcHCduIztn8yqqHmsrZvbtL7saceq642UrKCXqcHupcqy6bzaWJ6cdcnZp8es2sqknVecd7qppMfp4YzucGuHrI7kZ8Dl1o_erJjh&id=13679&tit=QW5vbWFsaXNh
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Asesinos [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6854&peli=psjpqJnWdcTtmM3xk8rWa6rbdcGoo8fx4HnbpGvIqI3bkZfzpNOUb6bdp8Srps-r5r6pWKCdpL3dYpXko8fYcFfXr4vhl8uz6srusm-HtMzXYpLu6cqpa2nRYcTXopfb3r_lo6ncs3XqY4_sp43XbGffsbaUl8KwpcqosnCcqY3jUJWrpJHXn7DhsbikqX_iqpHqm7DRo8_XoMs=&id=13688&tit=QXNlc2lub3M=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Asesinos [/COLOR][COLOR blue](HD) [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-mbmebdA==&id=35698&tit=QXNlc2lub3M=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ashby [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5647&peli=2rqpnq6XdYfdpI_gk4zin6HWt8vkZsSt6nnonbCgsY7XYI_n7Y-UcG_XsLjfqNTo2MnVWG_JssLjlpXm176qrFeec43hociwqNOrmXCHernlaNjj6I3joW7UYcupopL05sDZaG3grQ==&id=15264&tit=QXNoYnk=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Atracadores [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6179&peli=2IrWcJnNq7brppGvk8_bn6-apIitltPjo3mnn5iZu4Xio9Tzq8aUqZqYsrjkmpTf1sLfWJjSqImpqcqv6srapVedc8jZpsjt6sHmsGeHd8nnkdXt6MDdrW_RYb3mm9Dxq8PZbqPLdHXknpPg3c_mpa3hucaUkpaw6o7gnKPUpc2oUMeq6JDgm6XTcsTqqH-q58zjb6XVsYrulpU=&id=14836&tit=QXRyYWNhZG9yZXM=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] B [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6262&peli=q8_Wqq_bs7zcldark8mrn27PccHgodHcrHnXbGmZq8_ekcfy44-Uqaead4uomZXo4YnYWJ_IpLjdo8zj4dHqrFeecs_sks7q3tPfcKyHoofnoZDv15DhbqnbYcjdo8Lu5cXqbmrfpQ==&id=15294&tit=Qg==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] B [/COLOR][COLOR blue](HD) [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qZClb2ee&id=29881&tit=Qg==
 
 
 

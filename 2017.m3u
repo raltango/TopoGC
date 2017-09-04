@@ -26,7 +26,10 @@ plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1950&peli=6orrra3YrYzaYtOuk76mcbHZpo6ml5iwrHnpqZ2fucnopMbcpLyUsmuaqcDYpY_02dGlWG-br7_Zp8L01L7jqVfVd8Ctpsys6Y6tpGmHr7annNOq2IuppZ-gSw==&id=35981&tit=VGVlbiBUaXRhbnM6IFRoZSBKdWRhcyBDb250cmFjdA==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Teen Titans: The Judas Contract [/COLOR][COLOR blue](HD)[/COLOR][COLOR green] (Animacion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=106222&peli=pI-obXCccw==&id=35978&tit=VGVlbiBUaXRhbnM6IFRoZSBKdWRhcyBDb250cmFjdA==
-
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] A Golpe De Monedas [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4272&peli=p8fep2jNtIncodngk8nkqaHIeornpZHz7Xnib2ygt7nZpJbkqsuUaZrUs8LsmZjy1LzsWKefsMPonNjy5r_jaA==&id=29367&tit=QSBnb2xwZSBkZSBtb25lZGFz
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] A Golpe De Monedas [/COLOR][COLOR blue](HD) [/COLOR][COLOR green] (Drama)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYypaWyX&id=29370&tit=QSBnb2xwZSBkZSBtb25lZGFz
 
 
 
