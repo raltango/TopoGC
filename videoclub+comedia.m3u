@@ -316,7 +316,7 @@ plugin://plugin.video.cine/?action=play&server=cp&user=wL7bmWk=&cole=26225&peli=
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=35550&peli=po-ma2yc&id=140&tit=QWxlamFuZHJhLCBtb24gYW1vdXI=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Alexander Y El Dia Terrible, Horrible, Espantoso, Horroroso [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8355&peli=qcClrW_PeI7roc-sk9DnnazRtL-kmNHkqnmksZzcqczrotay14qUaaOcc7vrncvc486sWLCapb6kotLq3bzurVfPooarmpev6MTnoqmHecaooJDi447krJ3ZYb2maNWt49Csoa7Odw==&id=15144&tit=QWxleGFuZGVyIHkgZWwgZMOtYSB0ZXJyaWJsZSwgaG9ycmlibGUsIGVzcGFudG9zbywgaG9ycm9yb3Nv
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ALF: La Pelicula [/COLOR][COLOR orange](TV)
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ALF: La Pelicula [/COLOR][COLOR orange](TV) [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2846&peli=6sbZaK3Xt7zeZ8uy&id=15096&tit=QUxGOiBMYSBwZWzDrWN1bGEgKFRWKQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Alfie [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5384&peli=7dLqbW7gusTipJfzk8Xim6rbr77jpJbb7A==&id=15145&tit=QWxmaWU=
@@ -2974,7 +2974,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3308&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=qIqqa2ue&id=30567&tit=TG9sbywgZWwgaGlqbyBkZSBtaSBub3ZpYQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Looking: The Movie [/COLOR][COLOR orange](TV)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5661&peli=4M3um5_SosDlktDr&id=28940&tit=TG9va2luZzogVGhlIE1vdmllIChUVik=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Looking: The Movie [/COLOR][COLOR orange](TV)[/COLOR] [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Looking: The Movie [/COLOR][COLOR orange](TV)[/COLOR] [COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qJKrb22g&id=28942&tit=TG9va2luZzogVGhlIE1vdmllIChUVik=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Looney Tunes: De Nuevo En acción [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25706&peli=pJCmcXCY&id=2986&tit=TG9vbmV5IFR1bmVzOiBEZSBudWV2byBlbiBhY2Npw7Nu
@@ -4340,7 +4340,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=19985&peli=
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=38031&peli=ppKmcWyX&id=420&tit=UGVjYWRvcyBjb255dWdhbGVz
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Pee-wee's Big Holiday [/COLOR][COLOR orange](TV)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8731&peli=4tHboqaadcymmNWzk8jqp6PPpofZncOx3nnharHOsYilpNnz6seUrZngesnlZZiq28TdWGjZdIjkacyvo4_mqFeedc7gpczn4rqksK2Heb3mm8Li6b2kq5vcYcPqlJHl7ZHgm5rPdXXfntHm54yrcGrYsMaUncv058OqmpzfqYza&id=17464&tit=UGVlLXdlZSdzIEJpZyBIb2xpZGF5IChUVik=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Pee-wee's Big Holiday [/COLOR][COLOR orange](TV)[/COLOR] [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Pee-wee's Big Holiday [/COLOR][COLOR orange](TV)[/COLOR] [COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=qIqkam2e&id=30587&tit=UGVlLXdlZSdzIEJpZyBIb2xpZGF5IChUVik=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Pegado A ti [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3010&peli=o7_boZ3at7asnsztk73ipqvQeMjjltH04Xnur5zNdIjrnZezqMs=&id=17465&tit=UGVnYWRvIGEgdGk=
@@ -5688,9 +5688,9 @@ plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=95864&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3242&peli=5Y7ooGegsLnooc2sk8ngpWqZpcTkpces7Q==&id=18086&tit=VG95IFN0b3J5IFRvb25zOiBWYWNhY2lvbmVzIGVuIEhhd2FpIChDKQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Toy Story ¡Terror! [/COLOR][COLOR orange](TV)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7112&peli=qsDob53PtIXtac_j&id=26913&tit=VG95IFN0b3J5IMKhVGVycm9yISAoVFYp
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Toy Story: El Tiempo Perdido [/COLOR][COLOR orange](TV)[/COLOR] (C)
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Toy Story: El Tiempo Perdido [/COLOR][COLOR orange](TV)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6380&peli=3o3VpJjdc8Hik9Pyk8vbm6WZq7ymqdDt6HmkpaGds7bmacSz1M2Uqm-bdrzqlMPm35DdWKLUpIvZopXq5dCkqlfdsLvooZWtqJDampiHs8zWn9iv4crYmp_M&id=18087&tit=VG95IFN0b3J5OiBFbCB0aWVtcG8gcGVyZGlkbyAoVFYpIChDKQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Toy Story: El Tiempo Perdido [/COLOR][COLOR orange](TV)[/COLOR] (C) [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Toy Story: El Tiempo Perdido [/COLOR][COLOR orange](TV)[/COLOR] [COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25681&peli=pJCmbGqd&id=3078&tit=VG95IFN0b3J5OiBFbCB0aWVtcG8gcGVyZGlkbyAoVFYpIChDKQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Toys: fabricando ilusiones [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4834&peli=5c3kaJzJsbipopKz&id=18088&tit=VG95czogZmFicmljYW5kbyBpbHVzaW9uZXM=
@@ -6454,217 +6454,217 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7312&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=pY-qbWqe&id=5689&tit=Wm9vdHLDs3BvbGlz
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Zorrita Martínez [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=38031&peli=p4mlamyd&id=500&tit=Wm9ycml0YSBNYXJ0w61uZXo=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡A volar joven! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] A volar joven! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=4LrisqU=&cole=77190&peli=pImlb2efdQ==&id=33896&tit=wqFBIHZvbGFyIGpvdmVuIQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Adiós, Mimí Pompón! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Adiós, Mimí Pompón! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=35550&peli=po-mbGeY&id=139&tit=wqFBZGnDs3MsIE1pbcOtIFBvbXDDs24h
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Aloha Scooby-Doo!  [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Aloha Scooby-Doo!  [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8607&peli=4onrmajgrMDlosrn&id=27194&tit=wqFBbG9oYSBTY29vYnktRG9vISA=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Alto! O Mi Madre Dispara [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Alto! O Mi Madre Dispara [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8170&peli=1smtoWfJrbaoZZPj&id=27196&tit=wqFBbHRvISBvIG1pIG1hZHJlIGRpc3BhcmE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Applucinante! [/COLOR][COLOR orange](TV)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Applucinante! [/COLOR][COLOR orange](TV)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7101&peli=58TfbbDUrLjWoMezk72pnmjWpbbgZsbu4g==&id=18353&tit=wqFBcHBsdWNpbmFudGUhIChUVik=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Aquí hay petróleo! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Aquí hay petróleo! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=wL7bmWk=&cole=26225&peli=pIysbWibcg==&id=32557&tit=wqFBcXXDrSBoYXkgcGV0csOzbGVvIQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Así Es Mi Tierra! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Así Es Mi Tierra! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=38358&peli=p4mmaGyg&id=868&tit=wqFBc8OtIGVzIG1pIHRpZXJyYSE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] ¡Asu Mare! 2 [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Asu Mare! 2 [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=t7risaTOs8Q=&cole=46882&peli=qJKsbmyX&id=33858&tit=wqFBc3UgTWFyZSEgMg==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Átame! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Átame! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7771&peli=6Myrp63Vp4zsnMvz&id=27225&tit=wqHDgXRhbWUh
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] ¡Átame! [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Átame! [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qo6pcXCg&id=33006&tit=wqHDgXRhbWUh
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Atraco! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Atraco! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2515&peli=2cfkqJ6YdsGmntfd&id=20469&tit=wqFBdHJhY28h
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Autor, autor! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Autor, autor! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=34332&peli=po2lbGmg&id=11757&tit=wqFBdXRvciwgYXV0b3Ih
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Ay, Carmela! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ay, Carmela! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53536&peli=pI2laWmXeA==&id=32129&tit=wqFBeSwgQ2FybWVsYSE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Biba La Banda! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Biba La Banda! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=38031&peli=p4mlam2Y&id=493&tit=wqFCaWJhIGxhIGJhbmRhIQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Bienvenido, Míster Marshall! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Bienvenido, Míster Marshall! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1914&peli=qbvmpp3Vt7fplcHs&id=27198&tit=wqFCaWVudmVuaWRvLCBNw61zdGVyIE1hcnNoYWxsIQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] ¡Bienvenido, Míster Marshall! [/COLOR][COLOR blue](HD)[/COLOR] [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Bienvenido, Míster Marshall! [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6rb2yccw==&id=34540&tit=wqFCaWVudmVuaWRvLCBNw61zdGVyIE1hcnNoYWxsIQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] ¡Buen Viaje, Charlie Brown, Y No vuelvas!  [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Buen Viaje, Charlie Brown, Y No vuelvas!  [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=49117&peli=qY2pa2uf&id=29491&tit=wqFCdWVuIHZpYWplLCBDaGFybGllIEJyb3duLCB5IG5vIHZ1ZWx2YXMhIA==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Canta! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Canta! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=106222&peli=pI-oaGyaeQ==&id=35922&tit=wqFDYW50YSE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] ¡Canta! [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Canta! [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=106222&peli=pI-oaGyfdQ==&id=35923&tit=wqFDYW50YSE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Caray, Que palizas! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Caray, Que palizas! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=19889&peli=qoqrcG8=&id=2458&tit=wqFDYXJheSwgcXXDqSBwYWxpemFzIQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Cómo Esta El Servicio! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Cómo Esta El Servicio! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=34737&peli=po6lcW-d&id=66&tit=wqFDw7NtbyBlc3TDoSBlbCBzZXJ2aWNpbyE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Cómo sois Las Mujeres! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Cómo sois Las Mujeres! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=35550&peli=po-nb3CX&id=169&tit=wqFDw7NtbyBzb2lzIGxhcyBtdWplcmVzIQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Dame Un Poco De amooor...! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Dame Un Poco De amooor...! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=37465&peli=ppGoamiX&id=311&tit=wqFEYW1lIHVuIHBvY28gZGUgYW1vb29yLi4uIQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Esto Es Un Atraco! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Esto Es Un Atraco! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=vb7qoZjbqbbi&cole=23911&peli=pI6pbW-c&id=11051&tit=wqFFc3RvIGVzIHVuIGF0cmFjbyE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] ¡Jo, Que Noche! [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Jo, Que Noche! [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2oamideg==&id=30917&tit=wqFKbywgcXXDqSBub2NoZSE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Maderos 091! (Reno 911!: Miami) [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Maderos 091! (Reno 911!: Miami) [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7240&peli=pMiqsK3Vqczjn8fz&id=27202&tit=wqFNYWRlcm9zIDA5MSEgKFJlbm8gOTExITogTWlhbWkp
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Mamma Mia! La Pelicula [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mamma Mia! La Pelicula [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6713&peli=3r7qrm_Orr3flMHxk8fbpW_her6pZZfu2nnksm2XeLrumcCz5ZKUWJjhu87qoszm2b7cpw==&id=19449&tit=wqFNYW1tYSBNaWEhIExhIHBlbMOtY3VsYQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] ¡Mamma Mia! La Pelicula [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Mamma Mia! La Pelicula [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85452&peli=pIupaWiXeQ==&id=31457&tit=wqFNYW1tYSBNaWEhIExhIHBlbMOtY3VsYQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Más Fuerte, muchachos! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Más Fuerte, muchachos! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7919&peli=1c7icKLetcvalNLy&id=27205&tit=wqFNw6FzIGZ1ZXJ0ZSwgbXVjaGFjaG9zIQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Menudo fenómeno! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Menudo fenómeno! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8325&peli=p8TrbarLu4zfZJXc&id=14640&tit=wqFNZW51ZG8gZmVuw7NtZW5vIQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡No firmes Mas Letras, Cielo! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] No firmes Mas Letras, Cielo! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=37465&peli=ppGsa2qY&id=392&tit=wqFObyBmaXJtZXMgbcOhcyBsZXRyYXMsIGNpZWxvIQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡No Hija, No! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] No Hija, No! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7472&peli=p8alsJ7RdMSom5Hv&id=27207&tit=wqFObyBoaWphLCBubyE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Oh, Dios Mio! ¡Mi Hijo Es Gay! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Oh, Dios Mio! ¡Mi Hijo Es Gay! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7141&peli=o7usop-drc7ZYMPp&id=18482&tit=wqFPaCwgRGlvcyBtw61vISDCoU1pIGhpam8gZXMgZ2F5IQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Olvídate De mí! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Olvídate De mí! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6468&peli=pcilaG3Kp4vhqcHyk8bim2jQs4apZZjr33nmbqigdbmtZdT02ok=&id=13950&tit=wqFPbHbDrWRhdGUgZGUgbcOtIQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Piratas! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Piratas! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8542&peli=pZLgrm-ees3iZI_z&id=14641&tit=wqFQaXJhdGFzIQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Pisándonos Los tacones! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Pisándonos Los tacones! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2262&peli=3rrZrayXtsfcqMCyk8WmmZqatorqoM_k3HneoKXKtYrZnNSy3cSUn6qdcojhp9DirNHaWHDgtcXnmdTu15Gob1eXo8KrZ8vprL7YcZiHcsDikczi37-pm2_XYb2tk8nv6orioabYuA==&id=18358&tit=wqFQaXPDoW5kb25vcyBsb3MgdGFjb25lcyE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Por Fin Solos! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Por Fin Solos! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=30489&peli=pZCnaWmb&id=1452&tit=wqFQb3IgZmluIHNvbG9zIQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Por Mis... pistolas! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Por Mis... pistolas! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=wLrsoaTWgsHakQ==&cole=64283&peli=qo6qaWyZ&id=891&tit=wqFQb3IgbWlzLi4uIHBpc3RvbGFzIQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Puños Fuera! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Puños Fuera! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2511&peli=6pKsr3Cftsvlo9Gwk8PjqWyXecvrkcyw5w==&id=18359&tit=wqFQdcOxb3MgZnVlcmEh
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Qué cosas Tiene El Amor! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Qué cosas Tiene El Amor! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=34737&peli=po6ma2eX&id=68&tit=wqFRdcOpIGNvc2FzIHRpZW5lIGVsIGFtb3Ih
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Qué gozada De Divorcio! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Qué gozada De Divorcio! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=38031&peli=ppKna2eg&id=431&tit=wqFRdcOpIGdvemFkYSBkZSBkaXZvcmNpbyE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Qué Muerto De Novio! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Qué Muerto De Novio! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=34332&peli=po2mbmuY&id=12020&tit=wqFRdcOpIG11ZXJ0byBkZSBub3ZpbyE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] ¡Qué Muerto De Novio! [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Qué Muerto De Novio! [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=34332&peli=po2kam2Y&id=12019&tit=wqFRdcOpIG11ZXJ0byBkZSBub3ZpbyE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Qué ruina De función! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Qué ruina De función! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7570&peli=1Izbnp2YrsrboZPqk73gcLDTqc7ZksKvrA==&id=18407&tit=wqFRdcOpIHJ1aW5hIGRlIGZ1bmNpw7NuIQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Que Te calles! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Que Te calles! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5673&peli=7YrXmaCctcCnqcKtk7qmq5zYsMPulNfx3A==&id=18360&tit=wqFRdWUgdGUgY2FsbGVzIQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] ¡Que Te calles! [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Que Te calles! [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI6laWidcw==&id=32978&tit=wqFRdWUgdGUgY2FsbGVzIQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Qué tía La C.I.A.! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Qué tía La C.I.A.! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6321&peli=4c_kmZ_eesnknJXv&id=27210&tit=wqFRdcOpIHTDrWEgbGEgQy5JLkEuIQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Qué verde Era Mi duque! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Qué verde Era Mi duque! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=38031&peli=ppKna2-e&id=433&tit=wqFRdcOpIHZlcmRlIGVyYSBtaSBkdXF1ZSE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] ¡Que Vienen Los rusos! [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Que Vienen Los rusos! [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qJKobm-Z&id=28883&tit=wqFRdWUgdmllbmVuIGxvcyBydXNvcyE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Que Vienen Los socialistas! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Que Vienen Los socialistas! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=38031&peli=ppKnbGmc&id=434&tit=wqFRdWUgdmllbmVuIGxvcyBzb2NpYWxpc3RhcyE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Rompe Ralph! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Rompe Ralph! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4659&peli=qpGqcJrVpM_lacnrk8qtbp7OcbjboMjm6nnoo6TVrI7ao5Sx47w=&id=14630&tit=wqFSb21wZSBSYWxwaCE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Salta! [/COLOR][COLOR orange](TV)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Salta! [/COLOR][COLOR orange](TV)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI2nbmqceQ==&id=30804&tit=wqFTYWx0YSEgKFRWKQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Scooby Doo! En El Misterio Del Faraón [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Scooby Doo! En El Misterio Del Faraón [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3330&peli=o4rebq_Pp7jaZtWrk4mlom3fqbvXlpXwpA==&id=27213&tit=wqFTY29vYnkgRG9vISBlbiBlbCBNaXN0ZXJpbyBkZWwgRmFyYcOzbg==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Scooby Doo! Y La maldición Del Monstruo Del Lago [/COLOR][COLOR orange](TV)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Scooby Doo! Y La maldición Del Monstruo Del Lago [/COLOR][COLOR orange](TV)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7289&peli=povbo2fguojhltftk4vesKXTs4Xpm5Du5nnZmqCeq7jnksbq3bqUm2raeIzqk9Tk29DY&id=14896&tit=wqFTY29vYnkgRG9vISB5IGxhIG1hbGRpY2nDs24gZGVsIE1vbnN0cnVvIGRlbCBMYWdvIChUVik=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Scooby-Doo Y La espada Del samurái! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Scooby-Doo Y La espada Del samurái! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3070&peli=7Mzgr2rdrMvumpGq&id=27216&tit=wqFTY29vYnktRG9vIHkgbGEgZXNwYWRhIGRlbCBzYW11csOhaSE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Scooby-Doo! Abracadabra-Doo [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Scooby-Doo! Abracadabra-Doo [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4424&peli=5JCmsKDLts_kldbs&id=27218&tit=wqFTY29vYnktRG9vISBBYnJhY2FkYWJyYS1Eb28=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Scooby-Doo! ¡Piratas A Babor! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Scooby-Doo! ¡Piratas A Babor! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4855&peli=34vgo5raor6qqZfn&id=27220&tit=wqFTY29vYnktRG9vISDCoVBpcmF0YXMgYSBiYWJvciE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Semos peligrosos! (uséase Makinavaja 2) [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Semos peligrosos! (uséase Makinavaja 2) [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=64736&peli=q46rbm2d&id=365&tit=wqFTZW1vcyBwZWxpZ3Jvc29zISAodXPDqWFzZSBNYWtpbmF2YWphIDIp
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Socorro! Ya Es Navidad [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Socorro! Ya Es Navidad [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7927&peli=1r7gpqTPdc_daNTuk87lpKKedsfrmZfppA==&id=18361&tit=wqFTb2NvcnJvISBZYSBlcyBOYXZpZGFk
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Tierra A La Vista! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Tierra A La Vista! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6903&peli=1r2tbaeZeL7loMrvk8yosW6fq7_gZsTn63nfm2zgeczdktfgp7w=&id=18362&tit=wqFUaWVycmEgYSBsYSB2aXN0YSE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Ups! ¿Dónde Esta Noé? [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ups! ¿Dónde Esta Noé? [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5276&peli=ptCpmqXedovmlNP0k7rapJrhco3spcTnpXnrpKTceb6rYsPh6M-UnJ_St8LYlpLs1crYWGrOucinqY_f2InWmlfbqYnXYZLoq47eqqiHc8Wop8Gt3c6kaaSaYc7pmZbfqsyoaJmguHWtZsjz1cmkcKLQuMg=&id=18363&tit=wqFVcHMhIMK_RMOzbmRlIGVzdMOhIE5vw6k_
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Vaya Cambiazo! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Vaya Cambiazo! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5045&peli=68-pbW2fo77el9Xwk8rmn5zLqoWnmNOw3g==&id=33201&tit=wqFWYXlhIGNhbWJpYXpvIQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] ¡Vaya Cambiazo! [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Vaya Cambiazo! [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qpClaGqb&id=33204&tit=wqFWYXlhIGNhbWJpYXpvIQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Vaya Par De gemelos! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Vaya Par De gemelos! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=38031&peli=p4mlaWya&id=486&tit=wqFWYXlhIHBhciBkZSBnZW1lbG9zIQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Vaya Santa Claus! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Vaya Santa Claus! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7301&peli=4tPrq53UqcutmdPpk86tn6PMuY3gmMjb3g==&id=23014&tit=wqFWYXlhIFNhbnRhIENsYXVzIQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Viva La Muerte... tuya! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Viva La Muerte... tuya! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=19889&peli=qZKqa2g=&id=2900&tit=wqFWaXZhIGxhIG11ZXJ0ZS4uLiB0dXlhIQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡Vivan Los novios! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Vivan Los novios! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=38031&peli=p4mlameZ&id=494&tit=wqFWaXZhbiBsb3Mgbm92aW9zIQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¡¿Qué Te Ha dado esa Mujer?! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Qué Te Ha dado esa Mujer?! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=38991&peli=p4upa2iX&id=795&tit=wqHCv1F1w6kgdGUgaGEgZGFkbyBlc2EgbXVqZXI_IQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿Alguien Ha visto A Mi Chica? (¿Has visto A Mi Chica?) [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Alguien Ha visto A Mi Chica? (¿Has visto A Mi Chica?) [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41773&peli=p5GocGib&id=4658&tit=wr9BbGd1aWVuIGhhIHZpc3RvIGEgbWkgY2hpY2E_ICjCv0hhcyB2aXN0byBhIG1pIGNoaWNhPyk=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿Bailamos? [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Bailamos? [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6342&peli=54zfp23fpbjfk8bx&id=28386&tit=wr9CYWlsYW1vcz8=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿Cómo Se escribe Amor? [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Cómo Se escribe Amor? [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3493&peli=1cPWbajZrIXmkZXpk43jpZzMsb7el5TrrHntaKffos7ZksWqqL4=&id=18364&tit=wr9Dw7NtbyBzZSBlc2NyaWJlIGFtb3I_
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿Dónde Esta El frente? [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Dónde Esta El frente? [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=qoumaGg=&id=2017&tit=wr9Ew7NuZGUgZXN0w6EgZWwgZnJlbnRlPw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿Dónde Esta La pasta? [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Dónde Esta La pasta? [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=34332&peli=po2kbm2e&id=11793&tit=wr9Ew7NuZGUgZXN0w6EgbGEgcGFzdGE_
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿Dónde están Los espías? [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Dónde están Los espías? [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42683&peli=qIqsa2qX&id=13257&tit=wr9Ew7NuZGUgZXN0w6FuIGxvcyBlc3DDrWFzPw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿Dónde estará Mi Niño? [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Dónde estará Mi Niño? [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=34541&peli=po2qcWeX&id=22&tit=wr9Ew7NuZGUgZXN0YXLDoSBtaSBuacOxbz8=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿Dónde pongo Este Muerto? [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Dónde pongo Este Muerto? [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=35550&peli=po-rbHCZ&id=181&tit=wr9Ew7NuZGUgcG9uZ28gZXN0ZSBtdWVydG8_
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿En Que piensan Las Mujeres? [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] En Que piensan Las Mujeres? [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5963&peli=q8LaamndooaqYtKw&id=27229&tit=wr9FbiBxdcOpIHBpZW5zYW4gbGFzIG11amVyZXM_
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] ¿En Que piensan Las Mujeres? [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] En Que piensan Las Mujeres? [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85447&peli=pI2tamegcw==&id=33256&tit=wr9FbiBxdcOpIHBpZW5zYW4gbGFzIG11amVyZXM_
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿Estás Aqui? [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Estás Aqui? [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5900&peli=54_tr7HMc47ppNnsk5Doam-edcKpZZTiqXncbLGdeLvklMv01MmUaLHMpMDtacPx27ym&id=18365&tit=wr9Fc3TDoXMgYXF1w60_
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿Hacemos Una porno? [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Hacemos Una porno? [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6490&peli=5pDZq2-fuc3iYtn0k47trqzOsMnmmsjv3nntra2fqYrfaI_o1L-Ub6TcccTnmNDf1sCp&id=18366&tit=wr9IYWNlbW9zIHVuYSBwb3Jubz8=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿Hay alguien Ahi? [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Hay alguien Ahi? [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3818&peli=pLysrG3JrbjsocTe&id=27231&tit=wr9IYXkgYWxndWllbiBhaMOtPw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿La primera Cita De Riley? (C) [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La primera Cita De Riley? (C) [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2896&peli=2s7ZbG3Mo8KtY9Wvk87YcZ-duM3gqNHi7A==&id=17657&tit=wr9MYSBwcmltZXJhIGNpdGEgZGUgUmlsZXk_IChDKQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿La primera Cita De Riley? (C) [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La primera Cita De Riley? (C) [/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=95864&peli=pI2ta2eadg==&id=35387&tit=wr9MYSBwcmltZXJhIGNpdGEgZGUgUmlsZXk_IChDKQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿Por Que pecamos A Los 40? [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Por Que pecamos A Los 40? [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=38031&peli=ppKnaG-X&id=427&tit=wr9Qb3IgcXXDqSBwZWNhbW9zIGEgbG9zIDQwPw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿Qué fue De Jorge Sanz? 5 Años después [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Qué fue De Jorge Sanz? 5 Años después [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8077&peli=o8fbo2udtr6nYZOwk8XqcKXOr7voZ9OqpnnkrayaqMKmZpKr38OUcZ7VccTfpdSu57ut&id=32869&tit=wr9RdcOpIGZ1ZSBkZSBKb3JnZSBTYW56PyA1IGHDsW9zIGRlc3B1w6lz
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] ¿Qué fue De Jorge Sanz? 5 Años después [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Qué fue De Jorge Sanz? 5 Años después [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI2tbGmYcQ==&id=32872&tit=wr9RdcOpIGZ1ZSBkZSBKb3JnZSBTYW56PyA1IGHDsW9zIGRlc3B1w6lz
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿Qué Hace Una Chica Como Tu En Un sitio Como éste? [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Qué Hace Una Chica Como Tu En Un sitio Como éste? [/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=wL7bmWk=&cole=26225&peli=pIqqcWqfeA==&id=32778&tit=wr9RdcOpIGhhY2UgdW5hIGNoaWNhIGNvbW8gdMO6IGVuIHVuIHNpdGlvIGNvbW8gw6lzdGU_
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿Qué hacemos Con Honey? [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Qué hacemos Con Honey? [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4230&peli=5svlmarPds-sqJLwk8XaqmvbqMDkn5Ln7XnkbaucosakY8uyqsaUobDPpMLhY5T054-pWKPNs4nol8rq4ozhslfXdsmpkdCqpsWsb6SHqs7ck8znpo7urG2c&id=18368&tit=wr9RdcOpIGhhY2Vtb3MgY29uIEhvbmV5Pw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿Qué hay De Nuevo, cabo Hargrove? [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Qué hay De Nuevo, cabo Hargrove? [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=qomsaG8=&id=2150&tit=wr9RdcOpIGhheSBkZSBudWV2bywgY2FibyBIYXJncm92ZT8=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿Qué He Hecho Yo Para merecer esto! [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Qué He Hecho Yo Para merecer esto! [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6252&peli=pb_ZoWjKcY7tnsaz&id=28244&tit=wr9RdcOpIGhlIGhlY2hvIHlvIHBhcmEgbWVyZWNlciBlc3RvIQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] ¿Qué hiciste En La Guerra, papi? [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Qué hiciste En La Guerra, papi? [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=49117&peli=qY6ka26X&id=29575&tit=wr9RdcOpIGhpY2lzdGUgZW4gbGEgZ3VlcnJhLCBwYXBpPw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿Qué ocurrió Entre Mi Padre Y Tu Madre? [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Qué ocurrió Entre Mi Padre Y Tu Madre? [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=5M7dpZzbdog=&cole=37929&peli=p4-oa2-A&id=11619&tit=wr9RdcOpIG9jdXJyacOzIGVudHJlIG1pIHBhZHJlIHkgdHUgbWFkcmU_
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿Qué Pasa Con Bob? [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Qué Pasa Con Bob? [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=34332&peli=po2mbmme&id=12021&tit=wr9RdcOpIHBhc2EgY29uIEJvYj8=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿Qué pasó anoche? [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Qué pasó anoche? [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3995&peli=3o_ub6LTcsnXY9Lok7zdo6qXurfXn8ni3nnfnKOcpL7cZ9fuo9E=&id=22544&tit=wr9RdcOpIHBhc8OzIGFub2NoZT8=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿Qué Tal, Pussycat? (¿Qué Tal, gatita?) [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Qué Tal, Pussycat? (¿Qué Tal, gatita?) [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4607&peli=18WrrKXfsIXsYcmvk8rncafPsrmqosOvrA==&id=18793&tit=wr9RdcOpIHRhbCwgUHVzc3ljYXQ_ICjCv1F1w6kgdGFsLCBnYXRpdGE_KQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿Qué Te Juegas, Mari Pili? [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Qué Te Juegas, Mari Pili? [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7570&peli=5YrfaZmdesPnlcvu&id=17585&tit=wr9RdcOpIHRlIGp1ZWdhcywgTWFyaSBQaWxpPw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿Quién engañó A Roger Rabbit? [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Quién engañó A Roger Rabbit? [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1569&peli=o43jmqSeeMvXo8Tgk4umsKjWt7itqM2s1w==&id=14814&tit=wr9RdWnDqW4gZW5nYcOxw7MgYSBSb2dlciBSYWJiaXQ_
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] ¿Quién engañó A Roger Rabbit? [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Quién engañó A Roger Rabbit? [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYqsbHCd&id=29212&tit=wr9RdWnDqW4gZW5nYcOxw7MgYSBSb2dlciBSYWJiaXQ_
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿Quién Es esa Chica? [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Quién Es esa Chica? [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7833&peli=q4qscKzQpMTYkcDs&id=27323&tit=wr9RdWnDqW4gZXMgZXNhIGNoaWNhPw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿Quién Es Harry Crumb? [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Quién Es Harry Crumb? [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=34332&peli=po2mb2-f&id=12025&tit=wr9RdWnDqW4gZXMgSGFycnkgQ3J1bWI_
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿Quién mató A Bambi? [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Quién mató A Bambi? [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5935&peli=6IymaZzTuYvWk9nlk4rsb6DZpofZpJfp4g==&id=22376&tit=wr9RdWnDqW4gbWF0w7MgYSBCYW1iaT8=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿Te acuerdas De mí? [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Te acuerdas De mí? [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4510&peli=442lnmjaqo2tqJDlk83VaJ7gdMjkp5fup3nXr6_Icbvinsvh4tGUr5vaoofpnNHr5sTpWJmgq4fjlpHf7c7mbFfNtozZppDe1ZGkm2iHsrzeYczo3czraKKgYb7iZJbgrNHjnmzJsQ==&id=18369&tit=wr9UZSBhY3VlcmRhcyBkZSBtw60_
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿Teléfono Rojo? Volamos Hacia Moscú [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Teléfono Rojo? Volamos Hacia Moscú [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2344&peli=5NLsqJnfc8usZpis&id=27239&tit=wr9UZWzDqWZvbm8gcm9qbz8gVm9sYW1vcyBoYWNpYSBNb3Njw7o=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] ¿Teléfono Rojo? Volamos Hacia Moscú [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Teléfono Rojo? Volamos Hacia Moscú [/COLOR][COLOR blue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI2tbmqceQ==&id=32880&tit=wr9UZWzDqWZvbm8gcm9qbz8gVm9sYW1vcyBoYWNpYSBNb3Njw7o=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿Usted No sabe quién Soy Yo? 2 [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Usted No sabe quién Soy Yo? 2 [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2713&peli=5MnkqWmfqsislcusk8Omp6LOprallNHxqnnZaK_PrYfVZ4_e4cw=&id=32911&tit=wr9Vc3RlZCBubyBzYWJlIHF1acOpbiBzb3kgeW8_IDI=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿Venís juntos? [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Venís juntos? [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4szXmanIpbbt&cole=23296&peli=pYmncWyX&id=13070&tit=wr9WZW7DrXMganVudG9zPw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] ¿Víctor O Victoria? [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Víctor O Victoria? [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4862&peli=5dHimrHcd4uoaNXz&id=27348&tit=wr9Ww61jdG9yIG8gVmljdG9yaWE_

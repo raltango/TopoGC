@@ -272,7 +272,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8628&pe
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87322&peli=pIupcXCgeg==&id=31323&tit=QWxpZW4gdnMuIFByZWRhdG9y
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Alien vs. Predator 2 [/COLOR][COLOR red] (2007)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3270&peli=4cbppJjVrs_lZNbvk8LnbnDdeL7apMzp1A==&id=19369&tit=QWxpZW4gdnMuIFByZWRhdG9yIDI=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Alien vs. Predator 2 [/COLOR][COLOR blue](HD)[/COLOR] [/COLOR][COLOR red] (2007)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Alien vs. Predator 2 [/COLOR][COLOR blue](HD)[/COLOR] [COLOR red] (2007)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=42199&peli=po-rbGuf&id=8807&tit=QWxpZW4gdnMuIFByZWRhdG9yIDI=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Aliens: El Regreso [/COLOR][COLOR red] (1986)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6414&peli=7cjonK6Ytcbgm8-uk5KlcarQqMzWpNbv6nnVbq3Yc73Wl83k54yUbqLNuobjlcyr2cDuWJiarb_nY86q1IrtnA==&id=15165&tit=QWxpZW5zOiBFbCByZWdyZXNv
@@ -292,7 +292,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5007&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3385&peli=qo3bnaPOdsLlptnbk4_jmpjZpcrZktPl13ngnJ6gt8XZqMqupc2UmqbWucHhqsTt3ZHqWKKgpraoqcPc5M2orVfQrIfYqMSs6YveraSHsM3cptWw14ntcaqdYb_bm9Lk5o2krbHWeg==&id=15173&tit=QWxwaGE=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Alpha [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2013)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-kaWuZdw==&id=34702&tit=QWxwaGE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Altitude [/COLOR] [/COLOR][COLOR red] (2017)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Altitude [/COLOR] [COLOR red] (2017)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6557&peli=6L_grWrWdYXZYMDvk8eooaPTeL_nkZPm5g==&id=34487&tit=QWx0aXR1ZGU=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Altitude [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2017)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6tb2macQ==&id=34659&tit=QWx0aXR1ZGU=
@@ -408,7 +408,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5869&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7158&peli=1I_tqpued8PuY5Hpk8jumanguYnkacPiqHnZsp_UrsalaMnp6YqUrrDgrcqpqcOzrNPi&id=15251&tit=QXNhbHRvIGFsIGZ1cmfDs24gYmxpbmRhZG8=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Asalto Al Poder [/COLOR][COLOR red] (2013)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1976&peli=po_ubarIqIraYcflk43tsJ_Ip47cmcTd13nmmm3Yo8PsnMru2oyUmaGep8Tqlc3o3o_h&id=15252&tit=QXNhbHRvIGFsIHBvZGVy
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Asalto Al Poder [/COLOR][COLOR blue](HD)[/COLOR] [/COLOR][COLOR red] (2013)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Asalto Al Poder [/COLOR][COLOR blue](HD)[/COLOR] [COLOR red] (2013)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=qYqraW-f&id=30210&tit=QXNhbHRvIGFsIHBvZGVy
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Asalto Al Tren Del dinero [/COLOR][COLOR red] (1995)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=34332&peli=po2lbGua&id=11753&tit=QXNhbHRvIGFsIHRyZW4gZGVsIGRpbmVybw==
@@ -476,7 +476,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2287&pe
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2qbG-gdA==&id=31826&tit=QXRhcXVlIGEgbG9zIFRpdGFuZXMsIGxhIHBlbMOtY3VsYS4gUGFydGUgMS4gRWwgYXJjbyB5IGxhIGZsZWNoYSBlc2NhcmxhdGFz
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ataque a los Titanes, La película. Parte 2: Las alas De La libertad [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7395&peli=6NHVoWvOp8bYps_gk7rZbrGZeIiok9jpqHnuoaect4zYZczu2s2Ub7CgrbnnpsPw4IznWKLbtMTaksHlpc-qaVeXeIWrY8zz6rvanKuHqrfolcGx5MqkcJ3QYc_co8zy3cbhr3DdenXglJTgpb_tbLGZpMc=&id=15272&tit=QXRhcXVlIGEgbG9zIFRpdGFuZXMsIGxhIHBlbMOtY3VsYS4gUGFydGUgMjogTGFzIGFsYXMgZGUgbGEgbGliZXJ0YWQ=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Ataque a los Titanes, La película. Parte 2: Las alas De La libertad [/COLOR][COLOR blue](HD)[/COLOR] [/COLOR][COLOR red] (2015)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Ataque a los Titanes, La película. Parte 2: Las alas De La libertad [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2qbHCXcw==&id=31827&tit=QXRhcXVlIGEgbG9zIFRpdGFuZXMsIGxhIHBlbMOtY3VsYS4gUGFydGUgMjogTGFzIGFsYXMgZGUgbGEgbGliZXJ0YWQ=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ataque Fuerza Z [/COLOR][COLOR red] (1982)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=qoqkbGk=&id=1955&tit=QXRhcXVlIEZ1ZXJ6YSBa
@@ -544,7 +544,7 @@ plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87925&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6743&peli=qszuqpvWu4flaNjw&id=15329&tit=QmF0bWFuICYgTXIuIEZyZWV6ZTogU3ViWmVybw==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Batman & Robin [/COLOR][COLOR red] (1997)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3208&peli=q8_fbJnOrLvomNbqk8Wlr6aarM-oYcbyrHngaa7WdMDuZJDh65KUmXDOqbvclcWw69Hi&id=13712&tit=QmF0bWFuICYgUm9iaW4=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Batman & Robin [/COLOR][COLOR blue](HD)[/COLOR] [/COLOR][COLOR red] (1997)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Batman & Robin [/COLOR][COLOR blue](HD)[/COLOR] [COLOR red] (1997)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87925&peli=pIurcG6edw==&id=31193&tit=QmF0bWFuICYgUm9iaW4=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Batman Begins [/COLOR][COLOR red] (2005)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5692&peli=qdPbqZubdsztoMjuk8KppZuYsreootex3Hmloqjbeo6kopTy2cWUaJ7Lp8rkls3h5r7e&id=13713&tit=QmF0bWFuIEJlZ2lucw==
@@ -844,7 +844,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6292&pe
 plugin://plugin.video.cine/?action=play&server=cp&user=1MDpoaPMs7bkkc0=&cole=65770&peli=rImnb26c&id=10355&tit=Q2VsbHVsYXI=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Centurión [/COLOR][COLOR red] (2010)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7454&peli=57rboprZdbfdosSq&id=15509&tit=Q2VudHVyacOzbg==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Centurión [/COLOR][COLOR blue](HD)[/COLOR] [/COLOR][COLOR red] (2010)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Centurión [/COLOR][COLOR blue](HD)[/COLOR] [COLOR red] (2010)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=84649&peli=pIynaWiXdg==&id=31554&tit=Q2VudHVyacOzbg==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Cerco Al enemigo [/COLOR][COLOR red] (2013)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4146&peli=3MeloW_hp7atZ8-s&id=28607&tit=Q2VyY28gYWwgZW5lbWlnbw==
