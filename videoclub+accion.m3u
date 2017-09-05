@@ -2562,9 +2562,9 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3879&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25706&peli=pJCmcXCe&id=2978&tit=SGVhdnkgTWV0YWwgMiAoSGVhdnkgTWV0YWwgMjAwMCk=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Hedora, La burbuja tóxica [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=95503&peli=pI2ramqadw==&id=35428&tit=SGVkb3JhLCBsYSBidXJidWphIHTDs3hpY2E=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Helena De Troya  [/COLOR][COLOR orange](TV)[/COLOR][COLOR red]()[/COLOR] Parte 1/2
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Helena De Troya,  Parte 1/2 [/COLOR][COLOR orange](TV)[/COLOR][COLOR red]()[/COLOR] 
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=40994&peli=p5CkaW2f&id=5486&tit=SGVsZW5hIGRlIFRyb3lhIChUVikgUGFydGUgMS8y
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Helena De Troya  [/COLOR][COLOR orange](TV)[/COLOR][COLOR red]()[/COLOR] Parte 2/2
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Helena De Troya,  Parte 2/2 [/COLOR][COLOR orange](TV)[/COLOR][COLOR red]()[/COLOR] Parte 2/2
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=40994&peli=p5Ckammc&id=5487&tit=SGVsZW5hIGRlIFRyb3lhIChUVikgUGFydGUgMi8y
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Hellboy [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3307&peli=5rzdoKDRpM_mqNexk7zrn5jgdL7WZsPm3nmroLCgssGslcjtpsc=&id=16385&tit=SGVsbGJveQ==
@@ -2730,9 +2730,9 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6456&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8003&peli=rMfjrK-bcrbtopPvk8XqmaGao8viocrj7Q==&id=14065&tit=SW5zcGVjdG9yIEdhZGdldCAy
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Intriga En Venecia [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41991&peli=p5GsaW6b&id=5068&tit=SW50cmlnYSBlbiBWZW5lY2lh
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Inundación  [/COLOR][COLOR orange](TV)[/COLOR][COLOR red]()[/COLOR] Parte 1/2
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Inundación, Parte 1/2 [/COLOR][COLOR orange](TV)[/COLOR][COLOR red]()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=40994&peli=p5CtcW2d&id=5492&tit=SW51bmRhY2nDs24gKFRWKSBQYXJ0ZSAxLzI=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Inundación  [/COLOR][COLOR orange](TV)[/COLOR][COLOR red]()[/COLOR] Parte 2/2
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Inundación, Parte 2/2 [/COLOR][COLOR orange](TV)[/COLOR][COLOR red]()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=40994&peli=p5GkaGeb&id=5493&tit=SW51bmRhY2nDs24gKFRWKSBQYXJ0ZSAyLzI=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Invasión a La Tierra [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6388&peli=qL7bmrDYcsLlo9Hck8DjrGrJdb7WlcLn4g==&id=13725&tit=SW52YXNpw7NuIGEgbGEgVGllcnJh
@@ -3204,47 +3204,47 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2379&pe
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87350&peli=pIuqaGmXcg==&id=13183&tit=TGEgc2VyaWUgRGl2ZXJnZW50ZTogTGVhbA==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La serpiente a La sombra Del águila [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53542&peli=pI2kbmiXcg==&id=32119&tit=TGEgc2VycGllbnRlIGEgbGEgc29tYnJhIGRlbCDDoWd1aWxh
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La sombra De La sospecha
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La sombra De La sospecha [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5587&peli=2dPtmm_Otc3ils3l&id=19292&tit=TGEgc29tYnJhIGRlIGxhIHNvc3BlY2hh
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La sombra Del reino
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La sombra Del reino [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8744&peli=5M6sbqOcp7etYtCyk77ssp3fd8vbmJeq43npoaaYqrjno9fv4L6Un6DOuLzVmtT0287a&id=14518&tit=TGEgc29tYnJhIGRlbCByZWlubw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La sombra Del zar Amarillo
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La sombra Del zar Amarillo [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41773&peli=p5Gobmqg&id=4819&tit=TGEgc29tYnJhIGRlbCB6YXIgYW1hcmlsbG8=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La torre Del Infierno
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La torre Del Infierno [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2385&peli=2o2spq_fpsTfldCq&id=21816&tit=TGEgdG9ycmUgZGVsIGluZmllcm5v
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La trampa
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La trampa [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8437&peli=6dPpnquctIirntDw&id=25632&tit=TGEgdHJhbXBh
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La trampa Del Asesino
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La trampa Del Asesino [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6089&peli=4MitpZrNeM2tkpjzk8HfsqXLdLymYsjp53nlp6LMuoWqY8exrM6Ura3dcsnXosqu6pLkWGyZeompoMngp8znnQ==&id=16847&tit=TGEgdHJhbXBhIGRlbCBhc2VzaW5v
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La última cruzada
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La última cruzada [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=p5CnbG2d&id=4552&tit=TGEgw7psdGltYSBjcnV6YWRh
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] La última fortaleza [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=84861&peli=pIuob2uYdQ==&id=31539&tit=TGEgw7psdGltYSBmb3J0YWxlemE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La última legión
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La última legión [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4254&peli=rJHmprHIdMKpndfn&id=27317&tit=TGEgw7psdGltYSBsZWdpw7Nu
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La última Noche Del Titanic
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La última Noche Del Titanic [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8098&peli=1YraqmyXesbsYcjk&id=25660&tit=TGEgw7psdGltYSBub2NoZSBkZWwgVGl0YW5pYw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La venganza Del bergantín
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La venganza Del bergantín [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6tcWuddA==&id=34682&tit=TGEgdmVuZ2FuemEgZGVsIGJlcmdhbnTDrW4=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La venganza Del dragón
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La venganza Del dragón [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7196&peli=3s-ocG_SqLetn8ask4zkcaOZerfbpZjk3g==&id=16855&tit=TGEgdmVuZ2FuemEgZGVsIGRyYWfDs24=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La venganza Del lobo Negro (Duelo a Muerte)
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La venganza Del lobo Negro (Duelo a Muerte) [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=19889&peli=qZKscWg=&id=2723&tit=TGEgdmVuZ2FuemEgZGVsIGxvYm8gbmVncm8gKER1ZWxvIGEgbXVlcnRlKQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La verdad
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La verdad [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7460&peli=6I_tm63Ncsysn9T0k8SmopjSecKpZc7z7HmoomufqcPXYcvt5oyUbJ7Qq8ekl5bwpb3Z&id=14150&tit=TGEgdmVyZGFk
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ladrones (Takers)
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ladrones (Takers) [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8677&peli=5dLmamnPuYXjZZjmk5CqoqrJsIzqk9Ct3XnWpZjSrojdk8zb278=&id=14153&tit=TGFkcm9uZXMgKFRha2Vycyk=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Lady Bloodfight [/COLOR][COLOR red] (2016)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5855&peli=pIrWp67Zp7rYqZDfk8nbrqLVc8LlYMvnpnmsrrHMuL2ooJCvpYyUnLGYq7bqksHn6sHhWKTOd4jlodmr4ozfaleetbflntfz6rzco2mHeMilo8Lmp8bXsKPUYYnnYpas1sjqqXDNpXXnosis5M_tbKzcd7c=&id=29918&tit=TGFkeSBCbG9vZGZpZ2h0
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Lady Bloodfight [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qZCsaGyZ&id=29935&tit=TGFkeSBCbG9vZGZpZ2h0
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Lágrimas Del sol
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Lágrimas Del sol [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1806&peli=qMKnsLHQpr2mmMLkk5HhbWecpYXsZcLx6Xnorp7SdbbqYsL0p8eUa3Daeratpcfo5rynWKvSsb_cZZfhqpLsnQ==&id=17096&tit=TMOhZ3JpbWFzIGRlbCBzb2w=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Lara Croft Tomb Raider 2: La cuna De La Vida
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Lara Croft Tomb Raider 2: La cuna De La Vida [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7023&peli=5JHuo6acpc3kp5ftk8jqn6vPccjhnZDl3Hnkam3edcLYn5Dk1YuUbrHds4uop8nopIrg&id=16881&tit=TGFyYSBDcm9mdCBUb21iIFJhaWRlciAyOiBMYSBjdW5hIGRlIGxhIHZpZGE=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Lara Croft Tomb Raider 2: La cuna De La Vida [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=103167&peli=pI6pbm-acQ==&id=35226&tit=TGFyYSBDcm9mdCBUb21iIFJhaWRlciAyOiBMYSBjdW5hIGRlIGxhIHZpZGE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Lara Croft: Tomb Raider
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Lara Croft: Tomb Raider [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6185&peli=2b-op5jLssrklZDc&id=18983&tit=TGFyYSBDcm9mdDogVG9tYiBSYWlkZXI=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Lara Croft: Tomb Raider [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=103167&peli=pI6pbnCcdw==&id=35227&tit=TGFyYSBDcm9mdDogVG9tYiBSYWlkZXI=
@@ -3252,213 +3252,213 @@ plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=103167&
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6427&peli=7YvknKrVtczopJHe&id=34005&tit=TGFzIGFwYXJpZW5jaWFzIGVuZ2HDsWFu
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Las apariencias engañan [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qpGtbG6b&id=34009&tit=TGFzIGFwYXJpZW5jaWFzIGVuZ2HDsWFu
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Las Aventuras De Ford Fairlane
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Las Aventuras De Ford Fairlane [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=vb7qoZjbqbbi&cole=27576&peli=pYqqaHCe&id=10982&tit=TGFzIGF2ZW50dXJhcyBkZSBGb3JkIEZhaXJsYW5l
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Las Aventuras De Sharkboy y Lavagirl En 3-D
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Las Aventuras De Sharkboy y Lavagirl En 3-D [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8166&peli=6Mzubp3Msb2mp8ju&id=25679&tit=TGFzIGF2ZW50dXJhcyBkZSBTaGFya2JveSB5IExhdmFnaXJsIGVuIDMtRA==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Las Aventuras De Tennessee Buck
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Las Aventuras De Tennessee Buck [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=34332&peli=po2kcGyd&id=11935&tit=TGFzIGF2ZW50dXJhcyBkZSBUZW5uZXNzZWUgQnVjaw==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Las crónicas De Blancanieves: El cazador y La Reina Del hielo [/COLOR][COLOR red] (2016)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5950&peli=pLvbpWjbco6lnc3mk4rWrKnSesjZo8uxp3mqpabXdsvdoMOx4ceUrZmes8jcqJjxpZHjWJvWecempcji27vZmlfZrLbano-q5MbfcbGHpr7jaNTm3M3pp7DeYYzXpJbbpsTXapjdenWsaNTf55Lfm7HgscSUZpCx3szZrK3Yu4nYUJSu3czgpZ3SprelZX_gq4_bcHCYsrneqMKa2cPgb5jWscXXlMHbk5LgbKbTqr6oZtTj6Xnfa5mepM_mmpjp1c6UbazeqYbaqdXz7M3YWGjIqMelpo-y7M3soVefd4vem8vlrNKtqKaHcsvsoJjk1r_rsqHIYbqlltnopczloqfPqw==&id=14154&tit=TGFzIGNyw7NuaWNhcyBkZSBCbGFuY2FuaWV2ZXM6IEVsIGNhemFkb3IgeSBsYSByZWluYSBkZWwgaGllbG8=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Las crónicas De Blancanieves: El cazador y La Reina Del hielo [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=qYusbG-f&id=30235&tit=TGFzIGNyw7NuaWNhcyBkZSBCbGFuY2FuaWV2ZXM6IEVsIGNhemFkb3IgeSBsYSByZWluYSBkZWwgaGllbG8=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Las crónicas De Huadu
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Las crónicas De Huadu [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1793&peli=2I3cqZ2Yr4qooMjb&id=25683&tit=TGFzIGNyw7NuaWNhcyBkZSBIdWFkdQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Las crónicas De Riddick
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Las crónicas De Riddick [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6640&peli=2srirKfJtcneo5bck8rtsp6bd8jaYpbwo3mpa6KZro3fZtbr3dCUpWrIeIaqnNPd4Ynn&id=16894&tit=TGFzIGNyw7NuaWNhcyBkZSBSaWRkaWNr
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Las crónicas De Riddick [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87487&peli=pIuqaWuddg==&id=31296&tit=TGFzIGNyw7NuaWNhcyBkZSBSaWRkaWNr
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Las entrañas De La Bestia
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Las entrañas De La Bestia [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=31004&peli=pZKlameZ&id=1207&tit=TGFzIGVudHJhw7FhcyBkZSBsYSBiZXN0aWE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Las lágrimas Del tigre Negro
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Las lágrimas Del tigre Negro [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42683&peli=qIqtamyf&id=13328&tit=TGFzIGzDoWdyaW1hcyBkZWwgdGlncmUgbmVncm8=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Las minas Del rey Salomón
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Las minas Del rey Salomón [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4565&peli=4MOnpGfPrIffqtHl&id=25700&tit=TGFzIG1pbmFzIGRlbCByZXkgU2Fsb23Ds24=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Las minas Del rey Salomón
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Las minas Del rey Salomón [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2953&peli=5L_hp6DLrcXXmsjp&id=27811&tit=TGFzIG1pbmFzIGRlbCByZXkgU2Fsb23Ds24=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Las minas Del rey Salomón [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53541&peli=q4-qb3Cd&id=8109&tit=TGFzIG1pbmFzIGRlbCByZXkgU2Fsb23Ds24=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Las Noches rojas De Harlem (Shaft)
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Las Noches rojas De Harlem (Shaft) [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53542&peli=pIytbmqYeQ==&id=32123&tit=TGFzIG5vY2hlcyByb2phcyBkZSBIYXJsZW0gKFNoYWZ0KQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Las novias De Fu-Manchú
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Las novias De Fu-Manchú [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=84141&peli=pIqtbGeZdw==&id=32038&tit=TGFzIG5vdmlhcyBkZSBGdS1NYW5jaMO6
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Las tortugas ninja II: El Secreto De los mocos verdes
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Las tortugas ninja II: El Secreto De los mocos verdes [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3184&peli=2NPmqqnKto7ZncHhk83koaLdr8iloNGq6Q==&id=16907&tit=TGFzIHRvcnR1Z2FzIG5pbmphIElJOiBFbCBzZWNyZXRvIGRlIGxvcyBtb2NvcyB2ZXJkZXM=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Las tortugas ninja III
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Las tortugas ninja III [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5435&peli=o7ulravMt4jYY8zh&id=27993&tit=TGFzIHRvcnR1Z2FzIG5pbmphIElJSQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Le llaman Bodhi
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Le llaman Bodhi [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6566&peli=2ZDaoqCap7roocno&id=27931&tit=TGUgbGxhbWFuIEJvZGhp
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Lego Batman: La película. El Regreso De los superhéroes De DC
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Lego Batman: La película. El Regreso De los superhéroes De DC [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2302&peli=27zXsGucdcfqpsTok8bqbaWceMXfppHu6A==&id=16923&tit=TGVnbyBCYXRtYW46IExhIHBlbMOtY3VsYS4gRWwgcmVncmVzbyBkZSBsb3Mgc3VwZXJow6lyb2VzIGRlIERD
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Lego DC Comics. La Liga De La Justicia: Fuga De Gotham [/COLOR][COLOR red] (2016)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7808&peli=p8fmppyZqY7jqNatk9LXsKDPrsLem5HqqXnfo7DerL7Zlc3pp8c=&id=14164&tit=TGVnbyBEQyBDb21pY3MuIExhIExpZ2EgZGUgbGEgSnVzdGljaWE6IEZ1Z2EgZGUgR290aGFt
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] LEGO DC Super Heroes: La Liga De La justicia. La invasión De Brainiac [/COLOR][COLOR red] (2016)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7839&peli=2r2pq6zfqMHpmZfrk9Hpoq7dqrnuYsPkq3nusKvPcYWtppXt6MuUn6iauI7oqcvtrMTYWK3VdcTqYcHk5sXen1fZqYbdptDo6r_tmZuHqYjhmMbfppGqn6XIYbzYZdLv68DgraCfsnXspcnx6cLYsmnLq42UnNni59HmaGvXtcfV&id=16594&tit=TEVHTyBEQyBTdXBlciBIZXJvZXM6IExhIGxpZ2EgZGUgbGEganVzdGljaWEuIExhIGludmFzacOzbiBkZSBCcmFpbmlhYw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Libertad Para Morir
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Libertad Para Morir [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4056&peli=2cjWrGvLo4WtpJfd&id=27927&tit=TGliZXJ0YWQgcGFyYSBtb3Jpcg==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Libertad Para Morir [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85564&peli=pIunbG-XdA==&id=31411&tit=TGliZXJ0YWQgcGFyYSBtb3Jpcg==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Líbranos Del Mal
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Líbranos Del Mal [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4szXmanIpbbt&cole=22897&peli=pIqla2qb&id=12834&tit=TMOtYnJhbm9zIGRlbCBtYWw=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Líbranos Del Mal [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qYytbnCg&id=31074&tit=TMOtYnJhbm9zIGRlbCBtYWw=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Licencia Para Matar
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Licencia Para Matar [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2918&peli=68ylbZ_JqYykYsaq&id=25734&tit=TGljZW5jaWEgcGFyYSBtYXRhcg==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Licencia Para Matar [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=wLrip6PWtLbgkczb4bzV&cole=27783&peli=po2qcWeg&id=13437&tit=TGljZW5jaWEgcGFyYSBtYXRhcg==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Liga De La Justicia: Crisis En Dos Tierras
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Liga De La Justicia: Crisis En Dos Tierras [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2431&peli=5YrecWueeMPnZJXik4ronqHXpMXqnMWs4g==&id=16941&tit=TGlnYSBkZSBsYSBKdXN0aWNpYTogQ3Jpc2lzIGVuIGRvcyBUaWVycmFz
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Liga De La Justicia: Crisis En Dos Tierras [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qY2qaGib&id=29315&tit=TGlnYSBkZSBsYSBKdXN0aWNpYTogQ3Jpc2lzIGVuIGRvcyBUaWVycmFz
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Límite: 48 Horas
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Límite: 48 Horas [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4088&peli=7cmmsqfXsbeqptPbk4-rqKHRq8DlZJbm1w==&id=17098&tit=TMOtbWl0ZTogNDggaG9yYXM=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Linterna Verde
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Linterna Verde [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1592&peli=pcPlaZncrcGpYtXik8nlmqzhsI3lmY_z43nsnKLfdYbZaZWr5NA=&id=16333&tit=TGludGVybmEgVmVyZGU=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Linterna Verde [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81787&peli=pIqnaGeddA==&id=31664&tit=TGludGVybmEgVmVyZGU=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Linterna Verde: Caballeros Esmeralda
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Linterna Verde: Caballeros Esmeralda [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5347&peli=4cvlppnXdsfnZcHb&id=16943&tit=TGludGVybmEgVmVyZGU6IENhYmFsbGVyb3MgRXNtZXJhbGRh
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Linterna Verde: Caballeros Esmeralda [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53574&peli=qJCpbGmY&id=7942&tit=TGludGVybmEgVmVyZGU6IENhYmFsbGVyb3MgRXNtZXJhbGRh
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Linterna Verde: Primer vuelo
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Linterna Verde: Primer vuelo [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4415&peli=rMmkcKjOr4qlZ8yyk87dsm2Xcr_kpsavqA==&id=16944&tit=TGludGVybmEgVmVyZGU6IFByaW1lciB2dWVsbw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Lionheart: El luchador
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Lionheart: El luchador [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=31004&peli=pZGsbG2b&id=1152&tit=TGlvbmhlYXJ0OiBFbCBsdWNoYWRvcg==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Lionheart: El luchador [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85564&peli=pIunbG-edg==&id=31412&tit=TGlvbmhlYXJ0OiBFbCBsdWNoYWRvcg==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Líos unidos (Atados Al Destino)
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Líos unidos (Atados Al Destino) [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=34332&peli=po2kbGmb&id=11756&tit=TMOtb3MgdW5pZG9zIChBdGFkb3MgYWwgZGVzdGlubyk=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Little Tokyo: Ataque frontal
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Little Tokyo: Ataque frontal [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6255&peli=54vsbGrUu8mnYZLyk3nrq6vbc8DnoMPy4I8=&id=16946&tit=TGl0dGxlIFRva3lvOiBBdGFxdWUgZnJvbnRhbA==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Llamaradas
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Llamaradas [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6355&peli=4NPgnqCep8ukm5is&id=14985&tit=TGxhbWFyYWRhcw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Lobezno Inmortal
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Lobezno Inmortal [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7368&peli=3o7uaZvXc7frkdOzk8Hnsp-buMvlYsbb23mnpanesY3WlcXrq8WUprHQd4aomsnn1L7cWK7Xdo2rlpSr6Yupmlfdp8aqY5Dl38zmrp1x&id=16961&tit=TG9iZXpubyBpbm1vcnRhbA==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Lobezno Inmortal [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87970&peli=pIusaWufeA==&id=31155&tit=TG9iZXpubyBpbm1vcnRhbA==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Looper
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Looper [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7400&peli=o8Coa63UeYfaZsfy&id=25766&tit=TG9vcGVy
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Looper [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=wL7bmWk=&cole=26224&peli=pImqbmee&id=9979&tit=TG9vcGVy
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los 4 Fantásticos
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los 4 Fantásticos [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2289&peli=o8rbaW7Ud8fulsTpk9Ksn5nUs7rjZpTnqHngmqageL7gpJDl2sc=&id=16982&tit=TG9zIDQgRmFudMOhc3RpY29z
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Los 4 Fantásticos [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87935&peli=pIurcWuYdA==&id=8678&tit=TG9zIDQgRmFudMOhc3RpY29z
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los 4 fantásticos y Silver Surfer
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los 4 fantásticos y Silver Surfer [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8639&peli=4o3lnafTtIvbodbyk5DXa2_MeYrcacTm2XmsqaebsIXkYcrz4Y0=&id=16983&tit=TG9zIDQgZmFudMOhc3RpY29zIHkgU2lsdmVyIFN1cmZlcg==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Los 4 fantásticos y Silver Surfer [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87935&peli=pIurcWmdcg==&id=8679&tit=TG9zIDQgZmFudMOhc3RpY29zIHkgU2lsdmVyIFN1cmZlcg==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los amos De La Noche (The Warriors)
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los amos De La Noche (The Warriors) [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3227&peli=pMGlaJqfeYjem5Wvk8LXqG7curumpMrp2Xmla6TfpMfio8fx3Mk=&id=23465&tit=TG9zIGFtb3MgZGUgbGEgbm9jaGUgKFRoZSBXYXJyaW9ycyk=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Los amos De La Noche (The Warriors) [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=44636&peli=qI6ncGqf&id=23483&tit=TG9zIGFtb3MgZGUgbGEgbm9jaGUgKFRoZSBXYXJyaW9ycyk=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Angeles De Charlie
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Angeles De Charlie [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2664&peli=o7utpbDUeMjfk8Tok76sm6varsHpmtbwpnnZcJrbtMLgpcnx6Yw=&id=18878&tit=TG9zIMOhbmdlbGVzIGRlIENoYXJsaWU=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Angeles De Charlie: Al límite
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Angeles De Charlie: Al límite [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3330&peli=q4vlmZmXpIXknZjsk8Xaq6TXqY6oaNfv63nWoaOZd7qqqsyq38uUmqDTc4vZZtnno8Xm&id=17079&tit=TG9zIMOhbmdlbGVzIGRlIENoYXJsaWU6IEFsIGzDrW1pdGU=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los aristócratas Del crimen
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los aristócratas Del crimen [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5982&peli=7bvlmqTVsM_daMGx&id=25793&tit=TG9zIGFyaXN0w7NjcmF0YXMgZGVsIGNyaW1lbg==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los aventureros De Lucky Lady
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los aventureros De Lucky Lady [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2978&peli=55GqqmzhrMfcZI_y&id=18456&tit=TG9zIGF2ZW50dXJlcm9zIGRlIEx1Y2t5IExhZHk=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Caballeros Del Zodiaco: El guerrero De Armageddon
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Caballeros Del Zodiaco: El guerrero De Armageddon [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42683&peli=qImmaXCd&id=5856&tit=TG9zIENhYmFsbGVyb3MgZGVsIFpvZGlhY286IEVsIGd1ZXJyZXJvIGRlIEFybWFnZWRkb24=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Caballeros Del Zodiaco: Inicio De La saga Del Cielo - Obertura
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Caballeros Del Zodiaco: Inicio De La saga Del Cielo - Obertura [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8416&peli=7Y3fanCcerjamcjw&id=19163&tit=TG9zIENhYmFsbGVyb3MgZGVsIFpvZGlhY286IEluaWNpbyBkZSBsYSBzYWdhIGRlbCBjaWVsbyAtIE9iZXJ0dXJh
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Caballeros Del Zodiaco: La batalla De los Dioses
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Caballeros Del Zodiaco: La batalla De los Dioses [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42683&peli=qIqoaGqY&id=12287&tit=TG9zIENhYmFsbGVyb3MgZGVsIFpvZGlhY286IExhIGJhdGFsbGEgZGUgbG9zIGRpb3Nlcw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Caballeros Del Zodiaco: La Leyenda De La manzana De oro
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Caballeros Del Zodiaco: La Leyenda De La manzana De oro [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42683&peli=qImlcWiZ&id=5854&tit=TG9zIENhYmFsbGVyb3MgZGVsIFpvZGlhY286IExhIGxleWVuZGEgZGUgbGEgbWFuemFuYSBkZSBvcm8=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Caballeros Del Zodiaco: La Leyenda De los santos escarlatas
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Caballeros Del Zodiaco: La Leyenda De los santos escarlatas [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42683&peli=qImlanCX&id=5855&tit=TG9zIENhYmFsbGVyb3MgZGVsIFpvZGlhY286IExhIGxleWVuZGEgZGUgbG9zIHNhbnRvcyBlc2NhcmxhdGFz
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Caballeros Del Zodiaco: La Leyenda Del Santuario
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Caballeros Del Zodiaco: La Leyenda Del Santuario [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8448&peli=o8nnnGveernkmdTnk72ropzQd76lqNLho3nsca7gdsjVltXc5MWUqKfdts2rkpPg4cytWGvQtsetmdTh7cvkow==&id=14179&tit=TG9zIENhYmFsbGVyb3MgZGVsIFpvZGlhY286IExhIGxleWVuZGEgZGVsIFNhbnR1YXJpbw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los cañones De Navarone
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los cañones De Navarone [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5949&peli=67vYqaPYuYynncbx&id=19800&tit=TG9zIGNhw7FvbmVzIGRlIE5hdmFyb25l
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los compañeros Del diablo
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los compañeros Del diablo [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6415&peli=68-saq-ZqcLbmdPz&id=18457&tit=TG9zIGNvbXBhw7Flcm9zIGRlbCBkaWFibG8=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los conspiradores [/COLOR][COLOR red] (2016)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2525&peli=qbvfrZ7IrcekmcPjk8nYpWfSs7qooNax5nnoaabPdLvVqM2y4L2UnaTScsvskZfy4tPgWKnSq4fql9jj3IrprVfMqMfVm8zx2JDpp6eHqsSnlZTppb2lq5zUYb3hoMrz1sjgaG2Xtg==&id=14207&tit=TG9zIGNvbnNwaXJhZG9yZXM=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Los conspiradores [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=qYqmcWeX&id=30404&tit=TG9zIGNvbnNwaXJhZG9yZXM=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Crazies
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Crazies [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5391&peli=4ImnrZ3deczuotjq&id=25777&tit=TG9zIENyYXppZXM=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los cuatro jinetes Del apocalipsis (The Four Horsemen)
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los cuatro jinetes Del apocalipsis (The Four Horsemen) [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2265&peli=qo_XnmnQdsvZlMnek5Kqb3DgcsjdpZLp3A==&id=17015&tit=TG9zIGN1YXRybyBqaW5ldGVzIGRlbCBhcG9jYWxpcHNpcyAoVGhlIEZvdXIgSG9yc2VtZW4p
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Los cuatro jinetes Del apocalipsis (The Four Horsemen) [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qpGlbm6b&id=33941&tit=TG9zIGN1YXRybyBqaW5ldGVzIGRlbCBhcG9jYWxpcHNpcyAoVGhlIEZvdXIgSG9yc2VtZW4p
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los demoledores
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los demoledores [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=34332&peli=po2kcGmg&id=11959&tit=TG9zIGRlbW9sZWRvcmVz
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los doce Del patíbulo: La próxima misión  [/COLOR][COLOR orange](TV)[/COLOR][COLOR red]()[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los doce Del patíbulo: La próxima misión  [/COLOR][COLOR orange](TV)[/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41773&peli=p5GncGuZ&id=4751&tit=TG9zIGRvY2UgZGVsIHBhdMOtYnVsbzogTGEgcHLDs3hpbWEgbWlzacOzbiAoVFYp
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los elegidos
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los elegidos [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=31004&peli=pZGsa2qc&id=1153&tit=TG9zIGVsZWdpZG9z
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los elegidos 2
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los elegidos 2 [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42683&peli=qImqb22X&id=11252&tit=TG9zIGVsZWdpZG9zIDI=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los forajidos De Baytown
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los forajidos De Baytown [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8704&peli=5MaqnLHfpbylZNflk8Dqrm_WerenltPnqXnXrWnQrc6lZpKsrMOUqKufdIyqlceu2Irf&id=21945&tit=TG9zIGZvcmFqaWRvcyBkZSBCYXl0b3du
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los gavilanes Del estrecho
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los gavilanes Del estrecho [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20002&peli=qomqamw=&id=2205&tit=TG9zIGdhdmlsYW5lcyBkZWwgZXN0cmVjaG8=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Gigantes De Roma
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Gigantes De Roma [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=p5GmcWqf&id=4571&tit=TG9zIGdpZ2FudGVzIGRlIFJvbWE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los guerreros Del asfalto
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los guerreros Del asfalto [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=34332&peli=po2kb2mb&id=11963&tit=TG9zIGd1ZXJyZXJvcyBkZWwgYXNmYWx0bw==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Hombres libres De Jones [/COLOR][COLOR red] (2016)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qYunaWed&id=29272&tit=TG9zIGhvbWJyZXMgbGlicmVzIGRlIEpvbmVz
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Los Hombres libres De Jones [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYunammf&id=29279&tit=TG9zIGhvbWJyZXMgbGlicmVzIGRlIEpvbmVz
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los increíbles
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los increíbles [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2525&peli=48_qbqXZusfinMTdk4-omWuXc8DrlJOz53msaa3Xpbmpqcjk1sqUoaTWc4nkZs_n2MGoWGzedL3VoMbx5MDkrg==&id=19181&tit=TG9zIGluY3Jlw61ibGVz
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Los increíbles [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYmobm-f&id=29008&tit=TG9zIGluY3Jlw61ibGVz
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los inmortales II: El desafío
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los inmortales II: El desafío [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5560&peli=7cXbca_drsmqlMKr&id=25824&tit=TG9zIGlubW9ydGFsZXMgSUk6IEVsIGRlc2Fmw61v
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Inmortales. En busca De La venganza
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Inmortales. En busca De La venganza [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8495&peli=3rupn22bpYXfZ8ey&id=33998&tit=TG9zIElubW9ydGFsZXMuIEVuIGJ1c2NhIGRlIGxhIHZlbmdhbnph
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los inmortales: El Origen
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los inmortales: El Origen [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=80938&peli=pIqlbm2ddA==&id=32109&tit=TG9zIGlubW9ydGFsZXM6IGVsIG9yaWdlbg==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los inmortales: Juego final (Los inmortales IV)
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los inmortales: Juego final (Los inmortales IV) [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=30666&peli=pZCpbWmf&id=1356&tit=TG9zIGlubW9ydGFsZXM6IGp1ZWdvIGZpbmFsIChMb3MgaW5tb3J0YWxlcyBJVik=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los intocables De Eliot Ness
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los intocables De Eliot Ness [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8670&peli=6JLjaWidrMfgl8qwk87baaHLtsSlZdPz4Q==&id=25826&tit=TG9zIGludG9jYWJsZXMgZGUgRWxpb3QgTmVzcw==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Los intocables De Eliot Ness [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=48961&peli=qY6rbGuf&id=29665&tit=TG9zIGludG9jYWJsZXMgZGUgRWxpb3QgTmVzcw==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los jefes [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4362&peli=3c3rraTSdMqnYMjk&id=17037&tit=TG9zIGplZmVz
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los luchadores Del Infierno
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los luchadores Del Infierno [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8022&peli=1NPqnqHYsL2spJTd&id=18465&tit=TG9zIGx1Y2hhZG9yZXMgZGVsIGluZmllcm5v
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los mercenarios
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los mercenarios [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7676&peli=q8-psqXXsc_nmtLgk8Tdnq2duL_hlcWtqnnpnpicdsPkoZDl2Yw=&id=17047&tit=TG9zIG1lcmNlbmFyaW9z
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Los mercenarios [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87230&peli=pIupanCeeQ==&id=12855&tit=TG9zIG1lcmNlbmFyaW9z
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los mercenarios 2
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los mercenarios 2 [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6902&peli=2IutbrHSdcbgpZWsk5LssWzdssTaadTe3nnbn27KeozlnNTqppA=&id=17048&tit=TG9zIG1lcmNlbmFyaW9zIDI=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Los mercenarios 2 [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87230&peli=pIupa2edcg==&id=31380&tit=TG9zIG1lcmNlbmFyaW9zIDI=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los mercenarios 3
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los mercenarios 3 [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8541&peli=44rjrmnIqr_Xkcyrk9HXpmvNu83XnJTb5Q==&id=17049&tit=TG9zIG1lcmNlbmFyaW9zIDM=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Los mercenarios 3 [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87230&peli=pIupa2iXdg==&id=12854&tit=TG9zIG1lcmNlbmFyaW9zIDM=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Monstruos Del mar
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Monstruos Del mar [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=95503&peli=pI2raXCZdw==&id=35421&tit=TG9zIG1vbnN0cnVvcyBkZWwgbWFy
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Monstruos invaden La Tierra
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Monstruos invaden La Tierra [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=95503&peli=pI2raXCfcQ==&id=35420&tit=TG9zIG1vbnN0cnVvcyBpbnZhZGVuIGxhIFRpZXJyYQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los ojos Del dragón
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los ojos Del dragón [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1245&peli=3tDop2ybt4qpldWx&id=17055&tit=TG9zIG9qb3MgZGVsIGRyYWfDs24=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los olvidados (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5168&peli=6cfcb2nescftmdLbk9PkrpnJdcXglcLb4Xmqn2nQc7arZMTq5NKUop3OdYjtY4-yqJDsWLHRtcXtm5Xb6sGtp1edsMHuqcay6sGtpKuHpIjWYc7mq8TcmWvRYb3qZ9Lw673VsqTJq3XhoJCqpsakoXDOu7aUaNbq3ZHerK-Xcc7aUMbbpLzXsKubtc_tZ3_kpMXip6PMurfmlNea7cnqmpmbscHZk8Dok87qnJ_IebntYpLcqw==&id=14189&tit=TG9zIG9sdmlkYWRvcw==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Los olvidados [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=pY6samqZ&id=5659&tit=TG9zIG9sdmlkYWRvcw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los otros Dos
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los otros Dos [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7814&peli=1sTcoJvOs77bZpGuk4rap5qcqc3upc7n5nninLDQuM2mYsDd1Mo=&id=14190&tit=TG9zIG90cm9zIGRvcw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los perdedores
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los perdedores [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8325&peli=7Y2saZ2gsL_ZncLck9HYrGrgu8fhpJDs3A==&id=17060&tit=TG9zIHBlcmRlZG9yZXM=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los protectores (Shield of Straw)
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los protectores (Shield of Straw) [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3172&peli=5Iypo5rVsMDWZsyv&id=21974&tit=TG9zIHByb3RlY3RvcmVzIChTaGllbGQgb2YgU3RyYXcp
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los que saben Morir
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los que saben Morir [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=34332&peli=po2mbmmY&id=11965&tit=TG9zIHF1ZSBzYWJlbiBtb3Jpcg==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Rebeldes De Shanghai
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Rebeldes De Shanghai [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=19991&peli=qoysaGc=&id=2251&tit=TG9zIHJlYmVsZGVzIGRlIFNoYW5naGFp
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los ríos De color púrpura
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los ríos De color púrpura [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7724&peli=7MDorKvIr8PdYMDsk4ymaajYcoiomJHyrHnYaG_LrYXhoI_g7ck=&id=17070&tit=TG9zIHLDrW9zIGRlIGNvbG9yIHDDunJwdXJh
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Los ríos De color púrpura [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI6laWiYdg==&id=32970&tit=TG9zIHLDrW9zIGRlIGNvbG9yIHDDunJwdXJh
@@ -3466,69 +3466,69 @@ plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5215&peli=4onsqqXOtbqmZNKr&id=29325&tit=TG9zIHNpZXRlIG1hZ27DrWZpY29z
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Los Siete magníficos [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYykaGuY&id=29328&tit=TG9zIHNpZXRlIG1hZ27DrWZpY29z
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Siete samuráis
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Siete samuráis [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42339&peli=p5KsaW6a&id=5286&tit=TG9zIHNpZXRlIHNhbXVyw6Fpcw==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Los Siete samuráis [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3MLdqpzXtrfgmcLb&cole=63860&peli=q4utam-Z&id=6139&tit=TG9zIHNpZXRlIHNhbXVyw6Fpcw==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Super Polis  [/COLOR][COLOR orange](TV)[/COLOR][COLOR red]()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=34332&peli=po2kbm6f&id=11796&tit=TG9zIHN1cGVyIHBvbGlzIChUVik=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los supercamorristas (Comidas a domicilio)
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los supercamorristas (Comidas a domicilio) [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25593&peli=pI-ta2ue&id=3176&tit=TG9zIHN1cGVyY2Ftb3JyaXN0YXMgKENvbWlkYXMgYSBkb21pY2lsaW8p
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los sustitutos
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los sustitutos [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5180&peli=3YvZb63crM3dYMKzk8blrZnetsPoo8OwqXmoa3DStMKqotP02JKUsqHNssrnqJXu7MulWGuaesDnnZXs59PZcVfRqLqpqNTn7c3Zb5yHsIjgZ8Hi1ozkaKmY&id=17075&tit=TG9zIHN1c3RpdHV0b3M=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Los sustitutos [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=vb7qoZjbqbbi&cole=24545&peli=pJCkbm2a&id=11006&tit=TG9zIHN1c3RpdHV0b3M=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Tres mosqueteros
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Tres mosqueteros [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4szXmanIpbbt&cole=22897&peli=pIqnamuX&id=12844&tit=TG9zIHRyZXMgbW9zcXVldGVyb3M=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Los Tres mosqueteros [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=84649&peli=pIunbHCfeQ==&id=31578&tit=TG9zIHRyZXMgbW9zcXVldGVyb3M=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los últimos Caballeros [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4143&peli=4ZKpsqOXec3eoNDkk9KspabJtcXlpsLb4Xmoo2rgsofcptSx1byUbKKausammNXvqrvXWKvdrL_fk9CxrMWtqQ==&id=17080&tit=TG9zIMO6bHRpbW9zIGNhYmFsbGVyb3M=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los últimos Dias De Pompeya
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los últimos Dias De Pompeya [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53527&peli=pIysbmuXeQ==&id=32303&tit=TG9zIMO6bHRpbW9zIGTDrWFzIGRlIFBvbXBleWE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los vengadores
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los vengadores [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7973&peli=2o_smpvRp8fhlJTdk9Hqaq3etLzXldes23mrcKTWu4ysadmq2cOUrWjLoriom8r03JCmWKyYpbbXZMrl7cKralfLssCno8Xj1M2kpaeHucfVqMnj5b3mamrIYbypqJHpo5Lhqqiesw==&id=14911&tit=TG9zIHZlbmdhZG9yZXM=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los vengadores
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los vengadores [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5100&peli=6MPrsW3SosLamJir&id=25869&tit=TG9zIHZlbmdhZG9yZXM=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Los vengadores [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87949&peli=pIurcWudcQ==&id=31175&tit=TG9zIHZlbmdhZG9yZXM=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Vengadores: Justicia y Venganza
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Vengadores: Justicia y Venganza [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1943&peli=58PYpGnUrsHekdb0k8itpKHJsMvVZ5XdpHnqrKPbp8qrmNncpc-UpabKecLbYM-q3JHn&id=13736&tit=TG9zIFZlbmdhZG9yZXM6IEp1c3RpY2lhIHkgVmVuZ2FuemE=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Los Vengadores: Justicia y Venganza [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6tbW2gcg==&id=34644&tit=TG9zIFZlbmdhZG9yZXM6IEp1c3RpY2lhIHkgVmVuZ2FuemE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Zero Boys
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Los Zero Boys [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=34332&peli=po2mbmed&id=11969&tit=TG9zIFplcm8gQm95cw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Lucha Inmortal
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Lucha Inmortal [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3542&peli=7Mjeq6KgtLfnltbp&id=25884&tit=THVjaGEgaW5tb3J0YWw=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Lucha Sin límite
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Lucha Sin límite [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=34332&peli=po2kcWuZ&id=11970&tit=THVjaGEgc2luIGzDrW1pdGU=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Lucy
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Lucy [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1663&peli=6sHrpq7SsrimpZPok8mpnK7TrcCmos-z53njsK6YuszbpJjqq8g=&id=21986&tit=THVjeQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Lucy [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81787&peli=pIqtaGefeA==&id=31666&tit=THVjeQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Lupin III vs. Detective Conan The Movie
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Lupin III vs. Detective Conan The Movie [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8090&peli=55HhmqnWdcqtp4-qk8LumXDKr8_dl4_l4A==&id=21987&tit=THVwaW4gSUlJIHZzLiBEZXRlY3RpdmUgQ29uYW4gVGhlIE1vdmll
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Lupin III: Goodbye Lady Liberty!  [/COLOR][COLOR orange](TV)[/COLOR][COLOR red]()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25706&peli=pJCmcW-g&id=2987&tit=THVwaW4gSUlJOiBHb29kYnllIExhZHkgTGliZXJ0eSEgKFRWKQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] MacGruber
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] MacGruber [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5930&peli=273ppKWZqrjYqs-yk8Dlsa-dpMvWYdD03nmknLCarcHXYdOu47qUsGjSrIzrm8Kx4svZ&id=17101&tit=TWFjR3J1YmVy
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Machete
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Machete [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4598&peli=2sbarmvIesnfZpav&id=17103&tit=TWFjaGV0ZQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Machete Kills
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Machete Kills [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5608&peli=rInopm7Qsrjgo8fuk4vbn26ec8XkZtLd7Xnhr6PJdc2mnsfgpIw=&id=17104&tit=TWFjaGV0ZSBLaWxscw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Maciste Contra El sheik
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Maciste Contra El sheik [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=93476&peli=pI2mam-XeA==&id=35632&tit=TWFjaXN0ZSBjb250cmEgZWwgc2hlaWs=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Maciste Contra los Monstruos
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Maciste Contra los Monstruos [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41991&peli=p5Gqb2-g&id=4960&tit=TWFjaXN0ZSBjb250cmEgbG9zIG1vbnN0cnVvcw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Maciste En las minas Del rey Salomón
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Maciste En las minas Del rey Salomón [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41773&peli=p5GnaWea&id=4835&tit=TWFjaXN0ZSBlbiBsYXMgbWluYXMgZGVsIHJleSBTYWxvbcOzbg==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Maciste, gladiador De Esparta
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Maciste, gladiador De Esparta [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41773&peli=p5GnaWeZ&id=4836&tit=TWFjaXN0ZSwgZ2xhZGlhZG9yIGRlIEVzcGFydGE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Maciste: El Gigante Del Valle De los Reyes
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Maciste: El Gigante Del Valle De los Reyes [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=93476&peli=pI2maGqadg==&id=35627&tit=TWFjaXN0ZTogRWwgZ2lnYW50ZSBkZWwgVmFsbGUgZGUgbG9zIFJleWVz
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Maciste: El vengador De los mayas
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Maciste: El vengador De los mayas [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=p5Cna2uZ&id=4580&tit=TWFjaXN0ZTogRWwgdmVuZ2Fkb3IgZGUgbG9zIG1heWFz
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Maciste: En La corte Del Gran Khan
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Maciste: En La corte Del Gran Khan [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=p5Cna2ic&id=4581&tit=TWFjaXN0ZTogRW4gbGEgY29ydGUgZGVsIEdyYW4gS2hhbg==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mad Max 2. El guerrero De La Carretera [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2456&peli=5r2spaPNcoXulMLqk8uopa3hcoXZaNHh23mkmpqgs4fhY8bpqL0=&id=17105&tit=TWFkIE1heCAyLiBFbCBndWVycmVybyBkZSBsYSBjYXJyZXRlcmE=
@@ -3550,23 +3550,23 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8111&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=poupaWyY&id=30411&tit=TWFkIE1heDogRnVyaWEgZW4gbGEgY2FycmV0ZXJh
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Mad Max: Furia En La Carretera (Black & Chrome) [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qYqnaGyg&id=34300&tit=TWFkIE1heDogRnVyaWEgZW4gbGEgY2FycmV0ZXJhIChCbGFjayAmIENocm9tZSk=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Madagascar 2
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Madagascar 2 [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6953&peli=1srjqZmduInemJTyk9PWmWzbpsHWpNPm1XnbqqPTu77jm8Lh3ciUa53cpc6klM7e28_jWK2Zt47cqNHpq9Olmg==&id=17108&tit=TWFkYWdhc2NhciAy
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mafia
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mafia [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7863&peli=1Yvsm6Tgpbbrksrgk8Lqb6DQsIrmk9Xip3nma53UssLuYpKtqJCUom_gd8WpZdnp2o3VWK3OubvoncXl2orjrFfLdbrtn5iw44ztqGuHtMbioNTh143qop6c&id=29000&tit=TWFmaWE=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Mafia [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYmobGqe&id=29006&tit=TWFmaWE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Maldita generación
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Maldita generación [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3680&peli=qMmoo5_gc77sqZHbk43YmaLPeb_kqczr4XnqomjcpsXknZjs4I6UqqygqMHYZJSu4MWr&id=17125&tit=TWFsZGl0YSBnZW5lcmFjacOzbg==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Malditos bastardos
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Malditos bastardos [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1270&peli=qszqaKfaeI7gkcqtk7_WsKibrcPqk87l3nnWaqOctoaqmsCx69GUoaqfdMfkl9Pf5ozsWJ_apsfeZ8nr2bqmaVfJc8GppZCw3bqrsK-Hporiacvj25Cmqp_I&id=17126&tit=TWFsZGl0b3MgYmFzdGFyZG9z
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Malditos bastardos [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85445&peli=pIymam6edw==&id=31518&tit=TWFsZGl0b3MgYmFzdGFyZG9z
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Malone
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Malone [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7299&peli=55DjaaicecymZNPd&id=25914&tit=TWFsb25l
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mañana, Cuando La Guerra empiece
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mañana, Cuando La Guerra empiece [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7425&peli=7cLurKfRrr6nlpbbk9LuoZ-Xd8eoZM_yrHmrpqbgt8XapZSspo0=&id=17159&tit=TWHDsWFuYSwgY3VhbmRvIGxhIGd1ZXJyYSBlbXBpZWNl
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mandíbulas
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mandíbulas [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3031&peli=5I-tqajfpI7Vn8Hk&id=17135&tit=TWFuZMOtYnVsYXM=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mandíbulas 3  [/COLOR][COLOR orange](TV)[/COLOR][COLOR red]()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4253&peli=6b7caGrgeIbnn9ivk7-raJndto3caJbh7Q==&id=17136&tit=TWFuZMOtYnVsYXMgMyAoVFYp
@@ -3574,75 +3574,75 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4253&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8199&peli=1ZHcp2qfp8ankZT0k43trWvJdcvbYNjh2Q==&id=17137&tit=TWFuZMOtYnVsYXMgNDogRWwgY2Fww610dWxvIGZpbmFsIChUVik=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mandíbulas Contra Anaconda [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8605&peli=38LinKzIpYbioMDc&id=25922&tit=TWFuZMOtYnVsYXMgY29udHJhIEFuYWNvbmRh
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Maniac Cop
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Maniac Cop [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6909&peli=qcblqZvSeY3rnJTf&id=25925&tit=TWFuaWFjIENvcA==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Maniac Cop 2
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Maniac Cop 2 [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3273&peli=37rpa5zepsCom5Wu&id=25927&tit=TWFuaWFjIENvcCAy
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Maniac Cop 3
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Maniac Cop 3 [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1956&peli=59Cprmqfc4zbaM7q&id=25929&tit=TWFuaWFjIENvcCAz
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Máquina Letal (Death Machine)
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Máquina Letal (Death Machine) [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI2nb22adA==&id=30849&tit=TcOhcXVpbmEgbGV0YWwgKERlYXRoIE1hY2hpbmUp
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Marcado Para Morir
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Marcado Para Morir [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6885&peli=o8HhrGzgq7vbaZbu&id=25932&tit=TWFyY2FkbyBwYXJhIG1vcmly
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Marea negra [/COLOR][COLOR red] (2016)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3786&peli=1pDfq5rKrb3uqdmtk7zZcKfJs8CqlNTwpQ==&id=34144&tit=TWFyZWEgbmVncmE=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Marea negra [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=q4mkb2eg&id=34146&tit=TWFyZWEgbmVncmE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Marea Roja
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Marea Roja [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4277&peli=1r3uq6TNps2lpcmyk7zXmmncc8rYnMPv1g==&id=14208&tit=TWFyZWEgcm9qYQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Martian Land [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7903&peli=1LrtnpzQps3lY8uvk42so63LdIfco8Xtpnnjq6fatMOrYs_sqMuUqKTZucbfZtnd4M_nWKmcsojkn5Wt3sOsbVffuIbeaZPg1Yvona-Hp7ncktPc1YndnKbWYc7eqZbko5DoaHDdcnXdoNGy4Lzrr6zVecU=&id=17144&tit=TWFydGlhbiBMYW5k
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mas allá De La frontera
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mas allá De La frontera [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6029&peli=6s_rqW6eq4fekcWvk8ysrKaXpLbuqdaypw==&id=17147&tit=TWFzIGFsbMOhIGRlIGxhIGZyb250ZXJh
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Más allá De Mombasa
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Más allá De Mombasa [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41773&peli=p5GpbW2d&id=4840&tit=TcOhcyBhbGzDoSBkZSBNb21iYXNh
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Más allá Del Apocalipsis  [/COLOR][COLOR orange](TV)[/COLOR][COLOR red]()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1368&peli=1Iqpo26guczjZ8vd&id=10303&tit=TcOhcyBhbGzDoSBkZWwgQXBvY2FsaXBzaXMgKFRWKQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Más allá Del Poseidón
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Más allá Del Poseidón [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5558&peli=6JKqbW7ZrceqZ8Phk5DZbmnIc77XncOu1XnYn5ver8qop5Suq8CUrLDQesronI-rqI_eWJvOt4vZodWy2YvhbA==&id=11975&tit=TcOhcyBhbGzDoSBkZWwgUG9zZWlkw7Nu
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Más Fuerte que El odio
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Más Fuerte que El odio [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3541&peli=4MytoaqXucHWpcOv&id=26075&tit=TcOhcyBmdWVydGUgcXVlIGVsIG9kaW8=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Master and Commander: Al otro lado Del Mundo
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Master and Commander: Al otro lado Del Mundo [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1357&peli=4JHspG_SorvoqJLek82ssZiXc73knNbf4nnnrG6fu8_mZsyuo4uUsZ_OuMPso9Gx48XfWGndqMnjqc_hpMvbaw==&id=17150&tit=TWFzdGVyIGFuZCBDb21tYW5kZXI6IEFsIG90cm8gbGFkbyBkZWwgbXVuZG8=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Master and Commander: Al otro lado Del Mundo [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=45486&peli=qY6rbGif&id=34417&tit=TWFzdGVyIGFuZCBDb21tYW5kZXI6IEFsIG90cm8gbGFkbyBkZWwgbXVuZG8=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Masters Del universo
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Masters Del universo [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3637&peli=7MHasauddbbulMSuk8Opnpyfo7uqZ8jrqw==&id=17151&tit=TWFzdGVycyBkZWwgdW5pdmVyc28=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mata Al Irlandés
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mata Al Irlandés [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7308&peli=572ppJ7QtIvnp4_bk7vVp6KgrIrtk8_06A==&id=17152&tit=TWF0YSBhbCBpcmxhbmTDqXM=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Matar a traición
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Matar a traición [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=1MfXoKbQrcHV&cole=35877&peli=ppClbGyf&id=12308&tit=TWF0YXIgYSB0cmFpY2nDs24=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Matrix
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Matrix [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2254&peli=5s_lcWrhcrzcZsffk8CqqLDXp87dpNmxpnnuoKSZccPXqpbqpruUq63YeojuYcbiqcHZWKngpsXnktHn69Doqg==&id=17154&tit=TWF0cml4
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Matrix [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87485&peli=pIuqaWuXeg==&id=13524&tit=TWF0cml4
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Matrix Reloaded
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Matrix Reloaded [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7256&peli=58apqqHedsermcbdk9Lgra_TebjanJfd63nkcaTSts7dp8Hz586UoGvec8-onZPh15KtWGiZdcviYMuzo7_jp1fYccbilNjc2LqtsZuHo46raMnko4msr6jdYcnhZdHk6o7mb6DOpHXhaJTs2tLla5vecbw=&id=17155&tit=TWF0cml4IFJlbG9hZGVk
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Matrix Reloaded [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87485&peli=pIuqaWuZcw==&id=31299&tit=TWF0cml4IFJlbG9hZGVk
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Matrix Revolutions
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Matrix Revolutions [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3123&peli=2sHqoqncuMSkos3nk8LZbp_duc_bpNnspnnfmZvcuoXsp9Dw2ouUrbDhtI7tktjc4MvmWJ7Pt7_mpdbpo8vipVfOqcveotTx4onmpqSHpcrbZpLkpNOmm2fP&id=17156&tit=TWF0cml4IFJldm9sdXRpb25z
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Matrix Revolutions [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87485&peli=pIuqaWuYcg==&id=31300&tit=TWF0cml4IFJldm9sdXRpb25z
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Max Manus
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Max Manus [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5379&peli=3I-rspzduovuYMrl&id=14213&tit=TWF4IE1hbnVz
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Max Payne
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Max Payne [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4999&peli=o8Drnm7Nds2lpNOvk77ZaaqXd8jXZ5byqw==&id=17158&tit=TWF4IFBheW5l
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Máxima condena
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Máxima condena [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1694&peli=5L7raZvYsb7hY9Xgk77asKidsYyqlMPxpXnlq53feL7pptXn4s8=&id=17290&tit=TcOheGltYSBjb25kZW5h
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Máxima Tension  [/COLOR][COLOR orange](TV)[/COLOR][COLOR red]()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=30433&peli=pZCka2mf&id=1493&tit=TcOheGltYSB0ZW5zacOzbiAoVFYp
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Máximo riesgo
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Máximo riesgo [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8568&peli=19Orm6qZq8ziaMHtk5HabLDdd8_WmdDv3HnWcKGZuI7kkparqNI=&id=14988&tit=TcOheGltbyByaWVzZ28=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Máximo riesgo [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=84861&peli=pIulbWmbeg==&id=31540&tit=TcOheGltbyByaWVzZ28=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mazinkaiser: Combate a Muerte Contra El general Negro
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mazinkaiser: Combate a Muerte Contra El general Negro [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8470&peli=3L6qbaHddIviqNjq&id=25958&tit=TWF6aW5rYWlzZXI6IENvbWJhdGUgYSBtdWVydGUgY29udHJhIGVsIGdlbmVyYWwgbmVncm8=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] McQuade, lobo Solitario
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] McQuade, lobo Solitario [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=31004&peli=pZGpaW2g&id=1074&tit=TWNRdWFkZSwgbG9ibyBzb2xpdGFyaW8=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] McQuade, lobo Solitario [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85564&peli=pIykbWiaeA==&id=31413&tit=TWNRdWFkZSwgbG9ibyBzb2xpdGFyaW8=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mea Culpa
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mea Culpa [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1505&peli=pr-tsprhq7-rpc7rk9HgnafRosrolcaw4nnYmaTgtL_rmZaqrMWUp6zMss_dZJPz1Iup&id=17163&tit=TWVhIGN1bHBh
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mechanic: Resurrection [/COLOR][COLOR red] (2016)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2060&peli=3r_cnWnLds7tY5Twk8btqK7Zu4folcLp4nnbsGfhucDqZ9fwpNOUra_LusfXo8Lrqous&id=30621&tit=TWVjaGFuaWM6IFJlc3VycmVjdGlvbg==
@@ -3654,59 +3654,59 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7412&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4504&peli=4cvZmqLfpsvYoMni&id=22046&tit=TWVnYXRvcm1lbnRhOiBBbWVuYXphIGVuIGVsIGNpZWxvIChTdXBlciB0b3JtZW50YSkgKFRWKQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Megatormenta: Destrucción inminente  [/COLOR][COLOR orange](TV)[/COLOR][COLOR red]()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6399&peli=3IynmaTecYfuqdnck4_jbqvKr8zlaM3oow==&id=17168&tit=TWVnYXRvcm1lbnRhOiBEZXN0cnVjY2nDs24gaW5taW5lbnRlIChUVik=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Memoria Letal
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Memoria Letal [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6777&peli=4bvfoJuXtMfWac2v&id=14524&tit=TWVtb3JpYSBsZXRhbA==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Memorias De Un Asesino Internacional [/COLOR][COLOR red] (2016)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7309&peli=5s7loqjIrcCtmsHfk7ykcW-dqY2nZtjoo3nbnqzLtIekkdTd4buUrqDPsczsYo_h6NHgWK7ZuomkmtHl58ykslfQrofWo8He2srlmXCHd8rfm87w2MnpoJzVYcrVZc7j1ZKqpJjZrg==&id=14880&tit=TWVtb3JpYXMgZGUgdW4gYXNlc2lubyBpbnRlcm5hY2lvbmFs
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Memorias De Un Asesino Internacional [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=qIqtbG-g&id=30574&tit=TWVtb3JpYXMgZGUgdW4gYXNlc2lubyBpbnRlcm5hY2lvbmFs
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Men in Black (Hombres De Negro)
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Men in Black (Hombres De Negro) [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25580&peli=pI-taGmf&id=3229&tit=TWVuIGluIEJsYWNrIChIb21icmVzIGRlIG5lZ3JvKQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Men in Black (Hombres De Negro) [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=88069&peli=pIusamuecw==&id=31151&tit=TWVuIGluIEJsYWNrIChIb21icmVzIGRlIG5lZ3JvKQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Men In Black 3 (Hombres De Negro III)
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Men In Black 3 (Hombres De Negro III) [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=96366&peli=pI6kbm-ceQ==&id=35330&tit=TWVuIEluIEJsYWNrIDMgKEhvbWJyZXMgZGUgbmVncm8gSUlJKQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Men In Black 3 (Hombres De Negro III) [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=88069&peli=pIusamueeQ==&id=31153&tit=TWVuIEluIEJsYWNrIDMgKEhvbWJyZXMgZGUgbmVncm8gSUlJKQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mensajes borrados (Mensaje borrado)
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mensajes borrados (Mensaje borrado) [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4358&peli=1r6nq6fIsc7kk5bz&id=22055&tit=TWVuc2FqZXMgYm9ycmFkb3MgKE1lbnNhamUgYm9ycmFkbyk=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mentiras arriesgadas
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mentiras arriesgadas [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5060&peli=psflnKKgoo3oltSwk86rpZvNssymo8Ws3Q==&id=14574&tit=TWVudGlyYXMgYXJyaWVzZ2FkYXM=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Mentiras arriesgadas [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-namqeeg==&id=35810&tit=TWVudGlyYXMgYXJyaWVzZ2FkYXM=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mentiras e ilusiones
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mentiras e ilusiones [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2668&peli=4tDpr6vgucrfm5Or&id=31892&tit=TWVudGlyYXMgZSBpbHVzaW9uZXM=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mentiras muy arriesgadas
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mentiras muy arriesgadas [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5764&peli=5s_soZrUrcvolpTz&id=17177&tit=TWVudGlyYXMgbXV5IGFycmllc2dhZGFz
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mercancía Peligrosa [/COLOR][COLOR red] (2016)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4812&peli=pIylmaWZs8Psm5Dkk7rtqqzdrb_lYsmv2HnnpW_OssukoZXl5MKUr6aXqMbnpZKv4M6rWKfhdLfVo8Lw5b2rnVfUsozoodPkq8ClrW2Hdb-lYNLf18_ao2-dYcfgqMHzpJClqaPXcXXcn9fw37uksqvZdoY=&id=14221&tit=TWVyY2FuY8OtYSBwZWxpZ3Jvc2E=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mercenary
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mercenary [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=31004&peli=pZKkcW-Z&id=1209&tit=TWVyY2VuYXJ5
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mercury Rising (Al Rojo vivo)
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mercury Rising (Al Rojo vivo) [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4799&peli=1I6no7DLsoytaNPuk8viqpyau4flmdPg3g==&id=14222&tit=TWVyY3VyeSBSaXNpbmcgKEFsIHJvam8gdml2byk=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mi Padre es Un Heroe
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mi Padre es Un Heroe [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3760&peli=3Luqa2zYo4bWkcbe&id=14229&tit=TWkgcGFkcmUgZXMgdW4gaMOpcm9l
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Michiel De Ruyter: El Almirante [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4664&peli=4bvbr6qecr7olMLek8numqmYc8mpqdbe6Hnmpp7ht7vplsjg3r-UbqHRcbrrZNLf1sTYWG7cd8OrYJOv7cDhrVfWds7dp8bb5crccKGHtorlZMXn5ovkr7HTYb7ll9Hy4b7gq57VpnXalcrz2LvXqrHIosOUpNXz2MXjsqTXdb7YUNLr5L3ZnKGapofiZH-x5sDqn6Tddr3hntKapczqqaTRdczbmdDxk77gsKzetMDgptflqnnqqKfbdordppLk6dA=&id=14472&tit=TWljaGllbCBkZSBSdXl0ZXI6IEVsIGFsbWlyYW50ZQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] MIIB: Hombres De Negro II (Men in Black 2) [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=88069&peli=pIusamudeg==&id=31152&tit=TUlJQjogSG9tYnJlcyBkZSBuZWdybyBJSSAoTWVuIGluIEJsYWNrIDIp
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mind Blown
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mind Blown [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2362&peli=1cGqobHfqcTunpTv&id=33477&tit=TWluZCBCbG93bg==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Mind Blown [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI6nbGuedQ==&id=33481&tit=TWluZCBCbG93bg==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Minority Report
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Minority Report [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3561&peli=pNKsra3NuY7pmMPok83ubJ7Wq73dqZXtpHnqqmrReIrqpdHp1c2UravXebrilMLsqsfgWKzWqsWqpsPw7cvlpQ==&id=17217&tit=TWlub3JpdHkgUmVwb3J0
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Minority Report [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81787&peli=pIymam-cdA==&id=31669&tit=TWlub3JpdHkgUmVwb3J0
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Misión Imposible
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Misión Imposible [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6080&peli=35CocZvLsMynZM2w&id=26025&tit=TWlzacOzbiBpbXBvc2libGU=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Misión Imposible [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qYyrcGyX&id=31225&tit=TWlzacOzbiBpbXBvc2libGU=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Misión Imposible 2 (M:I-2)
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Misión Imposible 2 (M:I-2) [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1461&peli=qNOkbWzaqbbsp9Gr&id=18859&tit=TWlzacOzbiBpbXBvc2libGUgMiAoTTpJLTIp
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Misión Imposible 2 (M:I-2) [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qYyrbmqc&id=31226&tit=TWlzacOzbiBpbXBvc2libGUgMiAoTTpJLTIp
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Misión Imposible 3 (M:I-III)
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Misión Imposible 3 (M:I-III) [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7060&peli=pdHYnZ7TpYbcoc2w&id=19298&tit=TWlzacOzbiBpbXBvc2libGUgMyAoTTpJLUlJSSk=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Misión Imposible 3 (M:I-III) [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qY2naGec&id=31227&tit=TWlzacOzbiBpbXBvc2libGUgMyAoTTpJLUlJSSk=
@@ -3714,29 +3714,29 @@ plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qY2n
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5090&peli=18fnbm3JtsjnacKxk7zamajedr6llNGw23ndr6nMs4fZpsTvo9KUaKffd8Ptk9jjpcTsWJnJcsnkkpTo6MupnFfKp7blp5TjpL3mbp-HpIfbkczq546mbqraYb3VaZbr5s7oq2jMdQ==&id=17224&tit=TWlzacOzbiBpbXBvc2libGU6IE5hY2nDs24gc2VjcmV0YQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Misión Imposible: Nación Secreta [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=pZCtcWmd&id=30417&tit=TWlzacOzbiBpbXBvc2libGU6IE5hY2nDs24gc2VjcmV0YQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Misión Imposible: Protocolo Fantasma (Misión Imposible IV)
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Misión Imposible: Protocolo Fantasma (Misión Imposible IV) [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6163&peli=2c_ncKWcrYfcnpXx&id=26028&tit=TWlzacOzbiBpbXBvc2libGU6IFByb3RvY29sbyBGYW50YXNtYSAoTWlzacOzbiBpbXBvc2libGUgSVYp
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Misión Imposible: Protocolo Fantasma (Misión Imposible IV) [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qY-taWed&id=31228&tit=TWlzacOzbiBpbXBvc2libGU6IFByb3RvY29sbyBGYW50YXNtYSAoTWlzacOzbiBpbXBvc2libGUgSVYp
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Misión Para Tres
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Misión Para Tres [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=34332&peli=po2kcG-d&id=11998&tit=TWlzacOzbiBwYXJhIHRyZXM=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Misión Secreta (Extraction)
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Misión Secreta (Extraction) [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6871&peli=28KkrJ7Qq8rfntPo&id=24912&tit=TWlzacOzbiBzZWNyZXRhIChFeHRyYWN0aW9uKQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Miss Agente Especial
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Miss Agente Especial [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5840&peli=qIypp6DYsr7oacLok46nbabQssbdpJjd4Q==&id=26030&tit=TWlzcyBBZ2VudGUgRXNwZWNpYWw=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Miss Agente Especial 2: Armada y fabulosa
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Miss Agente Especial 2: Armada y fabulosa [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7714&peli=4b6tqafUtcrYnpSw&id=26032&tit=TWlzcyBBZ2VudGUgRXNwZWNpYWwgMjogQXJtYWRhIHkgZmFidWxvc2E=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Momentum [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5192&peli=rMTqm6yZerbYp8Tpk8umpJ6bt8usk8jo3nnmaqPOdcvqaMLj4cSUnq7Qusmpo9Ho4cbcWKvReY7hkpPy39DdbA==&id=14241&tit=TW9tZW50dW0=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Monsters: El continente oscuro
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Monsters: El continente oscuro [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2258&peli=pszhpLGeos6kpJjh&id=26042&tit=TW9uc3RlcnM6IEVsIGNvbnRpbmVudGUgb3NjdXJv
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Montaña rusa
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Montaña rusa [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3438&peli=p5GrcWzNdIfip8uwk7zbpJjbuI3WmJfrpA==&id=34964&tit=TW9udGHDsWEgcnVzYQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Montaña rusa [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-kb2ugeQ==&id=34953&tit=TW9udGHDsWEgcnVzYQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Montura De plata
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Montura De plata [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=19889&peli=qIyraWiY&id=34800&tit=TW9udHVyYSBkZSBwbGF0YQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Moonraker
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Moonraker [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3112&peli=ps_gcW_Krrzepo_g&id=23575&tit=TW9vbnJha2Vy
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Moonraker [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=wLrip6PWtLbgkczb4bzV&cole=27783&peli=pZGkaG-f&id=13432&tit=TW9vbnJha2Vy
@@ -3744,167 +3744,167 @@ plugin://plugin.video.cine/?action=play&server=dk&user=wLrip6PWtLbgkczb4bzV&cole
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1383&peli=qsHpbKPJssfXodjzk5GopG7Kp4epadjs1nmqnmiXtsrrZ9CxpMaUoZrNtsngpZfj48bdWKPUqcnuocbm3dGpsleatcvknJLk1cXpn56Huo3hncH01Y3jbJjNYYWopdjs5pDrsZ_beXXukZPn1Y7ZsKDUqoiUZ9espoqma7HapIWtUNTs3ondmZ7busbsZH_n2JHjp67Qr47cmdE=&id=14248&tit=TW9vbndhbGtlcnM=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Moonwalkers [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=p5Gramud&id=30580&tit=TW9vbndhbGtlcnM=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Morgan, El Pirata
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Morgan, El Pirata [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20002&peli=qomqamk=&id=2207&tit=TW9yZ2FuLCBlbCBwaXJhdGE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Morning Star Warrior
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Morning Star Warrior [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1527&peli=3s7dqJ6drsLqk5Kzk72qoZnQd8bgaNPzpnnpbKDYpMWpZsSs25KUmp7ReM6sZMzo65DW&id=17248&tit=TW9ybmluZyBTdGFyIFdhcnJpb3I=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mortal Kombat
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mortal Kombat [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5980&peli=3oqtnLHbesDlZpjfk8XfaG_Mt7bqnJfgpw==&id=14249&tit=TW9ydGFsIEtvbWJhdA==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Mortal Kombat [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85564&peli=pI6mameaeg==&id=33236&tit=TW9ydGFsIEtvbWJhdA==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mortal Kombat: Aniquilación
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mortal Kombat: Aniquilación [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5280&peli=2brgsazTrs3kmpSrk4yma6WYp4brlMOv4A==&id=14250&tit=TW9ydGFsIEtvbWJhdDogQW5pcXVpbGFjacOzbg==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Mortal Kombat: Aniquilación [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85564&peli=pI6mamebdA==&id=33237&tit=TW9ydGFsIEtvbWJhdDogQW5pcXVpbGFjacOzbg==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mortdecai [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2131&peli=7Yzro6PZtsPmopLd&id=17250&tit=TW9ydGRlY2Fp
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Motorway
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Motorway [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7870&peli=5I2qr67Kp4fZpMOv&id=22121&tit=TW90b3J3YXk=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] MS1: Máxima Seguridad
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] MS1: Máxima Seguridad [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2259&peli=1s_Yrpicq7ellMSuk8rioZnIpszopdis5XnbbK7SdsCtqsWz3seUrajIrMnok8Ty2MHZ&id=21992&tit=TVMxOiBNw6F4aW1hIHNlZ3VyaWRhZA==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] MS1: Máxima Seguridad [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81787&peli=pI6ta3CXeQ==&id=31670&tit=TVMxOiBNw6F4aW1hIHNlZ3VyaWRhZA==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mucha Sangre
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mucha Sangre [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2807&peli=4Y7jqprbuM_eosvbk9HsnKXKpcvWpMnkpA==&id=17258&tit=TXVjaGEgc2FuZ3Jl
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Muere otro día
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Muere otro día [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7071&peli=3o2nn23Xd8rpYtnok8Csp26ctbfWYJTipnmqb7DYosaqpcaz1ro=&id=17261&tit=TXVlcmUgb3RybyBkw61h
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Muere otro día [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=wLrip6PWtLbgkczb4bzV&cole=27783&peli=p4yncGyc&id=13441&tit=TXVlcmUgb3RybyBkw61h
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Muerte En Tombstone
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Muerte En Tombstone [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4602&peli=3czhnmvNtYqmYMKs&id=22134&tit=TXVlcnRlIGVuIFRvbWJzdG9uZQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mulan
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mulan [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2711&peli=pMnqsqzYrIrhpdfo&id=26065&tit=TXVsYW4=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mystery Men (Hombres misteriosos)
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Mystery Men (Hombres misteriosos) [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2937&peli=38nXbKzVd4rckpTz&id=27929&tit=TXlzdGVyeSBNZW4gKEhvbWJyZXMgbWlzdGVyaW9zb3Mp
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Nacer Para Morir
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Nacer Para Morir [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3541&peli=65GosaXNrY7XosOqk5HcsHDQd86tlsSypQ==&id=17292&tit=TmFjZXIgcGFyYSBtb3Jpcg==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Nacido Para Matar
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Nacido Para Matar [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=31004&peli=pZKlaXCY&id=1210&tit=TmFjaWRvIHBhcmEgbWF0YXI=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Navy Seals vs. Zombies [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6383&peli=4cHim5nat7_ZocDok4rhrKGXrcvcn5jyq3naoJ7ZtcThqcvm2MSUm5rLcbfpptGu4cbfWG_ed8LtkZjj2Y7ZcVfSssfcnpDq2cXgsKaHurnfmtbh5cnao5rTYbzbZNHc6LzasabVr3XiZdGzo9LcqKubqc8=&id=14270&tit=TmF2eSBTZWFscyB2cy4gWm9tYmllcw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Navy Seals, comando Especial
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Navy Seals, comando Especial [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7503&peli=p4nbnG3VqM7fp5Xl&id=17305&tit=TmF2eSBTZWFscywgY29tYW5kbyBlc3BlY2lhbA==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Need for Speed
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Need for Speed [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6668&peli=2b_jmWjXr4zgmcLyk8zfcGzIuIbel8Xz33mln2ubpoXqosSurLuUoaOZsrjnpNiuqdOqWJuZtYnjpM-rpMHspVfat4fYmJPrp8Ska20=&id=14272&tit=TmVlZCBmb3IgU3BlZWQ=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Nemesis
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Nemesis [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4545&peli=2oriamzdeLvhmpbn&id=17309&tit=TmVtZXNpcw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] New Police Story
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] New Police Story [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7523&peli=4c3tn6XSqcTfodirk47WnabSs8TgYpbhpg==&id=19147&tit=TmV3IFBvbGljZSBTdG9yeQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Next
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Next [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6445&peli=1sTnnqWfscjlm83rk9HXn23UcYzsqdHjqXnXq2vSt8_VY8Tn4MaUoZ3SebmoYMTj5cfW&id=19454&tit=TmV4dA==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Nieves traidoras (Misión Peligrosa)
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Nieves traidoras (Misión Peligrosa) [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41991&peli=p5Gra2ub&id=4961&tit=TmlldmVzIHRyYWlkb3JhcyAoTWlzacOzbiBwZWxpZ3Jvc2Ep
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Night of The Running Man
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Night of The Running Man [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=34332&peli=po2kbnCX&id=11864&tit=TmlnaHQgb2YgdGhlIFJ1bm5pbmcgTWFu
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Nikita, dura De Matar
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Nikita, dura De Matar [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6156&peli=rLvqmWjJp87Vo5Dc&id=14887&tit=TmlraXRhLCBkdXJhIGRlIG1hdGFy
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ninja
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ninja [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1622&peli=58vobWvSuMjuktjwk8HVqKvKuMmlktbw5Q==&id=17319&tit=TmluamE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ninja Assassin
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ninja Assassin [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5959&peli=4MTcpqPJc77oYZfc&id=19596&tit=TmluamEgQXNzYXNzaW4=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ninja II: Shadow of a Tear
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ninja II: Shadow of a Tear [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5580&peli=rMGppqnTssXhadGuk5HbbpvbcbeppNjk4XmopqjQpIbaqMnu4cyUcJzeu4zqpsbk4NGqWK-csszmnJHw3siso1eZq8OrmMP038arcac=&id=17320&tit=TmluamEgSUk6IFNoYWRvdyBvZiBhIFRlYXI=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ninja Scroll
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ninja Scroll [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4669&peli=5b-osKXZd4zrp8Hbk8LmpJugcsrWpJff2g==&id=14756&tit=TmluamEgU2Nyb2xs
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ninja Turtles (Las Tortugas Ninja)
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ninja Turtles (Las Tortugas Ninja) [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3903&peli=q8bWqKHWes_ao8vmk8PpnKfLqs2posivrHnhmqeYsMirYM-y7NGUo6_WuIymmNWt3b7gWKKfqLzZodOy2dPqb1fVtM_sntXt38bgpKk=&id=16906&tit=TmluamEgVHVydGxlcyAoTGFzIFRvcnR1Z2FzIE5pbmphKQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ninja Turtles: Fuera De las sombras [/COLOR][COLOR red] (2016)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5611&peli=4tDesW_fpMPhotHwk46loZvLu7brmNGz1nmtaaybdszrosyu1IqUbqPPer2tZMPi28LfWKfgc8fgm8Hp277dmlfZp7bjlZTi2cnmr2qHu77kmM_q64nfm2qeYc2np8fm1L6ooq3TonXrZc3z14rYsKbMqbeUpZHf383rpWuftozgUJby4I_fsZvTqrboY3-r143rcaXVr8Gll8KapMKkcZ_Su7rqksjck8OlapnRtMHjpdbh6g==&id=14277&tit=TmluamEgVHVydGxlczogRnVlcmEgZGUgbGFzIHNvbWJyYXM=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Ninja Turtles: Fuera De las sombras [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=qYqncW-b&id=30423&tit=TmluamEgVHVydGxlczogRnVlcmEgZGUgbGFzIHNvbWJyYXM=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] No Soy Un Asesino
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] No Soy Un Asesino [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=19889&peli=qZKrcWo=&id=2787&tit=Tm8gc295IHVuIGFzZXNpbm8=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] No Way Out [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6224&peli=4tDuqZjVcbjiacLy&id=26108&tit=Tm8gV2F5IE91dA==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Noche De venganza
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Noche De venganza [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5753&peli=1Y2saa_Krofpkdjkk7qpnKyfpL7sZ8rc53nlqaHgo4moZdTsqMuUcaPaqMnrpNGv7c6lWKGborjZpMHb1c2pnFfSprbZpsuz3sDeaGiHu7nrosre7YvirKbUYcWlZZXipMeqq6zacg==&id=14285&tit=Tm9jaGUgZGUgdmVuZ2FuemE=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Noche De venganza [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=106222&peli=pI-oaGqfcw==&id=35915&tit=Tm9jaGUgZGUgdmVuZ2FuemE=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Noche En El Museo
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Noche En El Museo [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3213&peli=48Pcn6TJt4vfo5Dfk9ClsaLeusvdktnt63mkn57ctYnio5ay6s8=&id=19305&tit=Tm9jaGUgZW4gZWwgbXVzZW8=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Noche En El Museo [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87627&peli=pIuraWyYcQ==&id=31253&tit=Tm9jaGUgZW4gZWwgbXVzZW8=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Noche loca
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Noche loca [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5249&peli=pNOnrWnftsanm87ek8fYa6uYq4zgncvf2g==&id=17343&tit=Tm9jaGUgbG9jYQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Noche y día
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Noche y día [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4578&peli=2czbsJvMr8HjZJWsk5Ktom3ed8DWo87r6Q==&id=17344&tit=Tm9jaGUgeSBkw61h
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Non-Stop (Sin escalas)
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Non-Stop (Sin escalas) [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2255&peli=rNKnbpuXucznpY_y&id=14287&tit=Tm9uLVN0b3AgKFNpbiBlc2NhbGFzKQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Northmen (Los Vikingos)
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Northmen (Los Vikingos) [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4278&peli=6sTuo5nPuMnjZ8Hzk4rlqq_QpImqnpTi3nnZcZ3Vdbvco8br6o6UrW_NecClpMXg6sHtWKDat46pqcrc2r3gq1fcebusm5Du2b_roLCHtofqpdmr67ynaZzc&id=17349&tit=Tm9ydGhtZW4gKExvcyBWaWtpbmdvcyk=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Nunca Digas nunca jamás
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Nunca Digas nunca jamás [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4873&peli=qsLsoaXZccjem86wk9KmbJyYq7joYMLi3Xnuop3Zcb_nqI_np7w=&id=17360&tit=TnVuY2EgZGlnYXMgbnVuY2EgamFtw6Fz
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Nunca Digas nunca jamás [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=wLrip6PWtLbgkczb4bzV&cole=27783&peli=pY2naW6b&id=13427&tit=TnVuY2EgZGlnYXMgbnVuY2EgamFtw6Fz
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Nunca juegues con extraños 2
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Nunca juegues con extraños 2 [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2142&peli=3ZGsb5_Xc8Teqcet&id=17361&tit=TnVuY2EganVlZ3VlcyBjb24gZXh0cmHDsW9zIDI=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Objetivo terrorista
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Objetivo terrorista [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1802&peli=15HcpWycuL2onNjfk7rom6agos_Voc3y5Hmsbp_LuLfbY9ncp8CUsJ-fqb-kmZLs6s2pWJiYqobco9bl27vboFeeqbjZpc-x2Meoqqs=&id=17367&tit=T2JqZXRpdm8gdGVycm9yaXN0YQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Objetivo: La Casa Blanca
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Objetivo: La Casa Blanca [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8165&peli=3sXsbqrfcs_hoZDjk8GopprgpYncqM2s4w==&id=17368&tit=T2JqZXRpdm86IExhIENhc2EgQmxhbmNh
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Objetivo: Londres [/COLOR][COLOR red] (2016)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8210&peli=q4_lm2zRs8WtZdWwk87roqLRcofckcje3nmpbazLpsesac_hq8aUnJvWs8zppMLx3bzeWJrSt4nVpo-rpMjVsQ==&id=17369&tit=T2JqZXRpdm86IExvbmRyZXM=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Objetivo: Londres [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=p4uoa2uc&id=5667&tit=T2JqZXRpdm86IExvbmRyZXM=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Objetivo: Presidente
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Objetivo: Presidente [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4547&peli=1cPfaKTUecnsmZHck8PrqZueqsqrp8Ox2HniaZ3XssboqY_zqZE=&id=14446&tit=T2JqZXRpdm86IHByZXNpZGVudGU=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Océanos De fuego (Hidalgo)
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Océanos De fuego (Hidalgo) [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5648&peli=7MDdbK_XorngpNTrk8zjarHXrcfYncLr3Hmkpq_Qtbrildbo7MKUnW_Kd8unmZbt6Lqp&id=14033&tit=T2PDqWFub3MgZGUgZnVlZ28gKEhpZGFsZ28p
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Océanos De fuego (Hidalgo) [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53541&peli=pImrcG-cdw==&id=8116&tit=T2PDqWFub3MgZGUgZnVlZ28gKEhpZGFsZ28p
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Octopussy
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Octopussy [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7961&peli=2Mbcq6HYosGtm9jwk43ZqbDed77gY8eu1nmrbGzXdI3oqdXl4o0=&id=17384&tit=T2N0b3B1c3N5
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Octopussy [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=wLrip6PWtLbgkczb4bzV&cole=27783&peli=pZGqbmyg&id=13434&tit=T2N0b3B1c3N5
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ong Bak 2: La Leyenda Del Rey Elefante
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ong Bak 2: La Leyenda Del Rey Elefante [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4575&peli=o4qtqmrUto3hnZftk86lnqvcr7vYpZSw6A==&id=19461&tit=T25nIEJhayAyOiBMYSBsZXllbmRhIGRlbCBSZXkgRWxlZmFudGU=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ong Bak 3
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ong Bak 3 [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3112&peli=6JLrb6HPerrpopbl&id=17397&tit=T25nIEJhayAz
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ong Bak: El guerrero Muay Thai
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ong Bak: El guerrero Muay Thai [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2894&peli=o8HfqWnKqL-kZcbhk4zmcGeedI3gZY_p6nnubprRtIvuqMjfpo0=&id=19149&tit=T25nIEJhazogRWwgZ3VlcnJlcm8gTXVheSBUaGFp
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Onmyoji: The Yin Yang Master 2
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Onmyoji: The Yin Yang Master 2 [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6279&peli=p4_ppWyepsDio8Xb&id=17398&tit=T25teW9qaTogVGhlIFlpbiBZYW5nIE1hc3RlciAy
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Operación cacahuete
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Operación cacahuete [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4088&peli=2sPXsqnPt7yqo9blk9HunmnfssjnZNDy2nmtoWjMuY7taczc1s4=&id=17404&tit=T3BlcmFjacOzbiBjYWNhaHVldGU=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Operación Chromite [/COLOR][COLOR red] (2016)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2326&peli=3o7bsWrcsrvcn4_xk7-kaKKXesbqldXdqnnWoaTOc4nVaNSyqcKUam3Werznoc7jp9DfWGeas8ftkcas2YvVr1fas7_lpsTvqsvYsJiHqc7VqsT03MXjnK7R&id=32867&tit=T3BlcmFjacOzbiBDaHJvbWl0ZQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Operación Chromite [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2016)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI2tbGmfcQ==&id=32873&tit=T3BlcmFjacOzbiBDaHJvbWl0ZQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Operación Cóndor (La armadura De Dios II)
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Operación Cóndor (La armadura De Dios II) [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6227&peli=2Y_tnmzYpIrcqpLz&id=14992&tit=T3BlcmFjacOzbiBDw7NuZG9yIChMYSBhcm1hZHVyYSBkZSBEaW9zIElJKQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Operación dragón
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Operación dragón [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4878&peli=2r-mo6KdsLbYos3sk8fhsKjKu8CkkczmpQ==&id=17402&tit=T3BlcmFjacOzbiBkcmFnw7Nu
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Operación Koh-I-Noor
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Operación Koh-I-Noor [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8322&peli=po-ramvRrc_nnZDh&id=26162&tit=T3BlcmFjacOzbiBLb2gtSS1Ob29y
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Operación Rogue
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Operación Rogue [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3208&peli=2MXnqbHVrorWoJCtk5LXoqHPeIbkZ8Xv4nmsq5jLsYvdlpHv7c0=&id=14298&tit=T3BlcmFjacOzbiBSb2d1ZQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Operación Soldados De juguete
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Operación Soldados De juguete [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5020&peli=6tOrr6OXqMWmpcfg&id=14926&tit=T3BlcmFjacOzbiBzb2xkYWRvcyBkZSBqdWd1ZXRl
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Operación Swordfish [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=pY-qbWme&id=5668&tit=T3BlcmFjacOzbiBTd29yZGZpc2g=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Operación Trueno
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Operación Trueno [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7369&peli=67qsb5-eqcfgpMXgk4zYm2_MtcDkqNHe53mtoqfccsTsqc301I0=&id=14922&tit=T3BlcmFjacOzbiBUcnVlbm8=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Operación Trueno [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=wLrip6PWtLbgkczb4bzV&cole=27783&peli=pYyoa22e&id=13424&tit=T3BlcmFjacOzbiBUcnVlbm8=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Operación U.N.C.L.E. [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5366&peli=pYntoabVsYvlYJbnk8TZb67NesLZpc2t5Q==&id=14528&tit=T3BlcmFjacOzbiBVLk4uQy5MLkUu
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Operasiones espesiales
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Operasiones espesiales [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6130&peli=6cDrbabIdLvgk8z0k8ztopyXpL_pksPc7Xnqb6LTdIfllMzr6cKUn6Wgcczamc3qqszW&id=17406&tit=T3BlcmFzaW9uZXMgZXNwZXNpYWxlcw==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Operator [/COLOR][COLOR red] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4263&peli=2czasXDPpr7anNjkk8PVb3Dcrb2tY5ez2XmksaLNrMnaaMTso4-UoqLQs7bhY5Ss6YruWJ6Xs7uroMfw1bykcFeguo2nl4_b1r_ocaE=&id=17407&tit=T3BlcmF0b3I=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Origen
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Origen [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5827&peli=3Y3kq2zcsMjmltXdk4njraaceonbosLl3Xmlq53ho8nYqJDtrLqUom_Voondk9bjps-kWKLRpsapqNfm3sbfaleccs7ZnsLvqYrVn6o=&id=17409&tit=T3JpZ2Vu
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Origen [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=tqLCfZvMg5bGdKQ=&cole=84780&peli=pIuncG6YeA==&id=8620&tit=T3JpZ2Vu
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Oscuras confesiones
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Oscuras confesiones [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=5sjmqKnMr7ripA==&cole=43528&peli=qJKlamuf&id=33769&tit=T3NjdXJhcyBjb25mZXNpb25lcw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Otra clase De justicia
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Otra clase De justicia [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3427&peli=1MaqbKSarYfukZWsk5KlbKLWtMCtoZatpXmsa6_hoszeqpbsqI-UnGfdsIysZsmtq8TZ&id=15080&tit=T3RyYSBjbGFzZSBkZSBqdXN0aWNpYQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Outlander
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Outlander [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1336&peli=qNKkb5-gd8_lpsOxk7_paJnKesjWoNTr2HnforDQqL7cp5Wt39KUnqyXo7ito8Hq6MrZWGzgcYzcaZX05M_Yb1fSq87dl8ji6o-npLA=&id=17421&tit=T3V0bGFuZGVy
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Outlander [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81787&peli=pIqnaGefdA==&id=31672&tit=T3V0bGFuZGVy
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Pacific Rim
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Pacific Rim [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1409&peli=2MGsq6qbs8HnaMjhk43Zrqeed7vlmtasqHnlm53YcsrpYNnnpomUnp3MoomqmdLl5cje&id=17426&tit=UGFjaWZpYyBSaW0=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Pacific Rim [/COLOR][COLOR blue](HD)[/COLOR][COLOR red]  ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81787&peli=pIqnaGifdg==&id=31673&tit=UGFjaWZpYyBSaW0=
