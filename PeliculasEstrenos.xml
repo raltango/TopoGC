@@ -29,25 +29,26 @@
 <channels>
  
 <channel>
-<name>[COLOR white]• [/COLOR][COLOR blue]El Bar[/COLOR] HD</name>
-<thumbnail>https://pics.filmaffinity.com/el_bar-629716188-mmed.jpg</thumbnail>
+<name>[COLOR white]• [/COLOR][COLOR blue]DOCTOR STRANGE[/COLOR] HD</name>
+<thumbnail></thumbnail>
 <fanart></fanart>
 <item>
 
 
 <item>
-<title>[COLOR white]• [/COLOR][COLOR blue]El Bar[/COLOR] HD</title>
+<title>[COLOR white]• [/COLOR][COLOR blue]DOCTOR STRANGE[/COLOR] HD</title>
                         <fanart></fanart>
-                        <thumbnail>https://pics.filmaffinity.com/el_bar-629716188-mmed.jpg</thumbnail>
-                        <link>http://1fiagej.oloadcdn.net/dl/l/pkEwFjQzeixOi90H/RIj5grVBMvU/3l.b4r.2017.hdrip.720p.castellano.mp4</link>
-                        <info>9:00 horas. Un grupo de personas absolutamente heterogéneo desayuna en un bar en el centro de Madrid. Uno de ellos tiene prisa; al salir por la puerta recibe un disparo en la cabeza. Nadie se atreve a socorrerle. Están atrapados(YANKIEFLIXTV)</info>
+                        <thumbnail></thumbnail>
+                        <link>https://openload.co/f/c3JyXhb9xlU/Doctor.Strange.%5BDoctor.Extranyo%5D_%5Bwww.DNPelis.Com%5D.avi.mp4</link>
+                        <info></info>
 </items>
  
 </items>
 </channels>
  
  
- 
+ #EXTINF:-1 group-title="PELICULAS MARVEL COMICS EN CASTELLANO",
+https://openload.co/f/c3JyXhb9xlU/Doctor.Strange.%5BDoctor.Extranyo%5D_%5Bwww.DNPelis.Com%5D.avi.mp4
  
  
 <channels>
