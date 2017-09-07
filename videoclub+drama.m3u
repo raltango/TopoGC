@@ -3680,7 +3680,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7066&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4211&peli=2cbbcaLPd4nhp8Hrk7qlqW-atsvbp9Tt2nniraTQr8zko83e2Y6UcKGfuozXZ8Xxo7rhWJ7gqL3fYpLx2tCtpQ==&id=16066&tit=RWwgc2VjcmV0byBkZSBBZGFsaW5l
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El Secreto De las calaveras De cristal [/COLOR][COLOR orange] (TV) [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2493&peli=4Mvbqq2ccYvolNjmk8Tlp5jZsM7oZZfz7XnlrW3Ztbnok8Hq1MuUqKfecovWp8Tu2YutWGngqYfkpM3s28Too1eZur2moNPo5cHfrKI=&id=15603&tit=RWwgc2VjcmV0byBkZSBsYXMgY2FsYXZlcmFzIGRlIGNyaXN0YWwgKFRWKQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] El Secreto De las calaveras De cristal [/COLOR][COLOR orange] (TV)[/COLOR] [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] ()[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] El Secreto De las calaveras De cristal [/COLOR][COLOR orange] (TV)[/COLOR][COLOR blue](HD) [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=qYqlamed&id=30320&tit=RWwgc2VjcmV0byBkZSBsYXMgY2FsYXZlcmFzIGRlIGNyaXN0YWwgKFRWKQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El Secreto De Los Hermanos Grimm [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7365&peli=5brYbLHVpI3iadavk9HgmprYr77eo8SrpnnqcZidsr6plJKupMs=&id=16072&tit=RWwgc2VjcmV0byBkZSBsb3MgaGVybWFub3MgR3JpbW0=
@@ -4152,7 +4152,7 @@ plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&p
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=qoukcWo=&id=2053&tit=RXNjcml0byBiYWpvIGVsIHNvbA==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Escuadrilla heroica [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=qoukcWg=&id=2055&tit=RXNjdWFkcmlsbGEgaGVyb2ljYQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Escuadrón De combate 332 [/COLOR][COLOR orange] (TV)[/COLOR] [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] ()[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Escuadrón De combate 332 [/COLOR][COLOR orange] (TV)[/COLOR][COLOR blue](HD) [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI2ob2mcdQ==&id=30967&tit=RXNjdWFkcsOzbiBkZSBjb21iYXRlIDMzMiAoVFYp
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Escucha Mi Cancion [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=35940&peli=ppCscGmd&id=232&tit=RXNjdWNoYSBtaSBjYW5jacOzbg==
@@ -6620,7 +6620,7 @@ plugin://plugin.video.cine/?action=play&server=cp&user=vai5ammYc4yr&cole=50026&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5095&peli=18OlbWfVusnuqsLbk83do7GadsfWZ9Kw3A==&id=21893&tit=TG9uZHJlczogRGlzdHJpdG8gY3JpbWluYWw=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Looking: The Movie [/COLOR][COLOR orange] (TV) [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5661&peli=4M3um5_SosDlktDr&id=28940&tit=TG9va2luZzogVGhlIE1vdmllIChUVik=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Looking: The Movie [/COLOR][COLOR orange] (TV)[/COLOR] [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] ()[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Looking: The Movie [/COLOR][COLOR orange] (TV)[/COLOR] [COLOR blue](HD) [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qJKrb22g&id=28942&tit=TG9va2luZzogVGhlIE1vdmllIChUVik=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Lore [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8116&peli=7JDacarOdMTbmdH0k8nWommgprzinZaq6nnkrKzVqcrWnJPt6L-Ua2nOsLvdnsPn4rqkWKLbrLioo8Dy3sTiqg==&id=14177&tit=TG9yZQ==
@@ -8938,7 +8938,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4801&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20003&peli=qomrbm8=&id=2172&tit=VGVtcGVzdGFkIHNvYnJlIGVsIE5pbG8=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Temple Grandin [/COLOR][COLOR orange] (TV) [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=5M7dpZzbdog=&cole=37929&peli=p4mnamug&id=11660&tit=VGVtcGxlIEdyYW5kaW4gKFRWKQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Temple Grandin [/COLOR][COLOR orange] (TV)[/COLOR] [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] ()[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Temple Grandin [/COLOR][COLOR orange] (TV)[/COLOR] [COLOR blue](HD) [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qpKpa2mb&id=34096&tit=VGVtcGxlIEdyYW5kaW4gKFRWKQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ten Un poco De fe, De Mitch Albom [/COLOR][COLOR orange] (TV) [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5934&peli=6srormvecbfgmcaw&id=22660&tit=VGVuIHVuIHBvY28gZGUgZmUsIGRlIE1pdGNoIEFsYm9tIChUVik=
@@ -9448,7 +9448,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=380
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42683&peli=qIqtaG-e&id=13342&tit=VW4gY2Fmw6kgZW4gY3VhbHF1aWVyIGVzcXVpbmE=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Un cambio De aires [/COLOR][COLOR orange] (TV) [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1535&peli=4c7isamcsbjXopLnk9HWo5nKuYqqZ8bv23mmqG6crcGppY_x5cuUbqyfrbqlY8Ku6sPZWKXSsofpmcit48Xmag==&id=14867&tit=VW4gY2FtYmlvIGRlIGFpcmVzIChUVik=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Un cambio De aires [/COLOR][COLOR orange] (TV)[/COLOR] [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] ()[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Un cambio De aires [/COLOR][COLOR orange] (TV)[/COLOR] [COLOR blue](HD) [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=487XoKzVqMSoYw==&cole=43317&peli=qIqlanCd&id=13589&tit=VW4gY2FtYmlvIGRlIGFpcmVzIChUVik=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Un Castillo En Italia [/COLOR][COLOR red] ()[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI2nbmmbdQ==&id=30803&tit=VW4gY2FzdGlsbG8gZW4gSXRhbGlh
