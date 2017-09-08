@@ -486,7 +486,10 @@ plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5897&peli=3byqoW6Zo8XbmM_lk8Duop3eu77Zosvo5A==&id=35727&tit=QW5vbnltb3Vz
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Anonymous [/COLOR][COLOR blue](HD) [/COLOR][COLOR green] (Drama)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=64736&peli=q4ytcGie&id=35740&tit=QW5vbnltb3Vz
-
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Barry [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6166&peli=3JDaa2nYer7gqpPkk5HYrJnVdbmtktHc4nnapZnVtMXppsHoqr-UpqzVs8mkZ4_q7cLmWGnaqYesZsHepcmoqA==&id=28782&tit=QmFycnk=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Barry [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qJKoaWiZ&id=28868&tit=QmFycnk=
 
 
 
