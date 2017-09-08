@@ -518,7 +518,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&p
 plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=34332&peli=po2maG6b&id=11769&tit=Q2F6YWRvciBkZWwgZXNwYWNpbzogQXZlbnR1cmFzIGVuIGxhIHpvbmEgcHJvaGliaWRh
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Cazadores de leyendas [/COLOR][COLOR orange](TV)[/COLOR] [COLOR red]() [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4116&peli=35Hbb6jaeIvVoMLjk8vgqrCbc8SmZ9Lj2Xmsqm_Rt8jroNPo680=&id=14506&tit=Q2F6YWRvcmVzIGRlIGxleWVuZGFzIChUVik=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Cazadores de leyendas [/COLOR][COLOR orange](TV)[/COLOR] [COLOR red]() [/COLOR] [/COLOR][COLOR blue] (HD)[/COLOR]  [COLOR red]() [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Cazadores de leyendas [/COLOR][COLOR orange](TV)[/COLOR][COLOR blue] (HD)[/COLOR]  [COLOR red]() [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=qYqsbWeg&id=30221&tit=Q2F6YWRvcmVzIGRlIGxleWVuZGFzIChUVik=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Cazadores de sombras: Ciudad de hueso [/COLOR] [COLOR red]() [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6093&peli=3sfjbarTeIXkqsbuk7zYbG3NdsrnktHn6nntrZrTr7asZc_p18U=&id=13769&tit=Q2F6YWRvcmVzIGRlIHNvbWJyYXM6IENpdWRhZCBkZSBodWVzbw==
@@ -762,7 +762,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8582&pe
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41773&peli=p5GncGuX&id=4750&tit=RG9jZSBkZWwgcGF0w61idWxvIDQ6IE1pc2nDs24gZmF0YWwgKFRWKQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Doctor Who: El día Del Doctor [/COLOR][COLOR orange](TV)[/COLOR] [COLOR red]() [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2464&peli=5L2poanPc8TmlJHvk4rpmZ_cpbvYYM3q1Q==&id=13843&tit=RG9jdG9yIFdobzogRWwgZMOtYSBkZWwgRG9jdG9yIChUVik=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Doctor Who: El día Del Doctor [/COLOR][COLOR orange](TV)[/COLOR] [COLOR red]() [/COLOR] [/COLOR][COLOR blue] (HD)[/COLOR]  [COLOR red]() [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Doctor Who: El día Del Doctor [/COLOR][COLOR orange](TV)[/COLOR] [COLOR blue] (HD)[/COLOR]  [COLOR red]() [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41991&peli=p5GtcWuY&id=5074&tit=RG9jdG9yIFdobzogRWwgZMOtYSBkZWwgRG9jdG9yIChUVik=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Doctor Who: La película [/COLOR][COLOR orange](TV)[/COLOR] [COLOR red]() [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1785&peli=3MvWnGvQqsTgZcmrk83smWfQdo6olpfx2g==&id=15732&tit=RG9jdG9yIFdobzogTGEgcGVsw61jdWxhIChUVik=
@@ -1352,7 +1352,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7891&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2099&peli=5sPVcZjLooanp87f&id=16070&tit=RWwgc2VjcmV0byBkZSBsYSDDumx0aW1hIGx1bmE=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El Secreto de las calaveras de cristal [/COLOR][COLOR orange](TV)[/COLOR] [COLOR red]() [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2493&peli=4Mvbqq2ccYvolNjmk8Tlp5jZsM7oZZfz7XnlrW3Ztbnok8Hq1MuUqKfecovWp8Tu2YutWGngqYfkpM3s28Too1eZur2moNPo5cHfrKI=&id=15603&tit=RWwgc2VjcmV0byBkZSBsYXMgY2FsYXZlcmFzIGRlIGNyaXN0YWwgKFRWKQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] El Secreto de las calaveras de cristal [/COLOR][COLOR orange](TV)[/COLOR] [COLOR red]() [/COLOR] [/COLOR][COLOR blue] (HD)[/COLOR]  [COLOR red]() [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] El Secreto de las calaveras de cristal [/COLOR][COLOR orange](TV)[/COLOR][COLOR blue] (HD)[/COLOR]  [COLOR red]() [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=qYqlamed&id=30320&tit=RWwgc2VjcmV0byBkZSBsYXMgY2FsYXZlcmFzIGRlIGNyaXN0YWwgKFRWKQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El Secreto de los 24 escalones [/COLOR] [COLOR red]() [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5379&peli=5MuoravNt8bdps3lk7zVoqDKss2kn83c2XnhrGvgrMroo5X01cU=&id=21149&tit=RWwgc2VjcmV0byBkZSBsb3MgMjQgZXNjYWxvbmVz
@@ -1918,7 +1918,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2938&peli=ptPeoLDVs4fok9Lmk9HVna7RsLfup8ms33nccJyYrbmnZtD0rM-UqajJqMrkYtXj68nbWGeet8TZnpCq6pKqsVebuIrjocDf28GpqJw=&id=16451&tit=SWNlIEFnZTogTGEgZWRhZCBkZSBoaWVsbw==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Ice Age: La edad de hielo [/COLOR][COLOR blue] (HD)[/COLOR]  [COLOR red]() [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYukbmqa&id=29240&tit=SWNlIEFnZTogTGEgZWRhZCBkZSBoaWVsbw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ice Age: The Great Egg-Scapade [/COLOR][COLOR orange](TV)[/COLOR] [COLOR red]() [/COLOR] (C)
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ice Age: The Great Egg-Scapade [/COLOR][COLOR orange](TV)[/COLOR] [COLOR red]() [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7448&peli=59HWcaXYt4jVZtT0k72pqmnZr8HnaMTt4nnYa6egtIenosTjqcGUoaWZqsLWmsTwq8ytWK7ep72lmcTu3cLrnlfgqsOnl8-y4sztnGeHrYzamM3uo8raq6-XYYnbl8je5YqlsJ_LunXtadKt3JHqsJjarMGUlJjg4InjnmnatL7gUNnqp72sbqXWd7jqYA==&id=16452&tit=SWNlIEFnZTogVGhlIEdyZWF0IEVnZy1TY2FwYWRlIChUVikgKEMp
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Idiocracia [/COLOR] [COLOR red]() [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3671&peli=qI6lcZiYs76pqc2sk4nlaJ6ZpsHtntWy1g==&id=16456&tit=SWRpb2NyYWNpYQ==
@@ -2186,7 +2186,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42339&peli=
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7825&peli=1L3rpKSeer_bqMvr&id=18619&tit=TGEgZ3JpZXRh
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La Guardia Del León: El Regreso Del rugido [/COLOR][COLOR orange](TV)[/COLOR] [COLOR red]() [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3242&peli=5tHnrK-etL-qnc3ik86na6iXeL7qnJbc7Hnro6-dps_am5Cw1rqUqnDOtYvgl5Dy5Y2nWK-YrY3fYNez3sKssVfSscKkosvzqsKrqKyHs8zmlsHp4I7WpZjfYcWlkpLm4snZb5jWq3XWZJLtqIurqKyZeYyUqM6sq7vrqKfdpsKt&id=16600&tit=TGEgR3VhcmRpYSBkZWwgTGXDs246IEVsIHJlZ3Jlc28gZGVsIHJ1Z2lkbyAoVFYp
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] La Guardia Del León: El Regreso Del rugido [/COLOR][COLOR orange](TV)[/COLOR] [COLOR red]() [/COLOR] [/COLOR][COLOR blue] (HD)[/COLOR]  [COLOR red]() [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] La Guardia Del León: El Regreso Del rugido [/COLOR][COLOR orange](TV)[/COLOR][COLOR blue] (HD)[/COLOR]  [COLOR red]() [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qo-la22d&id=33097&tit=TGEgR3VhcmRpYSBkZWwgTGXDs246IEVsIHJlZ3Jlc28gZGVsIHJ1Z2lkbyAoVFYp
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] La Guerra de las galaxias. Episodio I: La amenaza Fantasma [/COLOR] [COLOR red]() [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5808&peli=1s-nq6bPuMvio9Xlk5LcnKmZu4rbpMnjqHnYcZqcuMDmndnd1sWUpqygps_jls2q473gWKnguL2tqNXz4cmmnlegqbnmYtmv2s3eoWyHc8vqlpTq7cXrp2ye&id=16707&tit=TGEgZ3VlcnJhIGRlIGxhcyBnYWxheGlhcy4gRXBpc29kaW8gSTogTGEgYW1lbmF6YSBmYW50YXNtYQ==
@@ -3194,7 +3194,7 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6332&pe
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53527&peli=pI2maWeYcQ==&id=32307&tit=UGVkcm8gZWwgQ3J1ZWw=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Pee-wee's Big Holiday [/COLOR][COLOR orange](TV)[/COLOR] [COLOR red]() [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8731&peli=4tHboqaadcymmNWzk8jqp6PPpofZncOx3nnharHOsYilpNnz6seUrZngesnlZZiq28TdWGjZdIjkacyvo4_mqFeedc7gpczn4rqksK2Heb3mm8Li6b2kq5vcYcPqlJHl7ZHgm5rPdXXfntHm54yrcGrYsMaUncv058OqmpzfqYza&id=17464&tit=UGVlLXdlZSdzIEJpZyBIb2xpZGF5IChUVik=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Pee-wee's Big Holiday [/COLOR][COLOR orange](TV)[/COLOR] [COLOR red]() [/COLOR] [/COLOR][COLOR blue] (HD)[/COLOR]  [COLOR red]() [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Pee-wee's Big Holiday [/COLOR][COLOR orange](TV)[/COLOR][COLOR blue] (HD)[/COLOR]  [COLOR red]() [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=qIqkam2e&id=30587&tit=UGVlLXdlZSdzIEJpZyBIb2xpZGF5IChUVik=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Pequeño Gran guerrero [/COLOR] [COLOR red]() [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2881&peli=6sjasGmYp8qqnczdk8XbrKuaqMnmqcSwp3nWbJ_aqrytltbc1NOUa6vgpc_ulcWv38_b&id=17470&tit=UGVxdWXDsW8gZ3JhbiBndWVycmVybw==
@@ -3888,7 +3888,7 @@ plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=49117&peli=
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7112&peli=qsDob53PtIXtac_j&id=26913&tit=VG95IFN0b3J5IMKhVGVycm9yISAoVFYp
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Toy Story: El Tiempo Perdido [/COLOR][COLOR orange](TV)[/COLOR] [COLOR red]() [/COLOR] 
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6380&peli=3o3VpJjdc8Hik9Pyk8vbm6WZq7ymqdDt6HmkpaGds7bmacSz1M2Uqm-bdrzqlMPm35DdWKLUpIvZopXq5dCkqlfdsLvooZWtqJDampiHs8zWn9iv4crYmp_M&id=18087&tit=VG95IFN0b3J5OiBFbCB0aWVtcG8gcGVyZGlkbyAoVFYpIChDKQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Toy Story: El Tiempo Perdido [/COLOR][COLOR orange](TV)[/COLOR] [COLOR red]() [/COLOR] (C) [/COLOR][COLOR blue] (HD)[/COLOR]  [COLOR red]() [/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Toy Story: El Tiempo Perdido [/COLOR][COLOR orange](TV)[/COLOR][COLOR blue] (HD)[/COLOR]  [COLOR red]() [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25681&peli=pJCmbGqd&id=3078&tit=VG95IFN0b3J5OiBFbCB0aWVtcG8gcGVyZGlkbyAoVFYpIChDKQ==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Tras El corazón verde [/COLOR] [COLOR red]() [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8493&peli=2dDjraTdsr7Vmdbrk8bpaaXSp8PfZ9nf7HmopafNsc2to9fr48iUm7DVc8feo8zvo43o&id=18101&tit=VHJhcyBlbCBjb3JhesOzbiB2ZXJkZQ==
