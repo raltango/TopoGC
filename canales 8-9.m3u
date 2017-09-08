@@ -1,0 +1,377 @@
+#EXTM3U
+#EXTINF:-1,ES: ANDALUCIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/315.ts
+#EXTINF:-1,ES: LA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/337.ts
+#EXTINF:-1,ES: LA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/336.ts
+#EXTINF:-1,ES: #O
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/349.ts
+#EXTINF:-1,ES: 40 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/317.ts
+#EXTINF:-1,ES: A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/316.ts
+#EXTINF:-1,ES: AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/348.ts
+#EXTINF:-1,ES: Antena 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/187.ts
+#EXTINF:-1,ES: AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/347.ts
+#EXTINF:-1,ES: AXN WHITE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/346.ts
+#EXTINF:-1,ES: BARCA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/882.ts
+#EXTINF:-1,ES: B31N La Liga HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/264.ts
+#EXTINF:-1,ES: B31N Sp0rts SPAIN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/160.ts
+#EXTINF:-1,ES: BOING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/345.ts
+#EXTINF:-1,ES: CALLE 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/344.ts
+#EXTINF:-1,ES: COCINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/343.ts
+#EXTINF:-1,ES: COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/342.ts
+#EXTINF:-1,ES: COSMO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/341.ts
+#EXTINF:-1,ES: CRIMEN INVESTIGACION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/313.ts
+#EXTINF:-1,ES: CUATRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/340.ts
+#EXTINF:-1,ES: DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/314.ts
+#EXTINF:-1,ES: DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/312.ts
+#EXTINF:-1,ES: DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/311.ts
+#EXTINF:-1,ES: DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/310.ts
+#EXTINF:-1,ES: DIVINITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/309.ts
+#EXTINF:-1,ES: ENERGY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/308.ts
+#EXTINF:-1,ES: FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/307.ts
+#EXTINF:-1,ES: FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/306.ts
+#EXTINF:-1,ES: FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/339.ts
+#EXTINF:-1,ES: GOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/265.ts
+#EXTINF:-1,ES: HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/305.ts
+#EXTINF:-1,ES: HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/338.ts
+#EXTINF:-1,ES: La Sexta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/188.ts
+#EXTINF:-1,ES: LaLigaTV BAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/161.ts
+#EXTINF:-1,ES: M20
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/304.ts
+#EXTINF:-1,ES: M6 MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/303.ts
+#EXTINF:-1,ES: Mega
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/263.ts
+#EXTINF:-1,ES: MOVISTAR  DEPORTES 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/159.ts
+#EXTINF:-1,ES: MOVISTAR ACCION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/156.ts
+#EXTINF:-1,ES: MOVISTAR COMEDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/335.ts
+#EXTINF:-1,ES: MOVISTAR DCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/334.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTES 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/333.ts
+#EXTINF:-1,ES: MOVISTAR ESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/332.ts
+#EXTINF:-1,ES: Movistar F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/189.ts
+#EXTINF:-1,ES: MOVISTAR FUTBOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/158.ts
+#EXTINF:-1,ES: MOVISTAR GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/157.ts
+#EXTINF:-1,ES: MOVISTAR MOTO GP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/331.ts
+#EXTINF:-1,ES: MOVISTAR PARTIDAZO HD (Solo Eventos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/302.ts
+#EXTINF:-1,ES: MOVISTAR PARTIDAZO HD OP2  (Solo Eventos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/301.ts
+#EXTINF:-1,ES: MOVISTAR SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/330.ts
+#EXTINF:-1,ES: MOVISTAR SERIES XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/329.ts
+#EXTINF:-1,ES: MOVISTAR XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/328.ts
+#EXTINF:-1,ES: NAT GEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/327.ts
+#EXTINF:-1,ES: NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/326.ts
+#EXTINF:-1,ES: NEOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/300.ts
+#EXTINF:-1,ES: NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/325.ts
+#EXTINF:-1,ES: NON STOP PEOPLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/299.ts
+#EXTINF:-1,ES: NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/324.ts
+#EXTINF:-1,ES: ODISEA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/298.ts
+#EXTINF:-1,ES: PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/297.ts
+#EXTINF:-1,ES: PARAMOUNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/296.ts
+#EXTINF:-1,ES: Real Madrid TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/183.ts
+#EXTINF:-1,ES: SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/323.ts
+#EXTINF:-1,ES: TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/322.ts
+#EXTINF:-1,ES: TELECINCO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/321.ts
+#EXTINF:-1,ES: TELEDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/320.ts
+#EXTINF:-1,ES: TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/319.ts
+#EXTINF:-1,ES: TOROSTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/155.ts
+#EXTINF:-1,ES: VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/295.ts
+#EXTINF:-1,ES: VIAJAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/318.ts
+#EXTINF:-1,ES: VIRGIN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/294.ts
+#EXTINF:-1,ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/89.ts
+#EXTINF:-1,ESPN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/90.ts
+#EXTINF:-1,ESPN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/86.ts
+#EXTINF:-1,ESPN ARGENTINA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/494.ts
+#EXTINF:-1,ESPN 2 ARGENTINA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/495.ts
+#EXTINF:-1,ESPN 3 ARGENTINA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/496.ts
+#EXTINF:-1,ESPN Plus Argentina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/959.ts
+#EXTINF:-1,ESPN Deportes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/239.ts
+#EXTINF:-1,ESPN Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/85.ts
+#EXTINF:-1,Estrellas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/9.ts
+#EXTINF:-1,FilmZone
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/73.ts
+#EXTINF:-1,Foro TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/10.ts
+#EXTINF:-1,Fox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/16.ts
+#EXTINF:-1,Fox Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/66.ts
+#EXTINF:-1,Fox Action op2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/991.ts
+#EXTINF:-1,Fox Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/68.ts
+#EXTINF:-1,Fox Classics
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/69.ts
+#EXTINF:-1,FOX Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/150.ts
+#EXTINF:-1,FOX Deportes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/240.ts
+#EXTINF:-1,FOX Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/210.ts
+#EXTINF:-1,Fox Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/35.ts
+#EXTINF:-1,Fox Movies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/67.ts
+#EXTINF:-1,Fox SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/25.ts
+#EXTINF:-1,Fox Series
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/65.ts
+#EXTINF:-1,Fox Sports Argentina HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/292.ts
+#EXTINF:-1,Fox Sports 2 Argentina HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/493.ts
+#EXTINF:-1,Fox Sports 3 Argentina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/960.ts
+#EXTINF:-1,Fox Sports Mexico HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/964.ts
+#EXTINF:-1,Fox Sports Uruguay HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/958.ts
+#EXTINF:-1,Fox Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/87.ts
+#EXTINF:-1,Fox Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/88.ts
+#EXTINF:-1,Fox Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/278.ts
+#EXTINF:-1,FOX SPORTS SUR (CHILE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/121.ts
+#EXTINF:-1,FOX SPORTS 2 SUR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/127.ts
+#EXTINF:-1,FX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/20.ts
+#EXTINF:-1,FX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/30.ts
+#EXTINF:-1,Gala TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/11.ts
+#EXTINF:-1,Glitz
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/34.ts
+#EXTINF:-1,Golden
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/72.ts
+#EXTINF:-1,Golden Edge
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/79.ts
+#EXTINF:-1,GolTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/260.ts
+#EXTINF:-1,H2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/140.ts
+#EXTINF:-1,HBO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/125.ts
+#EXTINF:-1,HBO FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/124.ts
+#EXTINF:-1,HBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/123.ts
+#EXTINF:-1,HBO PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/126.ts
+#EXTINF:-1,HBO PLUS OESTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/122.ts
+#EXTINF:-1,HBO Signature
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/112.ts
+#EXTINF:-1,History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/53.ts
+#EXTINF:-1,Investigation Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/31.ts
+#EXTINF:-1,iSat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/83.ts
+#EXTINF:-1,Lifetime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/60.ts
+#EXTINF:-1,MAX UP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/151.ts
+#EXTINF:-1,MAX Prime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/498.ts
+#EXTINF:-1,MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/96.ts
+#EXTINF:-1,MTV hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/97.ts
+#EXTINF:-1,MTV Live HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/93.ts
+#EXTINF:-1,Multimedios
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/15.ts
+#EXTINF:-1,MundoFOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/212.ts
+#EXTINF:-1,NatGeo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/54.ts
+#EXTINF:-1,National Geographic Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/59.ts
+#EXTINF:-1,Nick Jr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/42.ts
+#EXTINF:-1,Nick2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/45.ts
+#EXTINF:-1,Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/46.ts
+#EXTINF:-1,NickToons
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/44.ts
+#EXTINF:-1,Paramount
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/213.ts
+#EXTINF:-1,PE: AMERICA TELEVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/101.ts
+#EXTINF:-1,PE: ATV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/139.ts
+#EXTINF:-1,PE: Movistar Deportes || CMD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/235.ts
+#EXTINF:-1,PE: Frecuencia Latina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/1045.ts
+#EXTINF:-1,PE: GolPeru
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/234.ts
+#EXTINF:-1,PE: Panamericana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/238.ts
+#EXTINF:-1,PE: Peru Magico
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/233.ts
+#EXTINF:-1,PE: TV Peru
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/237.ts
+#EXTINF:-1,PR: ABC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/867.ts
+#EXTINF:-1,PR: MegaTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/865.ts
+#EXTINF:-1,PR: NBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/866.ts
+#EXTINF:-1,PR: Telemundo 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/504.ts
+#EXTINF:-1,PR: Univision
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/864.ts
+#EXTINF:-1,PR: Wapa 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/863.ts
+#EXTINF:-1,PR: Wapa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/503.ts
+#EXTINF:-1,RD: Digital 15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/250.ts
+#EXTINF:-1,RD: Teleantillas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/249.ts
+#EXTINF:-1,RD: Telecentro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/248.ts
+#EXTINF:-1,RD: Telenord 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/247.ts
+#EXTINF:-1,RD: Telenord 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/246.ts
+#EXTINF:-1,RD: Telesistema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/245.ts
+#EXTINF:-1,RD: Teletica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/242.ts
+#EXTINF:-1,RD: Teleunion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/244.ts
+#EXTINF:-1,RD: Teleuniverso
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/243.ts
+#EXTINF:-1,Ritmoson
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/99.ts
+#EXTINF:-1,SKYSports 16 (solo eventos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/267.ts
+#EXTINF:-1,SKYSports 17 (solo eventos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/266.ts
+#EXTINF:-1,SKYSports 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/268.ts
+#EXTINF:-1,Sony
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/17.ts
+#EXTINF:-1,Space
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/76.ts
+#EXTINF:-1,Space SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/81.ts
+#EXTINF:-1,Studio Universal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/82.ts
+#EXTINF:-1,SyFy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/29.ts
+#EXTINF:-1,TBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/37.ts
+#EXTINF:-1,TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/84.ts
+#EXTINF:-1,TDN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/143.ts
+#EXTINF:-1,Teleformula
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/14.ts
+#EXTINF:-1,Telehit
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/94.ts
+#EXTINF:-1,Telemundo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/146.ts
+#EXTINF:-1,Telemundo Internacional
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/147.ts
+#EXTINF:-1,Telemundo USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/1994.ts
+#EXTINF:-1,TIIN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/50.ts
+#EXTINF:-1,TLC Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/64.ts
+#EXTINF:-1,TLnovelas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/38.ts
+#EXTINF:-1,TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/71.ts
+#EXTINF:-1,TNT Series
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/32.ts
+#EXTINF:-1,Tooncast
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/51.ts
+#EXTINF:-1,Tru TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/22.ts
+#EXTINF:-1,TVE Internacional
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/92.ts
+#EXTINF:-1,UFC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/116.ts
+#EXTINF:-1,UK: B0X N4t10n
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/173.ts

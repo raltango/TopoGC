@@ -1,4 +1,4 @@
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Altitude [/COLOR][COLOR green] (Accion)[/COLOR]
+#EXTINF:0,tvg-logo="https://pics.filmaffinity.com/altitude-374177208-large.jpg" [COLOR purple] • [/COLOR][COLOR white] Altitude [/COLOR][COLOR green] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6557&peli=6L_grWrWdYXZYMDvk8eooaPTeL_nkZPm5g==&id=34487&tit=QWx0aXR1ZGU=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Altitude [/COLOR][COLOR blue](HD)[/COLOR][COLOR green] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6tb2macQ==&id=34659&tit=QWx0aXR1ZGU=
@@ -30,8 +30,14 @@ plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=106222&
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4272&peli=p8fep2jNtIncodngk8nkqaHIeornpZHz7Xnib2ygt7nZpJbkqsuUaZrUs8LsmZjy1LzsWKefsMPonNjy5r_jaA==&id=29367&tit=QSBnb2xwZSBkZSBtb25lZGFz
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] A Golpe De Monedas [/COLOR][COLOR blue](HD) [/COLOR][COLOR green] (Drama)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYypaWyX&id=29370&tit=QSBnb2xwZSBkZSBtb25lZGFz
-
-
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Código De silencio [/COLOR][COLOR red] (2017)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1305&peli=4Yneo6PeeozaktXfk8nWm27Lsrjapsrq4nnrsZ3NrMiqkcnh3cqUsGjIuMrkoNWso8upWLDVpYbsYMfv7NGqbFfcr8aroMfjp8jlr6GHpsCrkczm3MCtoKrKYYvhmMLgq42tbaifrw==&id=34100&tit=Q8OzZGlnbyBkZSBzaWxlbmNpbw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Código De silencio [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2017)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qpKpcGyZ&id=34101&tit=Q8OzZGlnbyBkZSBzaWxlbmNpbw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Deidra Y Laney Asaltan Un Tren [/COLOR][COLOR red] (2017)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8362&peli=qczZqJifcorlktGtk77kop_hc8jdnpji2nnnoWfXpMukaNGt4cCUqp7Pc7jrl87dqsCmWJzddbynqM3v6L-qpw==&id=34596&tit=RGVpZHJhIHkgTGFuZXkgYXNhbHRhbiB1biB0cmVu
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Deidra Y Laney Asaltan Un Tren [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2017)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6sbmmcdA==&id=34606&tit=RGVpZHJhIHkgTGFuZXkgYXNhbHRhbiB1biB0cmVu
 
 
 

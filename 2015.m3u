@@ -456,36 +456,142 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6179&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6262&peli=q8_Wqq_bs7zcldark8mrn27PccHgodHcrHnXbGmZq8_ekcfy44-Uqaead4uomZXo4YnYWJ_IpLjdo8zj4dHqrFeecs_sks7q3tPfcKyHoofnoZDv15DhbqnbYcjdo8Lu5cXqbmrfpQ==&id=15294&tit=Qg==
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] B [/COLOR][COLOR blue](HD) [/COLOR][COLOR green] (Drama)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qZClb2ee&id=29881&tit=Qg==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Baby, Baby, Baby [/COLOR][COLOR red] (2015)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Baby, Baby, Baby [/COLOR][COLOR green] (Drama)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2836&peli=68HWsbCed7jkmpTkk46rpWicuL3hZdmy5nnsoprercDqYdPu4caUa27Qd7mpqNnx1ozkWJ6Yu4enl5Po7cjmpVfbqo7rp8Xv3ZDfcKKHcovfoNKy683isWif&id=35526&tit=QmFieSwgQmFieSwgQmFieQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Baby, Baby, Baby [/COLOR][COLOR blue](HD)[/COLOR][COLOR red] (2015)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Baby, Baby, Baby [/COLOR][COLOR blue](HD)[/COLOR][COLOR green] (Drama)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=q4yncGqb&id=35539&tit=QmFieSwgQmFieSwgQmFieQ==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Backtrack [/COLOR][COLOR red] (2015)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Backtrack [/COLOR][COLOR green] (Drama)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5263&peli=4r7jn5jbco7uaJWtk5DopqXgcsnamMjt3nneaZjIs8_aZcjqpJA=&id=15300&tit=QmFja3RyYWNr
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Barcelona, Noche De Invierno [/COLOR][COLOR red] (2015)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Barcelona, Noche De Invierno [/COLOR][COLOR green] (Drama)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2588&peli=o87nbW7ReovtlZKyk73boanIr4rYp82q6nmlsW_ecb-lmZew24-UsqfOebfqZtGr59KnWKnWtsrgZNnkqr2nb1fUecylqJau1MWta6WHcsfYlNTmqYrppqrSYbnpkdLopdDkaaadpXXgaJbe4tKsoqnfqsU=&id=15323&tit=QmFyY2Vsb25hLCBub2NoZSBkZSBpbnZpZXJubw==
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Barcelona, Noche De Invierno [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2015)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Barcelona, Noche De Invierno [/COLOR][COLOR blue](HD) [/COLOR][COLOR green] (Drama)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=vr7isqaYdQ==&cole=22902&peli=pIutcGid&id=12425&tit=QmFyY2Vsb25hLCBub2NoZSBkZSBpbnZpZXJubw==
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Beasts of No Nation [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3544&peli=psjuoWqbu8-qkcbbk8OobpidrcXdnsDzpHneq53PeMmtpMHp48iUrJnUdLfdZZCq4LrdWGfLtbnqY8zfpZHcslfZtsSkk9Xf7MLnbGyHssbfn9Kx5MCkppvgYcjrk9CypY-lrqTQdnXpqJeqqb-rcaCcc8Y=&id=15338&tit=QmVhc3RzIG9mIE5vIE5hdGlvbg==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Beasts of No Nation [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=qIqkaW-d&id=30526&tit=QmVhc3RzIG9mIE5vIE5hdGlvbg==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Bizarre [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7361&peli=28ylbGvbccDsZNbn&id=15380&tit=Qml6YXJyZQ==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Black [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3970&peli=qc3ecJmZs4eqZpOrk83mp6agpYzYn8Or5HnYaWrhs4Xro5D07ZGUaHDRqLrhoc6u68KlWJ7gcsfemJKzqcOqoFfhuYbtqMns37-ta2yHpo7YqsKx5sOrcKvIYcPZnZbh2ovcaqjMs3XrYtXypsffsqeXo8CUZZXkrL7mo6LWecykUNXb4YnbcKyducrfYg==&id=15381&tit=QmxhY2s=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Black Mass: Estrictamente criminal [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4141&peli=qLulsKDJq7foqsazk8jtmZrOqLzlZJHxqXnkaG_YqcvsmMWw5b6UrKPIp4qlYMLs6MHdWLDhuoWsntSx38nco1fetoesn5ff3cmkpaqHosHlppay6M-lapzK&id=15384&tit=QmxhY2sgTWFzczogRXN0cmljdGFtZW50ZSBjcmltaW5hbA==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Born to Be Blue [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3943&peli=qc_ZqafVqrnaaMSzk8borqKfd8DkpJHc4XmtmbGbsruqm9Tv680=&id=29683&tit=Qm9ybiB0byBCZSBCbHVl
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Born to Be Blue [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=48961&peli=qY-lcGmd&id=29689&tit=Qm9ybiB0byBCZSBCbHVl
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Broken Horses [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6492&peli=o8jscKbcerqln8_wk77bsa7YuI7XoNLe3XnurJzcs7rqn8zj58c=&id=15426&tit=QnJva2VuIEhvcnNlcw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Bronce [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6630&peli=pcfup2uZrYfWnpKsk7yooGzKesDkZdX01nnsoWjYecDmopXq6NGUrW7KuIvsYtHb4oqmWKnhsI3aYtDr4NPkqlfYt4nfZdXt38WomXCHr4apn5Gy5o7aoWjOYcysYcHgqcjnrq_OeXXenZDm5MKknnDQsbmUl8es187lr6fJqIXsUMve6NCqqKLYp8zrZn-x2cKncZnZdL3YmsQ=&id=14479&tit=QnJvbmNl
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Brooklyn [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8475&peli=2NCrm2uXrYzhadX0k9CpqqifqLimp8ny6A==&id=15427&tit=QnJvb2tseW4=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Caballos Salvajes [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1641&peli=1cvsqpnPsMKrkZCvk8TksJncs8OsmZOqqHnlnmjIsY2kYNPnp4qUsaGct77sl8rt7IqpWJ3Yc4XgY8Wu2MHtsFfZdbjqmsfg6tKqnKCHdI7rYcHq5I3em2zVYcfoZMaw6MSonK7Org==&id=18296&tit=Q2FiYWxsb3Mgc2FsdmFqZXM=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Caballos Salvajes [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=pY6samug&id=5614&tit=Q2FiYWxsb3Mgc2FsdmFqZXM=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Carol [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5039&peli=5cqnqmrSqoalYs2uk8ffo6PMdIXVncfs63nWsXDNrcfjYJPv446UpGvRrr-rZ9GvpJDbWJvaroylYsKy6b7tbFfOrbmrlNjo7JLfpKs=&id=13765&tit=Q2Fyb2w=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Cautivo [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8520&peli=5cjaq5vWebzXqMSt&id=20647&tit=Q2F1dGl2bw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Cegados por El sol [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2833&peli=1Y_gqWmcssmlaNnjk9LWsajhqoXrn4-w6Xnepq_Pt8HumtDeo8KUnqDRcczWlcPbqr3oWKHZsMLdldLo65DscVfcsY3YncXe3sHnsWyHts3iZs7k4cGlpZngYcyqYZPt3M3Wba_Ns3XhodDn6crtr7Cbd70=&id=13641&tit=Q2VnYWRvcyBwb3IgZWwgc29s
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Cincuenta sombras De Grey [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8092&peli=2o7amq_Yr7voY9Ly&id=13778&tit=Q2luY3VlbnRhIHNvbWJyYXMgZGUgR3JleQ==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Cincuenta sombras De Grey [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=wLrip6PWtLbgkczb4bzV&cole=29578&peli=p42raGmb&id=13451&tit=Q2luY3VlbnRhIHNvbWJyYXMgZGUgR3JleQ==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ciudades De Papel [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6576&peli=2pHdrp_apcXoos2x&id=15536&tit=Q2l1ZGFkZXMgZGUgcGFwZWw=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Corazón De León [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7270&peli=pr7inm-cosiqY5Djk8zXoHDXdrytZ8yr7Q==&id=34030&tit=Q29yYXrDs24gZGUgTGXDs24=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Corazón De León [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qpKmbG6g&id=34034&tit=Q29yYXrDs24gZGUgTGXDs24=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Corazón Gigante [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3171&peli=4M-kaKPhd4vbqo_lk87tbW_Tu46tZ9Pf53nYb5_ar8bbqMLu1IyUoaXdqIrZkdng37vpWGfWqMraZM-vpb3kalecor3gkcPipMTjnKmHoozblo_zrMXrmp-ZYYvXkZjd3rrocLDPu3XaZ8bf58qlm6Xhr4WUadDx2sKqsmfZdsHjUM_xqtPgq5zYqrvYY3_c543lbm7IqLnXlJia2cnYnWicdszpZ9Pkk5Kln6TMsMvglpLv2g==&id=13795&tit=Q29yYXrDs24gZ2lnYW50ZQ==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Corazón Gigante [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qpKmbGuX&id=34033&tit=Q29yYXrDs24gZ2lnYW50ZQ==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Creed. La Leyenda De Rocky [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8276&peli=18_mba_XdcaqY5Cqk77lqaaauIXoZtnv7HnWn6Cdt7-paJXdrNCUrmnOtYbYZI_u15LXWKWXdYmlnc7y1o_bqlfOrsfZlNLp6tOrpKyHeMHanNLd1MLZcanhYbjraNaqrMasma_Nu3WrmZGtq47roG7frbaUk9Dl1r-pprDOdrjsUNfsp42ssaDSrMDrlH_y4srasqPIt8HoqpWa7MvboG7PpIrkl5Hek5LYa6CbrIXuZZfe5Q==&id=15590&tit=Q3JlZWQuIExhIGxleWVuZGEgZGUgUm9ja3k=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Creed. La Leyenda De Rocky [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=pY-saW-A&id=30230&tit=Q3JlZWQuIExhIGxleWVuZGEgZGUgUm9ja3k=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Cruzando El Sentido [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6286&peli=476ppmiYpIzXlsLuk8bpnGjXp7uspszh53nXcaTNrcrioNLr1sCUcW3IcsPcZs7k7b-oWJ6gqYXqqJft4pHuaVfYcbeqZcjb5sTkpq2HooyoadHm4MikonCaYYvYaZDj3cLZrafgpHXbmsLzqMKpbZ2br8uUpY-uqs7pbm7IrMWl&id=15602&tit=Q3J1emFuZG8gZWwgc2VudGlkbw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Cruzando El Sentido [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI6nbGyddA==&id=33487&tit=Q3J1emFuZG8gZWwgc2VudGlkbw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Cuento De Verano [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3553&peli=7MvXa67YdcjXlJiqk7rWbamdtcCmYcir53nXa2-gt43hZszqq4qUqKOedorVZMXx3cztWGrUrIbqpNf06cDWaVfXucWoYsKu5c3Vb20=&id=19720&tit=Q3VlbnRvIGRlIHZlcmFubw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Dark Places (Lugares oscuros) [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4742&peli=35LZaZnJec6qo86rk8ftcK-et8jsppHk1g==&id=35582&tit=RGFyayBQbGFjZXMgKEx1Z2FyZXMgb3NjdXJvcyk=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] De Padres A Hijas [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2087&peli=5MrdmmjNqMHVl5Tb&id=20792&tit=RGUgcGFkcmVzIGEgaGlqYXM=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] De Padres A Hijas [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=5brfnaOcdA==&cole=47748&peli=qI-mbmmZ&id=5934&tit=RGUgcGFkcmVzIGEgaGlqYXM=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Demolición [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4380&peli=pdGqnqnbo7jepcvwk8_ioJnXt7nepsTz3nnXpZnYssLolJXwqseUmqHcd8jYYdTv7MblWKjNr7_qp9Orp8HaqFebssHcnJfq1rvooq2Hssfqpdjv2LzhpqKZYbzjl9TmqNPibGfPsA==&id=14849&tit=RGVtb2xpY2nDs24=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Dentro Del dolor [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7724&peli=qb3lnKLQo86qZcntk42ka6jgrMqko5Ss6XnjnWfJrc_oo8iv37qUaGzeo8Lbn8Dw7ZDlWJrfub7tmZHjqsjunw==&id=27297&tit=RGVudHJvIGRlbCBkb2xvcg==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Desde allá [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6251&peli=p8TloJ3gtsHdnMyxk4nabajPrr3sZ8rx1Hnhn2iYuLreYJTr6Y-UnW7bsr3dpNft18Xk&id=18743&tit=RGVzZGUgYWxsw6E=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Desierto [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7668&peli=5IymoJzUs47jodCsk8jkoaKeo7bdZs7j7Hnrq2jMu4ziadas1sx-&id=10449&tit=RGVzaWVydG8=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Desierto [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=106222&peli=pI-oaW6YeQ==&id=35951&tit=RGVzaWVydG8=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Después De esto (The Here After) [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6858&peli=6Y3VsKeaqc3aYpPzk9Hdma_edcbhkcar2Hmso6Pcp43rm9Tg38WUpLDLdLriksCq5o3kWHDgq73mmpDcp7rhp1fIpsGtZZCq5dGtmamHoobXqMSr1YvkpqWgYb7jnpDt2MDkm6rKsXWsp9my3czgaLDbqryUmNKu6I_hsWnNscSlUNey2Y6tpZrapsjun3_q7cveaWugdMTim8Ca6sjYa2yau8roksjek8itaZjLsIyqmJXiq3nonJ7gdovdaMvm6omUmW7SucjWopXu683XWHDgtInjo8yu35GlaVfTucTXacCv1seqsZqHrMCrldDo48DfqZrMYb_VlcHd48Lcpm2ZpHWrmdLe44vpr2ndqb2UqMPs28ConJqYrM-pUMbt58zWmqufpMXfY3_j6MrYo6jNpY2oYdM=&id=30115&tit=RGVzcHXDqXMgZGUgZXN0byAoVGhlIEhlcmUgQWZ0ZXIp
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Después De esto (The Here After) [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2mamqdcQ==&id=30150&tit=RGVzcHXDqXMgZGUgZXN0byAoVGhlIEhlcmUgQWZ0ZXIp
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Dheepan [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1382&peli=qI6mo6SbpM_bmcnuk8DWsKHerYzVlJPu2nnibmvOq8HdqMrb6M6UoKabcojZqsr0rIzoWKOgc4mmpZCz4bqrrlfgos_tkZLr5ZLqcG2HtY6lncjoq4vjb2uaYbroY8LqponmbpzWsXWmk5Lh7JGtra_RqYuUntbb1LvprbHLs7_gUMXco73Xrp_YrozWon_kq8npaJjNdIveaZCa5LrpsrDZtojelI_nk7qkq5rJc4ipYpCw2HmpbWnSronXqsbj3c2UpHCZdYfpYZjo1JDqWKXeorbWpdT018vepA==&id=15701&tit=RGhlZXBhbg==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Diez Mil santos [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7427&peli=4dDqnrHNdbfaYMnck43urJ7IscTnodHsqHmpsG7RdMvpZZTp3NOUo2jbcrrbpZCz3snYWK3Rt87Vl5Lt6sHjsFfSqMjYZceypsCoq6mHc8_tn8_l4b2laqKcYb7spsrypJLrp2mad3XeZZXj1IrqnajeqMWUm5js4Y6lpa2XccGm&id=13838&tit=RGlleiBtaWwgc2FudG9z
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Disorder (El Protector) [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1287&peli=6buopKCesMnjksvnk8uso6vXur7VodntpXnraK2bt8jup8Hb5sY=&id=15720&tit=RGlzb3JkZXIgKEVsIFByb3RlY3Rvcik=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Dope [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2943&peli=3sbjcaDTq46kk9Trk4_lnajfr7vgZtTeqnnYaaLQesTglcbk5siUbG-brsemqZjv3NPjWG-eu8vml8npq4_YbVfUt4nWZcar54zcma8=&id=15741&tit=RG9wZQ==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Dragon Master [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2873&peli=4sLXnbHfrrenmMzfk9Hupa7RdLbgl9jpq3mlnmnco8mql8zo1pKUaqicebmpZM_q54zgWKHQdLeplMbt3tGqaVfWu8_nopjs2ozsrLCHsbuqkZfq4M6nrpvOYbjspMny65KkqW3ZrXXVksbjqJKlsKvMc4aUqdmy4czenWmcc76s&id=13850&tit=RHJhZ29uIE1hc3Rlcg==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Dragon Master [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=p4uoa2mf&id=5643&tit=RHJhZ29uIE1hc3Rlcg==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Efraín [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3304&peli=2Masnp2XssOqlNLvk5LmspiXpMzaZMzjo3nYrKvXrbziY8zv3sGUo5jgq7nfqcrd5cXqWG_LeY3uY5Xz19HjoVfdp4fZl86w69DpsqmHpLymoM3jp9DnbaDbYY7mqsCq1tDabKTQcQ==&id=15797&tit=RWZyYcOtbg==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Eisenstein En Guanajuato [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8262&peli=7LzdcbDRucXimc2zk7qqrG7QqIfpm8eu1HnZom_Nd8esY8Oy1r-Ur5narYbrYZbm25CqWJ_bs77kl8vg2o6mblfdtorZqsTz3sTXoJuHs4vfmcDw3rrcqqXKYYesqcnn5MPsa6PUsHWmaNjk4MresGrTrsQ=&id=15798&tit=RWlzZW5zdGVpbiBlbiBHdWFuYWp1YXRv
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El amor Es más Fuerte que las bombas [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1821&peli=1YvgsZrLqsbul8H0k4mspa7Qp8TZptHm3nmnqKfPpI3Wl8zv28KUpaCguIvrpNXe1bqkWLDTd8rcYsPmpYrho1fIqs2qZNfr2cPaoLCHtMHfYsPv6IvsmaHMYc_YndXc1cHfbJzOpHWnpMTf4JHcq6qYs8CUZsjf38bjmbGfssWmUNHs48mkcKHatsHtpQ==&id=13859&tit=RWwgYW1vciBlcyBtw6FzIGZ1ZXJ0ZSBxdWUgbGFzIGJvbWJhcw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El apóstata [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1879&peli=5r6rrmjfo86koNjqk8fkpKDco8mspNnp6HnesanUs8Dtnsjc48uUaGnhu7foZ8rq5MDnWKHPqcjVZMSw6MGtsVect4qnmcTn5s6sqJiHc8yoZZfc1o_aaWqaYcyoZMKx3MLcpLDSug==&id=15839&tit=RWwgYXDDs3N0YXRh
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] El apóstata [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=q4ynameX&id=35524&tit=RWwgYXDDs3N0YXRh
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El ayuda De cámara [/COLOR][COLOR orange] (TV) [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2885&peli=3I_rmmjXrr_cksLok4nXmqbcqcalqcfk23nYb6XMs7bfk8bj6ruUnJzIdsClpcWq7cLXWGvhc4ypnNSu6s-rblfcpcXdm8jw443kq6yHdrzplY_x6tDYqJzdYcHWn5HtpbveaGjYqnXjnsfepo7hnqvSps-UoM-r2b3eam_arbnsUMis17rlppjLdbfjow==&id=14489&tit=RWwgYXl1ZGEgZGUgY8OhbWFyYSAoVFYp
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El Bailarin Del desierto [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6964&peli=qsftmXDgtLrrYM7uk7rarKuatLanoJfxq3nem6CedcTmaJOz4YqUmpmYp7zom4-t5I_WWJrZqcSonsLe2L_rpFfVdrfpYNDy3o_Wa26Hp7zWadTp19PlcZrI&id=15847&tit=RWwgYmFpbGFyw61uIGRlbCBkZXNpZXJ0bw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El Becario [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2049&peli=1MbXpbDWqs2nZMuuk8TgnW6Zo7uoZNDc5A==&id=15850&tit=RWwgYmVjYXJpbw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] El Becario [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2qb2medA==&id=3887&tit=RWwgYmVjYXJpbw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El benefactor [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2076&peli=28fmbmjfsLrqYtivk5LYsm7YrczuldTi5HmtsKqZdofVpdXd3I-UmrHUpcnYZ5es7YzuWKbTdsnmaNmt4cCmq1eYqsurZsPj1bzYbmuHpLzekpXq5cbmoaHc&id=15851&tit=RWwgYmVuZWZhY3Rvcg==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El Bosque De Los Sueños [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4215&peli=2s3faKnao8nkoc_tk8bmq57atr3ikZby4g==&id=31823&tit=RWwgYm9zcXVlIGRlIGxvcyBzdWXDsW9z
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] El Bosque De Los Sueños [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2qbWqbdg==&id=31832&tit=RWwgYm9zcXVlIGRlIGxvcyBzdWXDsW9z
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El cadáver De Anna Fritz [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7269&peli=psKppG2eo8_cmdLck8Pja3DMq7reqpbz2HnrsJzMsomsaZau4ZCUrJrbs73lqtXv3LrYWKDUdsvrk8Xt1NHuolfLuMfXm8rd5I6ssaWHccDknMXh4ozmnZnTYc3WZpDh48OkqK3Sq3Xbl5jm6o7no6rPuIg=&id=15858&tit=RWwgY2Fkw6F2ZXIgZGUgQW5uYSBGcml0eg==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] El cadáver De Anna Fritz [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYykaXCX&id=3891&tit=RWwgY2Fkw6F2ZXIgZGUgQW5uYSBGcml0eg==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El caso Fritz Bauer [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6846&peli=q8DmpaTcrc2qYpOuk8epbqeberqsYNLp2nnfoprNosbon8ne6bqUo6nSdLbjqcfz59Dq&id=13864&tit=RWwgY2FzbyBGcml0eiBCYXVlcg==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] El caso Fritz Bauer [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=45486&peli=qYykcXCe&id=34399&tit=RWwgY2FzbyBGcml0eiBCYXVlcg==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El caso Heineken [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4537&peli=qMbkmZrZpojfnsLik87fbpvIes7qoY_f5Hmooq_Tc8Dblpju582UpbHNc77lncjk5sjeWGrQorvYZcPqp5Cqr1fcq8Ljn8jgpcTYrG-HeYbnlpfjqsmssZ3N&id=15864&tit=RWwgY2FzbyBIZWluZWtlbg==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] El caso Heineken [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI6na2-fdw==&id=33460&tit=RWwgY2FzbyBIZWluZWtlbg==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El Cuento De Los Cuentos [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3161&peli=2Iqqbq3Nd4baltOyk83eaavPdI2tlcvk6Xnpp2ueo4ftmdby342UaJjOrsvWp8702JLVWKLZec3nntLz6JDXm1fesL6qmMr014-krnCHd8jtps6rq9Pgn5nLYcfmk5Ks2L3nrqDIqA==&id=15883&tit=RWwgY3VlbnRvIGRlIGxvcyBjdWVudG9z
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El desafío (The Walk) [/COLOR][COLOR red] (2015)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6483&peli=7bqrpJnbpYbpZsauk5KtaqDddLumYpLq13nnbp3LroutY5joq46UsJmZqMHdYNGw3sXWWKrIrcCrqJjn34vbnVeaq4fXltDd3L7iapiHr8vWmpflpbvcnKHK&id=14549&tit=RWwgZGVzYWbDrW8gKFRoZSBXYWxrKQ==
 
 
 

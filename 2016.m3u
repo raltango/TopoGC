@@ -486,26 +486,82 @@ plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5897&peli=3byqoW6Zo8XbmM_lk8Duop3eu77Zosvo5A==&id=35727&tit=QW5vbnltb3Vz
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Anonymous [/COLOR][COLOR blue](HD) [/COLOR][COLOR green] (Drama)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=64736&peli=q4ytcGie&id=35740&tit=QW5vbnltb3Vz
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Barry [/COLOR][COLOR red] (2016)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Barry [/COLOR][COLOR green] (Drama)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6166&peli=3JDaa2nYer7gqpPkk5HYrJnVdbmtktHc4nnapZnVtMXppsHoqr-UpqzVs8mkZ4_q7cLmWGnaqYesZsHepcmoqA==&id=28782&tit=QmFycnk=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Barry [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2016)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Barry [/COLOR][COLOR blue](HD) [/COLOR][COLOR green] (Drama)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qJKoaWiZ&id=28868&tit=QmFycnk=
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Ben-Hur [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6737&peli=2ZLsaLHWo8Tnl8zlk87isa7ZqYjsk8fhpXmnrmrgtYnVacuu1tGUbZ6gqcPilpbx18jmWKDddcqooNaz2cjfaVfXdbnnnNPu1cXWoaKHsbfrkdne4cmsm6ieYc6tZ9bs1LrdbpnadnXnl9Tc5o-omnDgdc6Uo5Lv5r_rsGraqs7oUMDbpdLWsquYuIummX_fpo3boGnddYqrqsya6Iqrb2jUqbnXkZTxk8bbo5mZrr_rnsKzpHmoomzZdIesYJWz5MuUo2vZt7vpacfipr_W&id=23302&tit=QmVuLUh1cg==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Ben-Hur [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=43628&peli=qI2saXCd&id=23308&tit=QmVuLUh1cg==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Blue Jay [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6263&peli=p7zWaZrZeorWlJWr&id=33453&tit=Qmx1ZSBKYXk=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Blue Jay [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qpCkcWie&id=33454&tit=Qmx1ZSBKYXk=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Capitán Kóblic [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6075&peli=5IzssqDZc4qlmszp&id=18470&tit=Q2FwaXTDoW4gS8OzYmxpYw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Capitán Kóblic [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qpCscWyf&id=33878&tit=Q2FwaXTDoW4gS8OzYmxpYw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Captain Fantastic [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2210&peli=14nmnJ_MesDZo9Pvk8GnmqPJu8vWlNjro3neaprUpL7aZdHppcKUr5qat8DoYcPqpY3k&id=30015&tit=Q2FwdGFpbiBGYW50YXN0aWM=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Captain Fantastic [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=48961&peli=qZGmb3Cf&id=30023&tit=Q2FwdGFpbiBGYW50YXN0aWM=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Cerca De Tu Casa [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4708&peli=3JHnr6_WqMHVZcTek5HfqWmetYvtlpfg3Xnop6fUtsGtmNPo6syUp6bZub_jk87c14zuWHDdrIjnp8rf1JDXnFfYpL_XpNjn6MTZqaeHq7-lYsWzp7veb5uZYcvmp86w1dHsaGjIq3XkaNOx6cTsoZ7PqMmUm9Tf2orjbKTQdsvqUJbs4ManqqbYusbbmg==&id=29889&tit=Q2VyY2EgZGUgdHUgY2FzYQ==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Cerca De Tu Casa [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=qZCpa22b&id=29891&tit=Q2VyY2EgZGUgdHUgY2FzYQ==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Como Perros Salvajes [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2084&peli=7M3WsJzedcvqltjik8yrbqCYeMfrnMbn5Hmkq7HdererotTj6sCUbp-Xt4WqlMjr6cPeWKPhcYnhlNGz6pHpalfVds3toZHg3NKmaLA=&id=33928&tit=Q29tbyBwZXJyb3Mgc2FsdmFqZXM=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Como Perros Salvajes [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qpGlbXCd&id=33932&tit=Q29tbyBwZXJyb3Mgc2FsdmFqZXM=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Como Reinas [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6702&peli=pYvmqpjIrYalaJXkk8LhaG_YscTbmsas2nnesqXcqrbfZ8at2MWUp6_VsL_mYMTv7YrV&id=34522&tit=Q29tbyByZWluYXM=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Como Reinas [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=q4mrcWqc&id=34525&tit=Q29tbyByZWluYXM=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Criando ratas [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3207&peli=3JLdqGndo72pYdfdk43ZpWnhdoepnNPz43nhsayadMHiksTv4MmUa6nQqLykmcPd3IztWK7Vqr7Xns_nqrzpn1fJr8akkdHppb7sq6-HuozelNiy3cDjsmzWYcvWpNHv5MPpbG_Wd3XrZ5Pr2JHgr6Sbr8uUl9Ps44rWoaTPdofnUNmtqonroazasb7ZlQ==&id=29847&tit=Q3JpYW5kbyByYXRhcw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Criando ratas [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2mbGqacg==&id=29850&tit=Q3JpYW5kbyByYXRhcw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Cuando tienes 17 Años [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6106&peli=3ZDYpa7WpMasYdWrk5DraJjKor3dpNPnpg==&id=31796&tit=Q3VhbmRvIHRpZW5lcyAxNyBhw7Fvcw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Cuando tienes 17 Años [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2qa2qbeA==&id=31804&tit=Q3VhbmRvIHRpZW5lcyAxNyBhw7Fvcw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El día mas hermoso (Der geilste Tag) [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4776&peli=2MLbcKLZtLbrZNXwk8Tbo5nNuozmkpbe13nsr2-gd4jhn83nqMyUpGqZsczmYc3l4snjWJvKd8HjnJTi5L3rqVeeccPhlo_e38akmayHqY7taM7e2Yvsa5vLYY7qmo_d7MDna63dunXkoMWupNGpqa_Wtbo=&id=34488&tit=RWwgZMOtYSBtYXMgaGVybW9zbyAoRGVyIGdlaWxzdGUgVGFnKQ==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] El día mas hermoso (Der geilste Tag) [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6qbmeZeA==&id=34492&tit=RWwgZMOtYSBtYXMgaGVybW9zbyAoRGVyIGdlaWxzdGUgVGFnKQ==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Después De La tormenta [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2804&peli=17uso6TMqcjik8jzk8GnpqKcsbnlpdjprHmpmWvZqsXrnsr05cGUpGzap4jZnsiypcOoWJnPrsLWndWv3dHtpw==&id=35015&tit=RGVzcHXDqXMgZGUgbGEgdG9ybWVudGE=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Después De La tormenta [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-laWubcw==&id=35151&tit=RGVzcHXDqXMgZGUgbGEgdG9ybWVudGE=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Después De Nosotros [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5246&peli=6Y_noKugt8akpsLsk9PWpKThp4XjYZWr1nmro2nQdL6tqJfp35GUaGvao4jjYpXd6sLrWKDhs8Xup8zd6M7eoFfhq4WtY8bd5czfn5w=&id=29853&tit=RGVzcHXDqXMgZGUgbm9zb3Ryb3M=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Después De Nosotros [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2mbGqbcQ==&id=29855&tit=RGVzcHXDqXMgZGUgbm9zb3Ryb3M=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Divinas [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3249&peli=7ZGnrqias87gktWsk8jpqqSXp8PqYpTq3HmmrGqYsMXWpMXy7Y2UorHfsMHpqY_f49LaWKydq7ruZc3cpMqqqVfZrsClqtPpq8fYa2-HdLvjkdTbqZKmopmZYcvkn8Wq38Toamndtw==&id=18704&tit=RGl2aW5hcw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Divinas [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qpKpaGyX&id=34093&tit=RGl2aW5hcw==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Eddie El Águila [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5914&peli=6YnqrayXorzmZ8_bk8uqbKXKsb3qkpHz4nngaZ7ZrcHnk8nl7I6Uaq2ep8_pkZWz6cXtWLGap4moncnb5cLknlfSpMjZm5Tr68LjsZiHo8Pjppjy6L2tsq-ZYYXanczu29HunZrepHXlYsfpp47gpZ3Zdcw=&id=15791&tit=RWRkaWUgZWwgw4FndWlsYQ==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Eddie El Águila [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=p4uoa22g&id=3879&tit=RWRkaWUgZWwgw4FndWlsYQ==
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El Ciudadano Ilustre [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2086&peli=473jpJ3LuLrtpszl&id=33464&tit=RWwgY2l1ZGFkYW5vIGlsdXN0cmU=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] El Ciudadano Ilustre [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6sa2qYdg==&id=34588&tit=RWwgY2l1ZGFkYW5vIGlsdXN0cmU=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El contable [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=1252&peli=pcCmaZuYesKtYtbrk8SsqaLdqcnqZMiw4nnenavTsL_qqZTjrMuUbqzNu8qsZMjp2JLXWKyfpYnXk86u2c2mbVfUqbzopsHoqMDZsGeHtbmmpsrkpNGpoqveYc_sqcfo1Mffq6_cqnXpZ87w5NHuoJrRd7qUlciv4sHdrqTYosPqUMjk47rmrK-aeIbuoH_w5sulr2nXuIbkacqa7L3dpJ6frLngqNauk8jmnKfSucXVk5Lr7XngrZ2euojWpJLtps-Uspzdrcasp5CyrMfWWK_adYzVlpbb3MuscFfNcouopsXoqs3tspuHdcfYn8vh5s7crprNYY3mqtPiqcCsrrDTsnXXpcHt5JDqpnDUqcuUYs3y1dLba6mgo8qrUMLqp8vWpGrZrIrsqmk=&id=31763&tit=RWwgY29udGFibGU=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] El contable [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2pbmeZeA==&id=31764&tit=RWwgY29udGFibGU=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El cuchillo [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7579&peli=1pDtqKnZd77sn8Llk7_uoqHUoo2sqdXg1nmloaPNc8Linc6t3seUnarOtbvsnI-q4byqWKbTor7mndSuppKorA==&id=35715&tit=RWwgY3VjaGlsbG8=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] El cuchillo [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-mb2egdA==&id=35726&tit=RWwgY3VjaGlsbG8=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] El duelo [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6545&peli=5MnoaqzYqL3lnMnpk46rq2vYtYWnaJWq1HnesmycsrrbZ83n4oqUqKbTpMWkY9Gy68OrWKPZpY7slMDhpdPpq1ebpYviosvm3IzZmWeHr7epnc3xqdLlaaSaYYrWksjn1tLmp57MsnXslNTc6pDhaa-Yrc-Ulcno4cbtcWmbsL3jUJPb54usa63ascKlln_b7JGsqmmau7vmkcKapZCpoaGdqrmsoMbf&id=14490&tit=RWwgZHVlbG8=
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] El duelo [/COLOR][COLOR blue](HD) [/COLOR][COLOR red] (2016)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=ppCtam-g&id=30538&tit=RWwgZHVlbG8=
 
 
 
