@@ -1,145 +1,145 @@
 #EXTM3U
-#EXTINF:-1,ES: ANDALUCIA TV
+#EXTINF:-1, ANDALUCIA TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/315.ts
-#EXTINF:-1,ES: LA 1
+#EXTINF:-1, LA 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/337.ts
-#EXTINF:-1,ES: LA 2
+#EXTINF:-1, LA 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/336.ts
-#EXTINF:-1,ES: #O
+#EXTINF:-1, #O
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/349.ts
-#EXTINF:-1,ES: 40 TV
+#EXTINF:-1, 40 TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/317.ts
-#EXTINF:-1,ES: A&E
+#EXTINF:-1, A&E
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/316.ts
-#EXTINF:-1,ES: AMC
+#EXTINF:-1, AMC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/348.ts
-#EXTINF:-1,ES: Antena 3
+#EXTINF:-1, Antena 3
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/187.ts
-#EXTINF:-1,ES: AXN
+#EXTINF:-1, AXN
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/347.ts
-#EXTINF:-1,ES: AXN WHITE
+#EXTINF:-1, AXN WHITE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/346.ts
-#EXTINF:-1,ES: BARCA TV
+#EXTINF:-1, BARCA TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/882.ts
-#EXTINF:-1,ES: B31N La Liga HD
+#EXTINF:-1, BeiN La Liga HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/264.ts
-#EXTINF:-1,ES: B31N Sp0rts SPAIN HD
+#EXTINF:-1, BeiN Sp0rts SPAIN HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/160.ts
-#EXTINF:-1,ES: BOING
+#EXTINF:-1, BOING
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/345.ts
-#EXTINF:-1,ES: CALLE 13
+#EXTINF:-1, CALLE 13
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/344.ts
-#EXTINF:-1,ES: COCINA
+#EXTINF:-1, COCINA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/343.ts
-#EXTINF:-1,ES: COMEDY CENTRAL
+#EXTINF:-1, COMEDY CENTRAL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/342.ts
-#EXTINF:-1,ES: COSMO
+#EXTINF:-1, COSMO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/341.ts
-#EXTINF:-1,ES: CRIMEN INVESTIGACION
+#EXTINF:-1, CRIMEN INVESTIGACION
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/313.ts
-#EXTINF:-1,ES: CUATRO
+#EXTINF:-1, CUATRO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/340.ts
-#EXTINF:-1,ES: DISCOVERY CHANNEL
+#EXTINF:-1, DISCOVERY CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/314.ts
-#EXTINF:-1,ES: DISNEY CHANNEL
+#EXTINF:-1, DISNEY CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/312.ts
-#EXTINF:-1,ES: DISNEY JUNIOR
+#EXTINF:-1, DISNEY JUNIOR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/311.ts
-#EXTINF:-1,ES: DISNEY XD
+#EXTINF:-1, DISNEY XD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/310.ts
-#EXTINF:-1,ES: DIVINITY
+#EXTINF:-1, DIVINITY
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/309.ts
-#EXTINF:-1,ES: ENERGY
+#EXTINF:-1, ENERGY
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/308.ts
-#EXTINF:-1,ES: FDF
+#EXTINF:-1, FDF
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/307.ts
-#EXTINF:-1,ES: FOX
+#EXTINF:-1, FOX
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/306.ts
-#EXTINF:-1,ES: FOX LIFE
+#EXTINF:-1, FOX LIFE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/339.ts
-#EXTINF:-1,ES: GOL
+#EXTINF:-1, GOL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/265.ts
-#EXTINF:-1,ES: HISTORIA
+#EXTINF:-1, HISTORIA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/305.ts
-#EXTINF:-1,ES: HOLLYWOOD
+#EXTINF:-1, HOLLYWOOD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/338.ts
-#EXTINF:-1,ES: La Sexta
+#EXTINF:-1, La Sexta
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/188.ts
-#EXTINF:-1,ES: LaLigaTV BAR
+#EXTINF:-1, LaLigaTV BAR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/161.ts
-#EXTINF:-1,ES: M20
+#EXTINF:-1, M20
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/304.ts
-#EXTINF:-1,ES: M6 MUSIC
+#EXTINF:-1, M6 MUSIC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/303.ts
-#EXTINF:-1,ES: Mega
+#EXTINF:-1, Mega
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/263.ts
-#EXTINF:-1,ES: MOVISTAR  DEPORTES 1
+#EXTINF:-1, MOVISTAR  DEPORTES 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/159.ts
-#EXTINF:-1,ES: MOVISTAR ACCION HD
+#EXTINF:-1, MOVISTAR ACCION HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/156.ts
-#EXTINF:-1,ES: MOVISTAR COMEDIA
+#EXTINF:-1, MOVISTAR COMEDIA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/335.ts
-#EXTINF:-1,ES: MOVISTAR DCINE
+#EXTINF:-1, MOVISTAR DCINE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/334.ts
-#EXTINF:-1,ES: MOVISTAR DEPORTES 2
+#EXTINF:-1, MOVISTAR DEPORTES 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/333.ts
-#EXTINF:-1,ES: MOVISTAR ESTRENOS
+#EXTINF:-1, MOVISTAR ESTRENOS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/332.ts
-#EXTINF:-1,ES: Movistar F1
+#EXTINF:-1, Movistar F1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/189.ts
-#EXTINF:-1,ES: MOVISTAR FUTBOL HD
+#EXTINF:-1, MOVISTAR FUTBOL HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/158.ts
-#EXTINF:-1,ES: MOVISTAR GOLF
+#EXTINF:-1, MOVISTAR GOLF
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/157.ts
-#EXTINF:-1,ES: MOVISTAR MOTO GP
+#EXTINF:-1, MOVISTAR MOTO GP
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/331.ts
-#EXTINF:-1,ES: MOVISTAR PARTIDAZO HD (Solo Eventos)
+#EXTINF:-1, MOVISTAR PARTIDAZO HD (Solo Eventos)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/302.ts
-#EXTINF:-1,ES: MOVISTAR PARTIDAZO HD OP2  (Solo Eventos)
+#EXTINF:-1, MOVISTAR PARTIDAZO HD OP2  (Solo Eventos)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/301.ts
-#EXTINF:-1,ES: MOVISTAR SERIES
+#EXTINF:-1, MOVISTAR SERIES
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/330.ts
-#EXTINF:-1,ES: MOVISTAR SERIES XTRA
+#EXTINF:-1, MOVISTAR SERIES XTRA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/329.ts
-#EXTINF:-1,ES: MOVISTAR XTRA
+#EXTINF:-1, MOVISTAR XTRA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/328.ts
-#EXTINF:-1,ES: NAT GEO
+#EXTINF:-1, NAT GEO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/327.ts
-#EXTINF:-1,ES: NAT GEO WILD
+#EXTINF:-1, NAT GEO WILD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/326.ts
-#EXTINF:-1,ES: NEOX
+#EXTINF:-1, NEOX
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/300.ts
-#EXTINF:-1,ES: NICKELODEON
+#EXTINF:-1, NICKELODEON
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/325.ts
-#EXTINF:-1,ES: NON STOP PEOPLE
+#EXTINF:-1, NON STOP PEOPLE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/299.ts
-#EXTINF:-1,ES: NOVA
+#EXTINF:-1, NOVA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/324.ts
-#EXTINF:-1,ES: ODISEA HD
+#EXTINF:-1, ODISEA HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/298.ts
-#EXTINF:-1,ES: PANDA
+#EXTINF:-1, PANDA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/297.ts
-#EXTINF:-1,ES: PARAMOUNT
+#EXTINF:-1, PARAMOUNT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/296.ts
-#EXTINF:-1,ES: Real Madrid TV
+#EXTINF:-1, Real Madrid TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/183.ts
-#EXTINF:-1,ES: SYFY
+#EXTINF:-1, SYFY
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/323.ts
-#EXTINF:-1,ES: TCM
+#EXTINF:-1, TCM
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/322.ts
-#EXTINF:-1,ES: TELECINCO
+#EXTINF:-1, TELECINCO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/321.ts
-#EXTINF:-1,ES: TELEDEPORTE
+#EXTINF:-1, TELEDEPORTE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/320.ts
-#EXTINF:-1,ES: TNT
+#EXTINF:-1, TNT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/319.ts
-#EXTINF:-1,ES: TOROSTV HD
+#EXTINF:-1, TOROSTV HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/155.ts
-#EXTINF:-1,ES: VH1
+#EXTINF:-1, VH1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/295.ts
-#EXTINF:-1,ES: VIAJAR
+#EXTINF:-1, VIAJAR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/318.ts
-#EXTINF:-1,ES: VIRGIN TV
+#EXTINF:-1, VIRGIN TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/294.ts
 #EXTINF:-1,ESPN
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/aaa/aaa/89.ts
