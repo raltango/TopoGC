@@ -1,10 +1,11 @@
 
 #EXTM3U  POSEIDON FULL
 
+#EXTINF:-1,RT,tvg-wall="http://actualidad.rt.com/static/img/og-logo-rt.jpg",tvg-logo="https://yt3.ggpht.com/-Kctadlnnczo/AAAAAAAAAAI/AAAAAAAAAAA/5NdDPcu1rz8/s900-c-k-no/photo.jpg"
+https://www.youtube.com/watch?v=OALyNX4IbBI
 
 
-
-#EXTINF:-1,La 1 
+#EXTINF:-1,La 1,tvg-logo="http://i.ebayimg.com/00/s/ODYxWDc1MA==/z/qwkAAOxygj5SgkPN/$_35.JPG"
 http://edge3.telesport.pw/live/tve1/index.m3u8 
 #EXTINF:-1,La 2 
 http://edge201.livesports.pw/live/vertvdostelefive0f1f0a0df/index.m3u8 
