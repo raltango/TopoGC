@@ -1,4 +1,7 @@
-
+#EXTINF:-1,RT,tvg-wall="http://actualidad.rt.com/static/img/og-logo-rt.jpg",tvg-logo="https://yt3.ggpht.com/-Kctadlnnczo/AAAAAAAAAAI/AAAAAAAAAAA/5NdDPcu1rz8/s900-c-k-no/photo.jpg"
+https://www.youtube.com/watch?v=OALyNX4IbBI
+#EXTINF:-1,[COLOR orange]verdirectotv.com [/COLOR][COLOR red] by[/COLOR] [COLOR aqua] Nano Barrios[/COLOR],tvg-logo="http://i.ebayimg.com/00/s/ODYxWDc1MA==/z/qwkAAOxygj5SgkPN/$_35.JPG"
+plugin://plugin.video.SportsDevil/?item=url=espana/verdirectotv.com.cfg&mode=1
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Altitude [/COLOR][COLOR green] (Accion)[/COLOR],tvg-logo="https://pics.filmaffinity.com/altitude-374177208-large.jpg"
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6557&peli=6L_grWrWdYXZYMDvk8eooaPTeL_nkZPm5g==&id=34487&tit=QWx0aXR1ZGU=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Altitude [/COLOR][COLOR green] (Accion)[/COLOR]
