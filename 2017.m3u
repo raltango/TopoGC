@@ -1,7 +1,7 @@
 
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Altitude [/COLOR][COLOR green] (Accion)[/COLOR]
+#EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Altitude [/COLOR][COLOR green] (Accion)[/COLOR] img:"https://pics.filmaffinity.com/altitude-374177208-large.jpg"
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6557&peli=6L_grWrWdYXZYMDvk8eooaPTeL_nkZPm5g==&id=34487&tit=QWx0aXR1ZGU=
-#EXTINF:0,[COLOR purple] • [/COLOR][COLOR yellow] Altitude [/COLOR][COLOR blue](HD)[/COLOR][COLOR green] (Accion)[/COLOR]
+#EXTINF:0,tvg-logo="https://pics.filmaffinity.com/altitude-374177208-large.jpg", group-title=[COLOR purple] • [/COLOR][COLOR yellow] Altitude [/COLOR][COLOR blue](HD)[/COLOR][COLOR green] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6tb2macQ==&id=34659&tit=QWx0aXR1ZGU=
 #EXTINF:0,[COLOR purple] • [/COLOR][COLOR white] Death Race 2050 [/COLOR][COLOR green] (Accion)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6034&peli=38HimmncrMGql8qyk4nba6TNd7utYsnl23mqa5_do86soszi1smUn5vgd4foktfjqImsWLHSrs-raNfg18Graw==&id=29781&tit=RGVhdGggUmFjZSAyMDUw
