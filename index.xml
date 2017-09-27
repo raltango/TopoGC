@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
+ 
+  
+<item>
+<title>[COLOR  lime]• [/COLOR][COLOR cyan] Zona Tv [/COLOR]</title>
+<thumbnail>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/zona%20de%20tv.xml</thumbnail>
+<fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/DEPORTESJHGMASTER.xml</externallink>
+</item>
+ 
+ 
 <item>
 <title>[COLOR  lime]• [/COLOR][COLOR cyan] Deportes[/COLOR]</title>
 <thumbnail>https://3.bp.blogspot.com/-_K3Ijqqp-PU/WWJiIbaYIAI/AAAAAAAAADk/GlWCO1XIG_kCkF1xPkNpVV1g8RSLnM5hACLcBGAs/s1600/Deportes%2B2.png</thumbnail>
@@ -40,6 +51,15 @@
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/AV%20JHG.xml</externallink>
 </item>
  
+  
+ <item>
+<title>[COLOR lime]• [/COLOR][COLOR cyan] Arenavision 2 [/COLOR]</title>
+<thumbnail>https://3.bp.blogspot.com/-twD47Buw68c/WZrDHyamNfI/AAAAAAAAAIo/0ui2OmCJKkMqwGtwzDuKuWecaiStohjDwCLcBGAs/s1600/arenavision.png</thumbnail>
+<fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/series/ARENAVISION2.xml</externallink>
+</item>
+ 
 <item>
 <title>[COLOR lime]• [/COLOR][COLOR cyan] TopoGC Pruebas[/COLOR]</title>
 <thumbnail>https://1.bp.blogspot.com/-VjQJ5ZqNzaQ/WXtX4US01NI/AAAAAAAAAGk/LrfW05bCV2ojU4Zre-NI4lQxcVYxY8XhQCLcBGAs/s1600/TopoGC%2BTelevision.png</thumbnail>
@@ -49,11 +69,19 @@
 </item>
 
  <item>
-<title>[COLOR lime]• [/COLOR][COLOR cyan] VideoClub[/COLOR]</title>
+<title>[COLOR lime]• [/COLOR][COLOR cyan] Cine [/COLOR]</title>
 <thumbnail>https://4.bp.blogspot.com/-VilO7_HBrEg/WaKtW5vWFwI/AAAAAAAAAJg/eXhcSe2w39AH4aNOGmHBDFRNJMoetlVUwCLcBGAs/s1600/VideoClub.png</thumbnail>
 <fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/topogc/TopoGC/master/Videoclub.xml</externallink>
+</item>
+ 
+ <item>
+<title>[COLOR lime]• [/COLOR][COLOR cyan] Cine Torete [/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/MENU%20CINE.xml</externallink>
 </item>
  
  <item>
@@ -63,6 +91,54 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/topogc/TopoGC/master/Series.xml</externallink>
 </item>
+ 
+  
+ <item>
+<title>[COLOR lime]• [/COLOR][COLOR cyan] Series Torete [/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/series/MENU%20SERIES.xml</externallink>
+</item>
+ 
+  
+ <item>
+<title>[COLOR lime]• [/COLOR][COLOR cyan] Programas Tv[/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/CRIMENES%20IMPERFECTOS.xml</externallink>
+</item>
+ 
+ 
+ <item>
+<title>[COLOR lime]• [/COLOR][COLOR cyan] Telenovelas [/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/telenovelas.xml</externallink>
+</item>
+
+ 
+ <item>
+<title>[COLOR lime]• [/COLOR][COLOR cyan] El Reino Infantil [/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/MENU%20INFANTIL.xml</externallink>
+</item>
+
+
+ 
+ <item>
+<title>[COLOR lime]• [/COLOR][COLOR cyan] Tu Casa Tv [/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/MENU%20INFANTIL.xml</externallink>
+</item>
+
+
 
  <item>
 <title>[COLOR lime]• [/COLOR][COLOR cyan] El Chiringuito[/COLOR]</title>
