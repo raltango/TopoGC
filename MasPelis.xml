@@ -2579,10 +2579,14 @@
 </item>
 
 <item>
+<title>Youtube</title>
+<link></link>
+</item>
+
+
+<item>
 <title>[COLOR purple] • [/COLOR][COLOR white] Mr. Bones [/COLOR][COLOR red](2001)[/COLOR]</title>
-<link></link>
-<link></link>
-<link></link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2rvFfCGGNJw</link>
 <genre>Comedia</genre>
 <year>2001</year>
 <thumbnail>https://pics.filmaffinity.com/Mr_Bones-285543332-large.jpg</thumbnail>
