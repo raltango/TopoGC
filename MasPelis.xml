@@ -13,7 +13,7 @@
 <fanart>http://2.bp.blogspot.com/_OW5qKcU71f4/S9MsOjtGV9I/AAAAAAAAAGw/Zr4gkUdy_wE/s1600/gentepez2.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/juan42/cine-espanol-1-82487/gente-pez,1364650.mp4</page>
+<page>http://diskokosmiko.mx/juan42/cine-espanol-1-82487/list,1,22</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -31,7 +31,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/juan42/cine-espanol-1-82487/gente-pez,1364650.mp4</referer>
+<referer>http://diskokosmiko.mx/juan42/cine-espanol-1-82487/list,1,22</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
