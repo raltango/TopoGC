@@ -2,7 +2,7 @@
 
 
 <item>
-<title>[COLOR purple] • [/COLOR][COLOR green] Cine Español [/COLOR]</title>
+<title>[COLOR purple] • [/COLOR][COLOR aqua] Cine Español [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
