@@ -7,10 +7,10 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title> [makelist.param3]</title>
+        <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
         <link>$doregex[getUrl]</link>
-<thumbnail>https://pics.filmaffinity.com/gente_pez-946489922-large.jpg</thumbnail>
-<fanart>http://2.bp.blogspot.com/_OW5qKcU71f4/S9MsOjtGV9I/AAAAAAAAAGw/Zr4gkUdy_wE/s1600/gentepez2.jpg</fanart>
+<fanart>http://idg.bg/test/pcw/2016/12/5/26301-Google-Play--Best-of-2016-6-GoT.jpg</fanart>
+<thumbnail>http://idg.bg/test/pcw/2016/12/5/26301-Google-Play--Best-of-2016-6-GoT.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/juan42/cine-espanol-1-82487/list,1,22</page>
@@ -35,10 +35,12 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://pics.filmaffinity.com/gente_pez-946489922-large.jpg</thumbnail>
 <fanart>http://2.bp.blogspot.com/_OW5qKcU71f4/S9MsOjtGV9I/AAAAAAAAAGw/Zr4gkUdy_wE/s1600/gentepez2.jpg</fanart>
+<thumbnail>https://pics.filmaffinity.com/gente_pez-946489922-large.jpg</thumbnail>
 </item>
+<items>
 
+  
 
 
 <item>
@@ -47,16 +49,14 @@
 <content>movie</content>
 <imdb/>
 <title/>
-2017<year/>
+<year>2017<year/>
 </meta>
 <link>
 <sublink/>
-<sublink>http://youwatch.org/oc385rskh070</sublink>
+<sublink>http://streamcloud.eu/cwdo2zhqcauh/Solo_Quimica_2015_Castellano_BDrip_X264.mkv.html</sublink>
 <sublink/>
 </link>
-<thumbnail>
-https://image.tmdb.org/t/p/w300_and_h450_bestv2/gNlV5FhDZ1PjxSv2aqTPS30GEon.jpg
-</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w300_and_h450_bestv2/gNlV5FhDZ1PjxSv2aqTPS30GEon.jpg</thumbnail>
 </item>
 
 
