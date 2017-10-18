@@ -2,6 +2,65 @@
 
 
 <item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Gente Pez [/COLOR][COLOR red](2001)[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+<thumbnail>https://pics.filmaffinity.com/gente_pez-946489922-large.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/_OW5qKcU71f4/S9MsOjtGV9I/AAAAAAAAAGw/Zr4gkUdy_wE/s1600/gentepez2.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/juan42/cine-espanol-1-82487/gente-pez,1364650.mp4</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/juan42/cine-espanol-1-82487/gente-pez,1364650.mp4</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://pics.filmaffinity.com/gente_pez-946489922-large.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/_OW5qKcU71f4/S9MsOjtGV9I/AAAAAAAAAGw/Zr4gkUdy_wE/s1600/gentepez2.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>13 Assassins</title>
+<meta>
+<content>movie</content>
+<imdb/>
+<title/>
+2017<year/>
+</meta>
+<link>
+<sublink/>
+<sublink>http://youwatch.org/oc385rskh070</sublink>
+<sublink/>
+</link>
+<thumbnail>
+https://image.tmdb.org/t/p/w300_and_h450_bestv2/gNlV5FhDZ1PjxSv2aqTPS30GEon.jpg
+</thumbnail>
+</item>
+
+
+<item>
 <title>[COLOR purple] • [/COLOR][COLOR white] Sólo Química [/COLOR][COLOR red](2015)[/COLOR]</title><!-- Alfa, Año, Genero, Pais, Director Productora-->
 <link>http://streamcloud.eu/cwdo2zhqcauh/Solo_Quimica_2015_Castellano_BDrip_X264.mkv.html</link>
 <thumbnail>https://pics.filmaffinity.com/S_lo_qu_mica-854868354-large.jpg</thumbnail>
@@ -1662,10 +1721,10 @@
 <info>China durante la primera década del siglo XX. El país sufre de corrupción y de la invasión extranjera. Huo Yuanjia es un legendario maestro de artes marciales. Profundamente humillado por la muerte de su padre en un duelo público, el joven decide convertirse en el mejor luchador posible. Pero muy pronto pierde a dos de sus seres más queridos, por culpa de sus increíbles habilidades, cuando matan a su familia por venganza. Loco de dolor y de vergüenza, Huo Yuanjia huye sin importarle la muerte ni la vida.</info>
 </item>
 
-<!--Modificar abajo para menu y director-->
+
 
 <item>
-<title>[COLOR purple] • [/COLOR][COLOR white] Ip Man [/COLOR][COLOR red](2008)[/COLOR]</title><!-- Alfa, Año, Genero, Pais, Director, Productora-->
+<title>[COLOR purple] • [/COLOR][COLOR white] Ip Man [/COLOR][COLOR red](2008)[/COLOR]</title><!-- Alfa, Año, Genero, Pais Hong Kong, Director Wilson Yip, Productora Mandarin Films Distribution Co-->
 <link>http://streamcloud.eu/0h3nj03dkqyu</link>
 <link>http://streamcloud.eu/jklqdkhhf2g6</link>
 <link>http://streamcloud.eu/ohp124gvfr06/Ip_Man_2008_Castellano_BDrip_X264.mkv.html</link>
@@ -1677,7 +1736,7 @@
 </item>
 
 <item>
-<title>[COLOR purple] • [/COLOR][COLOR white] Ip Man, La Leyenda [/COLOR][COLOR red](2010)[/COLOR]</title><!-- Alfa, Año, Genero, Pais, Director, Productora-->
+<title>[COLOR purple] • [/COLOR][COLOR white] Ip Man, La Leyenda [/COLOR][COLOR red](2010)[/COLOR]</title><!-- Alfa, Año, Genero, Pais Hong Kong, Director Herman Yau, Productora Mandarin Films Distribution Co-->
 <link>http://streamcloud.eu/yk3u84cq99db</link>
 <link>http://streamcloud.eu/sqn1bmu5ykhs/Ip_Man_3_La_Leyenda_2010_Castellano_BDrip_X264.mkv.html</link>
 <link>http://streamcloud.eu/duev6qd5ojzq/Ip.Man.La.leyenda.2010.HDRip.Castellano.roo.avi.html</link>
@@ -1689,7 +1748,7 @@
 </item>
 
 <item>
-<title>[COLOR purple] • [/COLOR][COLOR white] Ip Man 2 [/COLOR][COLOR red](2010)[/COLOR]</title><!-- Alfa, Año, Genero, Pais, Director, Productora-->
+<title>[COLOR purple] • [/COLOR][COLOR white] Ip Man 2 [/COLOR][COLOR red](2010)[/COLOR]</title><!-- Alfa, Año, Genero, Pais Hong Kong, Director Wilson Yip, Productora Mandarin Films Distribution Co-->
 <link>http://streamcloud.eu/keuq8qlopja2</link>
 <link></link>
 <link></link>
@@ -1701,7 +1760,7 @@
 </item>
 
 <item>
-<title>[COLOR purple] • [/COLOR][COLOR white] Ip Man 3 [/COLOR][COLOR red](2015)[/COLOR]</title><!-- Alfa, Año, Genero, Pais, Director, Productora-->
+<title>[COLOR purple] • [/COLOR][COLOR white] Ip Man 3 [/COLOR][COLOR red](2015)[/COLOR]</title><!-- Alfa, Año, Genero, Pais  Hong Kong, Director Wilson Yip, Productora Pegasus Motion Pictures-->
 <link>http://streamcloud.eu/yz8nsje252i8/Dragon_Master_-_IP_Man_3_HDRip_1080p.avi.html</link>
 <link>http://streamcloud.eu/abgi591xte21/Dragon_Master_Ip_Man_3_2016_Castellano_BDrip_X264.mkv.html</link>
 <link>http://streamcloud.eu/cvr8n4kkmho4/Dragon.Master._IP.Man.3_.DVD.XviD._www.kit-series.net_.avi.html</link>
@@ -1713,7 +1772,7 @@
 </item>
 
 <item>
-<title>[COLOR purple] • [/COLOR][COLOR white] Nacer Para Morir [/COLOR][COLOR red](2003)[/COLOR]</title><!-- Alfa, Año, Genero, Pais, Director, Productora-->
+<title>[COLOR purple] • [/COLOR][COLOR white] Nacer Para Morir [/COLOR][COLOR red](2003)[/COLOR]</title><!-- Alfa, Año, Genero, Pais Estados Unidos, Director Andrzej Bartkowiak, Productora Silver Pictures. Distribuida por Warner Bros.-->
 <link>http://streamcloud.eu/3jwf4op9nkwz</link>
 <link>http://streamcloud.eu/8hx9i6y9fe82/Nacer.para.morir.2003.DVDRip.es.avi.html</link>
 <link>http://streamcloud.eu/x84ynfl9crd0/T926_K431_nacer.para.morir.DVDR.Esp.avi.html</link>
@@ -1725,7 +1784,7 @@
 </item>
 
 <item>
-<title>[COLOR purple] • [/COLOR][COLOR white] Ong Bak: El Guerrero Muay Thai [/COLOR][COLOR red](2003)[/COLOR]</title><!-- Alfa, Año, Genero, Pais, Director, Productora-->
+<title>[COLOR purple] • [/COLOR][COLOR white] Ong Bak: El Guerrero Muay Thai [/COLOR][COLOR red](2003)[/COLOR]</title><!-- Alfa, Año, Genero, País Tailandia, Director Prachya Pinkaew, Productora Baa-Ram-Ewe / Sahamongkolfilm Co.-->
 <link>http://streamcloud.eu/n89nmpei99qv</link>
 <link>http://streamcloud.eu/g9zmd57vud70</link>
 <link></link>
@@ -1737,7 +1796,7 @@
 </item>
 
 <item>
-<title>[COLOR purple] • [/COLOR][COLOR white] Romeo Debe Morir [/COLOR][COLOR red](2000)[/COLOR]</title><!-- Alfa, Año, Genero, Pais, Director, Productora-->
+<title>[COLOR purple] • [/COLOR][COLOR white] Romeo Debe Morir [/COLOR][COLOR red](2000)[/COLOR]</title><!-- Alfa, Año, Genero, Pais Estados Unidos, Director Andrzej Bartkowiak, Productora Warner Bros / Silver Pictures-->
 <link>http://streamcloud.eu/wpletxx5sill</link>
 <link>http://streamcloud.eu/mw5fie964e56/Romeo.debe.Morir.2000.DVDRip.es.avi.html</link>
 <link>http://streamcloud.eu/a4dsvf9uekty</link>
@@ -1749,7 +1808,7 @@
 </item>
 
 <item>
-<title>[COLOR purple] • [/COLOR][COLOR white] Rompiendo Las Reglas [/COLOR][COLOR red](2008)[/COLOR]</title><!-- Alfa, Año, Genero, Pais, Director, Productora-->
+<title>[COLOR purple] • [/COLOR][COLOR white] Rompiendo Las Reglas [/COLOR][COLOR red](2008)[/COLOR]</title><!-- Alfa, Año, Genero, Pais Estados Unidos, Director Jeff Wadlow, Productora Summit Entertainment / Mandalay Pictures / BMP Films-->
 <link>http://streamcloud.eu/bg3ejiyz5cfb</link>
 <link>http://streamcloud.eu/v2xvj0n4jmc7/Rompiendo_las_reglas__dvdrip__2008_caste.avi.html</link>
 <link>http://streamcloud.eu/5g1qf67zy4pf/Rompiendo.Las.Reglas.HDRip.Esp.avi.html</link>
@@ -1761,7 +1820,7 @@
 </item>
 
 <item>
-<title>[COLOR purple] • [/COLOR][COLOR white] Rompiendo Las Reglas 2 [/COLOR][COLOR red](2011)[/COLOR]</title><!-- Alfa, Año, Genero, Pais, Director, Productora-->
+<title>[COLOR purple] • [/COLOR][COLOR white] Rompiendo Las Reglas 2 [/COLOR][COLOR red](2011)[/COLOR]</title><!-- Alfa, Año, Genero, Pais Estados Unidos, Director Michael Jai White, Productora Baumgarten Management and Productions (BMP) / Mandalay Entertainment / Mandalay Pictures-->
 <link>http://streamcloud.eu/08lw5qgpvo8q</link>
 <link>http://streamcloud.eu/1p65dw6e1pvd/Rompiendo.Las.Reglas.2.DVDrip.cast.avi.html</link>
 <link>http://streamcloud.eu/7fmezsd6sw3i/Rompiendo.Las.Reglas.2.HDRip.Esp.avi.html</link>
@@ -1773,7 +1832,7 @@
 </item>
 
 <item>
-<title>[COLOR purple] • [/COLOR][COLOR white] Rompiendo Las Reglas 3 [/COLOR][COLOR red](2016)[/COLOR]</title><!-- Alfa, Año, Genero, Pais, Director, Productora-->
+<title>[COLOR purple] • [/COLOR][COLOR white] Rompiendo Las Reglas 3 [/COLOR][COLOR red](2016)[/COLOR]</title><!-- Alfa, Año, Genero, Pais Estados Unidos, Director Michael Jai White, Productora Stage 6 Films-->
 <link>http://streamcloud.eu/rqr2dk690pg9/Rompiendo.Las.Reglas.3.Sin.Rendicion.DVD.XviD._www.kit-series.net_.avi.html</link>
 <link>http://streamcloud.eu/p9h9iavyjlo6</link>
 <link>http://streamcloud.eu/ub4m3xk3fiw4/R0mp13nd0_l4s_r3gl4s_3_m1080p_Anonymous_xxx.avi.html</link>
@@ -1785,7 +1844,7 @@
 </item>
 
 <item>
-<title>[COLOR purple] • [/COLOR][COLOR white] Thai Dragon [/COLOR][COLOR red](2005)[/COLOR]</title><!-- Alfa, Año, Genero, Pais, Director, Productora-->
+<title>[COLOR purple] • [/COLOR][COLOR white] Thai Dragon [/COLOR][COLOR red](2005)[/COLOR]</title><!-- Alfa, Año, Genero, Pais Tailandia, Director Prachya Pinkaew, Productora Sahamongkolfilm Co. Ltd / Baa-Ram-Ewe / TF1 International / Golden Network-->
 <link>http://streamcloud.eu/id1te1xqy4pk</link>
 <link>http://streamcloud.eu/rbvvfdo27296</link>
 <link>http://streamcloud.eu/b811wakzgnt4/Thai-Dragon.DVD..avi.html</link>
@@ -1797,7 +1856,7 @@
 </item>
 
 <item>
-<title>[COLOR purple] • [/COLOR][COLOR white] Thai Dragon 2: El Protector [/COLOR][COLOR red](2013)[/COLOR]</title><!-- Alfa, Año, Genero, Pais, Director, Productora-->
+<title>[COLOR purple] • [/COLOR][COLOR white] Thai Dragon 2: El Protector [/COLOR][COLOR red](2013)[/COLOR]</title><!-- Alfa, Año, Genero, Pais Tailandia, Director Prachya Pinkaew, Productora Sahamongkolfilm Co.-->
 <link>http://streamcloud.eu/4gen5yfml8e6</link>
 <link>http://streamcloud.eu/kkjfureghbxi/Thai_Dragon_2_El_Protector_2013_Castellano_BDrip_X264.mkv.html</link>
 <genre>Acción</genre>
@@ -1808,7 +1867,7 @@
 </item>
 
 <item>
-<title>[COLOR purple] • [/COLOR][COLOR white] Karate Kid, El Momento De La Verdad [/COLOR][COLOR red](1984)[/COLOR]</title><!-- Alfa, Año, Genero, Pais, Director, Productora-->
+<title>[COLOR purple] • [/COLOR][COLOR white] Karate Kid, El Momento De La Verdad [/COLOR][COLOR red](1984)[/COLOR]</title><!-- Alfa, Año, Genero, Pais Estados Unidos, Director John G. Avildsen, Productora Columbia Pictures / Delphi Films / Jerry Weintraub Production-->
 <link>http://streamcloud.eu/otxoiwhdh2ex</link>
 <link>http://streamcloud.eu/vwouqxlth6kh/karate.Kid.DVDrip.cast.avi.html</link>
 <link>http://streamcloud.eu/kj88k67bm4qf</link>
@@ -1820,7 +1879,7 @@
 </item>
 
 <item>
-<title>[COLOR purple] • [/COLOR][COLOR white] Karate Kid 2: La Historia Continúa [/COLOR][COLOR red](1986)[/COLOR]</title><!-- Alfa, Año, Genero, Pais, Director, Productora-->
+<title>[COLOR purple] • [/COLOR][COLOR white] Karate Kid 2: La Historia Continúa [/COLOR][COLOR red](1986)[/COLOR]</title><!-- Alfa, Año, Genero, Pais Estados Unidos, Director John G. Avildsen, Productora Columbia Pictures-->
 <link>http://streamcloud.eu/l88upxtg8nn3</link>
 <link>http://streamcloud.eu/l9b5z7g0727h/KARATE_KID_II.DVDRip.cast.avi.html</link>
 <link></link>
@@ -1832,7 +1891,7 @@
 </item>
 
 <item>
-<title>[COLOR purple] • [/COLOR][COLOR white] Karate Kid 3: El Desafío Final [/COLOR][COLOR red](1989)[/COLOR]</title><!-- Alfa, Año, Genero, Pais, Director, Productora-->
+<title>[COLOR purple] • [/COLOR][COLOR white] Karate Kid 3: El Desafío Final [/COLOR][COLOR red](1989)[/COLOR]</title><!-- Alfa, Año, Genero, Pais Estados Unidos, Director John G. Avildsen, Productora Columbia Pictures / Jerry Weintraub Production-->
 <link>http://streamcloud.eu/2dy5ipw0xysk</link>
 <link>http://streamcloud.eu/jzd9kiygqtgt/KARATE_KID_III.DVDrip.cast.avi.html</link>
 <link>http://streamcloud.eu/jexb4xruzlgf</link>
@@ -1844,7 +1903,7 @@
 </item>
 
 <item>
-<title>[COLOR purple] • [/COLOR][COLOR white] El Nuevo Karate Kid [/COLOR][COLOR red](1994)[/COLOR]</title><!-- Alfa, Año, Genero, Pais, Director, Productora-->
+<title>[COLOR purple] • [/COLOR][COLOR white] El Nuevo Karate Kid [/COLOR][COLOR red](1994)[/COLOR]</title><!-- Alfa, Año, Genero, Pais Estados Unidos, Director Christopher Cain, Productora Columbia Pictures-->
 <link>http://streamcloud.eu/8vv0x19zkid3/3l_Nu3v0_K4r473_K1d_1994.BDrip.cast.avi.html</link>
 <link>http://streamcloud.eu/b3buyqkeyqql</link>
 <link>http://streamcloud.eu/ydhzwpt4mnq4/Karate_kid_4.DVDrip.lat.avi.html</link>
@@ -1856,7 +1915,7 @@
 </item>
 
 <item>
-<title>[COLOR purple] • [/COLOR][COLOR white] The Karate Kid [/COLOR][COLOR red](2010)[/COLOR]</title><!-- Alfa, Año, Genero, Pais, Director, Productora-->
+<title>[COLOR purple] • [/COLOR][COLOR white] The Karate Kid [/COLOR][COLOR red](2010)[/COLOR]</title><!-- Alfa, Año, Genero, Pais Estados Unidos, Director Harald Zwart, Productora China Film Group / Columbia Pictures / Jerry Weintraub Productions / Overbrook Entertainment-->
 <link>http://streamcloud.eu/pap539nifjek</link>
 <link>http://streamcloud.eu/7tg58ktj00zz/The.karate.Kid._2010_.DVDrip.cast.avi.html</link>
 <link>http://streamcloud.eu/nrfku2ie19zl/The_Karate_Kid__2010___HDRip_CAS.avi.html</link>
@@ -1868,7 +1927,7 @@
 </item>
 
 <item>
-<title>[COLOR purple] • [/COLOR][COLOR white] 300 [/COLOR][COLOR red](2006)[/COLOR]</title><!-- Alfa, Año, Genero, Pais, Director, Productora-->
+<title>[COLOR purple] • [/COLOR][COLOR white] 300 [/COLOR][COLOR red](2006)[/COLOR]</title><!-- Alfa, Año, Genero, Pais Estados Unidos, Director Zack Snyder, Productora Warner Bros. Pictures / Legendary Pictures / Virtual Studio-->
 <link>http://streamcloud.eu/9q3vrplincye</link>
 <link>http://streamcloud.eu/agvcw8ki59ch/300.HDRip.avi.html</link>
 <link>http://streamcloud.eu/os7r5qzmu4jm/300.DVDRip.avi.html</link>
@@ -1880,7 +1939,7 @@
 </item>
 
 <item>
-<title>[COLOR purple] • [/COLOR][COLOR white] 300: El Origen De Un Imperio [/COLOR][COLOR red](2014)[/COLOR]</title><!-- Alfa, Año, Genero, Pais, Director, Productora-->
+<title>[COLOR purple] • [/COLOR][COLOR white] 300: El Origen De Un Imperio [/COLOR][COLOR red](2014)[/COLOR]</title><!-- Alfa, Año, Genero, Pais Estados Unidos, Director Noam Murro, Productora Atmosphere Entertainment MM / Cruel, Unusual Films / Hollywood Gang Productions / Legendary Pictures / Warner Bros-->
 <link>http://streamcloud.eu/2gox4mffov8w</link>
 <link>http://streamcloud.eu/7hx6nv7vuwio/300_El_origen_de_un_imperio_HDrip.avi.html</link>
 <link>http://streamcloud.eu/f3b2mowbrfqi/300_El_origen_de_un_imperio.2014.Castellano.HDRip.avi.html</link>
@@ -1892,7 +1951,7 @@
 </item>
 
 <item>
-<title>[COLOR purple] • [/COLOR][COLOR white] Assassin's Creed [/COLOR][COLOR red](2016) [/COLOR][COLOR yellow]Pair[/COLOR]</title><!-- Alfa, Año, Genero, Pais, Director, Productora-->
+<title>[COLOR purple] • [/COLOR][COLOR white] Assassin's Creed [/COLOR][COLOR red](2016) [/COLOR][COLOR yellow]Pair[/COLOR]</title><!-- Alfa, Año, Genero, Pais Estados Unidos, Director Justin Kurzel, Productora New Regency Pictures / DMC Film / Ubisoft Entertainment-->
 <urlsolve>https://openload.co/f/r7NhNk30SLg/Assassins.creed.2016.1080p-dual-cast.mp4</urlsolve>
 <genre>Ciencia Ficción. Aventuras. Acción</genre>
 <year>2016</year>
@@ -1902,7 +1961,7 @@
 </item>
 
 <item>
-<title>[COLOR purple] • [/COLOR][COLOR white] El Libro De La Selva [/COLOR][COLOR red](2016)[/COLOR]</title><!-- Alfa, Año, Genero, Pais, Director, Productora-->
+<title>[COLOR purple] • [/COLOR][COLOR white] El Libro De La Selva [/COLOR][COLOR red](2016)[/COLOR]</title><!-- Alfa, Año, Genero, Pais Estados Unidos, Director Jon Favreau, Productora Walt Disney Pictures / Fairview Entertainment / Moving Picture Company (MPC)-->
 <link>http://streamcloud.eu/4txrh6f37ogg</link>
 <link>http://streamcloud.eu/19im0x5hjpo2/Libr0S3lvaTCS.Anonymous_xxx.avi.html</link>
 <link>http://streamcloud.eu/z8qs8li5m54m</link>
@@ -1914,7 +1973,7 @@
 </item>
 
 <item>
-<title>[COLOR purple] • [/COLOR][COLOR white] Prince Of Persia: Las Arenas Del Tiempo [/COLOR][COLOR red](2010)[/COLOR]</title><!-- Alfa, Año, Genero, Pais, Director, Productora-->
+<title>[COLOR purple] • [/COLOR][COLOR white] Prince Of Persia: Las Arenas Del Tiempo [/COLOR][COLOR red](2010)[/COLOR]</title><!-- Alfa, Año, Genero, Pais Estados Unidos, Director Mike Newell, Productora Walt Disney Pictures / Jerry Bruckheimer Films-->
 <link>http://streamcloud.eu/tg1hr3cplbbd/Prince_of_Persia._Las_arenas_del_tiempo_MicroHD_1080p_AC3_5.1.mkv.html</link>
 <link>http://streamcloud.eu/2axu013193h3/Prince.Of.Persia.La.Arenas.Del.Tiempo.2010.DVDRip.es.avi.html</link>
 <link>http://streamcloud.eu/qwq5vfj5l3qn/El_Pr__ncipe_de_Persia_HDRip_PB.avi.html</link>
@@ -1926,7 +1985,7 @@
 </item>
 
 <item>
-<title>[COLOR purple] • [/COLOR][COLOR white] El Renacido (The Revenant) [/COLOR][COLOR red](2015)[/COLOR]</title><!-- Alfa, Año, Genero, Pais, Director, Productora-->
+<title>[COLOR purple] • [/COLOR][COLOR white] El Renacido (The Revenant) [/COLOR][COLOR red](2015)[/COLOR]</title><!-- Alfa, Año, Genero, Pais Estados Unidos, Director Alejandro González Iñárritu, Productora New Regency / Anonymous Content / RatPac Entertainment. Distribuida por 20th Century Fox-->
 <link>http://streamcloud.eu/2y1rjv735xg8/El_Renacido_HD_1080p.html</link>
 <link>http://streamcloud.eu/v8svj4dbtfx5</link>
 <link>http://streamcloud.eu/nqivc2qc44rf/El.Renacido.DVD.XviD._www.Kit-Series.net_.avi.html</link>
@@ -1938,7 +1997,7 @@
 </item>
 
 <item>
-<title>[COLOR purple] • [/COLOR][COLOR white] Exodus: Dioses Y Reyes [/COLOR][COLOR red](2014)[/COLOR]</title><!-- Alfa, Año, Genero, Pais, Director, Productora-->
+<title>[COLOR purple] • [/COLOR][COLOR white] Exodus: Dioses Y Reyes [/COLOR][COLOR red](2014)[/COLOR]</title><!-- Alfa, Año, Genero, Pais Estados Unidos, Director Ridley Scott, Productora Coproducción Estados Unidos-España; Scott Free Productions / 20th Century Fox / Chernin Entertainment / Babieka / Volcano Films-->
 <link>http://streamcloud.eu/t7hgp4pcftpj/Exodus_Dioses_y_Reyes_MicroHD_1080p_DTS_5.1.mkv.html</link>
 <link>http://streamcloud.eu/08jg7svt808r/Exodus_Dioses_Y_Reyes_2014__Castellano_BDrip_X264.mkv.html</link>
 <link>http://streamcloud.eu/28lvf8y523s1/Exodus.Microhd.720p.Esp.avi.html</link>
@@ -1950,7 +2009,7 @@
 </item>
 
 <item>
-<title>[COLOR purple] • [/COLOR][COLOR white] Gladiator [/COLOR][COLOR red](2000)[/COLOR]</title><!-- Alfa, Año, Genero, Pais, Director, Productora-->
+<title>[COLOR purple] • [/COLOR][COLOR white] Gladiator [/COLOR][COLOR red](2000)[/COLOR]</title><!-- Alfa, Año, Genero, Pais Estados Unidos, Director Ridley Scott, Productora Coproducción Estados Unidos-Reino Unido; Universal Pictures / DreamWorks SKG / Scott Free Productions / Mill Film / C&L / Red Wagon Entertainment-->
 <link>http://streamcloud.eu/s2swpxxxo23p/Gladiator_V.Extendida__5BHDRip_5D_5BAC3_5D_5BEsp_5D.avi.html</link>
 <link>http://streamcloud.eu/1o1kwh6oxkc2/Gladiator.El.gladiador.2000.DVD-Rip.Castellano.avi.html</link>
 <link>http://streamcloud.eu/jgat33x5rmlh/A031_2000_Gladiator_DVDRip_ESP_LiNkMaN.avi.html</link>
@@ -1962,7 +2021,7 @@
 </item>
 
 <item>
-<title>[COLOR purple] • [/COLOR][COLOR white] Hercules [/COLOR][COLOR red](2014)[/COLOR]</title><!-- Alfa, Año, Genero, Pais, Director, Productora-->
+<title>[COLOR purple] • [/COLOR][COLOR white] Hercules [/COLOR][COLOR red](2014)[/COLOR]</title><!-- Alfa, Año, Genero, Pais Estados Unidos, Director Brett Ratner, Productora Paramount Pictures / Metro-Goldwyn-Mayer (MGM) / Film 44 / Nimar Studios / RatPac Entertainment-->
 <link>http://streamcloud.eu/sajmpikpvz74</link>
 <link>http://streamcloud.eu/d1bh4u0u5oat/Hercules.2014.DVDRip.es.avi.html</link>
 <link>http://streamcloud.eu/y4iwcdkxgxh2/HERCU.BRS.Castellano.avi.html</link>
@@ -1974,7 +2033,7 @@
 </item>
 
 <item>
-<title>[COLOR purple] • [/COLOR][COLOR white] King Kong [/COLOR][COLOR red](2005)[/COLOR]</title><!-- Alfa, Año, Genero, Pais, Director, Productora-->
+<title>[COLOR purple] • [/COLOR][COLOR white] King Kong [/COLOR][COLOR red](2005)[/COLOR]</title><!-- Alfa, Año, Genero, Pais Estados Unidos, Director Peter Jackson, Productora Coproducción USA-Nueva Zelanda; Universal Pictures / WingNut Films-->
 <link>http://streamcloud.eu/zplw1dg9xs1o</link>
 <link>http://streamcloud.eu/jbnig5tt2et2</link>
 <link>http://streamcloud.eu/9c5uihqiife0</link>
@@ -1986,7 +2045,7 @@
 </item>
 
 <item>
-<title>[COLOR purple] • [/COLOR][COLOR white] Kong: La Isla Calavera [/COLOR][COLOR red](2017)[/COLOR]</title><!-- Alfa, Año, Genero, Pais, Director, Productora-->
+<title>[COLOR purple] • [/COLOR][COLOR white] Kong: La Isla Calavera [/COLOR][COLOR red](2017)[/COLOR]</title><!-- Alfa, Año, Genero, Pais Estados Unidos, Director Jordan Vogt-Roberts, Productora Legendary Entertainment / Tencent Pictures / Warner Bros.-->
 <link>http://streamcloud.eu/kqx8unizly6q</link>
 <link>http://streamcloud.eu/6cvi60j9a5ev</link>
 <link>http://streamcloud.eu/4da9ufpmd561</link>
@@ -1996,6 +2055,8 @@
 <fanart>https://i.ytimg.com/vi/xObKXAChVtE/maxresdefault.jpg</fanart>
 <info>En los años 70, un variopinto grupo de exploradores y soldados es reclutado para viajar a una misteriosa isla del Pacífico. Entre ellos están el capitán James Conrad (Tom Hiddleston), el teniente coronel Packard (Samuel L. Jackson) y una fotoperiodista (Brie Larson). Pero al adentrarse en esta bella pero traicionera isla, los exploradores encontrarán algo absolutamente sorprendente. Sin saberlo, estarán invadiendo los dominios del mítico Kong, el gigante gorila rey de esta isla. Será Marlow (John C. Reilly), un peculiar habitante del lugar, quien les enseñe los secretos de Isla Calavera, además del resto de seres monstruosos que la habitan.</info>
 </item>
+
+<!--Modificar abajo para menu y director-->
 
 <item>
 <title>[COLOR purple] • [/COLOR][COLOR white] La Búsqueda [/COLOR][COLOR red](2004)[/COLOR]</title><!-- Alfa, Año, Genero, Pais, Director, Productora-->
