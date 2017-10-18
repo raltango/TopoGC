@@ -2,15 +2,15 @@
 
 
 <item>
-<title>[COLOR purple] • [/COLOR][COLOR white] Gente Pez [/COLOR][COLOR red](2001)[/COLOR]</title>
+<title>[COLOR purple] • [/COLOR][COLOR green] Cine Español [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
         <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
         <link>$doregex[getUrl]</link>
-<fanart>http://idg.bg/test/pcw/2016/12/5/26301-Google-Play--Best-of-2016-6-GoT.jpg</fanart>
-<thumbnail>http://idg.bg/test/pcw/2016/12/5/26301-Google-Play--Best-of-2016-6-GoT.jpg</thumbnail>
+<fanart>http://www.fundbmarch.es/wp-content/uploads/2016/12/cine-espa%C3%B1ol.jpg</fanart>
+<thumbnail>https://imagessl0.casadellibro.com/a/l/t0/90/9788467701890.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/juan42/cine-espanol-1-82487/list,1,22</page>
