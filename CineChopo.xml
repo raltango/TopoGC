@@ -40,6 +40,37 @@
 </item>
 <items>
 
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Gente Pez [/COLOR][COLOR red](2001)[/COLOR]</title>
+<year>2001</year>  <!-- Alfa, Año, Genero, Pais: España , Director: Jorge Iglesias ,Productora: Coproducción España-Reino Unido; Morena Films -->
+<genre>Comedia</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=436426</page>
+<rawpost>fileId=436426&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/juan42/cine-espanol-1-82487/gente-pez,1364650.mp4</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/juan42/cine-espanol-1-82487/gente-pez,1364650.mp4</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://pics.filmaffinity.com/gente_pez-946489922-large.jpg</thumbnail>
+<fanart>http://dreamers.com/indices/imagenes/peliculas.3088.IMAGEN9.jpg</fanart>
+<info>Un grupo de jóvenes debe afrontar los problemas que plantea la convivencia diaria en un piso compartido. Juan Carlos, un opositor, y su amigo Álvaro, alias "el Alboroto", escritor en ciernes, ocupan un piso vacío de la calle del Pez con la intención de realquilarlo. Así, se instala en la vivienda gente de lo más variopinta: un músico irlandés, una estudiante de belllas artes, un macarra con tendencias psicopáticas... </info>
+</item>
+
  <item>
 <title>[COLOR purple] • [/COLOR][COLOR white] 13 Fantasmas [/COLOR][COLOR red](2001)[/COLOR]</title>
 <link>http://streamcloud.eu/4yx5k9mxxhp2/13_Fantasmas__www.kit-series.net_.avi.html</link>
