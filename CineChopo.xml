@@ -49,8 +49,8 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=436426</page>
-<rawpost>fileId=436426&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1364650</page>
+<rawpost>fileId=1364650&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/juan42/cine-espanol-1-82487/gente-pez,1364650.mp4</referer>
 <connection>keep-alive</connection>
 <accept>*/*</accept>
