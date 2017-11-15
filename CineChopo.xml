@@ -2,7 +2,7 @@
 
 
  <item>
-<title>[COLOR purple]• [/COLOR][COLOR yellow] Cine 2017 [/COLOR][COLOR purple] •[/COLOR]</title>
+<title>[COLOR purple]• [/COLOR][COLOR yellow] Cine [/COLOR][COLOR blue]2017 [/COLOR][COLOR purple] •[/COLOR]</title>
 <thumbnail>https://4.bp.blogspot.com/-iY9Z-z-QzlQ/Wd4_y2NQZXI/AAAAAAAAAN4/D7krOOcIt5QchGCdIkuFDfSG3DWwibNPACLcBGAs/s1600/2017.png</thumbnail>
 <fanart>https://4.bp.blogspot.com/-l92htTNKEUU/Wgx46lq-GPI/AAAAAAAABDE/j43gkhLEmtIkqjNvCyiiBEZPDJHaHGf8gCLcBGAs/s1600/Fanartcinechopo.png</fanart>
 <link>http://ignoreme</link>
@@ -10,7 +10,7 @@
 </item>
 
  <item>
-<title>[COLOR purple]• [/COLOR][COLOR yellow] Cine 2016 [/COLOR][COLOR purple] •[/COLOR]</title>
+<title>[COLOR purple]• [/COLOR][COLOR yellow] Cine [/COLOR][COLOR blue]2016 [/COLOR][COLOR purple] •[/COLOR]</title>
 <thumbnail>https://1.bp.blogspot.com/-6MEo4UsNxnM/Wd4_ymxi0bI/AAAAAAAAAN0/EBqkqTLmt980eAzBjQl_LvZUvrZCRsarACLcBGAs/s1600/2016.png</thumbnail>
 <fanart>https://4.bp.blogspot.com/-l92htTNKEUU/Wgx46lq-GPI/AAAAAAAABDE/j43gkhLEmtIkqjNvCyiiBEZPDJHaHGf8gCLcBGAs/s1600/Fanartcinechopo.png</fanart>
 <link>http://ignoreme</link>
@@ -18,7 +18,7 @@
 </item>
 
 <item>
-<title>[COLOR purple] • [/COLOR][COLOR yellow] Cine Español [/COLOR]</title>
+<title>[COLOR purple]• [/COLOR][COLOR yellow] Cine [/COLOR][COLOR blue]Español [/COLOR][COLOR purple] •[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
