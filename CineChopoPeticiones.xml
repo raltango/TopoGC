@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Cazadores De Sombras: Ciudad De Hueso [/COLOR][COLOR red](2013)[/COLOR]</title> 
+<link>http://streamcloud.eu/rmhmil97y19j</link>
+<link>http://streamcloud.eu/cd46f5usbrmw</link>
+<link>http://streamcloud.eu/kno5sl70pzgt/Cazadores.De.Sombras.Ciudad.De.Huesos.DVdrip.cast.avi.html</link>
+<genre>Fantástico. Aventuras. Romance. Drama</genre>
+<year>2013</year>  <!-- Alfa, Año, Genero, Pais: Estados Unidos , Director: Harald Zwart ,Productora: Coproducción EEUU-Alemania; Constantin Film Produktion / Sony Pictures Entertainment (SPE) / Screen Gems / Unique Features -->
+<thumbnail>https://pics.filmaffinity.com/Cazadores_de_sombras_Ciudad_de_hueso-722312942-large.jpg</thumbnail>
+<fanart>https://pics.filmaffinity.com/Cazadores_de_sombras_Ciudad_de_hueso-414886586-large.jpg</fanart>
+<info>Clary Fray (Lily Collins), una adolescente de Brooklyn, conoce una noche a Jace, un chico misterioso, lleno de tatuajes, que resulta ser un ángel guerrero que ejerce como cazador de sombras. Cuando raptan a la madre de Clary (Lena Headey), la chica espera que Jace la ayude a liberarla. Después de entrar en un portal dorado, Clary se ve transportada a través del tiempo y del espacio, y descubre algo sorprendente sobre sí misma.</info>
+</item>
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Gente Pez [/COLOR][COLOR red](2001)[/COLOR]</title>
+<year>2001</year>  <!-- Alfa, Año, Genero, Pais: España , Director: Jorge Iglesias ,Productora: Coproducción España-Reino Unido; Morena Films -->
+<genre>Comedia</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1364650</page>
+<rawpost>fileId=1364650&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/juan42/cine-espanol-1-82487/gente-pez,1364650.mp4</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/juan42/cine-espanol-1-82487/gente-pez,1364650.mp4</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://pics.filmaffinity.com/gente_pez-946489922-large.jpg</thumbnail>
+<fanart>http://dreamers.com/indices/imagenes/peliculas.3088.IMAGEN9.jpg</fanart>
+<info>Un grupo de jóvenes debe afrontar los problemas que plantea la convivencia diaria en un piso compartido. Juan Carlos, un opositor, y su amigo Álvaro, alias "el Alboroto", escritor en ciernes, ocupan un piso vacío de la calle del Pez con la intención de realquilarlo. Así, se instala en la vivienda gente de lo más variopinta: un músico irlandés, una estudiante de belllas artes, un macarra con tendencias psicopáticas... </info>
+</item>
+
+ <item>
+<title>[COLOR purple] • [/COLOR][COLOR white] 13 Fantasmas [/COLOR][COLOR red](2001)[/COLOR]</title>
+<link>http://streamcloud.eu/4yx5k9mxxhp2/13_Fantasmas__www.kit-series.net_.avi.html</link>
+<link>http://streamcloud.eu/e7m9n38lu3y5</link>
+<link>http://streamcloud.eu/4nbvtzeut6xb/13Fntsmas.dvd.es.avi.html</link>
+<genre>Terror</genre>
+<year>2001</year>
+<thumbnail>https://http2.mlstatic.com/13-fantasmas-thirteen-ghosts-terror-shannon-elizabeth-vhs-D_NQ_NP_4032-MLA115612704_7031-F.jpg</thumbnail>
+<fanart>https://criticsden.com/wp-content/uploads/2017/03/13_ghosts-e1490964492256.jpg</fanart>
+<info>Arthur y sus dos hijos acaban de heredar una mansión de un tío lejano. Como Arthur está arruinado, la familia se traslada a la casa, donde descubren el terrible secreto que oculta la herencia: entre las paredes de cristal se encuentran encerrados 13 fantasmas. Atrapados en una carrera infernal por salvar sus vidas, se dan cuenta que la propia mansión es un engima cuya solución es la clave de la que depende su salvación.</info>
+</item>
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Sólo Química [/COLOR][COLOR red](2015)[/COLOR]</title>
+<link>http://streamcloud.eu/cwdo2zhqcauh/Solo_Quimica_2015_Castellano_BDrip_X264.mkv.html</link>
+<link></link>
+<link></link>
+<genre>Romance</genre>
+<year>2015</year>
+<thumbnail>https://pics.filmaffinity.com/S_lo_qu_mica-854868354-large.jpg</thumbnail>
+<fanart>http://arevista.visionmedia.es/wp-content/uploads/2014/05/solo_quimica1.jpg</fanart>
+<info>Olivia Romero tiene 22 años, trabaja en una perfumería y no sabe exactamente qué hacer con su vida. Sólo sabe que está enamorada del popular actor argentino Eric Soto, un joven que lleva toda su vida entre cámaras, sets de rodaje y estrenos. Eric está acostumbrado a una vida de lujo donde las apariencias son lo más importante. Pero algo le llama la atención cuando se cruza con Oli, que posee una espontaneidad a la que no está acostumbrado.</info>
+</item>

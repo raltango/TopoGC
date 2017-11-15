@@ -50,8 +50,8 @@
 
  <item>
 <title>[COLOR purple]• [/COLOR][COLOR yellow] Cine Choco [/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
+<thumbnail>https://4.bp.blogspot.com/-s9_R1FLWZtg/Wgx5FDBkxVI/AAAAAAAABDI/D_ejfU35Erg_z8CgxAB8utnG6YV_dzVTQCLcBGAs/s1600/CineChopo.png</thumbnail>
+<fanart>https://4.bp.blogspot.com/-l92htTNKEUU/Wgx46lq-GPI/AAAAAAAABDE/j43gkhLEmtIkqjNvCyiiBEZPDJHaHGf8gCLcBGAs/s1600/Fanartcinechopo.png</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/cine/MENU%20CINE.xml</externallink>
 </item>
@@ -71,6 +71,83 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/topogc/TopoGC/master/Cine.xml</externallink>
 </item>
+
+
+
+<item>
+<title>[COLOR purple]• [/COLOR][COLOR yellow] Buscador De Peliculas[/COLOR] </title>
+<link>$doregex[lista]</link>
+ 
+<regex>
+<name>lista</name>
+  <listrepeat><![CDATA[
+         <SetViewMode>55</SetViewMode>
+         <title>$pyFunction:'[lista.param3]'.replace(".mp4", "  [COLOR blue][I]tvchopo[/I][/COLOR]").replace(".avi", "  [COLOR blue][I]tvchopo[/I][/COLOR]").replace(".mkv", "  [COLOR red][I][/I][/COLOR]")</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://www.marchsoft.com/ccdata/images/imageMain_11_275.jpg</thumbnail>
+        ]]></listrepeat>
+<expres><![CDATA[href=\"(.*?,(.*?)\..*?)\".*?preview">(.*?mkv|.*?mp4|.*?avi)<]]><expres>
+<page>http://diskokosmiko.mx/action/SearchFiles?Phrase=tvchopo&amp;Mode=List&amp;Type=Video&amp;SizeFromMB=0&amp;SizeToMB=0&amp;pageNumber=10</page>
+<rawpost>Phrase=$doregex[search]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/action/SearchFiles</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar>d248aa4e1e697a53b195098a52759e8d21507325199</cookieJar>
+</regex>
+ 
+ 
+ 
+<regex>
+<name>search</name>
+<expres><![CDATA[#$pyFunction
+import xbmc
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    dialog = xbmcgui.Dialog()
+    d = dialog.input('Buscar  Pelicula: ejemplo: rocky', type=xbmcgui.INPUT_ALPHANUM).replace(" ", "+")
+    return d
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[lista.param1]</page>
+<referer>http://diskokosmiko.mx/trivianita</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+ 
+ 
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[lista.param1]</page>
+<rawpost>fileId=[lista.param2]&__RequestVerificationToken=$doregex[tok2]</rawpost>
+<referer>http://diskokosmiko.mx[lista.param1]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>tok2</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx[lista.param1]</page>
+<referer>http://diskokosmiko.mx/trivianita</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+ 
+<thumbnail>http://www.marchsoft.com/ccdata/images/imageMain_11_275.jpg</thumbnail>
+</item>
+
  
  <item>
 <title>[COLOR purple]• [/COLOR][COLOR red] Taquilla +[/COLOR]</title>
