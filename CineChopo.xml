@@ -17,6 +17,14 @@
 <externallink>https://raw.githubusercontent.com/topogc/SalonDeCine/master/A%C3%B1o2016.xml</externallink>
 </item>
 
+ <item>
+<title>[COLOR purple]• [/COLOR][COLOR yellow] Cine [/COLOR][COLOR blue]2015 [/COLOR][COLOR purple] •[/COLOR]</title>
+<thumbnail>https://4.bp.blogspot.com/-u8IHI85Fo9I/Wd4_ysaSHgI/AAAAAAAAANw/fHZF-7NGB5oDHKdS-DaYFkR_ul0WKPktQCLcBGAs/s1600/2015.png</thumbnail>
+<fanart>https://2.bp.blogspot.com/-_6KiUl2n5-M/Wd5CTcTAu0I/AAAAAAAAAR0/PyefKDTRMwU4u66y-eebLlg_0oz0bf4DACLcBGAs/s1600/Farnart.jpeg.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/topogc/SalonDeCine/master/A%C3%B1o2015.xml</externallink>
+</item>
+
 <item>
 <title>[COLOR purple]• [/COLOR][COLOR yellow] Cine [/COLOR][COLOR blue]Español [/COLOR][COLOR purple] •[/COLOR]</title>
 <link>$doregex[makelist]</link>
