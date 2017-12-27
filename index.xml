@@ -41,8 +41,7 @@
 <title>[COLOR lime]• [/COLOR][COLOR cyan] Programas Tv[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink></externallink>
+<link></link>
 </item>
  
  
@@ -50,8 +49,7 @@
 <title>[COLOR lime]• [/COLOR][COLOR cyan] Telenovelas [/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink></externallink>
+<link></link>
 </item>
 
  
@@ -59,8 +57,7 @@
 <title>[COLOR lime]• [/COLOR][COLOR cyan] El Reino Infantil [/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink></externallink>
+<link></link>
 </item>
 
 
@@ -69,17 +66,21 @@
 <title>[COLOR lime]• [/COLOR][COLOR cyan] Tu Casa Tv [/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink></externallink>
+<link></link>
 </item>
 
- <item>
-<title>[COLOR lime]• [/COLOR][COLOR cyan] Sin Barreras [/COLOR]</title>
-<thumbnail></thumbnail>
+
+<channels>
+ 
+<channel>
+      <name>[COLOR lime]• [/COLOR][COLOR cyan] Sin Barreras [/COLOR]</name>
+  <thumbnail></thumbnail>
 <fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
-<link>https://pastebin.com/raw/g1CExQuC</link>
-</item>
-
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/g1CExQuC</externallink>
+</channel>
+  </channels>
+  
 
  <item>
 <title>[COLOR lime]• [/COLOR][COLOR cyan] El Chiringuito[/COLOR]</title>
