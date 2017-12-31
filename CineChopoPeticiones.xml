@@ -1,5 +1,123 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] La Llamada [/COLOR][COLOR blue](2017)[/COLOR]</title> 
+<link></link> 
+<link></link> 
+<link></link> 
+<year>2017</year>  <!-- Alfa, Año, Genero, Pais: España, Director: Javier Ambrossi,  Javier Calvo, Productora: Apache Films / Sábado Películas / RTVE-->
+<genre>Musical. Comedia</genre>
+<thumbnail>https://4.bp.blogspot.com/-fF8o_2adwlM/Wki6CIv8API/AAAAAAAADRU/St27vt7d1iYdTFWjYLSx87-bavjQFR4KgCLcBGAs/s1600/Llamada.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-zrM-ozrGps4/Wki6Cmxm-DI/AAAAAAAADRk/cB6iPZ5ka6YevrEbR3GBGSZdHATCDpk8ACLcBGAs/s1600/la_llamada_foto_22.JPG</fanart>
+<info>Ambientada en Segovia, narra la historia de María y Susana, dos adolescentes de 17 años que se encuentran en el campamento de verano cristiano "La brújula", al que van desde pequeñas. Ambas sienten pasión por el reggaeton y el electro-latino, pero las apariciones de Dios a María comenzarán a cambiar sus vidas... Adaptación cinematográfica del musical homónimo del año 2013, de gran éxito en España, llevando ya 3 temporadas en cartel.</info>
+</item>
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] La Llamada [/COLOR][COLOR blue](2014)[/COLOR]</title> 
+<link>http://streamcloud.eu/uels4ns6yuxw</link> hd
+<link>http://streamcloud.eu/bkzwh1pous6s</link> hd
+<link>http://streamcloud.eu/f4kj6dt7ne4f</link> dvd
+<year>2014</year>  <!-- Alfa, Año, Genero, Pais: Estados Unidos, Director: Jason Stone, Productora: Breaking Ball Films / Manis Film / Vertical Entertainment-->
+<genre>Thriller</genre>
+<thumbnail>https://3.bp.blogspot.com/-YueUTZkCebw/Wki6CN3kENI/AAAAAAAADRY/I4OnkPM3X5sB_JbZYCUPJlb5PsSvJsCwgCLcBGAs/s1600/la%2Bllamada.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-JDXL9-BT_LY/Wki6ChVEthI/AAAAAAAADRg/liBg4LfVE3YusGgu_4gk_W9vOh9tXLDrgCLcBGAs/s1600/thecalling.jpg</fanart>
+<info>La detective Hazel Micallef investiga en un pequeño pueblo canadiense el asesinato de una anciana, con la ayuda del oficial de policía local. Juntos empiezan a seguir la pista de un asesino en serie que actúa movido por razones religiosas. </info>
+</item>
+
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] La Reina Victoria Y Abdul [/COLOR][COLOR blue](2017)[/COLOR]</title> 
+<year>2017</year>  <!-- Alfa, Año, Genero, Pais: Reino Unido, Director: Stephen Frears, Productora: BBC Films / Cross Street Films / Working Title Films / Perfect World Pictures-->
+<genre>Drama</genre>http://streamcloud.eu/ac5a04kr50yu
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1764705</page>
+<rawpost>fileId=1764705&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/benqdell/collection-96919/file,1764705.mp4</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/benqdell/collection-96919/file,1764705.mp4</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://4.bp.blogspot.com/-SgRm0BVX0zY/Wki6BRsO7TI/AAAAAAAADRI/y0A_Zta1PWoI6FbA8bI7W0vHdyq97p04gCLcBGAs/s1600/La_reina_Victoria_y_Abdul-243227893-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-udNfQXwWxRY/Wki6CRCuoNI/AAAAAAAADRc/tXKGXoqoVgIeNFTUdmivEeSTabIzjt--wCLcBGAs/s1600/la-reina-victoria-y-abdul-viva-el-imperialismo.jpg</fanart>
+<info>Abdul Karim, conocido como 'El Munshi', se convirtió en siervo de la reina Victoria en el año 1887. Después de que el joven se ganase el afecto de la monarca, terminó siendo su secretario personal y confidente durante los últimos años de vida de la reina, algo que no fue bien recibido dentro de la Casa Real. </info>
+</item>
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] 23-F. La Película [/COLOR][COLOR blue](2011)[/COLOR]</title> 
+<year>2011</year>  <!-- Alfa, Año, Genero, Pais: España, Director: Chema de la Peña, Productora: Lazona-->
+<genre>Drama. Thriller</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=951499</page>
+<rawpost>fileId=951499&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/SHIRKAM/cine-drama-64002/23-f-la-pelicula-2011,951499.avi</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/SHIRKAM/cine-drama-64002/23-f-la-pelicula-2011,951499.avi</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://4.bp.blogspot.com/-GuJWRPNASX8/Wki6BXEfz7I/AAAAAAAADRQ/9ibidIo-BNswayOobAxYqWQArPm2aQTBgCLcBGAs/s1600/23_F_La_pel_cula-706124780-large.jpg</thumbnail>
+<fanart>https://3.bp.blogspot.com/-pvplYf6kaE4/Wki6Bf25o-I/AAAAAAAADRM/8uaWjo3km9MOet3y4XAbAaHktHD4id12wCLcBGAs/s1600/4339.jpg</fanart>
+<info>El fallido golpe de Estado del 23 de febrero de 1981, que comenzó con la toma del Congreso de los Diputados y terminó con la liberación de los parlamentarios, puso en grave riesgo la democracia española. Mientras Tejero y sus hombres mantenían como rehenes a los diputados, el Rey, desde su despacho, intentaba contener al ejército y organizar las fuerzas civiles. En medio, un complejo entramado donde Milans y Armada movían los hilos. Al fondo del escenario, España entera vivía pendiente de la radio y la televisión. "23F" es la historia de tres golpes: el de Milans, el de Armada y el de Tejero. El golpe fracasa cuando Tejero empieza a entender que ha sido utilizado.</info>
+</item>
+
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Wonder [/COLOR][COLOR blue](2017)[/COLOR]</title> 
+<year>2017</year>  <!-- Alfa, Año, Genero, Pais: Estados Unidos, Director: Stephen Chbosky, Productora: Lionsgate / Mandeville Films / Participant Media-->
+<genre>Drama. Comedia</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1729437</page>
+<rawpost>fileId=1729437&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/xadracasino2777/todas-las-peliculas-84650/wonder-2017,1729437.mp4</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/xadracasino2777/todas-las-peliculas-84650/wonder-2017,1729437.mp4</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://1.bp.blogspot.com/-W7A09h6hyxM/Wigy6sT4BSI/AAAAAAAAC7I/J8BaVB8H3J8zx2KCzbHSAB5dI6SSTknDQCLcBGAs/s1600/Wonder-754759686-large.jpg</thumbnail>
+<fanart>https://4.bp.blogspot.com/-lg3BjJ4gCq8/Wigy6GiPaKI/AAAAAAAAC7E/VbYJviQKCi4u54VKpCE9nVADSIHJzd8dQCLcBGAs/s1600/Wonder-701382293-large.jpg</fanart>
+<info>Un niño de 10 años (Jacob Tremblay, conocido por 'La habitación') nacido con una deformidad facial que le ha obligado a ser operado 27 veces de cirugía, se esfuerza por encajar en su nuevo colegio.</info>
+</item>
 
 
 <item>
