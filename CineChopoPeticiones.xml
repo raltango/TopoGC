@@ -27,30 +27,11 @@
 
 <item>
 <title>[COLOR purple] • [/COLOR][COLOR white] La Reina Victoria Y Abdul [/COLOR][COLOR blue](2017)[/COLOR]</title> 
+<link>http://streamcloud.eu/esu94t13vis6</link> hd lat
+<link>http://streamcloud.eu/vd9oee5co60m</link> hd lat
+<link></link>
 <year>2017</year>  <!-- Alfa, Año, Genero, Pais: Reino Unido, Director: Stephen Frears, Productora: BBC Films / Cross Street Films / Working Title Films / Perfect World Pictures-->
 <genre>Drama</genre>http://streamcloud.eu/ac5a04kr50yu
-<link>$doregex[getUrl]</link>
- 
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1764705</page>
-<rawpost>fileId=1764705&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/benqdell/collection-96919/file,1764705.mp4</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>ok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/benqdell/collection-96919/file,1764705.mp4</page>
-<referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-
 <thumbnail>https://4.bp.blogspot.com/-SgRm0BVX0zY/Wki6BRsO7TI/AAAAAAAADRI/y0A_Zta1PWoI6FbA8bI7W0vHdyq97p04gCLcBGAs/s1600/La_reina_Victoria_y_Abdul-243227893-large.jpg</thumbnail>
 <fanart>https://2.bp.blogspot.com/-udNfQXwWxRY/Wki6CRCuoNI/AAAAAAAADRc/tXKGXoqoVgIeNFTUdmivEeSTabIzjt--wCLcBGAs/s1600/la-reina-victoria-y-abdul-viva-el-imperialismo.jpg</fanart>
 <info>Abdul Karim, conocido como 'El Munshi', se convirtió en siervo de la reina Victoria en el año 1887. Después de que el joven se ganase el afecto de la monarca, terminó siendo su secretario personal y confidente durante los últimos años de vida de la reina, algo que no fue bien recibido dentro de la Casa Real. </info>
