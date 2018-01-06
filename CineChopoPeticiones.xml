@@ -1,5 +1,88 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Jumanji [/COLOR][COLOR blue](1995)[/COLOR]</title> 
+<link>http://streamcloud.eu/noruo52l63x2</link> hd
+<link>http://streamcloud.eu/m8w4lajmdg5x</link> hd
+<link>http://streamcloud.eu/l0q5k1mb8z4t</link> hd
+<year>1995</year>  <!-- Alfa, Año, Genero, Pais: Estados Unidos, Director: Joe Johnston, Productora: TriStar Pictures / Interscope Communications / Teitler Film-->
+<genre>Fantástico. Aventuras</genre>
+<thumbnail>https://4.bp.blogspot.com/-Y3Lzzr-WY2g/WlEtBjYJ0gI/AAAAAAAADVw/cof6ndR4sB8vqn89fnXBvq2i-tkH5i5IACLcBGAs/s1600/Jumanji-685043467-large.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-Za-RaRlyyYA/WlEtB3dg3-I/AAAAAAAADV4/qwU7ucSzY6gQFDtkkv0_8061TMAVOM38QCLcBGAs/s1600/1601834.jpg</fanart>
+<info>Alan Parris  queda atrapado durante 25 años en un juego de mesa mágico y muy antiguo llamado Jumanji. Cuando, por fin, es liberado por dos niños, una manada de animales exóticos queda también en libertad</info>
+</item>
+
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Jumanji: Bienvenidos A La Jungla [/COLOR][COLOR blue](2017)[/COLOR]</title> 
+<link>http://streamcloud.eu/7veulf38j4bk</link> ts
+<link>http://streamcloud.eu/gea85gmwstl3</link> ts
+<link>http://streamcloud.eu/46wxv6wjanry</link> ts
+<year>2017</year>  <!-- Alfa, Año, Genero, Pais: Estados Unidos, Director: Jake Kasdan, Productora: Radar Pictures / Seven Bucks Productions / Matt Tolmach Productions / Sony Pictures-->
+<genre>Aventuras. Fantástico. Comedia</genre>
+<thumbnail>https://1.bp.blogspot.com/-ZiNZHsppn_4/WlEtCMaiVXI/AAAAAAAADV8/0OUdvkZtX4oYRH_urmOvcW87DnNK9ntCACLcBGAs/s1600/Jumanji_Bienvenidos_a_la_jungla-388589585-large.jpg</thumbnail>
+<fanart>https://3.bp.blogspot.com/-LGcnI5vaBvo/WlEtCrq6NYI/AAAAAAAADWA/T06oIfZSLFIMLHJt7-zc4rmt6nh4wG9EACLcBGAs/s1600/Jumanji_Bienvenidos_a_la_jungla-882137662-large.jpg</fanart>
+<info>Cuatro adolescentes son absorbidos por un videojuego, en el que se convierten en avatares de personajes arquetípicos. Allí vivirán múltiples aventuras, al tiempo que buscan cómo salir de allí para volver a su mundo.</info>
+</item>
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Cowboy [/COLOR][COLOR blue](1958)[/COLOR]</title> 
+<year>1958</year>  <!-- Alfa, Año, Genero, Pais: Estados Unidos, Director: Delmer Daves, Productora: Columbia Pictures-->
+<genre>Western</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=889444</page>
+<rawpost>fileId=889444&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/frankiepentangelli/cine-western-66007/1958-cowboy,889444.avi</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/frankiepentangelli/cine-western-66007/1958-cowboy,889444.avi</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://3.bp.blogspot.com/-bu6geA_cc8Y/WlEtBywkHBI/AAAAAAAADV0/1n2mx6WetKcO1XmBdGlVE011i1uST-yVwCLcBGAs/s1600/El_Cowboy-968853589-large.jpg</thumbnail>
+<fanart>https://4.bp.blogspot.com/-QpbnRAiT0PM/WlEtDCNHQkI/AAAAAAAADWQ/5hIhPL6kZi0Kyd_7p-F1LBYWFQy9UZwIQCLcBGAs/s1600/cowboy_1958-01.jpg</fanart>
+<info>En 1870, Harris, recepcionista de un hotel de Chicago, se asocia a Tom Rice y parte con él para conducir una manada de ganado bovino a México.</info>
+</item>
+
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Toc Toc [/COLOR][COLOR blue](2017)[/COLOR]</title> 
+<link></link>
+<link></link>
+<link></link>
+<year>2017</year>  <!-- Alfa, Año, Genero, Pais: España, Director: Vicente Villanueva, Productora: Lazona Films / Atresmedia Cine / Wind Films-->
+<genre>Comedia</genre>
+<thumbnail>https://2.bp.blogspot.com/-SLLBKe2Lr7w/WlEtDfLC13I/AAAAAAAADWU/w65e8gY4evUyFCWRd1l15qjQ88yqDVHgQCLcBGAs/s1600/toc_toc-499619428-large.jpg</thumbnail>
+<fanart>https://4.bp.blogspot.com/-Uy4A2eEbn3I/WlEtC6lGhLI/AAAAAAAADWM/63EZOpwFU1ssbYOT3Odbuhlun116EOBxwCLcBGAs/s1600/Toc_Toc-662121461-large.jpg</fanart>
+<info>Un grupo de pacientes coincide en la consulta de un eminente psicólogo, todos ellos aquejados de TOC (Trastorno Obsesivo Compulsivo). Pero como el médico se retrasa, tendrán que esperarle intentando mantener a raya -o no tanto- sus manías, impulsos, convulsiones, obsesiones y rituales. Adaptación de la famosa obra teatral del autor y humorista francés Laurent Baffie.</info>
+</item>
+
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Perfectos Desconocidos [/COLOR][COLOR blue](2017)[/COLOR]</title> 
+<link></link>
+<link></link>
+<link></link>
+<year>2017</year>  <!-- Alfa, Año, Genero, Pais:  España, Director: Álex de la Iglesia, Productora: Telecinco Cinema / Nadie es perfecto / Pokeepsie Films / Mediaset España / Movistar+-->
+<genre>Comedia</genre>
+<thumbnail>https://1.bp.blogspot.com/-lDqKmedJFnE/WlEtC_5EGQI/AAAAAAAADWI/cnK952jzFMw9HLsENzuHQzirDxEwxp0NwCLcBGAs/s1600/Perfectos_desconocidos-252289686-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-DFxSIDXR32E/WlEtCnTkZzI/AAAAAAAADWE/7YNSnOEpuz8WxsxLmLNQeciosB-QwSjvgCLcBGAs/s1600/Perfectos_desconocidos-130847668-large.jpg</fanart>
+<info>En una cena entre cuatro parejas, que se conocen de toda la vida, se propone un juego que pondrá sobre la mesa sus peores secretos: leer en voz alta los mensajes, y atender públicamente las llamadas, que reciban en sus móviles durante la cena. Remake del exitoso film italiano "Perfetti sconosciuti" (2016), de Paolo Genovese. </info>
+</item>
+
 <item>
 <title>[COLOR purple] • [/COLOR][COLOR white] La Llamada [/COLOR][COLOR blue](2017)[/COLOR]</title> 
 <link></link> 
